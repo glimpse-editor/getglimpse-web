@@ -8,7 +8,9 @@ menu: "main"
 
 ### Introduction
 - [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
-- [Why are you forking?](#why-are-you-forking)
+- [What initially motivated us to fork?](#why-are-you-forking)
+- [Are you just forking because of the name?](#are-you-just-forking-because-of-the-name)
+- [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
 - [Why did you change the mascot?](#why-did-you-change-the-mascot)
 - [Did you know that name is used elsewhere?](#did-you-know-that-name-is-used-elsewhere)
@@ -37,7 +39,7 @@ We believe free software should be accessible to everyone, and in this case a re
 
 [Return to top](#contents)
 
-## Why are you forking? {#why-are-you-forking}
+## What initially motivated us to fork? {#why-are-you-forking}
 In recent versions of the upstream software you may have noticed that the window titles have switched to "GNU Image Manipulation Program" and the documentation [suggests expanding the acronym](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) as a work-around for the bad name. However, we do not think that adequately addresses the issue because the website domain, documentation and wider community still refers to it as "the Gimp" just as they have done for the last two decades.
 
 Feature requests have been raised about the problem multiple times on the project's communication channels over the last 13 years, but each time they are ignored, dismissed and/or the discussions get spammed by those with strong political views.
@@ -46,12 +48,34 @@ It is unfortunate that we have to fork the whole project to change the name, but
 
 [Return to top](#contents)
 
+## Are you just forking because of the name? {#are-you-just-forking-because-of-the-name}
+
+No, but it did provide the motivation for many of us to fork the project in the first place.
+
+We all love the GNU Image Manipulation Program, but it only has finite resources and so has to prioritise some changes over others. Decisions may have also been made historically for sound reasons that need to be revisited but cannot for the same reason. This can mean that good user interface improvements and functional changes that the community suggests can go unaddressed for years.
+
+What this project aims to do is inject some new ideas, energy, contributions and money into a tool that most of us take for granted. We also want to expand the adoption of a great piece of free software.
+
+[Return to top](#contents)
+
+## Do you intend to replace the GNU Image Manipulation Program? {#do-you-intend-to-replace-the-gnu-image-manipulation-program}
+
+No, this project does not intend to supplant the GNU Image Manipulation Program. You may have noticed we already link to their donations page throughout our documentation and intend to donate at least 10% of our Patreon contributions to the upstream project each time we release regardless of our own costs.
+
+This project is also being run entirely by passionate enthusiasts. Development on the GNU Image Manipulation Program will continue as normal with same core group of developers and be entirely unhindered by this project.
+
+We anticipate in the coming months and years that Glimpse will be a place where people can experiment with fixes that upstream may not have had the resources to work on and new ideas that upstream may have felt unable or unwilling to try for legacy reasons.
+
+If we come up with some popular improvements that really enhance the user experience then we would assist with contributing them back upstream so the wider community can benefit.
+
+[Return to top](#contents)
+
 ## Is forking the project a duplication of effort? {#is-forking-the-project-a-duplication-of-effort}
-No, because we are not reimplementing a 20 year old codebase from scratch. Also once we "hard fork" we still intend to apply useful upstream changes rather than completely reimplementing them.
+No, because we are not reimplementing a 20 year old codebase from scratch. Also once we "hard fork" from GNU Image Manipulation Program v3.0 we still intend to apply useful upstream changes rather than completely reimplementing them.
 
 From our point of view we are simply exercising [our software freedoms](https://www.gnu.org/philosophy/free-sw.html) by forking the project and redistributing a modified version for others to benefit from. This is fully in accordance with the spirit and requirements of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) and [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.en.html) as they both apply to this project.
 
-We do now plan to write a new GUI front-end in parallel to our current efforts, but that will take a number of years to produce and will still rely on the same GEGL and BABL libraries that the GNU Image Manipulation Program does.
+There are early plans to write a new GUI front-end in parallel to our current efforts, but that will take a number of years to produce and will still rely on the same GEGL and BABL libraries that the GNU Image Manipulation Program developers maintain.
 
 [Return to top](#contents)
 
@@ -77,7 +101,6 @@ This seems unlikely given we checked its meaning in every known language, but if
 If you are offended by the fact we renamed the project, we suggest you continue using the [GNU Image Manipulation Program](https://www.gimp.org) instead of annoying our contributors and making more work for our moderators.
 
 [Return to top](#contents)
-
 
 ## Where is the Glimpse code of conduct? {#where-is-the-glimpse-code-of-conduct}
 You will find it on [this page](../code-of-conduct/). Our code of conduct is based on [the contributor covenant](https://www.contributor-covenant.org/) and will be developed and amended over time as the need arises. As this project spawned from [the fediverse](https://joinmastodon.org/) our experiences in that online space are going to inform the project's future governance and direction.
