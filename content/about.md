@@ -8,7 +8,7 @@ menu: "main"
 
 ### Introduction
 - [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
-- [What initially motivated us to fork?](#why-are-you-forking)
+- [What initially motivated you to fork?](#why-are-you-forking)
 - [Are you just forking because of the name?](#are-you-just-forking-because-of-the-name)
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
@@ -39,7 +39,7 @@ We believe free software should be accessible to everyone, and in this case a re
 
 [Return to top](#contents)
 
-## What initially motivated us to fork? {#why-are-you-forking}
+## What initially motivated you to fork? {#why-are-you-forking}
 In recent versions of the upstream software you may have noticed that the window titles have switched to "GNU Image Manipulation Program" and the documentation [suggests expanding the acronym](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) as a work-around for the bad name. However, we do not think that adequately addresses the issue because the website domain, documentation and wider community still refers to it as "the Gimp" just as they have done for the last two decades.
 
 Feature requests have been raised about the problem multiple times on the project's communication channels over the last 13 years, but each time they are ignored, dismissed and/or the discussions get spammed by those with strong political views.
