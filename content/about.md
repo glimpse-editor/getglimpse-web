@@ -13,6 +13,7 @@ menu: "main"
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
 - [Why did you change the mascot?](#why-did-you-change-the-mascot)
+- [Are you open to changing the "Glimpse" name?](#are-you-open-to-changing-the-glimpse-name)
 - [Did you know that name is used elsewhere?](#did-you-know-that-name-is-used-elsewhere)
 - [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
 - [Where is the Glimpse code of conduct?](#where-is-the-glimpse-code-of-conduct)
@@ -62,7 +63,7 @@ What this project aims to do is inject some new ideas, energy, contributions and
 
 No, this project does not intend to supplant the GNU Image Manipulation Program. You may have noticed we already link to their donations page throughout our documentation and intend to donate at least 10% of our Patreon contributions to the upstream project each time we release regardless of our own costs.
 
-This project is also being run entirely by passionate enthusiasts. Development on the GNU Image Manipulation Program will continue as normal with same core group of developers and be entirely unhindered by this project.
+This project is also being run entirely by passionate enthusiasts. Development on the GNU Image Manipulation Program will continue as normal with the same core group of developers and be entirely unhindered by this project.
 
 We anticipate in the coming months and years that Glimpse will be a place where people can experiment with fixes that upstream may not have had the resources to work on and new ideas that upstream may have felt unable or unwilling to try for legacy reasons.
 
@@ -81,6 +82,18 @@ There are early plans to write a new GUI front-end in parallel to our current ef
 
 ## Why did you change the mascot? {#why-did-you-change-the-mascot}
 We wanted the project to forge its own identity. It is important we use this opportunity to foster new ideas and ways of working, and it may be harder to do that if we are still tied to old decisions made by a different project decades ago.
+
+[Return to top](#contents)
+
+## Are you open to changing the "Glimpse" name? {#are-you-open-to-changing-the-glimpse-name}
+
+We do not believe in decisions that can never be overturned, but we consider this matter settled for the foreseeable future.
+
+Whenever the discussion about whether we have chosen the right name is opened it takes up a lot of our moderators' time and distracts from more constructive tasks. We do not have the resources to endlessly debate peoples' concerns about something that is ultimately down to their own individual tastes and preferences.
+
+Any name change has to weigh up the costs of doing so with the potential benefits. Currently the community we have cultivated broadly supports the "Glimpse" name, there has been no reason suggested that makes a change of name particularly urgent, and there has been no alternative suggested so far that has excited our project contributors enough to strongly advocate for it.
+
+We believe that using "Glimpse Image Editor" as the full name of the application makes its primary function clear to end users, while also enabling people to use "Glimpse" or "GIE" as a short name in casual everyday conversation.
 
 [Return to top](#contents)
 
