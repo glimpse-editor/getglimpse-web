@@ -89,22 +89,26 @@ We wanted the project to forge its own identity. It is important we use this opp
 
 We do not believe in decisions that can never be overturned, but we consider this matter settled for the foreseeable future.
 
-Whenever the discussion about whether we have chosen the right name is opened it takes up a lot of our moderators' time and distracts from more constructive tasks. We do not have the resources to endlessly debate peoples' concerns about something that is ultimately down to their own individual tastes and preferences.
+Whenever the discussion about whether we have chosen the right name is re-opened it takes up a lot of our moderators' time and distracts from more constructive tasks. Unfortunately we do not have the resources to repeatedly debate peoples' concerns about the same issue, particularly when those concerns are based primarily on individual tastes and preferences that may not be shared by everyone else.
 
-Any name change has to weigh up the costs of doing so with the potential benefits. Currently the community we have cultivated broadly supports the "Glimpse" name, there has been no reason suggested that makes a change of name particularly urgent, and there has been no alternative suggested so far that has excited our project contributors enough to strongly advocate for it.
+Any name change has to weigh up the costs of doing so with the potential benefits. Currently the community we have cultivated broadly supports the "Glimpse" name, there has been no compelling reason suggested that makes a change of name particularly urgent, and there has been no alternative suggested that has excited our project contributors enough to strongly advocate for it so far.
 
-We believe that using "Glimpse Image Editor" as the full name of the application makes its primary function clear to end users, while also enabling people to use "Glimpse" or "GIE" as a short name in casual everyday conversation.
+We believe that using "Glimpse Image Editor" as the full name of the application makes its primary function clear enough to end users, while also enabling people to use "Glimpse" or "GIE" as a shorter name in casual everyday conversation.
 
 [Return to top](#contents)
 
 ## Did you know that name is used elsewhere? {#did-you-know-that-name-is-used-elsewhere}
 Users have made us aware of a few software projects that share the same name as this fork. That is always a risk when you use an English language word, but we do not believe that it will cause problems for end users or hinder the adoption of this program.
 
-[Glympse](https://www.glympse.com/) is a location-sharing application for mobile devices. We think the fact it runs on a different device category entirely, does something completely different, has a very different icon and has their name spelt differently means it is highly unlikely that end users will be confused.
+[Glimpse](https://apps.apple.com/us/app/glimpse/id423562777), [Glimpse](https://play.google.com/store/apps/details?id=com.clickherelabs.glimpseapp&hl=en_US) and [Glympse](https://www.glympse.com/) are mobile applications we are aware of. We believe the fact they all do something completely different, run on a different device category entirely and have their own branding means that end users will not be confused.
 
-[GLobal IMPlicit SEarch](https://packages.debian.org/sid/text/glimpse) is a file searching utility ported from UNIX that has been spotted buried in Debian's "unstable" repository (it is also mirrored in Ubuntu's "universe" repository). It was abandoned for over a decade, then in 2016 it was picked up again by a maintainer who has since [applied minor patches](https://metadata.ftp-master.debian.org/changelogs//main/g/glimpse/glimpse_4.18.7-4_changelog). A related tool called [WebGlimpse](http://webglimpse.net/) was last updated in 2014. We dispute the idea that this is a "very popular" command line utility, but out of common courtesy we will ensure our GNU/Linux package names do not clash with it.
+[GLobal IMPlicit SEarch](https://packages.debian.org/sid/text/glimpse) is a file searching utility ported from UNIX that has been spotted buried in Debian's "unstable" repository (it is also mirrored in Ubuntu's "universe" repository). It was abandoned for over a decade, then in 2016 it was picked up again by a maintainer who has since [applied minor patches](https://metadata.ftp-master.debian.org/changelogs//main/g/glimpse/glimpse_4.18.7-4_changelog). A related tool called [WebGlimpse](http://webglimpse.net/) was last updated in 2014. We dispute the idea that this is a "very popular" command line utility, but out of common courtesy we will ensure that package maintainers we assist avoid name clashes.
 
 [Glimpse-soft](https://sourceforge.net/projects/glimpse-soft/) is also an image manipulation program, but it uses completely different code written in Microsoft Visual C++ and has had no new releases since 2004. The sole developer last updated the project's SourceForge page in 2015 but we believe that project has been abandoned for quite some time and does not have an active userbase.
+
+[Glimpse](https://github.com/glimpse/glimpse) is a diagnostic platform whose source code is available on Github, and also uses the getglimpse.com domain name. We are currently reviewing this project to assess whether this clash is a problem.
+
+We believe that once we have worked on search engine optimization (SEO) for our website, finalized the branding and the project has started to build up its own user base then it will rise up the Google search rankings accordingly.
 
 [Return to top](#contents)
 
