@@ -12,11 +12,8 @@ menu: "main"
 - [Are you just forking because of the name?](#are-you-just-forking-because-of-the-name)
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
-- [Why did you change the mascot?](#why-did-you-change-the-mascot)
 - [Did you know that name is used elsewhere?](#did-you-know-that-name-is-used-elsewhere)
 - [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
-- [Where is the Glimpse code of conduct?](#where-is-the-glimpse-code-of-conduct)
-- [Why is there no lead developer on this project?](#why-is-there-no-lead-developer-on-this-project)
 - [Why do you need monetary donations?](#why-do-you-need-monetary-donations)
 - [How do I stay up-to-date with this project?](#how-do-i-stay-up-to-date-with-this-project)
 - [How do I contribute to this project?](#how-do-i-contribute-to-this-project)
@@ -27,6 +24,12 @@ menu: "main"
 - [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
 - [Why are you using Github instead of Gitlab?](#why-are-you-using-github-instead-of-gitlab)
 - [Why did you end support for the project IRC channel?](#why-did-you-end-support-for-the-project-irc-channel)
+
+### Project Governance
+- [Where is the Glimpse code of conduct?](#where-is-the-glimpse-code-of-conduct)
+- [Why is there no lead developer on this project?](#why-is-there-no-lead-developer-on-this-project)
+- [How does your project govern itself?](#how-does-this-project-govern-itself)
+- [What are all the Matrix channels for?](#what-are-all-the-matrix-channels-for)
 
 ## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
 If English is not your first language, then you may not have realised that the word "gimp" is problematic. In some countries it is considered a slur against disabled people and a playground insult directed at unpopular children. It can also be linked to certain "after dark" activities performed by consenting adults.
@@ -79,19 +82,12 @@ There are early plans to write a new GUI front-end in parallel to our current ef
 
 [Return to top](#contents)
 
-## Why did you change the mascot? {#why-did-you-change-the-mascot}
-We wanted the project to forge its own identity. It is important we use this opportunity to foster new ideas and ways of working, and it may be harder to do that if we are still tied to old decisions made by a different project decades ago.
-
-[Return to top](#contents)
-
 ## Did you know that name is used elsewhere? {#did-you-know-that-name-is-used-elsewhere}
-Users have made us aware of a few software projects that share the same name as this fork. That is always a risk when you use an English language word, but we do not believe that it will cause problems for end users or hinder the adoption of this program.
+We are aware of six other software programs and projects that use the "Glimpse" name. We have taken this feedback on board and already fixed our web domain because of this problem.
 
-[Glympse](https://www.glympse.com/) is a location-sharing application for mobile devices. We think the fact it runs on a different device category entirely, does something completely different, has a very different icon and has their name spelt differently means it is highly unlikely that end users will be confused.
+Our current stance on this issue is that "Glimpse" is a codename we will use for our project and the 0.x releases based on GNU Image Manipulation Program 2.x, but we will consider changing it from 1.0 onwards if we can find a better alternative.
 
-[GLobal IMPlicit SEarch](https://packages.debian.org/sid/text/glimpse) is a file searching utility ported from UNIX that has been spotted buried in Debian's "unstable" repository (it is also mirrored in Ubuntu's "universe" repository). It was abandoned for over a decade, then in 2016 it was picked up again by a maintainer who has since [applied minor patches](https://metadata.ftp-master.debian.org/changelogs//main/g/glimpse/glimpse_4.18.7-4_changelog). A related tool called [WebGlimpse](http://webglimpse.net/) was last updated in 2014. We dispute the idea that this is a "very popular" command line utility, but out of common courtesy we will ensure our GNU/Linux package names do not clash with it.
-
-[Glimpse-soft](https://sourceforge.net/projects/glimpse-soft/) is also an image manipulation program, but it uses completely different code written in Microsoft Visual C++ and has had no new releases since 2004. The sole developer last updated the project's SourceForge page in 2015 but we believe that project has been abandoned for quite some time and does not have an active userbase.
+We welcome suggestions for a future product name and have set aside a Github issue to track it here: https://github.com/glimpse-editor/Glimpse/issues/92
 
 [Return to top](#contents)
 
@@ -99,26 +95,6 @@ Users have made us aware of a few software projects that share the same name as 
 This seems unlikely given we checked its meaning in every known language, but if you have a legitimate concern then let us know.
 
 If you are offended by the fact we renamed the project, we suggest you continue using the [GNU Image Manipulation Program](https://www.gimp.org) instead of annoying our contributors and making more work for our moderators.
-
-[Return to top](#contents)
-
-## Where is the Glimpse code of conduct? {#where-is-the-glimpse-code-of-conduct}
-You will find it on [this page](../code-of-conduct/). Our code of conduct is based on [the contributor covenant](https://www.contributor-covenant.org/) and will be developed and amended over time as the need arises. As this project spawned from [the fediverse](https://joinmastodon.org/) our experiences in that online space are going to inform the project's future governance and direction.
-
-There is no [benevolent dictator for life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) for this fork because we value collective decision-making. We believe a governing group is less fallible, makes better-considered choices and reflects the will of the wider community more accurately. That approach will help us form a robust and fair code of conduct, and we have elaborated more on our current governance structure here: ["Why is there is no lead developer on this project?"](#why-is-there-no-lead-developer-on-this-project)
-
-We also want to make it clear that we value and encourage diverse representation in leadership positions within our community, and we believe that is the best way to form a code of conduct that protects all contributors, promotes wider participation and ensures the rules are fairly enforced. At this early stage our initial governance team is formed entirely of individuals from marginalized communities, and that makes our project [very atypical](https://opensource.com/article/17/9/diversity-and-inclusion-innovation).
-
-We know how important it is to enact the right code of conduct and enforce the rules properly. We want to promote a safe and inclusive environment, not a toxic one. If you have ideas to help us do that and want to get involved with this discussion then please join us in the project's communication channels.
-
-[Return to top](#contents)
-
-## Why is there no lead developer on this project? {#why-is-there-no-lead-developer-on-this-project}
-In most free software projects this is a single individual that decides if issues should be ignored, cancelled or implemented. Granting someone that kind of power would effectively make them our "benevolent dictator", and we do not want one of those!
-
-At this early stage we prefer to discuss things with the community first, then make decisions based on consensus between the members of the governance team. It is likely that as Glimpse develops there will be a more formal separation of responsibilities, an agreed way to assess community opinion and a documented path for contributors to participate in the decision-making process.
-
-Our vision for the future is that the community will always have a say in the direction of this project, no choices will ever be impossible to overturn and everyone responsible for decision-making will be held accountable by their fellow contributors. The value or quantity of someone's contributions will not confer any "special status" on them or grant any immunity if they violate our project's code of conduct.
 
 [Return to top](#contents)
 
@@ -146,7 +122,6 @@ Join us on [#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org) if you
 Please ensure that you read our [code of conduct](../code-of-conduct/) before you join our project's community. Regardless of your past experience and the usefulness of your contributions you are expected to comply with it.
 
 [Return to top](#contents)
-
 
 ## Which operating systems do you support? {#which-operating-systems-do-you-support}
 *This answer is provisional and subject to change*
@@ -196,5 +171,54 @@ Our moderators monitored and supported the #glimpse channel while we made the sw
 We did consider supporting IRC over the longer term with a Matrix bridge but it was determined that the delay on both sides would be frustrating for our contributors, and supporting multiple communication channels would be too time-consuming for our moderators.
 
 As stated in a previous FAQ we do not believe in decisions that can never be overturned and are always open to suggested alternatives. So far the feedback we have received on Matrix has been mostly positive and there are more participants on our supported communication channels than ever before.
+
+[Return to top](#contents)
+
+## Where is the Glimpse code of conduct? {#where-is-the-glimpse-code-of-conduct}
+You will find it on [this page](../code-of-conduct/). Our code of conduct is based on [the contributor covenant](https://www.contributor-covenant.org/) and will be developed and amended over time as the need arises. As this project spawned from [the fediverse](https://joinmastodon.org/) our experiences in that online space are going to inform the project's future governance and direction.
+
+There is no [benevolent dictator for life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) for this fork because we value collective decision-making. We believe a governing group is less fallible, makes better-considered choices and reflects the will of the wider community more accurately. That approach will help us form a robust and fair code of conduct, and we have elaborated more on our current governance structure here: ["Why is there is no lead developer on this project?"](#why-is-there-no-lead-developer-on-this-project)
+
+We also want to make it clear that we value and encourage diverse representation in leadership positions within our community, and we believe that is the best way to form a code of conduct that protects all contributors, promotes wider participation and ensures the rules are fairly enforced. At this early stage our initial governance team is formed entirely of individuals from marginalized communities, and that makes our project [very atypical](https://opensource.com/article/17/9/diversity-and-inclusion-innovation). That emerged organically as a result of the project starting on the fediverse.
+
+We know how important it is to enact the right code of conduct and enforce the rules properly. We want to promote a safe and inclusive environment, not a toxic one. If you have ideas to help us do that and want to get involved with this discussion then please join us in the project's communication channels.
+
+[Return to top](#contents)
+
+## Why is there no lead developer on this project? {#why-is-there-no-lead-developer-on-this-project}
+In most free software projects this is a single individual that decides if issues should be ignored, cancelled or implemented. Granting someone that kind of power would effectively make them our "benevolent dictator", and we do not want one of those because a single fallible individual can make poor judgement calls or be influenced by a vocal minority.
+
+Our vision for the future is that the community will always have a say in the direction of this project, no choices will ever be impossible to overturn and everyone responsible for decision-making will be held accountable by their fellow contributors. The value or quantity of someone's contributions will not confer any "special status" on them or grant any immunity if they violate our project's code of conduct.
+
+[Return to top](#contents)
+
+## How does your project govern itself? {#how-does-this-project-govern-itself}
+The way we govern ourselves is something that evolves over time based on feedback we receive and what we find works and does not work. The summary provided in this answer is intended to illustrate how we currently make decisions and are held accountable by our community.
+
+[Github Issues](https://github.com/glimpse-editor/Glimpse/issues) are used to track bug reports, suggestions and questions from the wider community, and items we have agreed as a project need action. Action items are allocated to a milestone to give an indication of their priority and likely timeline, but these are always provisional until the work is done.
+
+Most day-to-day discussion happens in the **#glimpse:matrix.org** (or "Glimpse Community") Matrix channel. Anyone can join so long as they comply with our code of conduct, support the basic premise behind this project existing and don't spam the channel with off-topic chatter or shameless self-promotion. This is where most of the actual decision-making happens, and our community has the opportunity to voice their opinions or share their domain-specific knowledge there.
+
+Anyone named in the `AUTHORS` file is eligible to join the **#glimpse-contributors:matrix.org** (or "Glimpse Contributors") Matrix channel. They make the low-level technical decisions necessary to deliver items that have already been agreed. It is also used as a fallback communication channel between contributors when the "Glimpse General" Matrix channel is busy with the decision-making process so that development work is not obstructed by it.
+
+While they might make some time-sensitive moderation decisions as individuals, all other decisions are not considered "agreed" until they have been discussed on the "Glimpse Community" channel and a consensus has been achieved between all members of the "governance team". Initiatives originating from the governance team instead of the community are sometimes discussed on the "Glimpse Contributors" Matrix channel first.
+
+No decision is ever set in stone and can be revisited if new information comes to light or there is enough support within the project to do so. The governance team will generally only block the re-opening of an issue or delay a decision if the discussion is becoming too heated or obstructs the day-to-day running of the project.
+
+There are currently three people in our governance team: [Bobby Moss](https://bobadon.co.uk/@trechnex) (started the fork), [Christopher Davis](https://social.libre.fi/users/brainblasted) (posted the renaming issue on upstream gitlab repository) and [Clipsey](https://bobadon.co.uk/@clipsey) (started the "UI rewrite" planning).
+
+Finally, the project may from time to time run polls on social media to canvas opinion for specific issues. These are always non-binding and only intended to facilitate the existing decision-making process.
+
+[Return to top](#contents)
+
+## What are all the Matrix channels for? {#what-are-all-the-matrix-channels-for}
+All of our channels are on matrix.org. You can get access to the invite-only channels by asking for it on the "Glimpse Community" channel.
+
+- **#glimpse**: "Glimpse Community" channel that anyone can join so long as they keep discussion on topic, support the project and comply with our code of conduct
+- **#glimpse-offtopic**: Off-topic chatter between members of our project and the community in a safe, welcoming environment
+- **#glimpse-github**: Matrix alternative to receiving Github notifications by email
+- **#glimpse-2x**: Focussed discussion for the Glimpse 2.x "UI rewrite" working group
+- **#glimpse-contributors**: "Glimpse Contributors" channel for core contributors. Only people listed in our `AUTHORS` file are eligible to join.
+- **#glimpse-admin**: "Glimpse Admin" channel for our moderators to support each other. This is a private channel used by members of the governance team.
 
 [Return to top](#contents)
