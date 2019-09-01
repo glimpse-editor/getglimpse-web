@@ -13,7 +13,7 @@ We now expect it to arrive some time in September 2019. Our developers are still
 Bobby Moss helped newcomers to the codebase at Clipsey's suggestion by adding the GEGL, BABL and MyPaint dependencies as submodules. He also added Vagrant support so newcomers can get a working build environment up-and-running as quickly as possible. To build our code and then run the current in-development version of Glimpse (you will need [an XServer installed](https://sourceforge.net/projects/xming/) for the final command if you are not using Linux as a host):
 
 ```bash
-$ varant up
+$ vagrant up
 $ vagrant ssh
 $ cd /vagrant
 $ sh glimpse-vagrant.sh
