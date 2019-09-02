@@ -40,7 +40,7 @@ Bobby Moss updated the code-level documentation. `README.md` no longer links to 
 ## Project decisions
 There was further discussion on the choice of programming language for the 2.x "UI Rewrite" stream running in parallel. There was a considerable uptick in support for using D instead of Rust in the comments section of this Github issue: https://github.com/glimpse-editor/Glimpse/issues/70
 
-Further progress was made on the application logo and icon designs. "Jaames" made some interesting suggestions and has started developing those ideas for us. We look forward to seeing what they come up with!
+Further progress was made on the application logo and icon designs. [Jaames](https://twitter.com/rakujira) made some interesting suggestions and has started developing those ideas for us. We look forward to seeing what they come up with!
 
 We also determined that we should pledge to donate at least 10% of the Patreon donations we receive for each new release to the GNU Image Manipulation Program as a way of saying thank you for the contributions our fork relies on. That will be in addition to any other contributions we assist them with.
 
