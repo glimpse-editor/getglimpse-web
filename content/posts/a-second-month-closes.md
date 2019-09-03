@@ -1,7 +1,7 @@
 ---
 title: "A Second Month Closes"
-date: 2019-09-02T20:14:00+01:00
-draft: true
+date: 2019-09-03T19:27:00+01:00
+draft: false
 ---
 Here is a quick reminder of where you can find us on social media and our project tools:
 
