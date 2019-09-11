@@ -1,7 +1,7 @@
 ---
 title: "More Transparency And Automation"
-date: 2019-09-10T20:44:00+01:00
-draft: true
+date: 2019-09-11T22:40:00+01:00
+draft: false
 ---
 
 Instead of providing a weekly reminder of our social media and project links across the web, check out our all-new [Contribute](../contribute/) page!
