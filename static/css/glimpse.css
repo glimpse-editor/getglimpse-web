@@ -1,0 +1,7 @@
+nav a.f3.fw2 {
+	display : inline-block;
+	padding-left : 230px;
+	height : 100px;
+	background : transparent url(../logo_hex_full_invert.png ) no-repeat;
+	text-indent: -9999px;
+}
