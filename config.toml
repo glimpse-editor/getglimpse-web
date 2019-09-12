@@ -4,3 +4,6 @@ title = "Glimpse image editor"
 theme = "ananke"
 SectionPagesMenu = "main"
 rssLimit = 20
+
+[params]
+  custom_css = ["css/glimpse.css"]
