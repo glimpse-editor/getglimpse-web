@@ -58,4 +58,4 @@ Christopher Davis has also taken on the task of redesigning our project website.
 Bobby Moss has also started drafting the Glimpse 0.1.0 release post and our new downloads page. You can preview that work here: https://github.com/glimpse-editor/getglimpse-web/pull/48
 
 ## Other news
-An enthusiastic member of the Arch community has also created an AUR package that links to the Glimpse project's development branch. If you would like to preview the latest changes and are using a compatible GNU/Linux distribution then that is an exciting new unofficial installation option.
+We are aware that an enthusiastic member of the Arch community has created an AUR package that links to the Glimpse project's development branch. If you would like to preview the latest changes and are using a compatible GNU/Linux distribution then that is an exciting new unofficial installation option.
