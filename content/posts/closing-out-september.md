@@ -15,7 +15,7 @@ Glimpse also does not have an internal update mechanism and could be deployed on
 
 All of our core contributors thank you for your patience, and we will continue to work hard to make sure that Glimpse 0.1.0 achieves our stated objectives and makes you proud to support us.
 
-## Help needed
+## Help wanted
 The MacOS port is currently blocked, so we urgently need assistance from someone with experience porting GNOME applications to that platform: https://github.com/glimpse-editor/Glimpse/issues/59
 
 Work on a Linux AppImage has not yet started, so if you would like to try your hand at packaging then this Github issue is a great starting point: https://github.com/glimpse-editor/Glimpse/issues/108
