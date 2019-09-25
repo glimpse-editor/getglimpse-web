@@ -51,7 +51,7 @@ After a number of people provided feedback about it we updated the subtitle on t
 
 Christopher Davis has also taken on the task of redesigning our project website. We anticipate improvements to the overall layout and design in the weeks and months ahead.
 
-Bobby Moss has also started drafting the Glimpse 0.1.0 release post and our new downloads page. You can see preview that work here: https://github.com/glimpse-editor/getglimpse-web/pull/48
+Bobby Moss has also started drafting the Glimpse 0.1.0 release post and our new downloads page. You can preview that work here: https://github.com/glimpse-editor/getglimpse-web/pull/48
 
 ## Other news
 In anticipation of us releasing Glimpse 0.1.0 we have donated $50 of backer funds to the GNU Image Manipulation Program. That exceeds our stated pledge that at least 10% of the funds we receive for this release will be donated to the upstream project. You can see a full accounting of the donations we have received and how we have started to spend them on our [Open Collective](https://opencollective.com/glimpse) page.
