@@ -32,7 +32,7 @@ The process of building the code on Windows using [MSYS2](https://www.msys2.org/
 ## Documentation updates
 Bobby Moss and Mathieu Bridon have created an excellent new section on the wiki that comprehensively covers how to build and package Glimpse on Linux and Windows. They have also added instructions for how to build the code from IDEs like [GNOME Builder](https://wiki.gnome.org/Apps/Builder) on Linux and [Visual Studio Code](https://code.visualstudio.com/) on Windows.
 
-We hope you will find this useful, and you can see our work here: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
+We hope you will find this useful, and you can see their work here: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
 
 ## Code changes
 Bobby Moss added support for [Travis CI](https://travis-ci.org/glimpse-editor/Glimpse/branches) so that every new commit and pull request is automatically sanity checked with a build before it is merged. Mathieu Bridon is currently working to enhance this by ensuring that unit tests are also run against the code.
