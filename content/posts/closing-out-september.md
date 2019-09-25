@@ -25,7 +25,7 @@ Finally for those who still have concerns about our project name, the original p
 ## Porting to Windows
 Bobby Moss has been focussing most of his development time and energy over the past week on porting Glimpse to the Windows platform. You can see the progress he has been making here: https://github.com/glimpse-editor/Glimpse/pull/152
 
-At the time of writing our current plan is to port the upstream process for creating an installer. If that proves to be problematic then we will switch back to our previous plan of writing a own bespoke installer for Glimpse using the [WiX toolset](https://wixtoolset.org/) as described here: https://github.com/glimpse-editor/Glimpse/issues/119
+At the time of writing our current plan is to port the upstream process for creating an installer. If that proves to be problematic then we will switch back to our previous plan of writing our own bespoke installer for Glimpse using the [WiX toolset](https://wixtoolset.org/) as described here: https://github.com/glimpse-editor/Glimpse/issues/119
 
 The process of building the code on Windows using [MSYS2](https://www.msys2.org/) has been documented here: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse/Windows
 
