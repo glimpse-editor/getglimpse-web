@@ -46,6 +46,10 @@ psymole and EndrII have also been working together to add [Snap](https://snapcra
 ## Project decisions
 You can see which work items are still outstanding for Glimpse 0.1.0 here: https://github.com/glimpse-editor/Glimpse/milestone/1
 
+In anticipation of us releasing Glimpse 0.1.0 we have donated $50 of backer funds to the GNU Image Manipulation Program. That exceeds our stated pledge that at least 10% of the funds we receive for this release will be donated to the upstream project. You can see a full accounting of the donations we have received and how we have started to spend them on our [Open Collective](https://opencollective.com/glimpse) page.
+
+The Glimpse project also participated in the [Digital Climate Strike](https://digital.globalclimatestrike.net/) on Friday 20th September 2019 to show our support and solidarity with demonstrations being held around the world.
+
 ## Website updates
 After a number of people provided feedback about it we updated the subtitle on the Glimpse home page to make our objectives clear. It now reads "Glimpse is an open source image editor based on the GNU Image Manipulation Program. The goal is to experiment with new ideas and expand the use of free software."
 
@@ -54,8 +58,4 @@ Christopher Davis has also taken on the task of redesigning our project website.
 Bobby Moss has also started drafting the Glimpse 0.1.0 release post and our new downloads page. You can preview that work here: https://github.com/glimpse-editor/getglimpse-web/pull/48
 
 ## Other news
-In anticipation of us releasing Glimpse 0.1.0 we have donated $50 of backer funds to the GNU Image Manipulation Program. That exceeds our stated pledge that at least 10% of the funds we receive for this release will be donated to the upstream project. You can see a full accounting of the donations we have received and how we have started to spend them on our [Open Collective](https://opencollective.com/glimpse) page.
-
-The Glimpse project also participated in the [Digital Climate Strike](https://digital.globalclimatestrike.net/) on Friday 20th September 2019 to show our support and solidarity with demonstrations being held around the world.
-
 An enthusiastic member of the Arch community has also created an AUR package that links to the Glimpse project's development branch. If you would like to preview the latest changes and are using a compatible GNU/Linux distribution then that is an exciting new unofficial installation option.
