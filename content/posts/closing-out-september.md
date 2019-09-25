@@ -30,7 +30,7 @@ At the time of writing our current plan is to port the upstream process for crea
 The process of building the code on Windows using [MSYS2](https://www.msys2.org/) has been documented here: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse/Windows
 
 ## Documentation updates
-Bobby Moss and Mathieu Bridon have created an excellent new section on the wiki that comprehensively covers how to build and package Glimpse on Linux and Windows. They have also instructions for how to build the code from IDEs like [GNOME Builder](https://wiki.gnome.org/Apps/Builder) on Linux and [Visual Studio Code](https://code.visualstudio.com/) on Windows.
+Bobby Moss and Mathieu Bridon have created an excellent new section on the wiki that comprehensively covers how to build and package Glimpse on Linux and Windows. They have also added instructions for how to build the code from IDEs like [GNOME Builder](https://wiki.gnome.org/Apps/Builder) on Linux and [Visual Studio Code](https://code.visualstudio.com/) on Windows.
 
 We hope you will find this useful, and you can see our work here: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
 
