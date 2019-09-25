@@ -41,7 +41,7 @@ Bobby Moss also updated the code so that our new splash screen and application i
 
 Mathieu Bridon has cleared away redundant files and been updating the metadata files used by GNOME desktop and Flatpak to ensure Linux users have an optimal experience when we release Glimpse 0.1.0. We look forward to him assisting us when we push the latest build to [Flathub](https://flathub.org/).
 
-psymole and EndrII have also been working together to add Snap support to the current codebase. We did not expect to be able to support this technology in time for Glimpse 0.1.0, so we are deeply grateful for their efforts: https://github.com/glimpse-editor/Glimpse/pull/153
+psymole and EndrII have also been working together to add [Snap](https://snapcraft.io/) support to the current codebase. We did not expect to be able to support this technology in time for Glimpse 0.1.0, so we are deeply grateful for their efforts: https://github.com/glimpse-editor/Glimpse/pull/153
 
 ## Project decisions
 You can see which work items are still outstanding for Glimpse 0.1.0 here: https://github.com/glimpse-editor/Glimpse/milestone/1
