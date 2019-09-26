@@ -55,7 +55,7 @@ Christopher Davis has also taken on the task of redesigning our project website.
 
 Bobby Moss has also started drafting the Glimpse 0.1.0 release post and our new downloads page. You can preview that work here: https://github.com/glimpse-editor/getglimpse-web/pull/48
 
-## Dropped port for Apple MacOS
+## Dropped support for Apple MacOS
 We have left this Github issue open in case anyone with experience porting GNOME applications to the MacOS platform is willing to create and maintain a community-supported build we could make use of in the future: https://github.com/glimpse-editor/Glimpse/issues/59
 
 Unfortunately at the time of writing the upstream documentation for [building on OSX](https://wiki.gimp.org/wiki/Hacking:_Building/Mac_OSX) is quite sparse and does not seem to have been updated since it was first created in April 2011. As a result we have had to do our own research to figure out how that works.
