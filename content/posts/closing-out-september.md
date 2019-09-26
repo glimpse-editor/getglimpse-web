@@ -16,8 +16,6 @@ Glimpse also does not have an internal update mechanism and could be deployed on
 All of our core contributors thank you for your patience, and we will continue to work hard to make sure that Glimpse 0.1.0 achieves our stated objectives and makes you proud to support us.
 
 ## Help wanted
-The MacOS port is currently blocked, so we urgently need assistance from someone with experience porting GNOME applications to that platform: https://github.com/glimpse-editor/Glimpse/issues/59
-
 Work on a Linux AppImage has not yet started, so if you would like to try your hand at packaging then this Github issue is a great starting point: https://github.com/glimpse-editor/Glimpse/issues/108
 
 Finally for those who still have concerns about our project name, the original poster of this Github issue is now hosting an unofficial spreadsheet to gather suggestions and informally canvas opinion on our behalf: https://github.com/glimpse-editor/Glimpse/issues/92
@@ -56,6 +54,17 @@ After a number of people provided feedback about it we updated the subtitle on t
 Christopher Davis has also taken on the task of redesigning our project website. We anticipate improvements to the overall layout and design in the weeks and months ahead.
 
 Bobby Moss has also started drafting the Glimpse 0.1.0 release post and our new downloads page. You can preview that work here: https://github.com/glimpse-editor/getglimpse-web/pull/48
+
+## Dropped port for Apple MacOS
+We have left this Github issue open in case anyone with experience porting GNOME applications to the MacOS platform is willing to create and maintain a community-supported build we could make use of in the future: https://github.com/glimpse-editor/Glimpse/issues/59
+
+Unfortunately at the time of writing the upstream documentation for [building on OSX](https://wiki.gimp.org/wiki/Hacking:_Building/Mac_OSX) is quite sparse and does not seem to have been updated since it was first created in April 2011. As a result we have had to do our own research to figure out how that works.
+
+Our research sadly did not yield the right answer, despite our core contributors committing whole weeks of time to working on the problem and reading through old Github repositories, forums and community blog posts. The closest we came to a solution was finding an [upstream experiment with CircleCI](https://gitlab.gnome.org/Infrastructure/gimp-macos-build), but this seems to be a very early work-in-progress and our own attempts to get it working using more cost-effective local tools did not succeed.
+
+After further review we also determined that even if we reached out to the upstream project to find out how to build Glimpse 0.1 for MacOS, we do not have anyone with the right combination of skills, equipment, enthusiasm and free time to keep that build maintained over a sustained period of time. We concluded that focussing our efforts on the Linux and Windows ports instead best serves the most number of people with the limited resources available to us.
+
+While we know that will come as a disappointment for many of you, we hope that [SeaShore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos) will prove to be a viable substitute we can recommend. We believe it fits the criteria of being a re-branded variant of the GNU Image Manipulation Program with a better GUI, and it also benefits from being mature, well-maintained, available for zero cost through the Apple App Store and developed specifically for use with MacOS. Give it a try, and let us know what you think!
 
 ## Other news
 We are aware that an enthusiastic member of the Arch community has created an AUR package that links to the Glimpse project's development branch. If you would like to preview the latest changes and are using a compatible GNU/Linux distribution then that is an exciting new unofficial installation option.
