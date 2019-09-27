@@ -1,6 +1,6 @@
 ---
 title: "Closing Out September"
-date: 2019-09-27T18:00:00+01:00
+date: 2019-09-27T16:30:00+01:00
 draft: false
 ---
 
