@@ -33,11 +33,14 @@ Glimpse 0.1.0 is based on [GNU Image Manipulation Program 2.10.12](https://www.g
 * Translation files, code & build files updated so "Glimpse" is displayed throughout the UI, executables and packages
 * Changed the default UI behaviour for a cleaner look
 * Replaced application logo and window/taskbar icons
+* Replaced Windows save file icon
 * Replaced initial splash screen
 * Updated upstream icon themes to include our own iconography
 * Replaced links in the "Help" menu
 * Updated the About window
 * Removed code for upstream "easter eggs"
+* Refactored version strings and compatibility notices in file save dialog
+* Refactored display text for plug-ins, extensions and procedures
 
 ### Code Improvements
 * Refactored the automated "authors" system for the Glimpse project
@@ -65,6 +68,7 @@ Glimpse 0.1.0 is based on [GNU Image Manipulation Program 2.10.12](https://www.g
 * Removed "Gray" UI theme (duplicates "System")
 * Updated or replaced GNOME-specific metadata files
 * Maintained compatibility with existing GNU IMP v2.x plug-ins
+* Refactored "Created with GIMP" notice to "Created with Glimpse" in the default save file metadata
 
 ### Maintainers / Governance Team
 * Bobby Moss
