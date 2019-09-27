@@ -1,6 +1,6 @@
 ---
 title: "Closing Out September"
-date: 2019-09-26T18:00:00+01:00
+date: 2019-09-27T18:00:00+01:00
 draft: false
 ---
 
@@ -21,7 +21,7 @@ Work on a Linux AppImage has not yet started, so if you would like to try your h
 Finally for those who still have concerns about our project name, the original poster of this Github issue is now hosting an unofficial spreadsheet to gather suggestions and informally canvas opinion on our behalf: https://github.com/glimpse-editor/Glimpse/issues/92
 
 ## Porting to Windows
-Bobby Moss has been focussing most of his development time and energy over the past week on porting Glimpse to the Windows platform. You can see the progress he is making here: https://github.com/glimpse-editor/Glimpse/pull/152
+Bobby Moss has been focussing most of his development time and energy over the past week on porting Glimpse to the Windows platform. You can see the progress they are making here: https://github.com/glimpse-editor/Glimpse/pull/152
 
 At the time of writing our current plan is to port the upstream process for creating an installer. If that proves to be problematic then we will switch back to our previous plan of writing our own bespoke installer for Glimpse using the [WiX toolset](https://wixtoolset.org/) as described here: https://github.com/glimpse-editor/Glimpse/issues/119
 
@@ -35,7 +35,7 @@ We hope you will find this useful, and you can see their work here: https://wiki
 ## Code changes
 Bobby Moss added support for [Travis CI](https://travis-ci.org/glimpse-editor/Glimpse/branches) so that every new commit and pull request is automatically sanity checked with a build before it is merged. Mathieu Bridon is currently working to enhance this by ensuring that unit tests are also run against the code.
 
-Bobby Moss also updated the code so that our new splash screen and application icons are used throughout the application. He has also been fixing bugs related to folder locations and processes clashing with past or existing installations of the GNU Image Manipulation Program.
+Bobby Moss also updated the code so that our new splash screen and application icons are used throughout the application. They also fixed bugs related to folder locations and processes clashing with past or existing installations of the GNU Image Manipulation Program.
 
 Mathieu Bridon has cleared away redundant files and been updating the metadata files used by GNOME desktop and Flatpak to ensure Linux users have an optimal experience when we release Glimpse 0.1.0. We look forward to him assisting us when we push the latest build to [Flathub](https://flathub.org/).
 
