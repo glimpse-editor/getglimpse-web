@@ -30,5 +30,7 @@ Mathieu Bridon has successfully removed the Webkit dependency from our flatpak d
 ## Website updates
 Bobby Moss has been drafting the release notes for Glimpse 0.1.0 and a future "downloads" page. You can follow their progress here: https://github.com/glimpse-editor/getglimpse-web/pull/48
 
+You can also now type `www.` at the start of our URL and still be redirected to the right place!
+
 ## Can you help Exiv2?
 We and a number of other free software projects depend on a project that is currently in a state of limbo. If you think you can help, the Exiv2 team urgently need your assistance: https://github.com/Exiv2/exiv2/issues/1018
