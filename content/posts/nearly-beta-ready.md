@@ -1,7 +1,7 @@
 ---
 title: "Nearly Beta-Ready"
-date: 2019-10-08T19:00:00+01:00
-draft: true
+date: 2019-10-08T23:00:00+01:00
+draft: false
 ---
 Instead of providing a weekly reminder of our social media and project links across the web, check out our all-new [Contribute](/contribute/) page!
 
