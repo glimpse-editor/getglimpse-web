@@ -6,9 +6,9 @@ draft: true
 Instead of providing a weekly reminder of our social media and project links across the web, check out our all-new [Contribute](../../contribute/) page!
 
 ## Another release schedule update
-The target date for Glimpse 0.1 to be "officially" released is some time this month (October 2019). However, you do not need to wait much longer to try the software out for yourself!
+The target date for Glimpse 0.1 to be "officially" released is some time this month (October 2019). However, you do not need to wait much longer to try the software out for yourself as we now have some beta testing builds for Windows and Linux!
 
-We have already started beta testing the Linux flatpak version, and later on this week the Windows beta builds will also be ready. We are continuing to update the instructions you need here: https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse
+We are still actively working on the packaging for Glimpse 0.1 and will continue to update the instructions you need to test pre-release versions of the software. Our initial instructions are available here: https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse
 
 Please report any problems you find with our beta builds here: https://github.com/glimpse-editor/Glimpse/issues
 
