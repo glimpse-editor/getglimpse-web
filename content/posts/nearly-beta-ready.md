@@ -20,7 +20,7 @@ You can follow their progress inside this merge request: https://github.com/glim
 ## Continued work on the Windows port
 Bobby Moss has been working through problems related to packaging Glimpse 0.1 for Windows systems.
 
-The [build process we currently follow](https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse/Windows) dynamically links with components from MinGW, so time was set aside to determine which dependencies we needed to bundle with Glimpse and verify that the licenses relating to those components permitted us to do so.
+The [build process](https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse/Windows) we currently follow dynamically links with components from MinGW, so time was set aside to determine which dependencies we needed to bundle with Glimpse and verify that the licenses relating to those components permitted us to do so.
 
 We have succeeded in creating a pair of ZIP files, one for 32-bit Windows and another for 64-bit Windows. Unfortunately they currently trigger Windows Smartscreen and cause some anti-virus programs to block the running process! Bobby Moss is currently determining how to sign the executables so that they pass security checks and users can grant them the appropriate trust level with confidence.
 
