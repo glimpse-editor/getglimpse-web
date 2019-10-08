@@ -104,7 +104,7 @@ Just like many other free software projects we need to host the collaboration to
 
 The accusation we sometimes receive is that we are "stealing money from the GNU Image Manipulation Program". That is completely untrue, and we encourage those that want to support the upstream project to use [this donation page](https://www.gimp.org/donating/). Our project is also already discussing if some of the money we receive should be shared with the upstream project once we have covered our own costs.
 
-If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse) or [Patreon](https://www.patreon.com/glimpse)..
+If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse) or [Patreon](https://www.patreon.com/glimpse).
 
 [Return to top](#contents)
 
@@ -116,9 +116,9 @@ Our [Open Collective](https://opencollective.com/glimpse) and [Patreon](https://
 [Return to top](#contents)
 
 ## How do I contribute to this project? {#how-do-i-contribute-to-this-project}
-All of our contribution links are available on our [Contribute](../contribute/) page.
+All of our contribution links are available on our [Contribute](/contribute/) page.
 
-Please ensure that you read our [code of conduct](../code-of-conduct/) before you join our community. Regardless of your past experience and the usefulness of your contributions you are expected to comply with it.
+Please ensure that you read our [code of conduct](/code-of-conduct/) before you join our community. Regardless of your past experience and the usefulness of your contributions you are expected to comply with it.
 
 [Return to top](#contents)
 
@@ -170,7 +170,7 @@ As stated in a previous FAQ we do not believe in decisions that can never be ove
 [Return to top](#contents)
 
 ## Where is the Glimpse code of conduct? {#where-is-the-glimpse-code-of-conduct}
-You will find it on [this page](../code-of-conduct/). Our code of conduct is based on [the contributor covenant](https://www.contributor-covenant.org/) and will be developed and amended over time as the need arises. As this project spawned from [the fediverse](https://joinmastodon.org/) our experiences in that online space are going to inform the project's future governance and direction.
+You will find it on [this page](/code-of-conduct/). Our code of conduct is based on [the contributor covenant](https://www.contributor-covenant.org/) and will be developed and amended over time as the need arises. As this project spawned from [the fediverse](https://joinmastodon.org/) our experiences in that online space are going to inform the project's future governance and direction.
 
 There is no [benevolent dictator for life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) in the traditional sense for this fork because we believe in the merits of collective decision-making. They might sometimes take longer to make decisions, but a group is often less fallible, makes better-considered choices and reflects the will of the wider community more accurately than an individual.
 
