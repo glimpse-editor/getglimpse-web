@@ -1,6 +1,6 @@
 ---
 title: "Contribute"
-date: 2019-27-08T20:00:00+01:00
+date: 2019-09-29T06:11:00+01:00
 draft: false
 menu: "main"
 ---
@@ -17,6 +17,7 @@ menu: "main"
  * [Matrix](https://matrix.to/#/#glimpse:matrix.org)
 
 ## News
+ * [Facebook](https://fb.me/glimpse.editor)
  * [Mastodon](https://bobadon.co.uk/@glimpse)
  * [RSS](../posts/index.xml)
  * [Twitter](https://twitter.com/glimpse_editor)

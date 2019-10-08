@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2019-07-08T20:25:21+01:00
+date: 2019-09-29T06:14:00+01:00
 draft: false
 menu: "main"
 ---
@@ -27,7 +27,6 @@ menu: "main"
 
 ### Project Governance
 - [Where is the Glimpse code of conduct?](#where-is-the-glimpse-code-of-conduct)
-- [Why is there no lead developer on this project?](#why-is-there-no-lead-developer-on-this-project)
 - [How does your project govern itself?](#how-does-this-project-govern-itself)
 - [What are all the Matrix channels for?](#what-are-all-the-matrix-channels-for)
 
@@ -63,7 +62,7 @@ What this project aims to do is inject some new ideas, energy, contributions and
 
 ## Do you intend to replace the GNU Image Manipulation Program? {#do-you-intend-to-replace-the-gnu-image-manipulation-program}
 
-No, this project does not intend to supplant the GNU Image Manipulation Program. You may have noticed we already link to their donations page throughout our documentation and intend to donate at least 10% of our Patreon contributions to the upstream project each time we release regardless of our own costs.
+No, this project does not intend to supplant the GNU Image Manipulation Program. You may have noticed we already link to their donations page throughout our documentation and intend to donate at least 10% of our Patreon contributions we receive for each release to the upstream project regardless of our own costs.
 
 This project is also being run entirely by passionate enthusiasts. Development on the GNU Image Manipulation Program will continue as normal with same core group of developers and be entirely unhindered by this project.
 
@@ -78,7 +77,7 @@ No, because we are not reimplementing a 20 year old codebase from scratch. Also 
 
 From our point of view we are simply exercising [our software freedoms](https://www.gnu.org/philosophy/free-sw.html) by forking the project and redistributing a modified version for others to benefit from. This is fully in accordance with the spirit and requirements of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) and [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.en.html) as they both apply to this project.
 
-There are early plans to write a new GUI front-end in parallel to our current efforts, but that will take a number of years to produce and will still rely on the same GEGL and BABL libraries that the GNU Image Manipulation Program developers maintain.
+There are early plans to write a new GUI front-end with more modern technologies in parallel to our current efforts, but that will take a number of years to produce and will still rely on the same GEGL and BABL libraries that the GNU Image Manipulation Program developers maintain.
 
 [Return to top](#contents)
 
@@ -86,6 +85,8 @@ There are early plans to write a new GUI front-end in parallel to our current ef
 We are aware of six other software programs and projects that use the "Glimpse" name. We have taken this feedback on board and already fixed our web domain because of this problem.
 
 Our current stance on this issue is that "Glimpse" is a codename we will use for our project and the 0.x releases based on GNU Image Manipulation Program 2.x, but we will consider changing it from 1.0 onwards if we can find a better alternative.
+
+We have also made changes based on feedback such as changing our website's domain name and defining "Glimpse" as  shortened version of "Glimpse Image Editor".
 
 We welcome suggestions for a future product name and have set aside a Github issue to track it here: https://github.com/glimpse-editor/Glimpse/issues/92
 
@@ -103,52 +104,46 @@ Just like many other free software projects we need to host the collaboration to
 
 The accusation we sometimes receive is that we are "stealing money from the GNU Image Manipulation Program". That is completely untrue, and we encourage those that want to support the upstream project to use [this donation page](https://www.gimp.org/donating/). Our project is also already discussing if some of the money we receive should be shared with the upstream project once we have covered our own costs.
 
-If you would like to donate some money to Glimpse project, you can do so by [becoming a patron](https://www.patreon.com/glimpse) on Patreon.
+If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse) or [Patreon](https://www.patreon.com/glimpse).
 
 [Return to top](#contents)
 
 ## How do I stay up-to-date with this project? {#how-do-i-stay-up-to-date-with-this-project}
-You can follow us on [the fediverse](https://bobadon.co.uk/@glimpse) and [Twitter](https://twitter.com/glimpse_editor). This blog also has a full text [RSS feed](https://getglimpse.app/index.xml).
+You can follow us on [the fediverse](https://bobadon.co.uk/@glimpse) and [Twitter](https://twitter.com/glimpse_editor). This blog also has a full text [RSS feed](https://getglimpse.app/index.xml). We also recently setup a [Facebook page](fb.me/glimpse.editor).
 
-Our [Patreon](https://www.patreon.com/glimpse) backers also get regular updates about the project. Our more in-depth daily discussions can be viewed [on Matrix]([#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org)).
+Our [Open Collective](https://opencollective.com/glimpse) and [Patreon](https://www.patreon.com/glimpse) backers also get regular updates about the project. Our more in-depth daily discussions can be viewed [on Matrix]([#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org)).
 
 [Return to top](#contents)
 
 ## How do I contribute to this project? {#how-do-i-contribute-to-this-project}
-You can spread the word when we share news on [the fediverse](https://bobadon.co.uk/@glimpse) and [Twitter](https://twitter.com/glimpse_editor). You can also donate to our [Patreon](https://www.patreon.com/glimpse) campaign.
+All of our contribution links are available on our [Contribute](/contribute/) page.
 
-Join us on [#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org) if you want to participate in the project's decision-making process. You can also raise bugs and work on tasks via our [Github Issues](https://github.com/glimpse-editor/Glimpse/issues) page.
-
-Please ensure that you read our [code of conduct](../code-of-conduct/) before you join our project's community. Regardless of your past experience and the usefulness of your contributions you are expected to comply with it.
+Please ensure that you read our [code of conduct](/code-of-conduct/) before you join our community. Regardless of your past experience and the usefulness of your contributions you are expected to comply with it.
 
 [Return to top](#contents)
 
 ## Which operating systems do you support? {#which-operating-systems-do-you-support}
-*This answer is provisional and subject to change*
+We support systems running Windows 7 or newer, and modern variants of GNU/Linux.
 
-We intend to support recent desktop versions of Windows, Mac and Linux.
-
-Linux users will be able to install Glimpse as a [Flatpak](https://flatpak.org/) or an [AppImage](https://appimage.org/).
-
-A source tarball will be provided for package maintainers of Linux, BSD and Solaris distributions.
+Unfortunately we are not able to support MacOS at this time. We recommend [Seashore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos) as an alternative.
 
 [Return to top](#contents)
 
 ## Will you contribute changes back upstream? {#will-you-contribute-changes-back-upstream}
-Absolutely! We intend to be good free software citizens, and as soon as we have made changes that the upstream project want to include in their codebase we will be willing to assist them however we can. We may also donate some of the money we receive from Patreon backers to the upstream project, and the community will determine how much and how often.
+Absolutely! We intend to be good free software citizens, and as soon as we have made changes that the upstream project want to include in their codebase we will be willing to assist them however we can. We have also committed to donating at least 10% of the donations we receive for each new release to the GNU Image Manipulation Program developers.
 
 While both projects may not agree on some things, it is clear to us that an adversarial attitude will not help either of us. If we work together then the whole free software community can benefit from this fork that attracts new contributors, breathes new life into an ageing codebase and shares free software with a whole new audience.
 
 [Return to top](#contents)
 
 ## This project is big! Will it take a long time to rebrand? {#this-project-is-big-will-it-take-a-long-time-to-rebrand}
-The 0.x releases will be a "soft fork" of the GNU Image Manipulation Program that provides a cosmetic rebrand and minor tweaks to the user interface.
+The 0.x releases are a "soft fork" of the GNU Image Manipulation Program v2.x that provides a cosmetic rebrand and minor tweaks to the user interface.
 
-The 1.x releases will be a "hard fork" of the GNU Image Manipulation Program that attempts more ambitious changes on the existing codebase. Glimpse 1.0 will likely happen around the release of upstream v3.0 so we can benefit from the full GTK3 port.
+The 1.x releases will be a "hard fork" of the GNU Image Manipulation Program v3.x that attempts more ambitious changes on the existing codebase. That will enable us to benefit from the port to GTK3 and more modern Meson build system.
 
 The 2.x releases will use a brand new GUI we have written from scratch while still relying on the underlying GEGL and BABL libraries that GNU Image Manipulation Program does. That effort will take a number of years, so it is likely this will be worked on in parallel while we make the 1.x releases.
 
-We have been overwhelmed by the positive support we have received, and that is definitely helping us progress the project faster than anticipated.
+We have been overwhelmed by the positive support we have received, and that is continuing to help us progress the project faster than anticipated.
 
 [Return to top](#contents)
 
@@ -156,9 +151,9 @@ We have been overwhelmed by the positive support we have received, and that is d
 
 That was a choice made early on for entirely practical reasons such as project discoverability, ease-of-use, user familiarity and cost.
 
-As a project we are aware some people have ethical concerns about using Github. For this reason we periodically discuss how our contributors feel about using it, as well as the merits and drawbacks of potential alternatives.
+As a project we are aware some people have ethical concerns about using Github, and that other projects shows up above us in [the search results](https://github.com/search?utf8=%E2%9C%93&q=glimpse&type=). For those reasons we periodically discuss how our contributors feel about using it, as well as the merits and drawbacks of potential alternatives.
 
-Currently there are no plans to move our code or mirror it elsewhere, but we are not opposed to the idea.
+There are no immediate plans to move our code or mirror it elsewhere, but we are not opposed to the idea.
 
 [Return to top](#contents)
 
@@ -175,20 +170,15 @@ As stated in a previous FAQ we do not believe in decisions that can never be ove
 [Return to top](#contents)
 
 ## Where is the Glimpse code of conduct? {#where-is-the-glimpse-code-of-conduct}
-You will find it on [this page](../code-of-conduct/). Our code of conduct is based on [the contributor covenant](https://www.contributor-covenant.org/) and will be developed and amended over time as the need arises. As this project spawned from [the fediverse](https://joinmastodon.org/) our experiences in that online space are going to inform the project's future governance and direction.
+You will find it on [this page](/code-of-conduct/). Our code of conduct is based on [the contributor covenant](https://www.contributor-covenant.org/) and will be developed and amended over time as the need arises. As this project spawned from [the fediverse](https://joinmastodon.org/) our experiences in that online space are going to inform the project's future governance and direction.
 
-There is no [benevolent dictator for life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) for this fork because we value collective decision-making. We believe a governing group is less fallible, makes better-considered choices and reflects the will of the wider community more accurately. That approach will help us form a robust and fair code of conduct, and we have elaborated more on our current governance structure here: ["Why is there is no lead developer on this project?"](#why-is-there-no-lead-developer-on-this-project)
+There is no [benevolent dictator for life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) in the traditional sense for this fork because we believe in the merits of collective decision-making. They might sometimes take longer to make decisions, but a group is often less fallible, makes better-considered choices and reflects the will of the wider community more accurately than an individual.
 
-We also want to make it clear that we value and encourage diverse representation in leadership positions within our community, and we believe that is the best way to form a code of conduct that protects all contributors, promotes wider participation and ensures the rules are fairly enforced. At this early stage our initial governance team is formed entirely of individuals from marginalized communities, and that makes our project [very atypical](https://opensource.com/article/17/9/diversity-and-inclusion-innovation). That emerged organically as a result of the project starting on the fediverse.
+That approach has worked well for us so far, and you can read more about our governance structure here: ["How does your project govern itself?"](#how-does-this-project-govern-itself)
+
+We also want to make it clear that we value and encourage diverse representation in leadership positions within our community, and we believe that is the best way to enforce a code of conduct that protects all contributors and promotes wider participation. At this early stage our initial governance team is formed entirely of individuals from marginalized communities, and that makes our project [very atypical](https://opensource.com/article/17/9/diversity-and-inclusion-innovation). That emerged organically as a result of the project starting on [the fediverse](https://fediverse.party/).
 
 We know how important it is to enact the right code of conduct and enforce the rules properly. We want to promote a safe and inclusive environment, not a toxic one. If you have ideas to help us do that and want to get involved with this discussion then please join us in the project's communication channels.
-
-[Return to top](#contents)
-
-## Why is there no lead developer on this project? {#why-is-there-no-lead-developer-on-this-project}
-In most free software projects this is a single individual that decides if issues should be ignored, cancelled or implemented. Granting someone that kind of power would effectively make them our "benevolent dictator", and we do not want one of those because a single fallible individual can make poor judgement calls or be influenced by a vocal minority.
-
-Our vision for the future is that the community will always have a say in the direction of this project, no choices will ever be impossible to overturn and everyone responsible for decision-making will be held accountable by their fellow contributors. The value or quantity of someone's contributions will not confer any "special status" on them or grant any immunity if they violate our project's code of conduct.
 
 [Return to top](#contents)
 
@@ -207,7 +197,7 @@ No decision is ever set in stone and can be revisited if new information comes t
 
 There are currently three people in our governance team: [Bobby Moss](https://bobadon.co.uk/@trechnex) (started the fork), [Christopher Davis](https://social.libre.fi/users/brainblasted) (posted the renaming issue on upstream gitlab repository) and [Clipsey](https://bobadon.co.uk/@clipsey) (started the "UI rewrite" planning).
 
-Finally, the project may from time to time run polls on social media to canvas opinion for specific issues. These are always non-binding and only intended to facilitate the existing decision-making process.
+Finally, the project may from time to time run polls on social media to canvas opinion for specific issues if there is support for doing so. They are always non-binding and only intended to facilitate the existing decision-making process.
 
 [Return to top](#contents)
 
