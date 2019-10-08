@@ -3,7 +3,7 @@ title: "Nearly Beta-Ready"
 date: 2019-10-08T19:00:00+01:00
 draft: true
 ---
-Instead of providing a weekly reminder of our social media and project links across the web, check out our all-new [Contribute](../../contribute/) page!
+Instead of providing a weekly reminder of our social media and project links across the web, check out our all-new [Contribute](/contribute/) page!
 
 ## Another release schedule update
 The target date for Glimpse 0.1 to be "officially" released is some time this month (October 2019). However, you do not need to wait much longer to try the software out for yourself as we now have some beta testing builds for Windows and Linux!
