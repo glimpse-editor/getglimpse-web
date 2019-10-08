@@ -22,7 +22,7 @@ Bobby Moss has been working through problems related to packaging Glimpse 0.1 fo
 
 The [build process](https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse/Windows) we currently follow dynamically links with components from MinGW, so time was set aside to determine which dependencies we needed to bundle with Glimpse and verify that the licenses relating to those components permitted us to do so.
 
-We have succeeded in creating a pair of ZIP files, one for 32-bit Windows and another for 64-bit Windows. Unfortunately they currently trigger Windows Smartscreen and cause some anti-virus programs to block the running process! Bobby Moss is currently determining how to sign the executables so that they pass security checks and users can grant them the appropriate trust level with confidence.
+We have succeeded in creating a pair of ZIP files for Windows 7 or newer, with one being for 32-bit systems and the other for 64-bit. Bobby Moss is currently determining how to sign the executables so that they pass Windows and anti-virus security checks.
 
 The ZIP files are expected to be ready by Friday 11th October 2019, and Bobby Moss will start building our first MSI installers with the [WiX Toolset](https://wixtoolset.org/) over the weekend.
 
