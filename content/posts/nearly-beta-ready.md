@@ -22,9 +22,7 @@ Bobby Moss has been working through problems related to packaging Glimpse 0.1 fo
 
 The [build process](https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse/Windows) we currently follow dynamically links with components from MinGW, so time was set aside to determine which dependencies we needed to bundle with Glimpse and verify that the licenses relating to those components permitted us to do so.
 
-We have succeeded in creating a pair of ZIP files for Windows 7 or newer, with one being for 32-bit systems and the other for 64-bit. Bobby Moss is currently determining how to sign the executables so that they pass Windows and anti-virus program security checks.
-
-The ZIP files are expected to be ready by Friday 11th October 2019, and Bobby Moss will start building our first MSI installers with the [WiX Toolset](https://wixtoolset.org/) over the weekend.
+We have succeeded in creating a pair of ZIP files for Windows 7 or newer, with one being for 32-bit systems and the other for 64-bit. These have been provided as a stop-gap measure until we have working MSI installers and portable executables to publish within the next couple of weeks.
 
 ## Flatpak improvements
 Mathieu Bridon has successfully removed the Webkit dependency from our flatpak development builds. This makes builds much faster and reduces the load from the job they produced for our [Jenkins CI server](https://jenkins.glimpse-editor.org).
