@@ -1,0 +1,14 @@
+{{ define "main" }}
+    <div class="container my-5">
+        <h1 class="mb-3">{{ .Title }}</h1>
+        <hr />
+        {{ range .Pages.ByDate.Reverse }}
+        <div>
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ if .Params.summary }}
+                <p>{{ .Params.summary }}</p>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+{{ end }}

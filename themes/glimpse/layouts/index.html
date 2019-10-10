@@ -1,0 +1,39 @@
+{{ define "main" }}
+      <div class="jumbotron bg-cover rounded-0 text-white" style="background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(/{{$.Site.Params.featuredImg}}); background-size: cover;">
+          <div class="container">
+            <div class="row">
+                <div class="col-md">
+                    <h4>{{ $.Site.Params.projectName }}</h4>
+                    <p>{{ .Content }}</p>
+                    {{ if .GetPage "/downloads" }}
+                    <p class="lead">
+                        <a class="btn btn-light btn-lg my-2" href="/downloads/" role="button">Download &raquo;</a>
+                    </p>
+                    {{ else }}
+                    <p class="lead">Downloads coming soon for Windows and Linux</p>
+                    <p class="lead">
+                        <a class="btn btn-light btn-lg my-2" href="/posts/" role="button">Read Our Blog &raquo;</a>
+                    </p>
+                    {{ end }}
+                </div>
+                <div class="col-md">
+                    <img class="img-fluid rounded" src="/glimpse-main-screenshot.png" alt=""> 
+                </div>
+            </div>
+          </div>
+      </div>  
+      <div class="container">
+          <h3 class="text-center">Overview</h3>
+          {{ range $index, $features := $.Site.Data.index.features }}
+              <div class="row my-5">
+                    <div class="col-md">
+                        <h2 class="text-muted">{{ .header }}</h4>
+                        <p>{{ .summary }}</p>
+                    </div>
+                    <div class="col-md {{ if modBool $index 2 }}order-sm-first{{ end }}">
+                        <img class="border img-fluid rounded" src="/{{ .image }}" alt=""> 
+                    </div>
+              </div>
+          {{ end }}
+      </div>
+{{ end }}

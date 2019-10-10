@@ -1,0 +1,9 @@
+{{ define "main" }}
+    <div class="container my-5">
+        <h5>Posts</h5>
+        <h1 class="mb-3 page-header">{{ .Title }}</h1>
+        <p>{{ .PublishDate.Format "Monday, January 2, 2006" }}</p>
+        <hr />
+        {{ .Content }}
+    </div>
+{{ end }}
