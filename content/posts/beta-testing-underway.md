@@ -15,7 +15,7 @@ We know that will be disappointing to hear for many of you reading this, but as 
 The Glimpse project would like to thank the community for your continued support and patience with us. We will provide an update some time in the middle of November 2019 to confirm if we will be formally releasing before the end of that month or in the first half of December 2019.
 
 ## Snap support stalled
-Unfortunately (when this blog post was publish) they had been no updates made to the related pull request for two weeks: https://github.com/glimpse-editor/Glimpse/pull/153
+Unfortunately (at the time when this blog post was published) there had been no updates made to the related pull request for two weeks: https://github.com/glimpse-editor/Glimpse/pull/153
 
 If you think you can pick this work up and finish it then please get in touch with us! If we cannot complete this task then we will need to bring forward plans to also package Glimpse 0.1 as an [AppImage](https://appimage.org/) so that Linux users will still have an alternative for systems that do not support Flatpak.
 
