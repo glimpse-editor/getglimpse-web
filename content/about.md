@@ -101,9 +101,9 @@ If you are offended by the fact we renamed the project, we suggest you continue 
 ## Why do you need monetary donations? {#why-do-you-need-monetary-donations}
 Just like many other free software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand and reward our contributors for the value they add.
 
-The accusation we sometimes receive is that we are "stealing money from the GNU Image Manipulation Program". That is completely untrue, and we encourage those that want to support the upstream project to use [this donation page](https://www.gimp.org/donating/). Our project is also already discussing if some of the money we receive should be shared with the upstream project once we have covered our own costs.
-
 If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse).
+
+We also encourage those who want to support the upstream project to use [their donation page](https://www.gimp.org/donating/).
 
 [Return to top](#contents)
 
