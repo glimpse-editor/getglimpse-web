@@ -7,9 +7,9 @@ menu: "main"
 ## Contents {#contents}
 
 ### Introduction
+- [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
 - [What initially motivated you to fork?](#why-are-you-forking)
 - [Are you just forking because of the name?](#are-you-just-forking-because-of-the-name)
-- [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
 - [Did you know that name is used elsewhere?](#did-you-know-that-name-is-used-elsewhere)
@@ -29,25 +29,6 @@ menu: "main"
 - [How does your project govern itself?](#how-does-this-project-govern-itself)
 - [What are all the Matrix channels for?](#what-are-all-the-matrix-channels-for)
 
-## What initially motivated you to fork? {#why-are-you-forking}
-In recent versions of the upstream software you may have noticed that the window titles have switched to "GNU Image Manipulation Program" and the documentation [suggests expanding the acronym](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) as a work-around for the bad name. However, we do not think that adequately addresses the problematic name because the website domain, documentation and wider community still refers to it as "the Gimp" just as they have done for the last two decades.
-
-Feature requests have been raised about the problem multiple times on the project's communication channels over the last 13 years, but each time they are ignored, dismissed and/or the discussions get spammed by those with strong political views.
-
-It is unfortunate that we have to fork the whole project to change the name and make these changes, but we feel that discussions about those concerns are at an impasse and that this is the most positive way forward.
-
-[Return to top](#contents)
-
-## Are you just forking because of the name? {#are-you-just-forking-because-of-the-name}
-
-No, but it did provide the motivation for many of us to fork the project in the first place.
-
-We all enjoy using the GNU Image Manipulation Program, but it only has finite resources and so has to prioritise some changes over others. Decisions may have also been made historically for sound reasons that need to be revisited but cannot for the same reason. This can mean that good user interface improvements and functional changes that the community suggests can go unaddressed for years.
-
-What this project aims to do is inject some new ideas, energy, contributions and money into a tool that most of us take for granted. We also want to expand the adoption of a great piece of free software.
-
-[Return to top](#contents)
-
 ## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
 If English is not your first language, then you may not have realised that the word "gimp" is problematic. In some countries it is considered a slur against disabled people and a playground insult directed at unpopular children. It can also be linked to certain "after dark" activities performed by consenting adults.
 
@@ -56,6 +37,25 @@ You may think that this is "political correctness gone mad" and that those who h
 Educational institutions and public libraries may feel unable to provide or recommend the program to students due to possible legal or moral concerns. It can also be difficult for a teacher to keep a class of school-age children disciplined and focussed if they are distracted by the name of the computer program they have been asked to use.
 
 We believe free software should be accessible to everyone, and in this case a re-brand is both a desirable and very straightforward fix that could attract a whole new generation of users and contributors.
+
+[Return to top](#contents)
+
+## What initially motivated you to fork? {#why-are-you-forking}
+In recent versions of the upstream software you may have noticed that the window titles have switched to "GNU Image Manipulation Program" and the documentation [suggests expanding the acronym](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) as a work-around for the bad name. However, we do not think that adequately addresses the issue because the website domain, documentation and wider community still refers to it as "the Gimp" just as they have done for the last two decades.
+
+Feature requests have been raised about the problem multiple times on the project's communication channels over the last 13 years, but each time they are ignored, dismissed and/or the discussions get spammed by those with strong political views.
+
+It is unfortunate that we have to fork the whole project to change the name, but we feel that discussions about the issue are at an impasse and that this is the most positive way forward.
+
+[Return to top](#contents)
+
+## Are you just forking because of the name? {#are-you-just-forking-because-of-the-name}
+
+No, but it did provide the motivation for many of us to fork the project in the first place.
+
+We all love the GNU Image Manipulation Program, but it only has finite resources and so has to prioritise some changes over others. Decisions may have also been made historically for sound reasons that need to be revisited but cannot for the same reason. This can mean that good user interface improvements and functional changes that the community suggests can go unaddressed for years.
+
+What this project aims to do is inject some new ideas, energy, contributions and money into a tool that most of us take for granted. We also want to expand the adoption of a great piece of free software.
 
 [Return to top](#contents)
 
