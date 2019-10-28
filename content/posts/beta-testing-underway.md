@@ -66,9 +66,9 @@ If there is positive feedback for the idea, we will also encourage individual co
 ## Release numbering change
 On a related note, the project has also changed its future development plans based on what we have collectively learned over the last few months. We originally intended that 0.x would be based on GNU Image Manipulation Program 2.10.x, 1.x would be based on GNU Image Manipulation Program 3.x, and 2.x would be our own rewrite.
 
-It has been decided that we will no longer allocate resources to forking GNU Image Manipulation Program 3.x. This is because we do not have the people and resources needed to recreate everything we have produced over the last four months again to make that major update (and its entirely new build processes) viable.
+It has been decided that we will no longer allocate resources to forking GNU Image Manipulation Program 3.x. We do not have the people and resources needed to recreate everything we have produced over the last four months again to make that major update (and its entirely new build processes) viable.
 
-Instead we believe it makes more sense to stick to the 2.10.x base, with the intent of making that as stable as "long term supportable" as possible and adding our own changes to it. 1.0 should be released towards the second half of 2020, assuming the 0.x releases that are produced before then are stable and well-received.
+Instead we believe it makes more sense to stick to the 2.10.x base, and make that as stable and "long term supportable" as possible while also adding our own changes to it. 1.0 should be released towards the second half of 2020, assuming the 0.x releases that are produced before then are stable and well-received.
 
 The "UI rewrite" running in parallel will continue unhindered, and we hope to see some initial alpha-level prototypes some time in 2020.
 
