@@ -10,9 +10,9 @@ Instead of providing a weekly reminder of our social media and project links acr
 ## Another release schedule update
 Unfortunately we are going to miss our target of releasing in October 2019. We made that estimate before beta testing had started and also when our packaging efforts were still in their very early stages, so this was not unexpected.
 
-We know that will be disappointing to hear for many of you reading this, but as with any new free software project setbacks and "blockers" like this are to be expected. We apologize, but take solace in the fact that this project has only existed since Friday 5th July 2019, and the amount we have achieved in less than four months has been quite remarkable.
+We know that will be disappointing to hear for many of you reading this, but as with any new free software project setbacks and "blockers" like this are to be expected. We apologize, but also take solace in the fact that this project has only existed since Friday 5th July 2019. The amount we have achieved in less than four months has been quite remarkable!
 
-The Glimpse project would like to thank you for your continued support and patience with us. We will provide an update some time in the middle of November 2019 to confirm if we will be formally releasing before the end of that month or in the first half of December 2019.
+The Glimpse project would like to thank the community for your continued support and patience with us. We will provide an update some time in the middle of November 2019 to confirm if we will be formally releasing before the end of that month or in the first half of December 2019.
 
 ## Snap support stalled
 Unfortunately (when this blog post was publish) they had been no updates made to the related pull request for two weeks: https://github.com/glimpse-editor/Glimpse/pull/153
@@ -26,7 +26,7 @@ Specifically having to create a new Windows installer from scratch has proved di
 
 A roadblock we have run into is that (much like the ZIP files produced at the start of beta testing) this trigger warnings and blocks from Windows User Account Control, Windows SmartScreen and any local anti-virus programs. While the development releases will always have this problem even if we sign them with a self-signed certificate, this is clearly not acceptable for formal releases. We will have to spend backer money we have released on a three year code signing certificate [from a reputable CA](https://comodosslstore.com/codesigning.aspx) to fix that problem.
 
-In addition, our efforts to automate the building and packaging of the Windows port on Jenkins have stalled. We are still puzzling out the documented cross-compilation steps for the GNU build system and how to script the packaging process with the WiX Toolset. However that will not be done in time for the 0.1 release, so currently the Windows build and packaging process relies entirely on one person (Bobby Moss) to do it, and that is not a small task!
+In addition, our efforts to automate the building and packaging of the Windows port on Jenkins have stalled. We are still puzzling out the documented cross-compilation steps for the GNU build system and how to script the packaging process with [the WiX Toolset](https://wixtoolset.org/). However that will not be done in time for the 0.1 release, so currently the Windows build and packaging process relies entirely on one person (Bobby Moss) to do it, and that is not a small task!
 
 In more positive news, we have confirmed that GNU Image Manipulation Program 2.10.12 and Glimpse 0.1 BETA can both be installed alongside each other on the same Windows system without sharing or overwriting each others' configuration files. However you cannot currently launch one while the other is still running.
 
