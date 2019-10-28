@@ -24,11 +24,13 @@ Bobby Moss has been working through problems related to packaging Glimpse 0.1 fo
 
 Specifically having to create a new Windows installer from scratch has proved difficult because of the sheer number of dependency files involved. Bobby has succeeded in producing a 32-bit MSI file that should work on all Windows systems from Windows 7 or later. You can find new instructions for this here: https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse
 
-A roadblock we have run into is that (much like the ZIP files produced at the start of beta testing) this trigger warnings and blocks from Windows User Account Control, Windows SmartScreen and any local anti-virus programs. While the development releases will always have this problem even if we sign them with a self-signed certificate, this is clearly not acceptable for formal releases. We will have to spend backer money we have released on a three year code signing certificate [from a reputable CA](https://comodosslstore.com/codesigning.aspx) to fix that problem.
+A roadblock we have run into is that (much like the ZIP files produced at the start of beta testing) this new installer triggers warnings and blocks from Windows User Account Control, Windows SmartScreen and any other locally installed anti-virus program.
 
-In addition, our efforts to automate the building and packaging of the Windows port on Jenkins have stalled. We are still puzzling out the documented cross-compilation steps for the GNU build system and how to script the packaging process with [the WiX Toolset](https://wixtoolset.org/). However that will not be done in time for the 0.1 release, so currently the Windows build and packaging process relies entirely on one person (Bobby Moss) to do it, and that is not a small task!
+While the development releases will always have this problem (even if we use a self-signed certificate), that is clearly not acceptable for formal releases. We will need to buy a three year code signing certificate [from a reputable CA](https://comodosslstore.com/codesigning.aspx) to fix that problem.
 
-In more positive news, we have confirmed that GNU Image Manipulation Program 2.10.12 and Glimpse 0.1 BETA can both be installed alongside each other on the same Windows system without sharing or overwriting each others' configuration files. However you cannot currently launch one while the other is still running.
+Our efforts to automate the building and packaging of the Windows port on [our Jenkins server](https://jenkins.glimpse-editor.org/) have stalled. We are still puzzling out the documented cross-compilation steps from upstream and how to script the packaging process with [the WiX Toolset](https://wixtoolset.org/). However that will not be done in time for the 0.1 release, so currently the Windows build and packaging process relies entirely on one person (Bobby Moss) doing it all manually, and that is not a small task!
+
+In more positive news, we have confirmed that GNU Image Manipulation Program 2.10.12 and Glimpse 0.1 BETA can both be installed alongside each other on the same Windows system without sharing or overwriting each others' configuration files. You cannot currently launch one while the other is still running, but we are working on a fix for that.
 
 Here is a full list of Windows bugs and "known issues" we are currently aware of:
 
