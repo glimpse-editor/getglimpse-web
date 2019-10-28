@@ -5,6 +5,7 @@ draft: false
 menu: "main"
 ---
 ## Contents {#contents}
+Glimpse is an open source image editor based on the GNU Image Manipulation Program. The goal is to experiment with new ideas and expand the use of free software.
 
 ### Introduction
 - [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
