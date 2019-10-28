@@ -22,7 +22,7 @@ If you think you can pick this work up and finish it then please get in touch wi
 ## Continued work on the Windows port
 Bobby Moss has been working through problems related to packaging Glimpse 0.1 for Windows systems.
 
-Specifically having to create a new Windows installer from scratch has proved difficult because of the sheer number of dependency files involved. Bobby has succeeded in producing a 32-bit MSI file that should work on all Windows systems from Windows 7 or later. You can find new instructions for this here: https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse
+Creating a new Windows installer from scratch has proved difficult because of the sheer number of dependency files involved, but we are confident the end result will be worth it. Bobby has succeeded in producing a 32-bit MSI file that should work on all Windows systems from Windows 7 or later. You can find new instructions for this here: https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse
 
 A roadblock we have run into is that (much like the ZIP files produced at the start of beta testing) this new installer triggers warnings and blocks from Windows User Account Control, Windows SmartScreen and any other locally installed anti-virus program.
 
