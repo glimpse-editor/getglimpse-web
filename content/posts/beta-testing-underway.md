@@ -59,11 +59,11 @@ The draft release notes and downloads page that Bobby Moss has been working can 
 ## Patreon campaign to be closed in December 2019
 We would like to thank everyone who has contributed cash to the project on our [Patreon](https://www.patreon.com/glimpse) page since its inception in July 2019.
 
-As we mentioned in previous posts we have created a new fundraising campaign on [Open Collective](https://opencollective.com/glimpse). This is great for you as followers of our project because you can decided between a one-off or monthly donation, see how much we receive and what we spend your money on, and (if you live in the US) benefit from tax deductions. From the project's point of view the charity behind the platform provides us with legal/financial services, ensures our expense claims are legitimate. It also enables more than one person to run the fundraising campaign and track backer rewards.
+As we mentioned in previous posts we have created a new fundraising campaign on [Open Collective](https://opencollective.com/glimpse). This is great for you as followers of our project because you can choose between a one-off or monthly donation, see how much we receive and what we spend your money on, and (if you live in the US) benefit from tax deductions. From the project's point of view the charity behind the platform provides us with legal/financial services, ensures our expense claims are legitimate. Open Collective also enables more than one person to run the fundraising campaign and track backer rewards.
 
-We know the project is going to take a financial hit when we do this, but we feel it is the right long term decision because it will reduce the administrative overhead our core contributors have to deal with and better ensure accountability within our project's governance structure.
+We know the project will probably take a financial hit when we do this, but we feel this is the right long term decision because it will reduce the administrative overhead our core contributors have to deal with and better ensure accountability within our project's governance structure.
 
-If there is positive feedback for the idea, we will also encourage individual contributors to host their own Patreon campaigns and PayPal links so they can still receive contributions from those platforms.
+If there is positive feedback for the idea, we may also encourage individual contributors to host their own Patreon campaigns and PayPal links so they can still receive contributions from those of you who prefer those platforms.
 
 ## Release numbering change
 On a related note, the project has also changed its future development plans based on what we have collectively learned over the last few months. We originally intended that 0.x would be based on GNU Image Manipulation Program 2.10.x, 1.x would be based on GNU Image Manipulation Program 3.x, and 2.x would be our own rewrite.
