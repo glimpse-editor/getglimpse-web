@@ -75,3 +75,10 @@ The "UI rewrite" running in parallel will continue unhindered, and we hope to se
 You will now find the Glimpse project [on Facebook](https://fb.me/glimpse.editor). Bobby Moss is currently maintaining that page, and this is another part of our outreach efforts to users outside the free software community. It should also assist with our efforts to improve the project's search engine optimization (SEO).
 
 Despite this [our Mastodon account](https://bobadon.co.uk/@glimpse) will continue to be our primary social media channel. The Glimpse project spawned from the fediverse, so it will always be our preference.
+
+## Early work on the UI rewrite
+There seems to be early support around the idea of using the D programming language with a recent version of GTK to produce this UI rewrite. You can see some of the early design work from people like meltheadorable on our wiki: https://wiki.glimpse-editor.org/index.php?title=Main_Page
+
+Luna (Clipsey) has been experimenting with GTK bindings for D in her own Github project space. She has been regularly posting screenshots of that work in the (invite-only) "Glimpse 2.x UI Rewrite" Matrix channel, and you can check that code out for yourself here: https://github.com/Member1221/d-dazzle and here: https://github.com/Member1221/d-handy.
+
+Chaomodus has also been preparing to contribute to this parallel effort by teaching themselves the D programming language in their spare time, and rewriting simple UNIX utilities as a learning exercise.
