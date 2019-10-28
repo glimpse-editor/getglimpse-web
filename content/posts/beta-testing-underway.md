@@ -31,6 +31,7 @@ In addition, our efforts to automate the building and packaging of the Windows p
 In more positive news, we have confirmed that GNU Image Manipulation Program 2.10.12 and Glimpse 0.1 BETA can both be installed alongside each other on the same Windows system without sharing or overwriting each others' configuration files. However you cannot currently launch one while the other is still running.
 
 Here is a full list of Windows bugs and "known issues" we are currently aware of:
+
 * BETA builds trigger security warnings from Windows and anti-virus programs [195](https://github.com/glimpse-editor/Glimpse/issues/195)
 * Glimpse 0.1 BETA is currently built without Python support due to this being missing in upstream documentation, so a noticeable number of plug-ins are not loaded by the application when it is started [178](https://github.com/glimpse-editor/Glimpse/issues/178)
 * The Wilber icon is still shown in the taskbar and window title when a file is open and being modified [176](https://github.com/glimpse-editor/Glimpse/issues/176)
