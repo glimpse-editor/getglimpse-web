@@ -192,7 +192,7 @@ Finally, the project may from time to time run polls on social media to canvas o
 All of our channels are on matrix.org. You can get access to the invite-only channels by asking for it on the "Glimpse Community" channel.
 
 - **#glimpse**: "Glimpse Community" channel that anyone can join so long as they keep discussion on topic, support the project and comply with our code of conduct
-- **#glimpse-offtopic**: Off-topic chatter between well-known members of the community in a safe, welcoming environment
+- **#glimpse-offtopic**: Off-topic chatter between well-known members of our community in a safe, welcoming environment
 - **#glimpse-github**: Matrix alternative to receiving Github notifications by email
 - **#glimpse-2x**: Focussed discussion for the Glimpse 2.x "UI rewrite" working group
 - **#glimpse-contributors**: "Glimpse Contributors" channel for core contributors. Only people listed in our `AUTHORS` file are eligible to join.
