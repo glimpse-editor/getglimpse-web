@@ -103,7 +103,7 @@ Just like many other free software projects we need to host the collaboration to
 
 If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse).
 
-We also encourage those who want to support the upstream project to use [their donation page](https://www.gimp.org/donating/).
+We also encourage those who want to support the GNU Image Manipulation Program to use [their donation page](https://www.gimp.org/donating/) to do so.
 
 [Return to top](#contents)
 
