@@ -1,11 +1,9 @@
 ---
 title: "Beta Testing Underway"
-date: 2019-10-28T02:00:00+01:00
+date: 2019-10-29T08:00:00+00:00
 draft: false
 ---
 Instead of providing a weekly reminder of our social media and project links across the web, check out our all-new [Contribute](/contribute/) page!
-
-**DO NOT PUBLISH YET**
 
 ## Another release schedule update
 Unfortunately we are going to miss our target of releasing in October 2019. We made that estimate before beta testing had started and also when our packaging efforts were still in their very early stages, so this was not unexpected.
@@ -44,7 +42,7 @@ Here is a full list of Windows bugs and "known issues" we are currently aware of
 ## Flatpak improvements
 Mathieu Bridon has continued to improve the Glimpse 0.1 BETA flatpak with new core dependency versions and updates to the metadata.
 
-**TO BE POPULATED**
+You can beta test the current flatpak release by following the instructions here: https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse
 
 ## Documentation updates
 Bobby Moss has been improving the code level documentation. Their pull request is not quite ready to merge yet, but you can follow it here: https://github.com/glimpse-editor/Glimpse/pull/188
