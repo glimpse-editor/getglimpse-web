@@ -22,7 +22,7 @@ Glimpse 0.1.0 is supported on systems running Windows 7 or later. If you are not
 *Sha256: yyfghyegfyegfygefygfeijijirjfijrfirjf*
 
 ### Linux
-Glimpse 0.1.0 is supported on [mainstream distributions](https://www.distrowatch.com/) that still receive security updates through their package managers.
+Glimpse 0.1.0 is supported on [mainstream distribution](https://www.distrowatch.com/) releases that still receive security updates through their package managers.
 
 #### Flatpak
 *Installation instructions for Flatpak*
