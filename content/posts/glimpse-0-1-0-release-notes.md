@@ -51,16 +51,16 @@ Glimpse 0.1.0 is based on [GNU Image Manipulation Program 2.10.12](https://www.g
 * Refactored the build system for the Glimpse project
 * Removed some scripts and tooling we do not use this with this fork
 * Updated the Flatpak build process and removed webkit build step for dev releases
-* Updated the Snapcraft build process *TODO*
+* Provided support for Snapcrafters to package the code through their third party distribution channel
 * Added Travis CI support to sanity check and test builds in version control
-* Created new Windows installer with the WiX toolset *TODO*
+* Created new Windows installers with the WiX toolset
 
 ### Developer Assistance
 * Added BABL, GEGl and MyPaint dependencies as git submodules pre-set at the current tagged releases
 * Added [Vagrant](https://www.vagrantup.com/) support so the code can be built & run without needing to install the prerequisites on the host system
 * Provided comprehensive build documentation for Windows and Linux at https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
 * Improved integration with the GNOME Builder IDE
-* Provided new code level documentation of our own (such as code of conduct, contributing guide, changelog, etc) *TODO*
+* Provided new code level documentation of our own (such as code of conduct, contributing guide, changelog, etc)
 
 ### Quality of Life Improvements
 * Removed legacy upstream documentation not needed for this fork
@@ -89,10 +89,12 @@ We would like to thank everyone who contributed towards making Glimpse 0.1.0 a s
 ### Code Contributors
 * igalic
 * Mathieu Bridon
+* psymole
 
 ### Documentation Contributors
 * chaomodus
 * Dominic Watson
+* Helen Ellsworth
 * melody
 
 ### Artwork Contributors
