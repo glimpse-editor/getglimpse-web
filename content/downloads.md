@@ -4,7 +4,7 @@ date: 2019-09-24T18:00:00+01:00
 draft: true
 menu: "main"
 ---
-The latest release is Glimpse 0.1.0, and it is provided under the terms of the GNU General Public License v3. [Release Notes](../posts/glimpse-0-1-0-released/)
+The latest release is Glimpse 0.1.0, and it is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-1-0-released/)
 
 ### Windows
 Glimpse 0.1.0 is supported on systems running Windows 7 or later. If you are not sure which file to download, [click this link](#).
