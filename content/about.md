@@ -21,10 +21,10 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 
 ### Technical Questions
 - [Which operating systems do you support?](#which-operating-systems-do-you-support)
+- [Can I install Glimpse and GNU Image Manipulation Program on the same machine?](#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine)
 - [Will you contribute changes back upstream?](#will-you-contribute-changes-back-upstream)
 - [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
 - [Why are you using Github instead of Gitlab?](#why-are-you-using-github-instead-of-gitlab)
-- [Can I install Glimpse and GNU Image Manipulation Program on the same machine?](#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine)
 
 ### Project Governance
 - [Where is the Glimpse code of conduct?](#where-is-the-glimpse-code-of-conduct)
@@ -130,6 +130,16 @@ Unfortunately we are not able to support MacOS at this time. We recommend [Seash
 
 [Return to top](#contents)
 
+## Can I install Glimpse and GNU Image Manipulation Program on the same machine? {#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine}
+
+On Windows, you can safely install and run both applications at the same time.
+
+On Linux, the Flatpak and AppImage builds that we support and maintain are fully self-contained and should not interfere with any installed versions of the GNU Image Manipulation Program. If you discover that is not the case on your system, please [report it as a bug](https://github.com/glimpse-editor/Glimpse/issues).
+
+If you are using a Linux build from a third party source that we do not directly support (such as Snapcraft, AUR or your distribution's package repositories) then you need to ask the people responsible for maintaining it.
+
+[Return to top](#contents)
+
 ## Will you contribute changes back upstream? {#will-you-contribute-changes-back-upstream}
 Absolutely! We intend to be good free software citizens, and as soon as we have made changes that the upstream project want to include in their codebase we will be willing to assist them however we can. We have also periodically donated a portion of the donations we have received to the GNU Image Manipulation Program developers.
 
@@ -155,16 +165,6 @@ That was a choice made early on for entirely practical reasons such as project d
 As a project we are aware some people have ethical concerns about using Github, and that other projects shows up above us in [the search results](https://github.com/search?utf8=%E2%9C%93&q=glimpse&type=). For those reasons we periodically discuss how our contributors feel about using it, as well as the merits and drawbacks of potential alternatives.
 
 There are no immediate plans to move our code or mirror it elsewhere, but we are not opposed to the idea.
-
-[Return to top](#contents)
-
-## Can I install Glimpse and GNU Image Manipulation Program on the same machine? {#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine}
-
-On Windows, you can safely install and run both applications at the same time.
-
-On Linux, the Flatpak and AppImage builds that we support and maintain are fully self-contained and should not interfere with any installed versions of the GNU Image Manipulation Program. If you discover that is not the case on your system, please [report it as a bug](https://github.com/glimpse-editor/Glimpse/issues).
-
-If you are using a Linux build from a third party source that we do not directly support (such as Snapcraft, AUR or your distribution's package repositories) then you need to ask the people responsible for maintaining it.
 
 [Return to top](#contents)
 
