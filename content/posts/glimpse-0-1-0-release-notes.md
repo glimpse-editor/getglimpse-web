@@ -14,9 +14,9 @@ We are also pleased to announce that we have donated $50 to the GNU Image Manipu
 *Add a screenshot here*
 
 ## Installation
-GNU/Linux users can install Glimpse 0.1.0 as a Flatpak from the Flathub repository. There are also a number of additional installation options detailed on our [Downloads](../../downloads/) page.
+GNU/Linux users can install Glimpse 0.1.0 as a Flatpak from the Flathub repository. There are also a number of additional installation options detailed on our [Downloads](/downloads/) page.
 
-Windows users have a choice of 32-bit or 64-bit MSI files, and we chose that type of installer to assist businesses and schools using centralised software management systems. We have also provided ZIP files for those who would prefer to run the software from a portable USB flash drive. These can also be found on the [Downloads](../../downloads/) page.
+Windows users have a choice of 32-bit or 64-bit MSI files, and we chose that type of installer to assist businesses and schools using centralised software management systems. We have also provided ZIP files for those who would prefer to run the software from a portable USB flash drive. These can also be found on the [Downloads](/downloads/) page.
 
 ## Known Issues
 * Linux AppImage is delayed until late October/early November 2019
