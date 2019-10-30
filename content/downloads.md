@@ -27,7 +27,12 @@ Glimpse 0.1.0 is supported on [mainstream distribution](https://www.distrowatch.
 #### Glimpse 0.1.0 Flatpak
 If Flatpak is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
 
-Once setup is complete you can find Glimpse by searching in your distribution's software center. Alternatively you can install it manually at the command line:
+Once setup is complete you can find Glimpse by searching in your distribution's software center, or you can click on this button:
+<a href="https://flathub.org/apps/details/org.glimpse_editor.Glimpse">
+    <img src="/static/flathub-badge-en.svg" alt="Flathub badge" height="90">
+</a>
+
+Alternatively you can install it manually at the command line:
 ```
 $ flatpak install flathub org.glimpse_editor.Glimpse
 ```
