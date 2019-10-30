@@ -33,7 +33,7 @@ Glimpse 0.1.0 is supported on [mainstream distribution](https://www.distrowatch.
 #### Other third-party sources
 These packages and provided by the wider community. They are not directly supported by the Glimpse project, so please raise any bugs you encounter with those sources directly.
 
-* Glimpse 0.1 on Snapcraft (Stable)
+* Glimpse 0.1.0 on Snapcraft (Stable)
 * Glimpse DEV on Snapcraft (Edge)
 * Glimpse DEV on AUR
 
