@@ -24,11 +24,19 @@ Glimpse 0.1.0 is supported on systems running Windows 7 or later. If you are not
 ### Linux
 Glimpse 0.1.0 is supported on [mainstream distribution](https://www.distrowatch.com/) releases that still receive security updates through their package managers.
 
-#### Flatpak
-*Installation instructions for Flatpak*
+#### Glimpse 0.1.0 Flatpak
+If Flatpak is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
 
-#### AppImage
-*Installation instructions for AppImage*
+Once setup is complete you can find Glimpse by searching in your distribution's software center. Alternatively you can install it manually at the command line:
+```
+$ flatpak install flathub org.glimpse_editor.Glimpse
+```
+
+#### Glimpse 0.1.0 AppImage
+[Torrent](#) | [Direct download](#)
+*Sha256: yyfghyegfyegfygefygfeijijirjfijrfirjf*
+
+Simply download the file, set executable permissions and then run it from your home directory.
 
 #### Other third-party sources
 These packages and provided by the wider community. They are not directly supported by the Glimpse project, so please raise any bugs you encounter with those sources directly.
