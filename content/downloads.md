@@ -35,7 +35,7 @@ These packages and provided by the wider community. They are not directly suppor
 
 * Glimpse 0.1.0 on Snapcraft (Stable)
 * Glimpse DEV on Snapcraft (Edge)
-* Glimpse DEV on AUR
+* [`glimpse-editor-git`](https://aur.archlinux.org/packages/glimpse-editor-git/) in the AUR
 
 ### MacOS
 The Glimpse project does not support the MacOS platform at this time. We recommend you use the [Seashore](https://en.wikipedia.org/wiki/Seashore_%28software%29) variant of the GNU Image Manipulation Program instead.
