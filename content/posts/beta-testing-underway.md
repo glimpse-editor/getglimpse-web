@@ -63,15 +63,6 @@ We know the project will probably take a financial hit when we do this, but we f
 
 If there is positive feedback for the idea, we may also encourage individual contributors to host their own Patreon campaigns and PayPal links so they can still receive contributions from those of you who prefer those platforms.
 
-## Release numbering change
-On a related note, the project has also changed its future development plans based on what we have collectively learned over the last few months. We originally intended that 0.x would be based on GNU Image Manipulation Program 2.10.x, 1.x would be based on GNU Image Manipulation Program 3.x, and 2.x would be our own rewrite.
-
-We have made the decision to not re-fork the GNU Image Manipulation Program when it reaches version 3.x. Realistically, we do not have the people and resources needed to recreate all the changes and tooling we have produced over the last four months again to make that major update (and its entirely new build processes) a worthwhile end product.
-
-Instead we believe it makes more sense to stick to the 2.10.x base, and make that as stable and "long term supportable" as possible while also adding our own changes to it. 1.0 should be released towards the second half of 2020, assuming the 0.x releases that are produced before then are stable and well-received.
-
-The "UI rewrite" running in parallel will continue unhindered, and we hope to see some initial alpha-level prototypes some time in 2020.
-
 ## Reaching out to Facebook users
 You will now find the Glimpse project [on Facebook](https://fb.me/glimpse.editor). Bobby Moss is currently maintaining that page, and this is another part of our outreach efforts to users outside the free software community. It should also assist with our efforts to improve the project's search engine optimization (SEO).
 
