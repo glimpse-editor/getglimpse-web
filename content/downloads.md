@@ -41,6 +41,6 @@ These packages and provided by the wider community. They are not directly suppor
 The Glimpse project does not support the MacOS platform at this time. We recommend you use the [Seashore](https://en.wikipedia.org/wiki/Seashore_%28software%29) variant of the GNU Image Manipulation Program instead.
 
 ### Build our code
-We have provided instructions for building the Glimpse source code on our project wiki: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
+We have provided instructions for building and packaging the Glimpse source code on our project wiki: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
 
 You can also test out our beta releases by following these instructions: https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse
