@@ -43,4 +43,4 @@ The Glimpse project does not support the MacOS platform at this time. We recomme
 ### Build our code
 We have provided instructions for building and packaging the Glimpse source code on our project wiki: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
 
-You can also test out our beta releases by following these instructions: https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse
+You can also test out our development releases by following these instructions: https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse
