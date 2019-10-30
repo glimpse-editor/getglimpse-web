@@ -164,7 +164,7 @@ On Windows, you can safely install and run both applications at the same time.
 
 On Linux, the Flatpak and AppImage builds that we support and maintain are fully self-contained and should not interfere with any installed versions of the GNU Image Manipulation Program. If you discover that is not the case on your system, please [report it as a bug](https://github.com/glimpse-editor/Glimpse/issues).
 
-If you are using a Linux build from a third party source that we do not directly support (such as Snapcraft, AUR or your distribution's package repositories) then you need to ask the people responsible for packaging it.
+If you are using a Linux build from a third party source that we do not directly support (such as Snapcraft, AUR or your distribution's package repositories) then you need to ask the people responsible for maintaining it.
 
 [Return to top](#contents)
 
