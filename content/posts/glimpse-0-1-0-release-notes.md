@@ -14,15 +14,14 @@ We are also pleased to announce that we have donated $50 to the GNU Image Manipu
 *Add a screenshot here*
 
 ## Installation
-GNU/Linux users can install Glimpse 0.1.0 as a Flatpak from the Flathub repository. There are also a number of additional installation options detailed on our [Downloads](/downloads/) page.
+GNU/Linux users can install Glimpse 0.1.0 as a Flatpak from the Flathub repository or an AppImage. There are also a number of additional installation options detailed on our [Downloads](/downloads/) page.
 
-Windows users have a choice of 32-bit or 64-bit MSI files, and we chose that type of installer to assist businesses and schools using centralised software management systems. We have also provided ZIP files for those who would prefer to run the software from a portable USB flash drive. These can also be found on the [Downloads](/downloads/) page.
+Windows users have a choice of 32-bit or 64-bit MSI files, and we chose that type of installer to assist businesses and schools using centralised software management systems. We have also provided a ZIP file for those who would prefer to run the software from a portable USB flash drive. These can also be found on the [Downloads](/downloads/) page.
 
 ## Known Issues
-* Linux AppImage is delayed until late October/early November 2019
 * We do not support MacOS at this time
 * GUI still links to the upstream help pages
-* Manpages in the terminal have not been updated
+* Man pages in the terminal have not been updated
 * The Wilber mascot is still present in some parts of the GUI
 * For upstream compatibility purposes the underlying code still uses the "GIMP" name for many code files, classes, libraries, methods and command line flags
 
