@@ -115,10 +115,12 @@ We would like to say a special thank you to all of our financial backers on [Ope
 * Brandon 'Spanky' Mills
 * G Cowell
 * Gino H
+* Jeffrey Corgan
 * Joe Mooring
 * Kevin Rodriguez
 * nitrohorse
 * Pagrus
+* Sam Muirhead
 * Samuel Pickard
 * Stan Sorochan
 * Transmutable
