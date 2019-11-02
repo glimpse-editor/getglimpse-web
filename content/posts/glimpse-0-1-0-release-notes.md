@@ -104,6 +104,7 @@ We would like to thank everyone who contributed towards making Glimpse 0.1.0 a s
 * Kretz
 * Loren Dias
 * Massimo D'Ambrogio
+* Matthew -Mongo- Williams
 * Roberts-Loux Foundation
 * Sami Mannila
 
