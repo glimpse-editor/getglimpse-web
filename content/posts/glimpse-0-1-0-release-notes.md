@@ -11,8 +11,6 @@ This project was started on Friday 5th July 2019 by a small group of fediverse u
 
 We are also pleased to announce that in October 2019 we donated $50 to the GNU Image Manipulation Program as part of our commitment to share a portion of the donations we receive for each new release with them. We hope in future this amount will increase and be augmented with new bug fixes and features from our own contributors.
 
-*Add a screenshot here*
-
 ## Installation
 GNU/Linux users can install Glimpse 0.1.0 as a Flatpak from the Flathub repository or an AppImage. There are also a number of additional installation options detailed on our [Downloads](/downloads/) page.
 
@@ -126,5 +124,3 @@ We would like to say a special thank you to all of our financial backers on [Ope
 * Stan Sorochan
 * Transmutable
 * Violet Leonard
-
-*Add a screenshot here*
