@@ -1,15 +1,15 @@
 ---
 title: "Glimpse 0.1.0 Release Notes"
-date: 2019-10-30T18:00:00+01:00
+date: 2019-11-10T18:00:00+01:00
 draft: false
 ---
 **DRAFT PLACEHOLDER DO NOT PUBLISH**
 
 This is the very first binary release for Glimpse Image Editor. The primary objective was to complete the re-brand, remove obvious distractions from the user interface, learn the various technologies involved and lay the groundwork for future development.
 
-This project was started on Friday 5th July 2019 by a small group of fediverse users who had never even set eyes on the upstream code before. Over the last three months we have been overwhelmed by the support we have received from over 1000 social media followers across Twitter and Mastodon, 28 regular financial backers across Patreon and Open Collective, and the 80+ people who joined our public Matrix channel to volunteer their expertise and ensure we make good decisions. We would like to thank everyone that helped us achieve our objectives, and we hope we can keep the momentum going as we start to plan what comes next in Glimpse 0.2.
+This project was started on Friday 5th July 2019 by a small group of fediverse users who had never even set eyes on the upstream code before. Over the last four months we have been overwhelmed by the support we have received from over 1000 social media followers across Twitter and Mastodon, dozens of financial backers across Patreon and Open Collective, and over 100 people who have joined our public Matrix channel to volunteer their expertise and ensure we make good decisions. We would like to thank everyone that helped us achieve our objectives, and we hope we can keep the momentum going as we start to plan what comes next in Glimpse 0.2.0.
 
-We are also pleased to announce that we have donated $50 to the GNU Image Manipulation Program as part of our commitment to share at least 10% of the donations we receive for each new release with them. We hope in future this amount will increase and be augmented with new bug fixes and features from our own contributors.
+We are also pleased to announce that in October 2019 we donated $50 to the GNU Image Manipulation Program as part of our commitment to share a portion of the donations we receive for each new release with them. We hope in future this amount will increase and be augmented with new bug fixes and features from our own contributors.
 
 *Add a screenshot here*
 
@@ -20,10 +20,10 @@ Windows users have a choice of 32-bit or 64-bit MSI files, and we chose that typ
 
 ## Known Issues
 * We do not support MacOS at this time
-* GUI still links to the upstream help pages
+* There is no native 64-bit installer for Windows (use the 32-bit one instead)
 * Man pages in the terminal have not been updated
-* The Wilber mascot is still present in some parts of the GUI
 * For upstream compatibility purposes the underlying code still uses the "GIMP" name for many code files, classes, libraries, methods and command line flags
+* There is still a lot of "code cleanup" that needs doing
 
 ## New Features
 Glimpse 0.1.0 is based on [GNU Image Manipulation Program 2.10.12](https://www.gimp.org/news/2019/06/12/gimp-2-10-12-released/). It also uses the following dependency package versions:
@@ -36,10 +36,11 @@ Glimpse 0.1.0 is based on [GNU Image Manipulation Program 2.10.12](https://www.g
 * Translation files, code & build files updated so "Glimpse" is displayed throughout the UI, executables and packages
 * Changed the default UI behaviour for a cleaner look
 * Replaced application logo and window/taskbar icons
-* Replaced Windows save file icon
+* Replaced "wilber eek" logo with a new application logo
 * Replaced initial splash screen
 * Updated upstream icon themes to include our own iconography
-* Replaced links in the "Help" menu
+* Replaced some links in the "Help" menu
+* Removed links to upstream help pages and documentation
 * Updated the About window
 * Removed code for upstream "easter eggs"
 * Refactored version strings and compatibility notices in file save dialog
@@ -52,7 +53,7 @@ Glimpse 0.1.0 is based on [GNU Image Manipulation Program 2.10.12](https://www.g
 * Updated the Flatpak build process and removed webkit build step for dev releases
 * Provided support for Snapcrafters to package the code through their third party distribution channel
 * Added Travis CI support to sanity check and test builds in version control
-* Created new Windows installers with the WiX toolset
+* Created a new 32-bit Windows installer with the WiX toolset
 
 ### Developer Assistance
 * Added BABL, GEGl and MyPaint dependencies as git submodules pre-set at the current tagged releases
@@ -69,9 +70,10 @@ Glimpse 0.1.0 is based on [GNU Image Manipulation Program 2.10.12](https://www.g
 * Added our own metadata for built and packaged executables
 * Removed "Color" icons (duplicates "Legacy")
 * Removed "Gray" UI theme (duplicates "System")
-* Updated or replaced GNOME-specific metadata files
+* Provided our own Flatpak and GNOME desktop metadata
 * Maintained compatibility with existing GNU IMP v2.x plug-ins
 * Refactored "Created with GIMP" notice to "Created with Glimpse" in the default save file metadata
+* Replaced Windows save file metadata icon
 
 *Add a screenshot here*
 
