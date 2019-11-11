@@ -16,7 +16,7 @@ We are also pleased to announce that in October 2019 we donated $50 to the GNU I
 ## Installation
 GNU/Linux users can install Glimpse 0.1.0 as a Flatpak from the Flathub repository or an AppImage. There are also a number of additional installation options detailed on our [Downloads](/downloads/) page.
 
-Windows users have a choice of 32-bit or 64-bit MSI files, and we chose that type of installer to assist businesses and schools using centralised software management systems. We have also provided a ZIP file for those who would prefer to run the software from a portable USB flash drive. These can also be found on the [Downloads](/downloads/) page.
+Windows users can use an MSI files to install Glimpse 0.1.0 on 32-bit and 64-bit systems running Windows 7 or later. We chose that type of installer to assist businesses and schools using centralised software management systems. This can also be found on the [Downloads](/downloads/) page.
 
 ## Known Issues
 * We do not support MacOS at this time
