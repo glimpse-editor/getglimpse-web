@@ -16,7 +16,7 @@ We are also pleased to announce that in October 2019 we donated $50 to the GNU I
 ## Installation
 GNU/Linux users can install Glimpse 0.1.0 as a Flatpak from the Flathub repository or an AppImage. There are also a number of additional installation options detailed on our [Downloads](/downloads/) page.
 
-Windows users can use an MSI files to install Glimpse 0.1.0 on 32-bit and 64-bit systems running Windows 7 or later. We chose that type of installer to assist businesses and schools using centralised software management systems. This can also be found on the [Downloads](/downloads/) page.
+Windows users can use an MSI file to install Glimpse 0.1.0 on 32-bit and 64-bit systems running Windows 7 or later. We chose that type of installer to assist businesses and schools using centralised software management systems. This can also be found on the [Downloads](/downloads/) page.
 
 ## Known Issues
 * We do not support MacOS at this time
@@ -34,7 +34,7 @@ Glimpse 0.1.0 is based on [GNU Image Manipulation Program 2.10.12](https://www.g
 
 ### Graphical User Interface
 * Translation files, code & build files updated so "Glimpse" is displayed throughout the UI, executables and packages
-* Changed the default UI behaviour for a cleaner look
+* Changed the default UI behaviour for a cleaner/more professional look
 * Replaced application logo and window/taskbar icons
 * Replaced "wilber eek" logo with a new application logo
 * Replaced initial splash screen
