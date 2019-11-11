@@ -7,7 +7,7 @@ menu: "main"
 The latest release is Glimpse 0.1.0, and it is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-1-0-released/)
 
 ### Windows
-Glimpse 0.1.0 is supported on systems running Windows 7 or later.
+Glimpse 0.1.0 is supported on 32-bit and 64-bit systems running Windows 7 or later.
 
 #### Glimpse 0.1.0 installer
 [Torrent](#) | [Direct download](#) | *Sha256: yyfghyegfyegfygefygfeijijirjfijrfirjf*
