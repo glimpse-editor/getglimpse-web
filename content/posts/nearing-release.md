@@ -8,9 +8,9 @@ Instead of providing a weekly reminder of our social media and project links acr
 ## Release tentatively scheduled for Friday 22nd November 2019
 As the subtitle suggests we are "penciling in" a release date before the Thanksgiving holiday season in the United States. That is intended to assist our American contributors and ensure the release is not delayed because of winter festivities held around the world.
 
-We are aiming for a "code freeze" on Monday 18th November 2019, and the timeline after that will depend on how quickly we can complete our documentation and how long it takes to submit the Glimpse Image Editor to Flathub and the Windows Store.
+We are aiming for a "code freeze" on Monday 18th November 2019, and the timeline after that will depend on how quickly we can complete our documentation and how long it takes to submit Glimpse Image Editor to Flathub and the Windows Store.
 
-We would like to thank everyone who has donated and contributed to the Glimpse project so far, and encourage our supporters to help us now with a final push to make the Glimpse Image Editor available to the wider public.
+We would like to thank everyone who has donated and contributed to the Glimpse project so far, and encourage our supporters to help us now with a final push to make Glimpse available to the wider public.
 
 ## Snap community support solved
 We are pleased to say that there will be a Snapcraft version of Glimpse 0.1 at launch! Thanks to the excellent efforts of Heather Ellsworth and psymole we now have changes merged into the codebase and [a Wiki page](https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse/Linux#Package_as_a_Snap) explaining how to package our application as a Snap.
