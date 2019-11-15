@@ -24,6 +24,5 @@ menu: "main"
 
 ## Donate
  * [Open Collective](https://opencollective.com/glimpse)
- * [Patreon](https://www.patreon.com/glimpse)
 
  We also recommend donating to [GNU Image Manipulation Program](https://www.gimp.org/donating/), the upstream project on which this fork relies.
