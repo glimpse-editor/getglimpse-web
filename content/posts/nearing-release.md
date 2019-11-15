@@ -43,7 +43,7 @@ Bobby Moss has fixed a number of issues raised during beta testing such as "GIMP
 With assistance from Clipsey and Mathieu Bridon a fix has also been applied so Glimpse Image Editor can run at the same time as GNU Image Manipulation Program on a Windows machine.
 
 ## The "Glimpse" naming discussion is finally over!
-We have now [closed the issue](https://github.com/glimpse-editor/Glimpse/issues?page=2&q=is%3Aissue+is%3Aclosed) where people were robustly discussing if we should stick with "Glimpse" as a project name or not.
+We have now [closed the issue](https://github.com/glimpse-editor/Glimpse/issues?page=2&q=is%3Aissue+is%3Aclosed) where people were robustly discussing if we should stick with "Glimpse" as a product name or not.
 
 That controversy originally started after [a well-known YouTuber](https://www.youtube.com/watch?v=CV1HZU4KFHc) expressed negative opinions about our project's name, and we spent *two entire weeks* in August being aggressively lobbied around the clock on our communication channels by people repeating that YouTuber's views to us verbatim and subsequently getting frustrated if we pointed out any flaws or practical issues with the points they were raising.
 
