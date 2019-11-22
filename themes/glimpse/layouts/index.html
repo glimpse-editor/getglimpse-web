@@ -32,7 +32,7 @@
                         <h2 class="text-muted">{{ .header }}</h4>
                         <p>{{ .summary }}</p>
                     </div>
-                    <div class="col-md {{ if modBool $index 2 }}order-sm-first{{ end }}">
+                    <div class="col-md {{ if modBool $index 2 }}order-last order-md-first{{ end }}">
                         <img class="border img-fluid rounded" src="/{{ .image }}" alt="{{ .alt }}"> 
                     </div>
               </div>
