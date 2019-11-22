@@ -76,7 +76,7 @@ instances of the GNU Image Manipulation Program
 * Added our own metadata for built and packaged executables
 * Removed "Color" icons (duplicates "Legacy")
 * Removed "Gray" UI theme (duplicates "System")
-* Provided our own appstream metadata
+* Provided our own AppStream metadata
 * Maintained compatibility with existing GNU I.M.P v2.x plug-ins
 * Refactored "Created with GIMP" notice to "Created with Glimpse" in the
 default save file metadata
