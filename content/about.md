@@ -39,7 +39,9 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 
 The free software we produce is called "Glimpse Image Editor", but we sometimes shorten this to just "Glimpse". In particular we refer to ourselves as "the Glimpse project". Our followers, community partners and donors are "the Glimpse Community".
 
-[Return to top](#contents)## Did you know that name is used elsewhere? {#did-you-know-that-name-is-used-elsewhere}
+[Return to top](#contents)
+
+## Did you know that name is used elsewhere? {#did-you-know-that-name-is-used-elsewhere}
 We are aware of a number of other unrelated projects called "Glimpse". We have made changes based on feedback from our critics such as changing our website's domain name and defining "Glimpse" as a shortened version of "Glimpse Image Editor".
 
 The project's current stance is that while we are open to changing our name, there is very limited support in favour of actually doing so. We have granted our critics time to find an alternative name that addresses the concerns they raised, fulfils our project's requirements and enjoys popular support, but even with our assistance they have so far not been able to do so. If a new name is not found before 1.0 is released then we will consider the matter closed.
