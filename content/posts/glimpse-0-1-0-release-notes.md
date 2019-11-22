@@ -94,7 +94,6 @@ We would like to thank everyone who contributed towards making Glimpse 0.1.0 a s
 * Clipsey
 
 ### Code Contributors
-* Cynthia Revström
 * Heather Ellsworth
 * igalic
 * Mathieu Bridon
