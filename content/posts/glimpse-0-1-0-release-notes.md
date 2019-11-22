@@ -3,16 +3,14 @@ title: "Glimpse 0.1.0 Release Notes"
 date: 2019-11-22T12:16:00+01:00
 draft: false
 ---
-**DRAFT PLACEHOLDER DO NOT PUBLISH**
-
 This is the very first binary release for Glimpse Image Editor. The primary objective was to complete the re-brand, remove obvious distractions from the user interface, learn the various technologies involved and lay the groundwork for future development.
 
-This project was started on Friday 5th July 2019 by a small group of fediverse users who had never even set eyes on the upstream code before. Over the last four months we have been overwhelmed by the support we have received from over 1000 social media followers across [Twitter](https://twitter.com/glimpse_editor) and [the fediverse](https://en.wikipedia.org/wiki/Fediverse), dozens of financial backers across Patreon and [Open Collective](https://opencollective.com/glimpse), and over 100 people who have joined [our public Matrix channel](https://glimpse-editor.org/about/[#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org)) to volunteer their expertise and ensure we make good decisions. We would like to thank everyone that helped us achieve our objectives, and we hope we can keep the momentum going as we start to plan what comes next in Glimpse 0.2.0.
+This project was started on Friday 5th July 2019 by a small group of [fediverse](https://en.wikipedia.org/wiki/Fediverse) users who had never even set eyes on the upstream code before. Over the last four months we have been overwhelmed by the support we have received from over 1000 social media followers across [Twitter](https://twitter.com/glimpse_editor) and [Mastodon](https://bobadon.co.uk/@glimpse), dozens of financial backers across Patreon and [Open Collective](https://opencollective.com/glimpse), and over 100 people who have joined [our public Matrix channel](https://glimpse-editor.org/about/[#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org)) to volunteer their expertise and ensure we make good decisions. We would like to thank everyone that helped us achieve our objectives, and we hope we can keep the momentum going as we start to plan what comes next in Glimpse 0.2.0.
 
 We are also pleased to announce that in October 2019 we [donated $50 to the GNU Image Manipulation Program](https://opencollective.com/glimpse/expenses/10167) as part of our commitment to share a portion of the donations we receive for each new release with them. We hope in future this amount will increase and be augmented with new bug fixes and features from our own contributors.
 
 ## Installation
-GNU/Linux users can install Glimpse 0.1.0 as a Flatpak from the Flathub repository. There are also a number of additional installation options detailed on our [Downloads](/downloads/) page.
+GNU/Linux users can install Glimpse 0.1.0 as a Flatpak from the Flathub repository. There are also a number of additional installation options for Linux detailed on our [Downloads](/downloads/) page.
 
 Windows users can use an MSI file to install Glimpse 0.1.0 on 32-bit and 64-bit systems running Windows 7 or later. We chose that type of installer to assist businesses and schools using centralised software management systems. This can also be found on the [Downloads](/downloads/) page.
 
@@ -86,7 +84,7 @@ default save file metadata
 * Re-branded categories used in Plug-in and Procedure browsers
 
 ## Credits
-We would like to thank everyone who contributed towards making Glimpse 0.1.0 a success, particularly those unnamed individuals who spread the word about our project on social media, shared their feature requests with us and provided feedback to the development team during the beta testing phase.
+We would like to thank everyone who contributed towards making Glimpse 0.1.0 a success, particularly those unnamed individuals who spread the word about our project on social media, shared their feature requests with us and provided feedback to the development team during the beta testing phase.🤫
 
 ### Creator
 * Bobby Moss
