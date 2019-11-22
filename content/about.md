@@ -10,8 +10,8 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 ### Introduction
 - [What is the correct name for your project?](#what-is-the-correct-name-for-your-project)
 - [Did you know that name is used elsewhere?](#did-you-know-that-name-is-used-elsewhere)
-- [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
 - [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
+- [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
 - [What initially motivated you to fork?](#why-are-you-forking)
 - [Are you just forking because of the name?](#are-you-just-forking-because-of-the-name)
 - [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
@@ -47,13 +47,6 @@ We are aware of a number of other unrelated projects called "Glimpse". We have m
 The project's current stance is that while we are open to changing our name, there is very limited support in favour of actually doing so. We granted our critics time to find an alternative name that addresses the concerns they raised, fulfils our project's requirements and enjoys popular support. Even with our assistance they were been able to do so, so for the time being we consider the matter closed.
 
 See ["How does your project govern itself?"](#how-does-this-project-govern-itself) for more details about why we now limit discussion about this topic on our Matrix channels.
-
-[Return to top](#contents)
-
-## What if I find the word "Glimpse" offensive? {#what-if-i-find-the-word-glimpse-offensive}
-That seems unlikely given we checked its meaning in every known language, but if you have a legitimate concern then let us know.
-
-If you are offended by the fact we renamed the project, we suggest you continue using the [GNU Image Manipulation Program](https://www.gimp.org) instead of annoying our contributors and making more work for our moderators.
 
 [Return to top](#contents)
 
