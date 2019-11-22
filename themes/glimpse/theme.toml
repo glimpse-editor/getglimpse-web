@@ -1,0 +1,12 @@
+# `theme.toml` for Hugo
+
+name = "Glimpse Hugo Theme"
+license = "MIT"
+description = "The theme for https://glimpse-editor.org."
+homepage = "https://github.com/glimpse-editor/getglimpse-web"
+tags = ["website", "custom", "tailored", "product"]
+min_version = "0.43.0"
+
+[author]
+    name = "Christopher Davis"
+    homepage = "https://github.com/BrainBlasted"

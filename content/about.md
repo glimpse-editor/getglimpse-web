@@ -31,6 +31,8 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [How does your project govern itself?](#how-does-this-project-govern-itself)
 - [What are all the Matrix channels for?](#what-are-all-the-matrix-channels-for)
 
+---
+
 ## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
 If English is not your first language, then you may not have realised that the word "gimp" is problematic. In some countries it is considered a slur against disabled people and a playground insult directed at unpopular children. It can also be linked to certain "after dark" activities performed by consenting adults.
 
