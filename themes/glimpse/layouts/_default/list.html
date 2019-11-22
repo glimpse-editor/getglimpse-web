@@ -1,14 +1,22 @@
 {{ define "main" }}
-    <div class="container my-5">
-        <h1 class="mb-3">{{ .Title }}</h1>
-        <hr />
-        {{ range .Pages.ByDate.Reverse }}
-        <div>
-            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-            {{ if .Params.summary }}
-                <p>{{ .Params.summary }}</p>
+    <div class="mb-5">
+        <div class="text-center text-white" style="background-color: #000000;">
+            <h1 class="mb-3">{{ .Title }}</h1>
+            <hr />
+        </div>
+        <div class="justify-content-center row mx-2 mx-md-0 mt-5">
+            {{ range .Paginator.Pages.ByDate.Reverse }}
+            <div class="col-12 col-md-5 col-lg-3 card m-2 p-4">
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <p class="text-muted">{{ .PublishDate.Format "Jan 2, 2006" }}</p>
+                <div class="text-muted">
+                {{ .Summary  | safeHTML | truncate 160 }}
+                </div>
+            </div>
             {{ end }}
         </div>
-        {{ end }}
+        <div class="d-flex justify-content-center m-4">
+        {{- template "_internal/pagination.html" . -}}
+        </div>
     </div>
 {{ end }}
