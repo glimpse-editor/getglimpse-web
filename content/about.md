@@ -44,25 +44,7 @@ The free software we produce is called "Glimpse Image Editor", but we sometimes 
 ## Did you know that name is used elsewhere? {#did-you-know-that-name-is-used-elsewhere}
 We are aware of a number of other unrelated projects called "Glimpse". We have made changes based on feedback from our critics such as changing our website's domain name and defining "Glimpse" as a shortened version of "Glimpse Image Editor".
 
-The project's current stance is that while we are open to changing our name, there is very limited support in favour of actually doing so. We have granted our critics time to find an alternative name that addresses the concerns they raised, fulfils our project's requirements and enjoys popular support, but even with our assistance they have so far not been able to do so. If a new name is not found before 1.0 is released then we will consider the matter closed.
-
-If you feel strongly that we should change the project name or have name suggestions of your own, we recommend you add them to this Github Issue so they can be more easily tracked by those following this discussion: https://github.com/glimpse-editor/Glimpse/issues/92
-
-See ["How does your project govern itself?"](#how-does-this-project-govern-itself) for more details about why we now limit discussion about this topic on our Matrix channels.
-
-[Return to top](#contents)
-
-## What if I find the word "Glimpse" offensive? {#what-if-i-find-the-word-glimpse-offensive}
-That seems unlikely given we checked its meaning in every known language, but if you have a legitimate concern then let us know.
-
-If you are offended by the fact we renamed the project, we suggest you continue using the [GNU Image Manipulation Program](https://www.gimp.org) instead of annoying our contributors and making more work for our moderators.
-
-[Return to top](#contents)
-
-## Did you know that name is used elsewhere? {#did-you-know-that-name-is-used-elsewhere}
-We are aware of a number of other unrelated projects called "Glimpse". We have made changes based on feedback from our critics such as changing our website's domain name and defining "Glimpse" as a shortened version of "Glimpse Image Editor".
-
-The project's current stance is that while we are open to changing our name, there is very limited support in favour of actually doing so. We have granted our critics time to find an alternative name that addresses the concerns they raised, fulfils our project's requirements and enjoys popular support, but even with our assistance they have so far not been able to do so. If a new name is not found before 1.0 is released then we will consider the matter closed.
+The project's current stance is that while we are open to changing our name, there is very limited support in favour of actually doing so. We granted our critics time to find an alternative name that addresses the concerns they raised, fulfils our project's requirements and enjoys popular support, but even with our assistance they were been able to do so. We now consider the matter closed.
 
 If you feel strongly that we should change the project name or have name suggestions of your own, we recommend you add them to this Github Issue so they can be more easily tracked by those following this discussion: https://github.com/glimpse-editor/Glimpse/issues/92
 
