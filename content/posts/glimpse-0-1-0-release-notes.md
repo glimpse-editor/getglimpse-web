@@ -84,7 +84,7 @@ default save file metadata
 * Re-branded categories used in Plug-in and Procedure browsers
 
 ## Credits
-We would like to thank everyone who contributed towards making Glimpse 0.1.0 a success, particularly those unnamed individuals who spread the word about our project on social media, shared their feature requests with us and provided feedback to the development team during the beta testing phase.🤫
+We would like to thank everyone who contributed towards making Glimpse 0.1.0 a success, particularly those unnamed individuals who spread the word about our project on social media, shared their feature requests with us and provided feedback to the development team during the beta testing phase.
 
 ### Creator
 * Bobby Moss
