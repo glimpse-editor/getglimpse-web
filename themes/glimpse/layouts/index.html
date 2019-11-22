@@ -10,7 +10,7 @@
                         <a class="btn btn-light btn-lg my-2" href="/downloads/" role="button">Download &raquo;</a>
                     </p>
                     {{ else }}
-                    <p class="lead">Downloads available now for Windows and Linux</p>
+                    <p class="lead">Downloads coming soon for Windows and Linux</p>
                     <p class="lead">
                         <a class="btn btn-light btn-lg my-2" href="/posts/" role="button">Read Our Blog &raquo;</a>
                     </p>
@@ -18,12 +18,12 @@
                 </div>
                 <div class="col-md">
                     {{ with $.Site.Data.index.hero }}
-                    <img class="img-fluid rounded" src="/{{ .image }}" alt="{{ .alt }}">
+                    <img class="img-fluid rounded" src="/{{ .image }}" alt="{{ .alt }}"> 
                     {{ end }}
                 </div>
             </div>
           </div>
-      </div>
+      </div>  
       <div class="container">
           <h3 class="text-center">Overview</h3>
           {{ range $index, $features := $.Site.Data.index.features }}
@@ -33,7 +33,7 @@
                         <p>{{ .summary }}</p>
                     </div>
                     <div class="col-md {{ if modBool $index 2 }}order-last order-md-first{{ end }}">
-                        <img class="border img-fluid rounded" src="/{{ .image }}" alt="{{ .alt }}">
+                        <img class="border img-fluid rounded" src="/{{ .image }}" alt="{{ .alt }}"> 
                     </div>
               </div>
           {{ end }}
