@@ -29,7 +29,7 @@ $ flatpak install flathub org.glimpse_editor.Glimpse
 ```
 
 #### Community-supported sources
-These packages and provided by third parties in the wider Glimpse community. We sometimes merge changes to the codebase they provide us with but they are not directly supported by the Glimpse project.
+These packages are provided by third parties in the wider Glimpse community. We sometimes merge changes to the codebase they provide us with but they are not directly supported by the Glimpse project.
 
 * [Glimpse](https://snapcraft.io/glimpse-editor) on Snapcraft
 * [`glimpse-editor-git`](https://aur.archlinux.org/packages/glimpse-editor-git/) in the AUR
