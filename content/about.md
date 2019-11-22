@@ -17,9 +17,6 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
-- [Why do you need monetary donations?](#why-do-you-need-monetary-donations)
-- [How do I stay up-to-date with this project?](#how-do-i-stay-up-to-date-with-this-project)
-- [How do I contribute to this project?](#how-do-i-contribute-to-this-project)
 
 ### Technical Questions
 - [Which operating systems do you support?](#which-operating-systems-do-you-support)
@@ -32,6 +29,9 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [Where is the Glimpse code of conduct?](#where-is-the-glimpse-code-of-conduct)
 - [How does your project govern itself?](#how-does-this-project-govern-itself)
 - [What are all the Matrix channels for?](#what-are-all-the-matrix-channels-for)
+- [Why do you need monetary donations?](#why-do-you-need-monetary-donations)
+- [How do I stay up-to-date with this project?](#how-do-i-stay-up-to-date-with-this-project)
+- [How do I contribute to this project?](#how-do-i-contribute-to-this-project)
 
 ---
 
@@ -124,29 +124,6 @@ There are early plans to write a new GUI front-end with more modern technologies
 
 [Return to top](#contents)
 
-## Why do you need monetary donations? {#why-do-you-need-monetary-donations}
-Just like many other free software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand and reward our contributors for the value they add.
-
-If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse).
-
-We also encourage those who want to support the GNU Image Manipulation Program to use [their donation page](https://www.gimp.org/donating/) to do so.
-
-[Return to top](#contents)
-
-## How do I stay up-to-date with this project? {#how-do-i-stay-up-to-date-with-this-project}
-You can follow us on [the fediverse](https://bobadon.co.uk/@glimpse) and [Twitter](https://twitter.com/glimpse_editor). This blog also has a full text [RSS feed](https://getglimpse.app/index.xml). We also recently setup a [Facebook page](fb.me/glimpse.editor).
-
-Our [Open Collective](https://opencollective.com/glimpse) backers also get regular updates about the project. Our more in-depth daily discussions can be viewed [on Matrix]([#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org)).
-
-[Return to top](#contents)
-
-## How do I contribute to this project? {#how-do-i-contribute-to-this-project}
-All of our contribution links are available on our [Contribute](/contribute/) page.
-
-Please ensure that you read our [code of conduct](/code-of-conduct/) before you join our community. Regardless of your past experience and the usefulness of your contributions you are expected to comply with it.
-
-[Return to top](#contents)
-
 ## Which operating systems do you support? {#which-operating-systems-do-you-support}
 We support systems running Windows 7 or newer, and modern variants of GNU/Linux.
 
@@ -233,5 +210,28 @@ All of our channels are on matrix.org. You can get access to the invite-only cha
 - **#glimpse-2x**: Focussed discussion for the Glimpse 2.x "UI rewrite" working group
 - **#glimpse-contributors**: "Glimpse Contributors" channel for core contributors. Only people listed in our `AUTHORS` file are eligible to join.
 - **#glimpse-admin**: "Glimpse Admin" channel for our moderators to support each other. This is a private channel used by members of the governance team.
+
+[Return to top](#contents)
+
+## Why do you need monetary donations? {#why-do-you-need-monetary-donations}
+Just like many other free software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand and reward our contributors for the value they add.
+
+If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse).
+
+We also encourage those who want to support the GNU Image Manipulation Program to use [their donation page](https://www.gimp.org/donating/) to do so.
+
+[Return to top](#contents)
+
+## How do I stay up-to-date with this project? {#how-do-i-stay-up-to-date-with-this-project}
+You can follow us on [the fediverse](https://bobadon.co.uk/@glimpse) and [Twitter](https://twitter.com/glimpse_editor). This blog also has a full text [RSS feed](https://getglimpse.app/index.xml). We also recently setup a [Facebook page](fb.me/glimpse.editor).
+
+Our [Open Collective](https://opencollective.com/glimpse) backers also get regular updates about the project. Our more in-depth daily discussions can be viewed [on Matrix]([#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org)).
+
+[Return to top](#contents)
+
+## How do I contribute to this project? {#how-do-i-contribute-to-this-project}
+All of our contribution links are available on our [Contribute](/contribute/) page.
+
+Please ensure that you read our [code of conduct](/code-of-conduct/) before you join our community. Regardless of your past experience and the usefulness of your contributions you are expected to comply with it.
 
 [Return to top](#contents)
