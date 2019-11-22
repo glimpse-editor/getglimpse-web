@@ -17,7 +17,9 @@
                     {{ end }}
                 </div>
                 <div class="col-md">
-                    <img class="img-fluid rounded" src="/glimpse-main-screenshot.png" alt=""> 
+                    {{ with $.Site.Data.index.hero }}
+                    <img class="img-fluid rounded" src="/{{ .image }}" alt="{{ .alt }}"> 
+                    {{ end }}
                 </div>
             </div>
           </div>
@@ -31,7 +33,7 @@
                         <p>{{ .summary }}</p>
                     </div>
                     <div class="col-md {{ if modBool $index 2 }}order-sm-first{{ end }}">
-                        <img class="border img-fluid rounded" src="/{{ .image }}" alt=""> 
+                        <img class="border img-fluid rounded" src="/{{ .image }}" alt="{{ .alt }}"> 
                     </div>
               </div>
           {{ end }}

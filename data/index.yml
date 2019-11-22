@@ -1,8 +1,14 @@
+hero:
+  image: 'glimpse-main-screenshot.png'
+  alt: 'A screenshot of Glimpse showing a photo of an African-American woman smiling'
+
 features:
   - header: 'Show Off Your Imagination'
     summary: 'Use a complete set of professional photography tools to turn your snapshots into works of art. Adjust, crop,
     remove objects, retouch, and repair old photos. Play with color, effects, and more to turn the ordinary into something extraordinary.'
     image: 'amy-shamblen-koYklSUjAXc-unsplash.jpg'
+    alt: 'A picture of multiple flowers on a yellow background'
   - header: 'For Any Blemish'
     summary: 'Fix common imperfections like red eye, lens distortion, and more with the powerful corrective tools Glimpse provides.'
     image: 'architecture-binoculars-buildings-3043593.jpg'
+    alt: 'A picture showing an image before and after correcting lens distortion'
