@@ -1,6 +1,6 @@
 ---
 title: "Glimpse 0.1.0 Release Notes"
-date: 2019-11-10T18:00:00+01:00
+date: 2019-11-22T12:16:00+01:00
 draft: false
 ---
 **DRAFT PLACEHOLDER DO NOT PUBLISH**
