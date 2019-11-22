@@ -11,10 +11,10 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [What is the correct name for your project?](#what-is-the-correct-name-for-your-project)
 - [Did you know that name is used elsewhere?](#did-you-know-that-name-is-used-elsewhere)
 - [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
-- [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
 - [What initially motivated you to fork?](#why-are-you-forking)
 - [Are you just forking because of the name?](#are-you-just-forking-because-of-the-name)
 - [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
+- [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
 - [Why do you need monetary donations?](#why-do-you-need-monetary-donations)
@@ -53,23 +53,7 @@ See ["How does your project govern itself?"](#how-does-this-project-govern-itsel
 ## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
 If English is not your first language, then you may not have realised that the word "gimp" is problematic. In some countries it is considered a slur against disabled people and a playground insult directed at unpopular children. It can also be linked to certain "after dark" activities performed by consenting adults.
 
-You may think that this is "political correctness gone mad" and that those who have been complaining about it for more than a decade are "over-sensitive", but this choice does have real-life consequences. In addition to the pain it can cause to marginalized communities many of us have our own free software advocacy stories about the GNU Image Manipulation Program not being taken## Did you know that name is used elsewhere? {#did-you-know-that-name-is-used-elsewhere}
-We are aware of a number of other unrelated projects called "Glimpse". We have made changes based on feedback from our critics such as changing our website's domain name and defining "Glimpse" as a shortened version of "Glimpse Image Editor".
-
-The project's current stance is that while we are open to changing our name, there is very limited support in favour of actually doing so. We have granted our critics time to find an alternative name that addresses the concerns they raised, fulfils our project's requirements and enjoys popular support, but even with our assistance they have so far not been able to do so. If a new name is not found before 1.0 is released then we will consider the matter closed.
-
-If you feel strongly that we should change the project name or have name suggestions of your own, we recommend you add them to this Github Issue so they can be more easily tracked by those following this discussion: https://github.com/glimpse-editor/Glimpse/issues/92
-
-See ["How does your project govern itself?"](#how-does-this-project-govern-itself) for more details about why we now limit discussion about this topic on our Matrix channels.
-
-[Return to top](#contents)
-
-## What if I find the word "Glimpse" offensive? {#what-if-i-find-the-word-glimpse-offensive}
-That seems unlikely given we checked its meaning in every known language, but if you have a legitimate concern then let us know.
-
-If you are offended by the fact we renamed the project, we suggest you continue using the [GNU Image Manipulation Program](https://www.gimp.org) instead of annoying our contributors and making more work for our moderators.
-
-[Return to top](#contents) seriously as an option by bosses or colleagues in professional settings.
+You may think that this is "political correctness gone mad" and that those who have been complaining about it for more than a decade are "over-sensitive", but this choice does have real-life consequences. In addition to the pain it can cause to marginalized communities many of us have our own free software advocacy stories about the GNU Image Manipulation Program not being taken seriously as an option by bosses or colleagues in professional settings.
 
 Educational institutions and public libraries may feel unable to provide or recommend the program to students due to possible legal or moral concerns. It can also be difficult for a teacher to keep a class of school-age children disciplined and focussed if they are distracted by the name of the computer program they have been asked to use.
 
@@ -90,14 +74,9 @@ It is unfortunate that we have to fork the whole project to change the name, but
 
 No, but it did provide the motivation for many of us to fork the project in the first place.
 
-We all love the GNU Image Manipulation Program, but it only has finite## Did you know that name is used elsewhere? {#did-you-know-that-name-is-used-elsewhere}
-We are aware of a number of other unrelated projects called "Glimpse". We have made changes based on feedback from our critics such as changing our website's domain name and defining "Glimpse" as a shortened version of "Glimpse Image Editor".
+We all love the GNU Image Manipulation Program, but it only has finite resources and so has to prioritise some changes over others. Decisions may have also been made historically for sound reasons that need to be revisited but cannot for the same reason. This can mean that good user interface improvements and functional changes that the community suggests can go unaddressed for years.
 
-The project's current stance is that while we are open to changing our name, there is very limited support in favour of actually doing so. We have granted our critics time to find an alternative name that addresses the concerns they raised, fulfils our project's requirements and enjoys popular support, but even with our assistance they have so far not been able to do so. If a new name is not found before 1.0 is released then we will consider the matter closed.
-
-If you feel strongly that we should change the project name or have name suggestions of your own, we recommend you add them to this Github Issue so they can be more easily tracked by those following this discussion: https://github.com/glimpse-editor/Glimpse/issues/92
-
-See ["How does your project govern itself?"](#how-does-this-project-govern-itself) for more details about why we now limit discussion about this topic on our Matrix channels.
+What this project aims to do is inject some new ideas, energy, contributions and money into a tool that most of us take for granted. We also want to expand the adoption of a great piece of free software.
 
 [Return to top](#contents)
 
