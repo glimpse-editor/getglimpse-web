@@ -1,6 +1,6 @@
 ---
 title: "Glimpse 0.1.0 Release Notes"
-date: 2019-11-22T12:16:00+01:00
+date: 2019-11-22T12:16:00+00:00
 draft: false
 ---
 This is the very first binary release for Glimpse Image Editor. The primary objective was to complete the re-brand, remove obvious distractions from the user interface, learn the various technologies involved and lay the groundwork for future development.
