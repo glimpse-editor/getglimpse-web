@@ -184,7 +184,7 @@ We have been overwhelmed by the positive support we have received, and that is c
 
 That was a choice made early on for entirely practical reasons such as project discoverability, ease-of-use, user familiarity and cost.
 
-As a project we are aware some people have ethical concerns about using Github, and that other projects shows up above us in [the search results](https://github.com/search?utf8=%E2%9C%93&q=glimpse&type=). For those reasons we periodically discuss how our contributors feel about using it, as well as the merits and drawbacks of potential alternatives.
+As a project we are aware some people have ethical concerns about using Github, and that other projects appear above us in [the search results](https://github.com/search?utf8=%E2%9C%93&q=glimpse&type=). For those reasons we periodically discuss how our contributors feel about using it, as well as the merits and drawbacks of potential alternatives.
 
 There are no immediate plans to move our code or mirror it elsewhere, but we are not opposed to the idea.
 
