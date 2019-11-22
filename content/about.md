@@ -14,7 +14,6 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [What initially motivated you to fork?](#why-are-you-forking)
 - [Are you just forking because of the name?](#are-you-just-forking-because-of-the-name)
 - [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
-- [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
 
@@ -24,6 +23,7 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [Will you contribute changes back upstream?](#will-you-contribute-changes-back-upstream)
 - [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
 - [Why are you using Github instead of Gitlab?](#why-are-you-using-github-instead-of-gitlab)
+- [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 
 ### Project Governance
 - [Where is the Glimpse code of conduct?](#where-is-the-glimpse-code-of-conduct)
@@ -86,20 +86,6 @@ What this project aims to do is inject some new ideas, energy, contributions and
 That seems unlikely given we checked its meaning in every known language, but if you have a legitimate concern then let us know.
 
 If you are offended by the fact we renamed the project, we suggest you continue using the [GNU Image Manipulation Program](https://www.gimp.org) instead of annoying our contributors and making more work for our moderators.
-
-[Return to top](#contents)
-
-## Could you just run "find and replace" to fix the name? {#could-you-just-run-find-and-replace-to-fix-the-name}
-
-We could, but that would completely destroy plug-in compatibility and break the upstream subcomponents on which we rely. That would also cause serious problems with all the build scripts and be very time-consuming to fix.
-
-To preserve compatibility we had to maintain existing file names, variable names, constants, class names, methods and APIs. This meant we had to provide our own files, variables and constants, then identify where we wanted to use them, swap in those values wherever that did not break compatibility, and find a suitable replacement wherever we referred to upstream code that we had not modified (we settled on "GNU I.M.P"). That cannot be achieved by just using find-and-replace tools or regular expressions.
-
-In addition to changing the name we also wanted to change the project logo. We commissioned an artist to do that for us, and subsequently had to make code fixes to the application to swap in our own art assets.
-
-Finally, we also had to ensure that our changes were applied appropriately in the existing translation files and did not break the automated mechanisms in the build systems that keep them up-to-date.
-
-In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarly, the reason why this project is not just "one man and his Github repository" is because we do have other objectives and intend to create free software that other people actually want to use.
 
 [Return to top](#contents)
 
@@ -166,6 +152,20 @@ That was a choice made early on for entirely practical reasons such as project d
 As a project we are aware some people have ethical concerns about using Github, and that other projects appear above us in [the search results](https://github.com/search?utf8=%E2%9C%93&q=glimpse&type=). For those reasons we periodically discuss how our contributors feel about using it, as well as the merits and drawbacks of potential alternatives.
 
 There are no immediate plans to move our code or mirror it elsewhere, but we are not opposed to the idea.
+
+[Return to top](#contents)
+
+## Could you just run "find and replace" to fix the name? {#could-you-just-run-find-and-replace-to-fix-the-name}
+
+We could, but that would completely destroy plug-in compatibility and break the upstream subcomponents on which we rely. That would also cause serious problems with all the build scripts and be very time-consuming to fix.
+
+To preserve compatibility we had to maintain existing file names, variable names, constants, class names, methods and APIs. This meant we had to provide our own files, variables and constants, then identify where we wanted to use them, swap in those values wherever that did not break compatibility, and find a suitable replacement wherever we referred to upstream code that we had not modified (we settled on "GNU I.M.P"). That cannot be achieved by just using find-and-replace tools or regular expressions.
+
+In addition to changing the name we also wanted to change the project logo. We commissioned an artist to do that for us, and subsequently had to make code fixes to the application to swap in our own art assets.
+
+Finally, we also had to ensure that our changes were applied appropriately in the existing translation files and did not break the automated mechanisms in the build systems that keep them up-to-date.
+
+In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarly, the reason why this project is not just "one man and his Github repository" is because we do have other objectives and intend to create free software that other people actually want to use.
 
 [Return to top](#contents)
 
