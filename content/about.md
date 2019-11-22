@@ -105,7 +105,7 @@ In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarl
 
 ## Do you intend to replace the GNU Image Manipulation Program? {#do-you-intend-to-replace-the-gnu-image-manipulation-program}
 
-No, this project does not intend to supplant the GNU Image Manipulation Program. You may have noticed we already link to their donations page throughout our documentation and we periodically donate a portion of our own funds to the upstream project.
+No, this project does not intend to supplant the GNU Image Manipulation Program. You may have noticed we already link to [their donations page](https://www.gimp.org/donating/) throughout our documentation and we periodically donate a portion of our own funds to the upstream project.
 
 This project is also run entirely by passionate enthusiasts. Development on the GNU Image Manipulation Program will continue as normal with same core group of developers and be entirely unhindered by this project.
 
