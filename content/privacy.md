@@ -2,7 +2,6 @@
 title: "Privacy Policy"
 date: 2019-07-13T16:19:01+01:00
 draft: false
-menu: "main"
 ---
 The Glimpse Image Editor is free software, and the full source code can be reviewed and audited on Github: https://github.com/glimpse-editor/Glimpse
 
