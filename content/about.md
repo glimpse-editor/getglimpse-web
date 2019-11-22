@@ -37,7 +37,7 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 
 ## What is the correct name for your project? {#what-is-the-correct-name-for-your-project}
 
-The free software we produce is called "Glimpse Image Editor", but we sometimes shorten that to just "Glimpse". We refer to ours governance structure, core contributors and participants on our Matrix channel as "the Glimpse project". Our social media followers, community partners, donors and end users are "the Glimpse Community".
+The free software we produce is called "Glimpse Image Editor", but we sometimes shorten that to just "Glimpse". We refer to ours governance structure, core contributors and participants on our Matrix channel as "the Glimpse project". Our social media followers, third party packagers, donors and end users are "the Glimpse Community".
 
 If you are a blogger or a member of the technology industry press, we do not yet have branding guidelines in place. However we have provided screenshots, our branding assets and instructions for their basic usage here: https://github.com/glimpse-editor/branding
 
