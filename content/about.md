@@ -13,8 +13,8 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
 - [What initially motivated you to fork?](#why-are-you-forking)
 - [Are you just forking because of the name?](#are-you-just-forking-because-of-the-name)
-- [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 - [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
+- [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
 - [Why do you need monetary donations?](#why-do-you-need-monetary-donations)
@@ -80,6 +80,17 @@ What this project aims to do is inject some new ideas, energy, contributions and
 
 [Return to top](#contents)
 
+## What if I find the word "Glimpse" offensive? {#what-if-i-find-the-word-glimpse-offensive}
+That seems unlikely given we checked its meaning in every known language, but if you have a legitimate concern then let us know.
+
+If you are offended by the fact we renamed the project, we suggest you continue using the [GNU Image Manipulation Program](https://www.gimp.org) instead of annoying our contributors and making more work for our moderators.
+
+[Return to top](#contents) resources and so has to prioritise some changes over others. Decisions may have also been made historically for sound reasons that need to be revisited but cannot for the same reason. This can mean that good user interface improvements and functional changes that the community suggests can go unaddressed for years.
+
+What this project aims to do is inject some new ideas, energy, contributions and money into a tool that most of us take for granted. We also want to expand the adoption of a great piece of free software.
+
+[Return to top](#contents)
+
 ## Could you just run "find and replace" to fix the name? {#could-you-just-run-find-and-replace-to-fix-the-name}
 
 We could, but that would completely destroy plug-in compatibility and break the upstream subcomponents on which we rely. That would also cause serious problems with all the build scripts and be very time-consuming to fix.
@@ -91,17 +102,6 @@ In addition to changing the name we also wanted to change the project logo. We c
 Finally, we also had to ensure that our changes were applied appropriately in the existing translation files and did not break the automated mechanisms in the build systems that keep them up-to-date.
 
 In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarly, the reason why this project is not just "one man and his Github repository" is because we do have other objectives and want to create free software that other people actually want to use.
-
-[Return to top](#contents)
-
-## What if I find the word "Glimpse" offensive? {#what-if-i-find-the-word-glimpse-offensive}
-That seems unlikely given we checked its meaning in every known language, but if you have a legitimate concern then let us know.
-
-If you are offended by the fact we renamed the project, we suggest you continue using the [GNU Image Manipulation Program](https://www.gimp.org) instead of annoying our contributors and making more work for our moderators.
-
-[Return to top](#contents) resources and so has to prioritise some changes over others. Decisions may have also been made historically for sound reasons that need to be revisited but cannot for the same reason. This can mean that good user interface improvements and functional changes that the community suggests can go unaddressed for years.
-
-What this project aims to do is inject some new ideas, energy, contributions and money into a tool that most of us take for granted. We also want to expand the adoption of a great piece of free software.
 
 [Return to top](#contents)
 
