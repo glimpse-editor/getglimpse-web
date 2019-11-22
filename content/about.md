@@ -99,7 +99,7 @@ In addition to changing the name we also wanted to change the project logo. We c
 
 Finally, we also had to ensure that our changes were applied appropriately in the existing translation files and did not break the automated mechanisms in the build systems that keep them up-to-date.
 
-In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarly, the reason why this project is not just "one man and his Github repository" is because we do have other objectives and want to create free software that other people actually want to use.
+In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarly, the reason why this project is not just "one man and his Github repository" is because we do have other objectives and intend to create free software that other people actually want to use.
 
 [Return to top](#contents)
 
