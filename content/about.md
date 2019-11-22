@@ -17,7 +17,6 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
-
 - [Why do you need monetary donations?](#why-do-you-need-monetary-donations)
 - [How do I stay up-to-date with this project?](#how-do-i-stay-up-to-date-with-this-project)
 - [How do I contribute to this project?](#how-do-i-contribute-to-this-project)
