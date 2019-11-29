@@ -6,9 +6,9 @@ menu: "main"
 ---
 The latest release is Glimpse Image Editor 0.1.0, and it is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-1-0-release-notes/)
 
-![Screenshot with dark theme](/flatpak/0.1/dark-theme1.png)
+![Screenshot with dark theme](/flatpak/0.1/dark-theme1.png =250x)
 
-![Screenshot with light theme](/flatpak/0.1/light-theme2.png)
+![Screenshot with light theme](/flatpak/0.1/light-theme2.png =250x)
 
 ### Windows
 Glimpse Image Editor 0.1.0 is supported on 32-bit and 64-bit systems running Windows 7 or later.
