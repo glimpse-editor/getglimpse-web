@@ -6,8 +6,6 @@ menu: "main"
 ---
 The latest release is Glimpse Image Editor 0.1.0, and it is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-1-0-release-notes/)
 
-{{< figure src="/flatpak/0.1/dark-theme1.png" title="Crop and transform images in just a few clicks" width="500px" >}}
-
 ### Windows
 Glimpse Image Editor 0.1.0 is supported on 32-bit and 64-bit systems running Windows 7 or later.
 
@@ -19,7 +17,7 @@ Glimpse Image Editor 0.1.0 is supported on 32-bit and 64-bit systems running Win
 
 **Please note:** the "unsigned" installer is provided for troubleshooting purposes only. It will trigger security warnings from Windows SmartScreen and your installed anti-virus program.
 
-{{< figure src="/flatpak/0.1/light-theme2.png" title="Apply professional filters and create animations" width="500px" >}}
+{{< figure src="/flatpak/0.1/dark-theme1.png" link="/flatpak/0.1/dark-theme1.png" alt="Crop and transform images in just a few clicks" width="500px" >}}
 
 ### Linux
 We distribute Glimpse Image Editor 0.1.0 on Flathub. If Flatpak is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
@@ -40,6 +38,8 @@ These packages are provided by third parties in the wider Glimpse community. We 
 
 * [Glimpse](https://snapcraft.io/glimpse-editor) on Snapcraft
 * [`glimpse-editor-git`](https://aur.archlinux.org/packages/glimpse-editor-git/) in the AUR
+
+{{< figure src="/flatpak/0.1/light-theme2.png" link="/flatpak/0.1/light-theme2.png" alt="Apply professional filters and create animations" width="500px" >}}
 
 ### MacOS
 The Glimpse project does not support the MacOS platform at this time. We recommend you use the [Seashore](https://en.wikipedia.org/wiki/Seashore_%28software%29) variant of the GNU Image Manipulation Program instead.
