@@ -47,7 +47,7 @@ Work is also ongoing to provide Glimpse Image Editor 0.2.0 as a [Linux AppImage]
 
 We may also publish this release in [the Windows Store](https://github.com/glimpse-editor/Glimpse/issues/180) to increase awareness about our application among Windows users, and ensure Glimpse is available to people running locked-down versions of that operating system. It would be zero-cost to download and the user experience would be the same.
 
-After receiving user feedback we also intend to [restore the Color icon theme](https://github.com/glimpse-editor/Glimpse/issues/232) to the user interface.
+After receiving user feedback we also intend to [restore the Color icon theme](https://github.com/glimpse-editor/Glimpse/issues/232) as an option for the user interface.
 
 We are also reviewing how to [support the CMYK colour space](https://github.com/glimpse-editor/Glimpse/issues/252) and [add attribution in the front end UI](https://github.com/glimpse-editor/Glimpse/issues/179) for upstream contributors and translators.
 
