@@ -39,7 +39,7 @@ It is also possible that we will resolve missing Python plug-in support in the W
 You can see a full list of bugs we may potentially fix in 0.1.x bug-fix releases [in this milestone](https://github.com/glimpse-editor/Glimpse/milestone/6).
 
 ## Plans for Glimpse Image Editor 0.2.0
-There is no firm timeline on when this will be released, but we anticipate it will arrive some time around March/April 2020.
+There is no firm timeline on when this will be released, but we anticipate it will arrive some time around March/April 2020. It will also be based on [GNU Image Manipulation Program 2.10.14](https://www.gimp.org/news/2019/10/31/gimp-2-10-14-released/).
 
 Due to new information we have received from upstream, we are hopeful that 0.2.0 will be the first release [that supports macOS](https://github.com/glimpse-editor/Glimpse/issues/227).
 
