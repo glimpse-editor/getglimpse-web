@@ -60,7 +60,7 @@ We now only accept donations to the project through [Open Collective](https://op
 
 ### Benefits from our perspective
 * Fewer costs
-* Less time spent managing backer rewards
+* Easier management of backer rewards
 * More than one person can administrate our fundraising campaign
 
 ### Benefits for our donors
