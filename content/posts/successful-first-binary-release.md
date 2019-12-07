@@ -49,7 +49,7 @@ We may also publish this release in [the Windows Store](https://github.com/glimp
 
 After receiving user feedback we also intend to [restore the Color icon theme](https://github.com/glimpse-editor/Glimpse/issues/232) as an option for the user interface.
 
-We are also reviewing how to [support the CMYK colour space](https://github.com/glimpse-editor/Glimpse/issues/252) and [add attribution in the front end UI](https://github.com/glimpse-editor/Glimpse/issues/179) for upstream contributors and translators.
+We are also reviewing how to [support the CMYK color space](https://github.com/glimpse-editor/Glimpse/issues/252) and [add attribution in the front end UI](https://github.com/glimpse-editor/Glimpse/issues/179) for upstream contributors and translators.
 
 You can see the full list of candidate issues [in this milestone](https://github.com/glimpse-editor/Glimpse/milestone/5). Be aware that our plans are subject to change depending on which blockers we encounter.
 
