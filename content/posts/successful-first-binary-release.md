@@ -70,7 +70,7 @@ We now only accept donations to the project through [Open Collective](https://op
 
 ### Benefits for the wider community
 * You can scrutinize how much money the project receives and from whom
-* You can view itemized spending records and which individuals are paying for things on our behalf.
+* You can view itemized spending records and which individuals are paying for things on our behalf
 * You can have confidence that an established 501c charity based in the United States with a proven track record is reviewing our expense claims and raised invoices before they are paid
 
 ### Patreon cash transfers
