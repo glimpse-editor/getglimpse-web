@@ -15,11 +15,13 @@ There have so far been 3497 downloads from our own directly-supported channels.
 We would like to thank everyone that has tried out this release so far, and particularly those who have raised bugs and made feature suggestions.
 
 ### Breakdown by platform and channel
-Unsigned Windows installer: 2035
-Signed Windows installer: 290
+* Unsigned Windows installer: 2035
+* Signed Windows installer: 290
+
 *Source: http://www.somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse*
 
-Linux Flatpak: 1172
+* Linux Flatpak: 1172
+
 *Source: https://gitlab.com/ahayzen/flathub-api-stats-generator*
 
 ### Community channels
