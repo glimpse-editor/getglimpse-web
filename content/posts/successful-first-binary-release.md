@@ -43,7 +43,7 @@ There is no firm timeline on when this will be released, but we anticipate it wi
 
 Due to new information we have received from upstream, we are hopeful that 0.2.0 will be the first release [that supports macOS](https://github.com/glimpse-editor/Glimpse/issues/227).
 
-Work is also ongoing to provide Glimpse Image Editor 0.2.0 as a [Linux AppImage](https://github.com/glimpse-editor/Glimpse/issues/108) and verify if there are any missing components from the current Windows installer.
+Work is also ongoing to provide Glimpse Image Editor 0.2.0 as a [Linux AppImage](https://github.com/glimpse-editor/Glimpse/issues/108). We may also submit this release [to the Windows Store](https://github.com/glimpse-editor/Glimpse/issues/180) so Glimpse is available to people running locked-down versions of Windows.
 
 After receiving user feedback we also intend to [restore the Color icon theme](https://github.com/glimpse-editor/Glimpse/issues/232) to the user interface.
 
