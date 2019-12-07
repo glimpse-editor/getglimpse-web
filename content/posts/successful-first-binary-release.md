@@ -5,7 +5,7 @@ draft: false
 ---
 **DO NOT PUBLISH: WORK IN PROGRESS**
 
-On Friday 22nd November 2019 we were pleased to announce our version first binary release, Glimpse Image Editor 0.1.0. You can try it out for yourself on [our downloads page](/downloads/).
+On Friday 22nd November 2019 we were pleased to announce our first binary release, Glimpse Image Editor 0.1.0. You can try it out for yourself on [our downloads page](/downloads/).
 
 We are also pleased to announced that on Friday 29th November 2019 we released a new "signed" installer for the Windows platform. The previous "unsigned" version is still provided for troubleshooting purposes.
 
@@ -34,7 +34,7 @@ We are hopeful that we will produce our first bug-fix release in January 2020.
 
 The fixes will primarily relate to changes that were not applied to foreign translations, and parts of the user interface that were not correctly changed as part of the rebrand.
 
-It is also possible that we will resolve missing Python plug-in support in the Windows version of Glimpse Image Editor 0.1.0, but as that is [an upstream documentation bug](https://github.com/glimpse-editor/Glimpse/issues/178) it may take some time to resolve and be pushed out to a later release.
+It is also possible that we will resolve missing Python plug-in support in the Windows version of Glimpse Image Editor 0.1.0, but as that is [an upstreamhttps://deploy-preview-67--competent-wright-57cc1e.netlify.com/posts/successful-first-binary-release/ documentation bug](https://github.com/glimpse-editor/Glimpse/issues/178) it may take some time to resolve and be pushed out to a later release.
 
 You can see a full list of bugs we may potentially fix in 0.1.x bug-fix releases [in this milestone](https://github.com/glimpse-editor/Glimpse/milestone/6).
 
@@ -45,7 +45,7 @@ Due to new information we have received from upstream, we are hopeful that 0.2.0
 
 Work is also ongoing to provide Glimpse Image Editor 0.2.0 as a [Linux AppImage](https://github.com/glimpse-editor/Glimpse/issues/108).
 
-We may also publish this release in [the Windows Store](https://github.com/glimpse-editor/Glimpse/issues/180) to increase awareness about our application among Windows users, and ensure Glimpse is available to people running locked-down versions of that operating system. It would be zero-cost to download and the user experience would be the same.
+We may also publish this release in [the Windows Store](https://github.comhttps://deploy-preview-67--competent-wright-57cc1e.netlify.com/posts/successful-first-binary-release//glimpse-editor/Glimpse/issues/180) to increase awareness about our application among Windows users, and ensure Glimpse is available to people running locked-down versions of that operating system. It would be zero-cost to download and the user experience would be the same.
 
 After receiving user feedback we also intend to [restore the Color icon theme](https://github.com/glimpse-editor/Glimpse/issues/232) as an option for the user interface.
 
