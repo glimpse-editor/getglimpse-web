@@ -30,7 +30,7 @@ Heather Ellsworth has reported that there has been an additional xxxx downloads 
 We do not have figures for [AUR](https://aur.archlinux.org/packages/glimpse-editor-git/), but as that distribution channel follows development branch they would not be applicable to the stable release count.
 
 ## Plans for Glimpse Image Editor 0.1.1
-We are hopeful that we will produce our first bug-fix release in January 2020. These will continue to be applied on the [GNU Image Manipulation Program 2.10.12](https://www.gimp.org/news/2019/06/12/gimp-2-10-12-released/) codebase.
+We are hopeful that we will produce our first bug-fix release in January 2020. These fixes will be applied on the [GNU Image Manipulation Program 2.10.12](https://www.gimp.org/news/2019/06/12/gimp-2-10-12-released/) base we currently use.
 
 The fixes will primarily relate to changes that were not applied to foreign translations, and parts of the user interface that were not correctly changed as part of the rebrand.
 
