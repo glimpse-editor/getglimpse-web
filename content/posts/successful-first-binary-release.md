@@ -56,7 +56,7 @@ You can see the full list of candidate issues [in this milestone](https://github
 ## We closed our Patreon account
 As we have mentioned in previous blog posts, we went ahead with our planned decision to close down our Patreon donation account on Friday 6th December 2019.
 
-We now only accept donations to the project through [Open Collective](https://opencollective.com/glimpse). That will mean we miss out on donations from that platform in future, but we think the loss of revenue is outweighed by the advantages.
+We now only accept donations to the project through [Open Collective](https://opencollective.com/glimpse). That means we will now miss out on the donations we were receiving from Patreon (effectively halving the amount we receive each month), but we think the loss of revenue is outweighed by the advantages.
 
 Benefits from our perspective:
 * Fewer costs
