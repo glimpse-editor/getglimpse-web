@@ -51,7 +51,7 @@ After receiving user feedback we also intend to [restore the Color icon theme](h
 
 We are also reviewing how to [support the CMYK color space](https://github.com/glimpse-editor/Glimpse/issues/252) and [add attribution in the front end UI](https://github.com/glimpse-editor/Glimpse/issues/179) for upstream contributors and translators.
 
-You can see the full list of candidate issues [in this milestone](https://github.com/glimpse-editor/Glimpse/milestone/5). Be aware that our plans are subject to change depending on which blockers we encounter and the contributions we receive.
+You can see the full list of candidate issues [in this milestone](https://github.com/glimpse-editor/Glimpse/milestone/5). Be aware that our plans are subject to change depending on the contributions we receive and which blockers we encounter.
 
 ## We closed our Patreon account
 As we have mentioned in previous blog posts, we went ahead with our planned decision to close down our Patreon donation account on Friday 6th December 2019.
