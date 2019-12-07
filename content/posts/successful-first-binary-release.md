@@ -74,7 +74,7 @@ We now only accept donations to the project through [Open Collective](https://op
 * You can have confidence that an established 501c charity based in the United States with a proven track record is reviewing our expense claims and raised invoices before they are disbursed
 
 ### Patreon cash transfers
-All the money we received through Patreon has been transferred over the past few months, and those transactions are listed under an "Incognito" user that is currently recorded as the top backer.
+All the money we received through Patreon has been transferred to Open Collective over the past few months, and those transactions are listed under an "Incognito" user that is currently recorded as the top backer.
 
 Our project's founder has also donated $100 over the last six months to cover the various fees and costs associated with those transfers, and ensured that our spending records on Open Collective cover every transaction since the project started on Friday 5th July 2019.
 
