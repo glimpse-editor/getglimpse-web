@@ -34,7 +34,7 @@ We are hopeful that we will produce our first bug-fix release in January 2020.
 
 The fixes will primarily relate to changes that were not applied to foreign translations, and parts of the user interface that were not correctly changed as part of the rebrand.
 
-It is also possible that we will resolve missing Python plug-in support in the Windows version of Glimpse Image Editor 0.1.0, but as that is [an upstreamhttps://deploy-preview-67--competent-wright-57cc1e.netlify.com/posts/successful-first-binary-release/ documentation bug](https://github.com/glimpse-editor/Glimpse/issues/178) it may take some time to resolve and be pushed out to a later release.
+It is also possible that we will resolve missing Python plug-in support in the Windows version of Glimpse Image Editor 0.1.0, but as that is [an upstream documentation bug](https://github.com/glimpse-editor/Glimpse/issues/178) it may take some time to resolve and be pushed out to a later release.
 
 You can see a full list of bugs we may potentially fix in 0.1.x bug-fix releases [in this milestone](https://github.com/glimpse-editor/Glimpse/milestone/6).
 
