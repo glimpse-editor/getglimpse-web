@@ -60,7 +60,7 @@ a project may be further defined and clarified by project maintainers.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting any member of the project leadership (sometimes called
-"the governing team") on Matrix: [TrechNex](https://matrix.to/#/@treacherousnexus:matrix.org), [BrainBlasted](https://matrix.to/#/@brainblasted:disroot.org), [Clipsey](https://matrix.to/#/@clipsey:matrix.org).
+"the governing team") on Matrix: [TrechNex](https://matrix.to/#/@treacherousnexus:matrix.org), [BrainBlasted](https://matrix.to/#/@brainblasted:disroot.org), [Clipsey](https://matrix.to/#/@clipsey:pixie.town).
 
 All complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project leadership
