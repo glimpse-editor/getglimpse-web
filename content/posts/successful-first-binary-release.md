@@ -58,25 +58,27 @@ As we have mentioned in previous blog posts, we went ahead with our planned deci
 
 We now only accept donations to the project through [Open Collective](https://opencollective.com/glimpse). That means we will now miss out on the donations we were receiving from Patreon (effectively halving the amount we receive each month), but we think the loss of revenue is outweighed by the advantages.
 
-Benefits from our perspective:
+### Benefits from our perspective
 * Fewer costs
 * Less time spent managing backer rewards
 * More than one person can administrate our fundraising campaign
 
-Benefits for our donors:
+### Benefits for our donors
 * There's now the option to donate with a one-off payment *or* a monthly subscription
 * US citizens can record contributions as a charitable donation for tax purposes
 * The ability to review how we spend backer money helps potential donors make an informed decision before contributing
 
-Benefits for the wider community:
+### Benefits for the wider community
 * You can scrutinize how much money the project receives and who from
 * You can view itemized spending records and which individuals are paying for things on our behalf.
 * You can have confidence that an established 501(c) charity based in the United States with a proven track record is reviewing our expense claims and raised invoices before they are disbursed
 
+### Patreon cash transfers
 All the money we received through Patreon has been transferred over the past few months, and those transactions are listed under an "Incognito" user that is currently recorded as the top backer.
 
 Our project's founder has also donated $100 over the last six months to cover the various fees and costs associated with those transfers, and ensured that our spending records on Open Collective cover every transaction since the project started on Friday 5th July 2019.
 
+### Thank you to everyone who has donated so far
 We believe we have gone above and beyond what most other free software projects are willing to do in this situation, and we have done that to ensure the wider community can have confidence in our motives and intentions. If you have any concerns, then you are welcome to raise them with our governance team on [our Matrix channel](https://matrix.to/#/#glimpse:matrix.org).
 
 And, as usual, we encourage people to also [donate to the upstream project](https://www.gimp.org/donating/) to support the excellent work we rely on to make Glimpse Image Editor happen.
