@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About (FAQs)"
 date: 2019-11-12T13:54:00+00:00
 draft: false
 menu: "main"
