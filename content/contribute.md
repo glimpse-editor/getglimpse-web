@@ -33,5 +33,3 @@ Please note that we do not monitor or moderate these links, and cannot guarantee
 **If you choose to use these communication channels, you do so at your own risk.**
 
 * [Reddit](https://www.reddit.com/r/GlimpseEditor/)
-
-
