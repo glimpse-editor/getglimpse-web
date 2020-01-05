@@ -18,7 +18,7 @@ menu: "main"
 
 ## News
  * [Facebook](https://fb.me/glimpse.editor)
- * [Mastodon](https://bobadon.co.uk/@glimpse)
+ * [Mastodon](https://mastodon.art/@glimpse)
  * [RSS](../posts/index.xml)
  * [Twitter](https://twitter.com/glimpse_editor)
 

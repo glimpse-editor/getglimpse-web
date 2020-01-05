@@ -195,7 +195,7 @@ While they might make some time-sensitive moderation decisions as individuals, a
 
 No decision is ever set in stone and can be revisited if new information comes to light or there is enough support within the project to do so. The governance team will generally only block the re-opening of an issue or delay a decision if the discussion is becoming too heated or obstructs the day-to-day running of the project.
 
-There are currently three people in our governance team: [Bobby Moss](https://mastodon.sdf.org/@trechnex) (started the fork), [Christopher Davis](https://social.libre.fi/users/brainblasted) (posted the renaming issue on upstream gitlab repository) and [Clipsey](https://bobadon.co.uk/@clipsey) (started the "UI rewrite" planning).
+There are currently three people in our governance team: [Bobby Moss](https://mastodon.sdf.org/@trechnex) (started the fork), [Christopher Davis](https://social.libre.fi/users/brainblasted) (posted the renaming issue on upstream gitlab repository) and [Clipsey](https://social.pixie.town/@Clipsey) (started the "UI rewrite" planning).
 
 Finally, the project may from time to time run polls on social media to canvas opinion for specific issues if there is support for doing so. They are always non-binding and only intended to facilitate the existing decision-making process.
 
@@ -223,7 +223,7 @@ We also encourage those who want to support the GNU Image Manipulation Program t
 [Return to top](#contents)
 
 ## How do I stay up-to-date with this project? {#how-do-i-stay-up-to-date-with-this-project}
-You can follow us on [the fediverse](https://bobadon.co.uk/@glimpse) and [Twitter](https://twitter.com/glimpse_editor). This blog also has a full text [RSS feed](https://getglimpse.app/index.xml). We also recently setup a [Facebook page](fb.me/glimpse.editor).
+You can follow us on [the fediverse](https://mastodon.art/@glimpse) and [Twitter](https://twitter.com/glimpse_editor). This blog also has a full text [RSS feed](https://getglimpse.app/index.xml). We also recently setup a [Facebook page](fb.me/glimpse.editor).
 
 Our [Open Collective](https://opencollective.com/glimpse) backers also get regular updates about the project. Our more in-depth daily discussions can be viewed [on Matrix]([#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org)).
 
