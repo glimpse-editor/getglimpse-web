@@ -28,7 +28,7 @@ menu: "main"
  We also recommend donating to [GNU Image Manipulation Program](https://www.gimp.org/donating/), the upstream project on which this fork relies.
 
 ## Community Supported Channels
-We welcome members of our community starting their own support forums and communication channels.
+We welcome members of our community starting their own unofficial support forums and communication channels.
 Please note that we do not monitor or moderate these links, and cannot guarantee they are a safe and welcoming environment for everyone.
 **If you choose to use these communication channels, you do so at your own risk.**
 
