@@ -1,6 +1,6 @@
 ---
 title: "Contribute"
-date: 2019-09-29T06:11:00+01:00
+date: 2020-01-05T12:00:00+00:00
 draft: false
 menu: "main"
 ---
@@ -26,3 +26,12 @@ menu: "main"
  * [Open Collective](https://opencollective.com/glimpse)
 
  We also recommend donating to [GNU Image Manipulation Program](https://www.gimp.org/donating/), the upstream project on which this fork relies.
+
+## Community Supported Channels
+We welcome members of our community starting their own support forums and communication channels.
+Please note that we do not monitor or moderate these links, and cannot guarantee they are a safe and welcoming environment for everyone.
+**If you choose to use these communication channels, you do so at your own risk.**
+
+* [Reddit](https://www.reddit.com/r/GlimpseEditor/)
+
+
