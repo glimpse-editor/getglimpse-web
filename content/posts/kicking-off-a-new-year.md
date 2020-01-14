@@ -40,7 +40,7 @@ Anticipated features include:
 It will continue to be based on the GNU Image Manipulation Program 2.10.12 so that we can apply and release these changes as quickly as possible for our new user base. There may also be other features that are bundled as part of the update, and we will do our best to keep you up-to-date as our plans evolve.
 
 ## Rebase to 2.10.14 Planned
-Once the update has been release we intend to rebase Glimpse Image Editor on GNU Image Manipulation Program 2.10.14 and release the result as version 0.2.0.
+Once 0.1.1 has been released we intend to rebase Glimpse Image Editor on GNU Image Manipulation Program 2.10.14 and release the result as version 0.2.0.
 
 This will also be the release where we credit upstream contributions through the graphical user interface. We think this is the best release to add that change in because we will benefit from upstream improvements that also add contributions from translators. To comply with the GNU GPLv3 we include the names of the original authors with the source code, but we want to ensure that they are also credited through the user interface before publishing Glimpse Image Editor to any new publishing channels.
 
