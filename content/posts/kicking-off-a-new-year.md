@@ -44,9 +44,9 @@ Once 0.1.1 has been released we intend to rebase Glimpse Image Editor on GNU Ima
 
 This will also be the release where we credit upstream contributions through the graphical user interface. We think this is the best release to add that change in because we will benefit from upstream improvements that also add contributions from translators. To comply with the GNU GPLv3 we include the names of the original authors with the source code, but we want to ensure that they are also credited through the user interface before publishing Glimpse Image Editor to any new download channels.
 
-We anticipate that Glimpse Image Editor 0.2.0 will be released in early March 2020. Shortly after we will focus on porting the code base to macOS based on the new information we have been provided by the GNU Image Manipulation Program contributors.
+We anticipate that Glimpse Image Editor 0.2.0 will be released in early March 2020. Shortly after we will focus on porting the code base to macOS based on the new information we have been provided with by the GNU Image Manipulation Program contributors.
 
-Just like our previous releases, these plans are subject to change and may also include contributions that have not been mentioned in this article.
+These plans are subject to change, and we may also include new "drive-by contributions" that have not been mentioned in this article.
 
 ## Thank you
 We would like to take this opportunity to thank everyone that stuck with us through the four months our project was vaporware, and particularly those of you who continue to donate your time, money and ideas to our project today. It means a lot to all of us that work on Glimpse Image Editor, and we are doing our best to push this project to the next level and keep developing it.
