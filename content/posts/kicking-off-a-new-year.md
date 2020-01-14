@@ -10,8 +10,8 @@ Glimpse Image Editor 0.1.0 was released on Friday 22nd November 2019. The feedba
 
 These download figures were correct at the time of publication. We estimated there has been around 7600 downloads so far.
 
-Our Windows release has been downloaded 3700 times. [Source](http://www.somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
-Our Linux release on Flathub has been downloaded 2100 times. [Source](https://gitlab.com/ahayzen/flathub-api-stats-generator)
+* Our Windows release has been downloaded 3700 times. [Source](http://www.somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
+* Our Linux release on Flathub has been downloaded 2100 times. [Source](https://gitlab.com/ahayzen/flathub-api-stats-generator)
 
 Heather Ellsworth also reports that our Linux release has also been downloaded 1800 times on Snapcraft.
 
