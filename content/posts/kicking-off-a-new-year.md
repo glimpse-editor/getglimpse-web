@@ -32,6 +32,7 @@ Finally we collectively started a discussion about creating an "unstable" branch
 We are hoping to release Glimpse Image Editor 0.1.1 either towards of the end of January 2020 or in the first half of February 2020 depending on how we progress.
 
 Anticipated features include:
+
 * Restoring the "Color" icon theme to assist users with high DPI displays
 * Fixing translations for the rebrand that still need changes to be applied
 * Restoring Python support for the Windows version of Glimpse Image Editor
