@@ -6,7 +6,7 @@ draft: false
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
 
 ## Download Figures Update
-Glimpse Image Editor 0.1.0 was released on Friday 22nd November 2019. The feedback we have had from end users has been mostly positive, and we are actively working on the translation bugs that have been reported to us. [Release Notes](/glimpse-0-1-0-release-notes/)
+Glimpse Image Editor 0.1.0 was released on Friday 22nd November 2019. The feedback we have had from end users has been mostly positive, and we are actively working on the translation bugs that have been reported to us. [Release Notes](/posts/glimpse-0-1-0-release-notes/)
 
 These download figures were correct at the time of publication. We estimated there has been around 7600 downloads so far.
 
