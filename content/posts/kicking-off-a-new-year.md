@@ -5,6 +5,8 @@ draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
 
+**Please note:** We have now moved to a different Mastodon account! Follow us at [@glimpse@mastodon.art](https://mastodon.art/@glimpse)
+
 ## Download Figures Update
 Glimpse Image Editor 0.1.0 was released on Friday 22nd November 2019. The feedback we have had from end users has been mostly positive, and we are actively working on the translation bugs that have been reported to us. [Release Notes](/posts/glimpse-0-1-0-release-notes/)
 
