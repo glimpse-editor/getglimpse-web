@@ -6,9 +6,9 @@ draft: false
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
 
 ## Download Figures Update
-Glimpse Image Editor 0.1.0 was released on Friday 22nd November 2019. The feedback we have had from end users has been positive, and we are actively working on translation bugs that have been reported to us. [Release Notes](/glimpse-0-1-0-release-notes/)
+Glimpse Image Editor 0.1.0 was released on Friday 22nd November 2019. The feedback we have had from end users has been mostly positive, and we are actively working on the translation bugs that have been reported to us. [Release Notes](/glimpse-0-1-0-release-notes/)
 
-These figures were correct at the time of publication, when we estimated there had been around 7600 downloads so far.
+These download figures were correct at the time of publication. We estimated there has been around 7600 downloads so far.
 
 Our Windows release has been downloaded 3700 times. [Source](http://www.somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
 Our Linux release on Flathub has been downloaded 2100 times. [Source](https://gitlab.com/ahayzen/flathub-api-stats-generator)
@@ -50,4 +50,4 @@ Just like our previous releases, these plans are subject to change and may also 
 ## Thank you
 We would like to take this opportunity to thank everyone that stuck with us through the four months our project was vaporware, and particularly those of you who continue to donate your time, money and ideas to our project today. It means a lot to all of us that work on Glimpse Image Editor, and we are doing our best to push this project to the next level and keep developing it.
 
-Our aim is still to try out new ideas and bring new people into the world of free software. It's still very possible that we could fail miserably, and there are many people in the free software community that we will never win over, but we are committed to deliver on our promises as best we can and hope we continue make our community proud to support us.
+Our aim is still to try out new ideas and bring new people into the world of free software. It's still very possible that we could fail miserably, and there are many people in the free software community that we will probably never win over, but we are committed to deliver on our promises as best we can and hope we can continue make our community proud to support us.
