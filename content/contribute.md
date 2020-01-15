@@ -29,7 +29,4 @@ menu: "main"
 
 ## Community Supported Channels
 We welcome members of our community starting their own unofficial support forums and communication channels.
-Please note that we do not monitor or moderate these links, and cannot guarantee they are a safe and welcoming environment for everyone.
-**If you choose to use these communication channels, you do so at your own risk.**
-
-* [Reddit](https://www.reddit.com/r/GlimpseEditor/)
+Please note that we do not monitor or moderate those platforms, and cannot guarantee they are a safe and welcoming environment for everyone. **If you choose to use them, you do so at your own risk.**
