@@ -20,7 +20,7 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 ### Technical Questions
 - [Which operating systems do you support?](#which-operating-systems-do-you-support)
 - [Can I install Glimpse and GNU Image Manipulation Program on the same machine?](#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine)
-- [Are you going to publish this for my favorite Linux distribution?](#are-you-going-to-publish-this-for-my-favorite-linux-distribution)
+- [Are you going to publish this for my favorite Linux distribution?] (#are-you-going-to-publish-this-for-my-favorite-linux-distribution)
 - [Will you support BSD, Haiku, Solaris or other UNIX platforms?](#will-you-support-bsd-haiku-solaris-or-other-unix-platforms)
 - [Will you contribute changes back upstream?](#will-you-contribute-changes-back-upstream)
 - [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
@@ -128,7 +128,7 @@ If you are using a Linux build from a third party source that we do not directly
 
 [Return to top](#contents)
 
-## Are you going to publish this for my favorite Linux distribution? {are-you-going-to-publish-this-for-my-favorite-linux-distribution}
+## Are you going to publish this for my favorite Linux distribution? {#are-you-going-to-publish-this-for-my-favorite-linux-distribution}
 You can see all the Linux installation methods we are aware of for Glimpse Image Editor on [our downloads page](/downloads/).
 
 We directly support a [Flatpak on Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse), and we plan to publish our own AppImage very soon. 
