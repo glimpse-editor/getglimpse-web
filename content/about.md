@@ -143,7 +143,7 @@ At the request of package maintainers, we plan to provide a source tarball we ha
 
 [Return to top](#contents)
 
-## Will you support BSD, Haiku, Solaris or other UNIX platforms? {will-you-support-bsd-haiku-solaris-or-other-unix-platforms}
+## Will you support BSD, Haiku, Solaris or other UNIX platforms? {#will-you-support-bsd-haiku-solaris-or-other-unix-platforms}
 The only UNIX operating system we currently have plans to directly support is macOS.
 
 Other UNIX systems are treated the same way as any individual Linux distribution. We do not directly support the individual packaging formats and publishing platforms for each variant of UNIX because we don't have the knowledge or resources to support and maintain them all.
