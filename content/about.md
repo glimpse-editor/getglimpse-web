@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2019-11-12T13:54:00+00:00
+date: 2020-01-29T21:51:00+00:00
 draft: false
 menu: "main"
 ---
@@ -20,6 +20,8 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 ### Technical Questions
 - [Which operating systems do you support?](#which-operating-systems-do-you-support)
 - [Can I install Glimpse and GNU Image Manipulation Program on the same machine?](#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine)
+- [Are you going to publish this for my favorite Linux distribution?](#are-you-going-to-publish-this-for-my-favorite-linux-distribution)
+- [Will you support BSD, Haiku, Solaris or other UNIX platforms?](will-you-support-bsd-haiku-solaris-or-other-unix-platforms)
 - [Will you contribute changes back upstream?](#will-you-contribute-changes-back-upstream)
 - [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
 - [Why are you using Github instead of Gitlab?](#why-are-you-using-github-instead-of-gitlab)
@@ -118,12 +120,35 @@ Unfortunately we are not able to support MacOS at this time. We recommend [Seash
 [Return to top](#contents)
 
 ## Can I install Glimpse and GNU Image Manipulation Program on the same machine? {#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine}
-
 On Windows, you can safely install and run both applications at the same time.
 
 On Linux, the Flatpak build that we support and maintain is fully self-contained and should not interfere with any installed versions of the GNU Image Manipulation Program. If you discover that is not the case on your system, please [report it as a bug](https://github.com/glimpse-editor/Glimpse/issues).
 
 If you are using a Linux build from a third party source that we do not directly support (such as Snapcraft, AUR or your distribution's package repositories) then it is unlikely because there may be package and file name conflicts. You should ask the people responsible for maintaining those packages for confirmation and any help you might need.
+
+[Return to top](#contents)
+
+## Are you going to publish this for my favorite Linux distribution? {are-you-going-to-publish-this-for-my-favorite-linux-distribution}
+You can see all the Linux installation methods we are aware of for Glimpse Image Editor on [our downloads page](/downloads/).
+
+We directly support a [Flatpak on Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse), and we plan to publish our own AppImage very soon. 
+
+The Glimpse project does not endorse or "prefer" any specific packaging format or distribution. We have limited resources, so have chosen a primary format (Flatpak) and a fallback format (AppImage) as they are straightforward for us to maintain over a sustained period and will have wide compatibility within the Linux ecosystem over the next few years.
+
+However, we support and encourage third party packagers wherever we can, and code changes that facilitate their work are accepted. An excellent example of that policy in action is the Snapcraft package, which is managed and maintained by [Heather Ellsworth](https://blogs.gnome.org/hellsworth/).
+
+An alternative example is an individual that has not been in direct contact with our project at all maintaining [a community package on AUR](https://aur.archlinux.org/packages/glimpse-editor-git/) for Arch Linux users. Unlike our official releases it is built from our development branch instead of formal release tags, so we do not accept any bug reports from users that have chosen to install Glimpse Image Editor using that method.
+
+At the request of package maintainers, we plan to provide a source tarball we have run `make dist` against from Glimpse Image Editor 0.1.1 onwards.
+
+[Return to top](#contents)
+
+## Will you support BSD, Haiku, Solaris or other UNIX platforms? {will-you-support-bsd-haiku-solaris-or-other-unix-platforms}
+The only UNIX operating system we currently have plans to directly support is macOS.
+
+Other UNIX systems are treated the same way as any individual Linux distribution. We do not directly support the individual packaging formats and publishing platforms for each variant of UNIX because we don't have the knowledge or resources to support and maintain them all.
+
+However, we will accept code fixes that enhance UNIX compatibility and will assist any third party package maintainers that want to port Glimpse Image Editor to operating systems like BSD, Haiku, Solaris and other UNIX variants.
 
 [Return to top](#contents)
 
