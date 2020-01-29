@@ -220,7 +220,7 @@ While they might make some time-sensitive moderation decisions as individuals, a
 
 No decision is ever set in stone and can be revisited if new information comes to light or there is enough support within the project to do so. The governance team will generally only block the re-opening of an issue or delay a decision if the discussion is becoming too heated or obstructs the day-to-day running of the project.
 
-There are currently three people in our governance team: [Bobby Moss](https://mastodon.sdf.org/@trechnex) (started the fork), [Christopher Davis](https://social.libre.fi/users/brainblasted) (posted the renaming issue on upstream gitlab repository) and [Luna](https://social.pixie.town/@Clipsey) (started the "UI rewrite" planning).
+There are currently four people in our governance team: [Bobby Moss](https://mastodon.sdf.org/@trechnex) (started the fork), [Christopher Davis](https://social.libre.fi/users/brainblasted) (posted the renaming issue on upstream gitlab repository), [Luna](https://social.pixie.town/@Clipsey) (started the "UI rewrite" planning) and [chaomodus](https://radical.town/@chaomodus) (manages our server-side infrastructure).
 
 Finally, the project may from time to time run polls on social media to canvas opinion for specific issues if there is support for doing so. They are always non-binding and only intended to facilitate the existing decision-making process.
 
