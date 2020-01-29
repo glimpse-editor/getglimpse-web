@@ -21,7 +21,7 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [Which operating systems do you support?](#which-operating-systems-do-you-support)
 - [Can I install Glimpse and GNU Image Manipulation Program on the same machine?](#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine)
 - [Are you going to publish this for my favorite Linux distribution?](#are-you-going-to-publish-this-for-my-favorite-linux-distribution)
-- [Will you support BSD, Haiku, Solaris or other UNIX platforms?](will-you-support-bsd-haiku-solaris-or-other-unix-platforms)
+- [Will you support BSD, Haiku, Solaris or other UNIX platforms?](#will-you-support-bsd-haiku-solaris-or-other-unix-platforms)
 - [Will you contribute changes back upstream?](#will-you-contribute-changes-back-upstream)
 - [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
 - [Why are you using Github instead of Gitlab?](#why-are-you-using-github-instead-of-gitlab)
