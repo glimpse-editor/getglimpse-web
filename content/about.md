@@ -160,9 +160,9 @@ While both projects may not agree on some things, it is clear to us that an adve
 [Return to top](#contents)
 
 ## This project is big! Will it take a long time to rebrand? {#this-project-is-big-will-it-take-a-long-time-to-rebrand}
-The 0.x releases fork the GNU Image Manipulation Program v2.x. These initial versions focus on re-branding, tweaking the existing UI, fixing upstream bugs and improving Windows support.
+The 0.x releases fork the GNU Image Manipulation Program v2.10.x. These initial versions focus on re-branding, tweaking the existing UI, fixing upstream bugs and improving Windows support.
 
-The 1.x releases will be "long term supportable" versions of the 0.x releases. These will be well-documented, provide better foreign language translations and make non-breaking iterative changes.
+The 1.x releases will be "long term supportable" and fork from GNU Manipulation Program v3.0.x. These will be well-documented, provide better foreign language translations and make non-breaking iterative changes.
 
 The 2.x releases will use a brand new GUI we have written from scratch while still relying on the underlying GEGL and BABL libraries that GNU Image Manipulation Program does. That effort will take a number of years, so this will be worked on in parallel while we continue with the 1.x releases.
 
