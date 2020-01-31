@@ -35,7 +35,9 @@ These packages are provided by third parties in the wider Glimpse community. We 
 * [`glimpse-editor-git`](https://aur.archlinux.org/packages/glimpse-editor-git/) in the AUR
 
 ### MacOS
-The Glimpse project does not support the MacOS platform at this time. We recommend you use the [Seashore](https://en.wikipedia.org/wiki/Seashore_%28software%29) variant of the GNU Image Manipulation Program instead.
+The Glimpse project does not currently support the MacOS platform, but we do plan to in the future.
+
+As a temporary work-around, we recommend using the [Seashore](https://en.wikipedia.org/wiki/Seashore_%28software%29) variant of the GNU Image Manipulation Program instead.
 
 ### Build our code
 We have provided instructions for building and packaging the Glimpse Image Editor source code on our project wiki: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
