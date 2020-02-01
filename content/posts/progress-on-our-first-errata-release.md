@@ -57,4 +57,4 @@ It has also not escaped our notice that this continues our trend of diverse repr
 ## Enjoy yourselves at FOSDEM!
 We would just like to confirm that we do not have any official representation this year, and none of our governance team are in attendance. We are unlikely to be present at any conferences this year because it is still quite early in our project's lifespan and we do not have the resources to send people!
 
-However, we know many of you are attending this weekend. Bobby Moss (who once lived in Belgium for a year and attended FOSDEM himself in 2012 and 2015) particularly recommends [Hoegaarden](https://hoegaarden.com/) and [Leffe Blond](https://leffe.com/en/leffe-blond) as good beer choices!
+However, we know many of you are attending this weekend. The creator of our fork Bobby Moss (who once lived in Belgium for a year and attended FOSDEM himself in 2012 and 2015) particularly recommends [Hoegaarden](https://hoegaarden.com/) and [Leffe Blond](https://leffe.com/en/leffe-blond) as good beer choices!
