@@ -11,7 +11,7 @@ menu: "main"
 
 ## Art, mockups, etc.
  * [Branding](https://github.com/glimpse-editor/branding)
- * [Wiki](https://wiki.getglimpse.app/)
+ * [Wiki](https://wiki.glimpse-editor.org/)
 
 ## Discussion
  * [Matrix](https://matrix.to/#/#glimpse:matrix.org)
