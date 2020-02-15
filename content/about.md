@@ -58,7 +58,7 @@ It was originally chosen as a joke name that refers to a questionable scene in a
 
 Within Linux enthusiast and hobbyist communities that whimsical '90s era "gross out" humor may still be appreciated. However, like all "comedy", there's a time and a place for it. The casual ableism of the name is unwelcome, and it hampers efforts to improve diversity and inclusion within the free software community.
 
-Many of us have real world experience advocating free software as a serious choice in educational or workplace environments, and we believe that a joke name some may find offensive and distracting presents an unnecessary hurdle to adoption.
+Many of us have real world experience advocating free software as a serious choice in educational or workplace environments, and we believe that a joke name some may find offensive and distracting presents an unnecessary obstacle to adoption.
 
 [Return to top](#contents)
 
