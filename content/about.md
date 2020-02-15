@@ -54,7 +54,7 @@ See ["How does your project govern itself?"](#how-does-this-project-govern-itsel
 [Return to top](#contents)
 
 ## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
-It was originally chosen as a joke name that refers to a questionable scene in an 18 certificate movie called "Pulp Fiction". The mascot is also a floating dog head called "Wilber" that canonically belongs to the "gimp" species, which is renowned for having no limbs.
+It was originally chosen as a joke name that refers to a questionable scene in an 18 certificate movie called "Pulp Fiction". The mascot is also a floating dog head called "Wilber" that canonically belongs to the "gimp" species because of its lack of limbs.
 
 Within Linux enthusiast and hobbyist communities that whimsical '90s era "gross out" humor may still be appreciated. However, like all "comedy", there's a time and a place for it. The casual ableism of the name is unwelcome, and it hampers efforts to improve diversity and inclusion within the free software community.
 
