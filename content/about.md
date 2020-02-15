@@ -56,7 +56,7 @@ See ["How does your project govern itself?"](#how-does-this-project-govern-itsel
 ## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
 It was originally chosen as a joke name that refers to a questionable scene in an 18 certificate movie called "Pulp Fiction". The mascot is also a floating dog head called "Wilber" that canonically belongs to the "gimp" species because of its lack of limbs.
 
-Within Linux enthusiast and hobbyist communities that whimsical '90s era "gross out" humor may still be appreciated. However, like all "comedy", there's a time and a place for it. The casual ableism of the name is unwelcome, and it hampers efforts to improve diversity and inclusion within the free software community.
+Within Linux enthusiast and hobbyist communities that whimsical '90s era "gross out" humor may still be appreciated by some people. However, like all "comedy", there is a time and a place for it. The casual ableism of the name is unwelcome, and it hampers efforts to improve diversity and inclusion within the free software community.
 
 Many of us have real world experience advocating free software as a serious choice in educational or workplace environments, and we believe that a joke name some may find offensive and distracting presents an unnecessary obstacle to adoption.
 
@@ -65,7 +65,7 @@ Many of us have real world experience advocating free software as a serious choi
 ## What initially motivated you to fork? {#why-are-you-forking}
 We do not believe that [upstream's solution](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) to their problematic name adequately addresses the problem.
 
-In addition, the GNU Image Manipulation Program developers disbanded [their UI design team](https://gui.gimp.org/index.php?title=GIMP_GUI_Redesign) in 2012. As a result usability did not improve for the better part of a decade, and we felt that urgently needed to change.
+In addition, the GNU Image Manipulation Program developers disbanded [their UI design team](https://gui.gimp.org/index.php?title=GIMP_GUI_Redesign) in 2012. As a result usability did not significantly improve for the better part of a decade, and we felt that urgently needed to change.
 
 Finally there was a historic decision to remove the [third party plug-in registry](https://www.gimp.org/registry/) and in-built mechanism that supported it. While we lack the resources to reinstate that system, we can pre-bundle useful third party plug-ins that are difficult to find and install.
 
