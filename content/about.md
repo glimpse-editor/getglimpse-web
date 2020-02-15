@@ -63,7 +63,7 @@ Many of us have real world experience advocating free software as a serious choi
 [Return to top](#contents)
 
 ## What initially motivated you to fork? {#why-are-you-forking}
-We do not believe that [upstream's solution](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) to their problematic name adequately addresses the problem.
+We do not believe that [upstream's solution](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) for to their problematic name to "expand the acronym" adequately addresses the problem.
 
 In addition, the GNU Image Manipulation Program developers disbanded [their UI design team](https://gui.gimp.org/index.php?title=GIMP_GUI_Redesign) in 2012. As a result usability did not significantly improve for the better part of a decade, and we felt that urgently needed to change.
 
