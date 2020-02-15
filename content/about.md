@@ -67,7 +67,7 @@ We do not believe that [upstream's solution](https://www.gimp.org/docs/userfaq.h
 
 In addition, the GNU Image Manipulation Program developers disbanded [their UI design team](https://gui.gimp.org/index.php?title=GIMP_GUI_Redesign) in 2012. As a result usability did not improve for the better part of a decade, and we felt that urgently needed to change.
 
-Finally there was a historic decision to remove the [third party plug-in registry](https://www.gimp.org/registry/) and in-built mechanism to install them. While we lack the resources to reinstate it, we can pre-bundle useful third party plug-ins that are difficult to find and install.
+Finally there was a historic decision to remove the [third party plug-in registry](https://www.gimp.org/registry/) and in-built mechanism that supported it. While we lack the resources to reinstate that system, we can pre-bundle useful third party plug-ins that are difficult to find and install.
 
 [Return to top](#contents)
 
