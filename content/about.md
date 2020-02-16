@@ -74,7 +74,7 @@ Finally there was a historic decision to remove the [third party plug-in registr
 ## Are you just forking because of the name? {#are-you-just-forking-because-of-the-name}
 No, but it did provide the motivation for many of us to fork the project in the first place.
 
-Our contributors have used GNU Image Manipulation Program for a long time, but it only has finite resources and so has to prioritise some changes over others. Decisions may have also been made historically for sound reasons that need to be revisited but cannot for the same reason. This can mean that good user interface improvements and functional changes that the community suggests can go unaddressed for years.
+Our contributors have used GNU Image Manipulation Program for a long time, but the upstream project only has finite resources and so has to prioritise some changes over others. Decisions may have also been made historically for sound reasons that need to be revisited but cannot for the same reason. This can mean that good user interface improvements and functional changes that the community suggests can go unaddressed for years.
 
 What this project aims to do is inject some new ideas, energy, contributions and money into a tool that most of us take for granted. We also want to expand the adoption of a great piece of free software.
 
