@@ -58,7 +58,7 @@ It was originally chosen by Spencer Kimball and Peter Mattis as a joke name that
 
 We also believe that the casual ableism of the name is unwelcome, and it hinders efforts to expand participation and diversity within the free software community. That means the project could be missing out on new ideas, contributors and resources that would improve things for everyone.
 
-Many of us have real world experience advocating free software as a serious choice in educational or workplace environments, and we believe that a joke name some may find offensive and distracting presents an unnecessary obstacle to wider adoption.
+Many of us have real world experience advocating free software as a serious choice in educational or workplace environments, and we believe that a joke name some find offensive and distracting presents an unnecessary obstacle to wider adoption.
 
 [Return to top](#contents)
 
