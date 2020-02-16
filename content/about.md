@@ -56,7 +56,7 @@ See ["How does your project govern itself?"](#how-does-this-project-govern-itsel
 ## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
 It was originally chosen by Spencer Kimball and Peter Mattis as a joke name that refers to a questionable scene in an 18 certificate movie called "Pulp Fiction". Within Linux enthusiast and hobbyist communities that whimsical '90s era "gross out" humor may still be appreciated by some people. However, like all "comedy", there is a time and a place for it.
 
-We also believe that the casual ableism of the name is unwelcome, and it hinders efforts to expand participation and diversity within the free software community. That means the project could be missing out on new ideas, contributors and resources that improve the experience for everyone.
+We also believe that the casual ableism of the name is unwelcome, and it hinders efforts to expand participation and diversity within the free software community. That means the project could be missing out on new ideas, contributors and resources that can improve the experience for everyone.
 
 Many of us have real world experience advocating free software as a serious choice in educational or workplace environments, and we believe that a joke name some may find offensive and distracting presents an unnecessary obstacle to wider adoption.
 
