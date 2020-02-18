@@ -24,6 +24,7 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [Will you support BSD, Haiku, Solaris or other UNIX platforms?](#will-you-support-bsd-haiku-solaris-or-other-unix-platforms)
 - [Will you contribute changes back upstream?](#will-you-contribute-changes-back-upstream)
 - [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
+- [How does you release numbering work?](#how-does-your-release-numbering-work)
 - [Why are you using Github instead of Gitlab?](#why-are-you-using-github-instead-of-gitlab)
 - [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 - [When are you going to implement the bug-fix or feature I asked for?](#when-are-you-going-to-implement-the-feature-i-asked-for)
@@ -166,6 +167,19 @@ We have been pleased by the positive feedback we have received from our userbase
 
 [Return to top](#contents)
 
+## How does you release numbering work? {#how-does-your-release-numbering-work}
+Odd number versions (eg. 0.1.1 or 0.1.99) are "in development" and even-number versions (eg. 0.1.0 and 0.1.2) are stable releases we take the time to beta test.
+
+We follow a "tick-tock" release cycle. 0.n.0 "tick" releases re-base on the latest upstream version, and 0.n.2 "tock" releases refine it.
+
+That means for example that Glimpse Image Editor 0.1.0 and 0.1.2 are based on the GNU Image Manipulation Program 2.10.12, but Glimpse Image Editor 0.2.0 and 0.2.2 will both be based on the GNU Image Manipulation Program 2.10.14.
+
+The benefit of this approach is that we know when someone reports a bug to us if they are running a stable or unstable release of our software. We also have the the option to add more than one "tock" release for the same "tick" if we think that would be beneficial.
+
+The downside is that we will usually be a release or two behind upstream, but we believe that is worthwhile because it gives us time to make our own downstream changes. Also it ensures that versions of the GNU Image Manipulation Program we base on have already been tested in the real world before we start using them.
+
+[Return to top](#contents)
+
 ## When are you going to implement the bug-fix or feature I asked for? {#when-are-you-going-to-implement-the-feature-i-asked-for}
 The first place to check is our [Github Issues list](https://github.com/glimpse-editor/Glimpse/issues).
 
@@ -246,7 +260,7 @@ All of our channels are on matrix.org. You can get access to the invite-only cha
 [Return to top](#contents)
 
 ## Why do you need monetary donations? {#why-do-you-need-monetary-donations}
-Just like many other free software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand and reward our contributors for the value they add.
+Just like many other free software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand.
 
 If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse).
 
