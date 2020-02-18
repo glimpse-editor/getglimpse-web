@@ -67,6 +67,6 @@ As a reminder, money donated to our Open Collective is only used to cover the co
 If you would like to thank our contributors directly for the many hours of unpaid volunteer work they do for our project, you should contact them about their own personal donation platforms:
 
 Creator: [Bobby Moss](https://github.com/TrechNex)
-Maintainers:  [Chaomodus](https://github.com/chaomodus), [Christopher Davis](https://github.com/BrainBlasted), [Luna](https://github.com/Member1221)
+Maintainers: [Chaomodus](https://github.com/chaomodus), [Christopher Davis](https://github.com/BrainBlasted), [Luna](https://github.com/Member1221)
 Flatpak: [Mathieu Bridon](https://github.com/Member1221)
 Snapcraft: [Heather Ellsworth](https://github.com/hellsworth)
