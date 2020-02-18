@@ -68,5 +68,5 @@ If you would like to thank our contributors directly for the many hours of unpai
 
 Creator: [Bobby Moss](https://github.com/TrechNex)
 Maintainers: [Chaomodus](https://github.com/chaomodus), [Christopher Davis](https://github.com/BrainBlasted), [Luna](https://github.com/Member1221)
-Flatpak: [Mathieu Bridon](https://github.com/Member1221)
+Flatpak: [Mathieu Bridon](https://github.com/bochecha)
 Snapcraft: [Heather Ellsworth](https://github.com/hellsworth)
