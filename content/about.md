@@ -24,7 +24,7 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [Will you support BSD, Haiku, Solaris or other UNIX platforms?](#will-you-support-bsd-haiku-solaris-or-other-unix-platforms)
 - [Will you contribute changes back upstream?](#will-you-contribute-changes-back-upstream)
 - [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
-- [How does you release numbering work?](#how-does-your-release-numbering-work)
+- [How does your release numbering work?](#how-does-your-release-numbering-work)
 - [Why are you using Github instead of Gitlab?](#why-are-you-using-github-instead-of-gitlab)
 - [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 - [When are you going to implement the bug-fix or feature I asked for?](#when-are-you-going-to-implement-the-feature-i-asked-for)
@@ -167,7 +167,7 @@ We have been pleased by the positive feedback we have received from our userbase
 
 [Return to top](#contents)
 
-## How does you release numbering work? {#how-does-your-release-numbering-work}
+## How does your release numbering work? {#how-does-your-release-numbering-work}
 Odd number versions (eg. 0.1.1 or 0.1.99) are "in development" and even-number versions (eg. 0.1.0 and 0.1.2) are stable releases we take the time to beta test.
 
 We follow a "tick-tock" release cycle. 0.n.0 "tick" releases re-base on the latest upstream version, and 0.n.2 "tock" releases refine it.
