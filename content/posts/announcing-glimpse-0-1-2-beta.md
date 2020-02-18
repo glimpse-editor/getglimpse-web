@@ -58,7 +58,7 @@ After one of our supporters notified us that [Github Sponsors now supports Open 
 
 The reason this development piqued our interest is that all donations submitted via Github Sponsors would go directly to [our Open Collective profile](https://opencollective.com/glimpse) without requiring our intervention. 
 
-Github also charges no fees for this service, and they have committed to matching any donations we receive in our first year, up to a limit of $5000. This move would also address the feedback we have received that we should support a secondary donation mechanism for those who do not wish to use PayPal.
+Github also charges no fees for this service, and they have committed to matching any donations we receive in our first year, up to a limit of $5000 USD. This move would also address the feedback we have received that we should support a secondary donation mechanism for those who do not wish to use PayPal.
 
 The response on Matrix was broadly positive, so we have applied to join the waiting list for this platform. Assuming we are accepted, we will briefly re-open the issue so that people can let us know how they feel about this decision before we proceed with it.
 
