@@ -62,7 +62,7 @@ Github also charges no fees for this service, and they have committed to matchin
 
 The response on Matrix was broadly positive, so we have applied to join the waiting list for this platform. Assuming we are accepted, we will briefly re-open the issue so that people can let us know how they feel about this decision before we proceed with it.
 
-As a reminder, money donated to our Open Collective is only used to cover the costs of this project and periodically pass some of those contributions upstream. You can see a full accounting of all the donations we have ever received and how we have spent that money so far.
+As a reminder, money donated to our Open Collective is only used to cover the costs of this project and periodically pass some of those contributions upstream. You can see a full accounting of all the donations we have ever received and how we have spent that money so far on [our Open Collective profile](https://opencollective.com/glimpse).
 
 If you would like to thank our contributors directly for the many hours of unpaid volunteer work they do for our project, you should contact them about their own personal donation platforms:
 
