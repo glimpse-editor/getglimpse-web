@@ -40,7 +40,7 @@ Full instructions for participating in the beta are available on our development
 ## Successful website migration
 Two weeks ago Chaomodus migrated our static hugo site and the development wiki to new servers, and so far we have had no outages.
 
-We previously ran everything from one server that Bobby Moss had provisioned in haste last August, so breaking out our systems into several more robust servers is something that promises to help us automate builds and improve uptime for our services.
+We previously ran everything from one server that Bobby Moss had provisioned in haste last August, so breaking out our systems into several more robust servers is something that promises to help us automate builds and improve uptime for our collaboration tools and websites.
 
 Within the next few months we intend to fully decommission the old server and run automated packaging and builds for Linux, Windows and (eventually) macOS on a separate Jenkins slave running Docker containers. Once that work is complete we will be able to spend more time improving Glimpse Image Editor and less on manually building and packaging things.
 
