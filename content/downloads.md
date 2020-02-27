@@ -1,21 +1,24 @@
 ---
 title: "Downloads"
-date: 2019-09-24T18:00:00+01:00
+date: 2020-02-27T23:30:00+00:00
 draft: false
 menu: "main"
 ---
-The latest release is Glimpse Image Editor 0.1.0, and it is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-1-0-release-notes/)
+The latest release is Glimpse Image Editor 0.1.2, and it is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-1-2-release-notes/)
 
 ### Windows
 Glimpse Image Editor 0.1.0 is supported on 32-bit and 64-bit systems running Windows 7 or later.
 
-#### Glimpse Image Editor 0.1.0 installer
-[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.0/glimpse-0.1.0.msi) | *Sha256: f1efb22791ac02e3db399f986cabdc80f2559099a254269429f8a4a43d7483b4*
+#### Glimpse Image Editor 0.1.2 installer
+[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi) | [Torrent](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi.torrent) |*Sha256: TBD*
 
-If you are having problems with this installer, we also provide an [unsigned version](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.0/glimpse-0.1.0-unsigned.msi) for troubleshooting purposes. Please note that the unsigned installer will trigger security warnings from Windows and your installed anti-virus program.
+You can download previous versions for Windows [from Github](https://github.com/glimpse-editor/Glimpse/releases/).
 
 ### Linux
-We distribute Glimpse Image Editor 0.1.0 on Flathub. If Flatpak is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
+We distribute Glimpse Image Editor 0.1.2 on Flathub for end users. We also provide a source tarball for Linux distribution maintainers. A Linux AppImage will be published before the end of March 2020.
+
+#### Flatpak
+If Flatpak is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
 
 Once setup is complete you can find Glimpse by searching in your distribution's software center, or you can click on this button:
 
@@ -28,6 +31,11 @@ Alternatively you can install it manually at the command line:
 $ flatpak install flathub org.glimpse_editor.Glimpse
 ```
 
+#### Source tarball
+[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.gz) | [Torrent](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.gz.torrent) |*Sha256: TBD*
+
+**Please note:** We are still in the process of refactoring certain subcomponents, so you may need to mark `gimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
+
 #### Community-supported sources
 These packages are provided by third parties in the wider Glimpse community. We sometimes merge changes to the codebase they provide us with but they are not directly supported by the Glimpse project.
 
@@ -35,7 +43,7 @@ These packages are provided by third parties in the wider Glimpse community. We 
 * [`glimpse-editor-git`](https://aur.archlinux.org/packages/glimpse-editor-git/) in the AUR
 
 ### MacOS
-The Glimpse project does not currently support the MacOS platform, but we do plan to in the future.
+The Glimpse project does not currently support the MacOS platform, but we are actively working on it.
 
 As a temporary work-around, we recommend using the [Seashore](https://en.wikipedia.org/wiki/Seashore_%28software%29) variant of the GNU Image Manipulation Program instead.
 
