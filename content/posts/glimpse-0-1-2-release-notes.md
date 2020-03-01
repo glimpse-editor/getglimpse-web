@@ -30,6 +30,7 @@ Glimpse 0.1.2 is still based on [GNU Image Manipulation Program 2.10.12](https:/
 
 ### Windows Improvements
 * Translation files are now included in the MSI installer [#240](https://github.com/glimpse-editor/Glimpse/issues/240)
+* Glimpse Image Editor and GNU Image Manipulation Program no longer share the same task bar icon [#247](https://github.com/glimpse-editor/Glimpse/issues/247)
 
 ### UI Improvements
 * "Color" icon pack and "Gray" UI theme have been reinstated [#232](https://github.com/glimpse-editor/Glimpse/issues/232)
