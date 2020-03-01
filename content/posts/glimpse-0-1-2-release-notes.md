@@ -1,6 +1,6 @@
 ---
 title: "Glimpse 0.1.2 Release Notes"
-date: 2020-03-02T18:00:00+00:00
+date: 2020-03-01T15:00:00+00:00
 draft: false
 ---
 This release iterates on our very first "minimal viable product" release. The primary objective was to improve the experience for Windows users and fix non-English translation files.
