@@ -10,7 +10,7 @@ The latest release is Glimpse Image Editor 0.1.2, and it is provided under the t
 Glimpse Image Editor 0.1.0 is supported on 32-bit and 64-bit systems running Windows 7 or later.
 
 #### Glimpse Image Editor 0.1.2 installer
-[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi) | [Torrent](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi.torrent) |*Sha256: TBD*
+[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi) |*Sha256: TBD*
 
 You can download previous versions for Windows [from Github](https://github.com/glimpse-editor/Glimpse/releases/).
 
@@ -32,9 +32,9 @@ $ flatpak install flathub org.glimpse_editor.Glimpse
 ```
 
 #### Source tarball
-[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.gz) | [Torrent](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.gz.torrent) |*Sha256: TBD*
+[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.gz) |*Sha256: TBD*
 
-**Please note:** We are still in the process of refactoring certain subcomponents, so you may need to mark `gimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
+**Please note:** We are still in the process of refactoring certain subcomponents, so you may need to mark `libgimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
 
 #### Community-supported sources
 These packages are provided by third parties in the wider Glimpse community. We sometimes merge changes to the codebase they provide us with but they are not directly supported by the Glimpse project.
