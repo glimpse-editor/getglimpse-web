@@ -54,7 +54,7 @@ We would like to thank everyone who contributed towards making Glimpse 0.1.2 a s
 ### Maintainers
 * chaomodus
 * Christopher Davis
-* Clipsey
+* Luna
 
 ### Code Contributors
 * Heather Ellsworth
