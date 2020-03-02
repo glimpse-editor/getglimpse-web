@@ -40,7 +40,7 @@ Glimpse 0.1.2 is still based on [GNU Image Manipulation Program 2.10.12](https:/
 * Renamed the "Gimpressionist" plug-in to "Impressionist" [#267](https://github.com/glimpse-editor/Glimpse/issues/267)
 * Fixed various problems in translation files [#230](https://github.com/glimpse-editor/Glimpse/issues/230) [#238](https://github.com/glimpse-editor/Glimpse/issues/238)
 * Fixed text color chooser that still used Wilber icon and upstream name [#250](https://github.com/glimpse-editor/Glimpse/issues/250)
-* Fixed "legacy" UI them in Snapcraft [#271](https://github.com/glimpse-editor/Glimpse/pull/271)
+* Fixed "legacy" UI theme in Snapcraft [#271](https://github.com/glimpse-editor/Glimpse/pull/271)
 
 ### Code Improvements
 * Moved `build` folder to `build-aux` to follow GNOME conventions [#233](https://github.com/glimpse-editor/Glimpse/issues/233)
