@@ -38,7 +38,7 @@ $ flatpak install flathub org.glimpse_editor.Glimpse
 
 **glimpse-0.1.2.tar.xz** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.xz) | *Sha256: b1086b7effd9a3f4a9b4577bb4c3bf69d86f8c60a3c4fe9966aeefb7150deb0d*
 
-Please note that we are still in the process of refactoring certain subcomponents, so you will need to mark `libgimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
+Please note that we are still in the process of refactoring certain subcomponents, so distribution packagers will need to mark `libgimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
 
 #### Community-supported sources
 These packages are provided by third parties in the wider Glimpse community. We sometimes merge changes to the codebase they provide us with but they are not directly supported by the Glimpse project.
