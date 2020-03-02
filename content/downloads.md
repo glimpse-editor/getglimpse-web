@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2020-02-27T23:30:00+00:00
+date: 2020-03-02T17:30:00+00:00
 draft: false
 menu: "main"
 ---
@@ -10,7 +10,7 @@ The latest release is Glimpse Image Editor 0.1.2, and it is provided under the t
 Glimpse Image Editor 0.1.0 is supported on 32-bit and 64-bit systems running Windows 7 or later.
 
 #### Glimpse Image Editor 0.1.2 installer
-[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi) |*Sha256: TBD*
+[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi) |*Sha256: 99C3DF2884310CB74C39A15FB63E93FBF2112F581DC5325B37123467618D89E8*
 
 You can download previous versions for Windows [from Github](https://github.com/glimpse-editor/Glimpse/releases/).
 
