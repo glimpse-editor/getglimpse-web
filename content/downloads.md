@@ -7,7 +7,7 @@ menu: "main"
 The latest release is Glimpse Image Editor 0.1.2, and it is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-1-2-release-notes/)
 
 ### Windows
-Glimpse Image Editor 0.1.0 is supported on 32-bit and 64-bit systems running Windows 7 or later.
+Glimpse Image Editor 0.1.2 is supported on 32-bit and 64-bit systems running Windows 7 or later.
 
 #### Glimpse Image Editor 0.1.2 installer
 **glimpse-0.1.2.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi) | *Sha256: 99C3DF2884310CB74C39A15FB63E93FBF2112F581DC5325B37123467618D89E8*
