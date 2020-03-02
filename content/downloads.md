@@ -10,7 +10,7 @@ The latest release is Glimpse Image Editor 0.1.2, and it is provided under the t
 Glimpse Image Editor 0.1.0 is supported on 32-bit and 64-bit systems running Windows 7 or later.
 
 #### Glimpse Image Editor 0.1.2 installer
-[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi) | *Sha256: 99C3DF2884310CB74C39A15FB63E93FBF2112F581DC5325B37123467618D89E8*
+**glimpse-0.1.2.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi) | *Sha256: 99C3DF2884310CB74C39A15FB63E93FBF2112F581DC5325B37123467618D89E8*
 
 If you are having problems with this installer, we also provide an [unsigned version](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2-unsigned.msi) for troubleshooting purposes. Please note that the unsigned installer will trigger security warnings from Windows and your installed anti-virus program.
 
@@ -34,9 +34,11 @@ $ flatpak install flathub org.glimpse_editor.Glimpse
 ```
 
 #### Source tarball
-[Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.gz) |*Sha256: TBD*
+**glimpse-0.1.2.tar.bz2** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.bz2) | *Sha256: f9845f7a5ce1aece5c0c808b2fa7ba91ce657b942d6e777bbab5c0abb6f2499a*
 
-**Please note:** We are still in the process of refactoring certain subcomponents, so you may need to mark `libgimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
+**glimpse-0.1.2.tar.xz** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.xz) | *Sha256: b1086b7effd9a3f4a9b4577bb4c3bf69d86f8c60a3c4fe9966aeefb7150deb0d*
+
+Please note that we are still in the process of refactoring certain subcomponents, so you will need to mark `libgimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
 
 #### Community-supported sources
 These packages are provided by third parties in the wider Glimpse community. We sometimes merge changes to the codebase they provide us with but they are not directly supported by the Glimpse project.
