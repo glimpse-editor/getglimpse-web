@@ -19,7 +19,7 @@ We have instructed our contributors not to attend any free software or Linux con
 
 Until further notice all planned "optional" spending has been cancelled, and money Open Collective is holding in trust for us will now be held in reserve. These steps will ensure that if a global recession caused by the pandemic chokes off all our donations then we can continue to cover server and web hosting costs for up to a year before we are forced to scale back project resources.
 
-Our planned releases over the next six months have also been significantly changed to account for more intermittent contributions from our existing project members. This blog post will go into more detail about that below this notice.
+Our planned releases over the next six months have also been significantly changed to account for more intermittent contributions from our existing project members. This blog post will go into more detail about that in this blog post.
 
 Finally, we would like to ask all our users to be patient with us if there is a delayed response to bug tickets, feature requests, merge approvals, and questions on social media. Our contributors and their families are just as susceptible to COVID-19 as you are, but we will be doing our best to maintain normal service for as long as possible.
 
