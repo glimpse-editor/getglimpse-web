@@ -17,7 +17,7 @@ We would like to reassure our end users, followers and supporters that we take t
 
 We have instructed our contributors not to attend any free software or Linux conferences in person on our behalf, and have been circulating this advice from the World Health Organization: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public
 
-Until further notice all planned "optional" spending has been cancelled, and money Open Collective is holding in trust for us will now be held in reserve. These steps will ensure that if a global recession caused by the pandemic chokes off all our donations then we can continue to cover server and web hosting costs for up to a year before we are forced to scale back project resources.
+Until further notice all planned "optional" spending has been cancelled, and money Open Collective is holding in trust for us will now be kept in reserve. These steps will ensure that if a global recession caused by the pandemic chokes off all our donations then we can continue to cover server and web hosting costs for up to a year before we are forced to scale back project resources.
 
 Our planned releases over the next six months have also been significantly changed to account for more intermittent contributions from our existing project members. This blog post goes into more detail about that in the "Updated release schedule and priorities" section.
 
