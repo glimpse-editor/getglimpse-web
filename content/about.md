@@ -168,15 +168,15 @@ We have been pleased by the positive feedback we have received from our userbase
 [Return to top](#contents)
 
 ## How does your release numbering work? {#how-does-your-release-numbering-work}
-Odd number versions (eg. 0.1.1 or 0.1.99) are "in development" and even-number versions (eg. 0.1.0 and 0.1.2) are stable releases we take the time to beta test.
+Odd number versions (eg. 0.1.1 or 0.1.3) are "in development" and even-number versions (eg. 0.1.0 and 0.1.2) are stable releases we take the time to beta test.
 
 We follow a "tick-tock" release cycle. 0.n.0 "tick" releases re-base on the latest upstream version, and 0.n.2 "tock" releases refine it.
 
-That means for example that Glimpse Image Editor 0.1.0 and 0.1.2 are based on the GNU Image Manipulation Program 2.10.12, but Glimpse Image Editor 0.2.0 and 0.2.2 will both be based on the GNU Image Manipulation Program 2.10.18.
+That means for example that Glimpse Image Editor 0.1.0 and 0.1.2 are based on the GNU Image Manipulation Program 2.10.12, but Glimpse Image Editor 0.2.0 and 0.2.2 wouls both be based on the GNU Image Manipulation Program 2.10.18.
 
-The benefit of this approach is that we know when someone reports a bug to us if they are running a stable or unstable release of our software. We also have the the option to add more than one "tock" release for the same "tick" if we think that would be beneficial.
+The benefit of this approach is that we know when someone reports a bug to us if they are running a stable or unstable release of our software. We also have the the option to add more than one "tock" release for the same "tick" if we think that would be beneficial (eg. Glimpse Image Editor 0.1.4)
 
-The downside is that we might sometimes be a release or two behind upstream, but we believe that is worthwhile because it gives us time to make our own downstream changes. Also it ensures that versions of the GNU Image Manipulation Program we base on have already been tested in the real world before we start using them.
+The downside is that we might sometimes be a release or two behind upstream, but we believe that is worthwhile because we can still backport non-breaking changes and it gives us time to make our own downstream fixes. Also it ensures that versions of the GNU Image Manipulation Program we base on have already been tested in the real world before we start using them.
 
 [Return to top](#contents)
 
