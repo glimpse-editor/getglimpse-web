@@ -44,6 +44,8 @@ Chaomodus will also be working on Jenkins build infrastructure. They will also b
 
 We are aiming for a release in May 2020, but this may slip depending on how badly the COVID-19 outbreak impacts our contributors. After 0.1.4 is released we will immediately start work on the macOS port.
 
+You can see a provisional list of all the planned features and fixes here: https://github.com/glimpse-editor/Glimpse/milestone/12
+
 ## Download figures update
 All figures were correct on the day this blog post was published. Sources have been provided in the individual breakdowns we have so that our claims can be independently verified.
 
