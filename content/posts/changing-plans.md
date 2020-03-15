@@ -47,7 +47,7 @@ We are aiming for a release in May 2020, but this may slip depending on how badl
 You can see a provisional list of all the planned features and fixes here: https://github.com/glimpse-editor/Glimpse/milestone/12
 
 ## Download figures update
-All figures were correct on the day this blog post was published. Sources have been provided in the individual breakdowns we have so that our claims can be independently verified.
+All figures were correct on the day this blog post was published. Sources have been provided so that our claims can be independently verified.
 
 We estimate that Glimpse Image Editor has been downloaded at least 12,000 times across all platforms and downloads sources since it was first released on 2019-11-22, and that we are likely supporting an active install base of around 9000 machines. **(UPDATE AFTER HEATHER’S FIGURES)**
 
