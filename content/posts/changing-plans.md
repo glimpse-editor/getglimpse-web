@@ -65,7 +65,7 @@ The distribution tarballs we provided on Github for Glimpse Image Editor 0.1.2 h
 We do not have the figures for other community-supported Linux download sources.
 
 ### Windows
-The new Glimpse Image Editor 0.1.2 installer has been downloaded 510 times from Github since its release on 2020-03-02.
+The new Glimpse Image Editor 0.1.2 installer has been downloaded 510 times from Github since its release on 2020-03-02. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
 
 To date there have been 4,951 direct downloads of Glimpse Image Editor 0.1.0 for Windows from Github. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
 
