@@ -49,7 +49,7 @@ You can see a provisional list of all the planned features and fixes here: https
 ## Download figures update
 All figures were correct on the day this blog post was published. Sources have been provided so that our claims can be independently verified.
 
-We estimate that Glimpse Image Editor has been downloaded at least 12506 times across all platforms and download sources since it was first released on 2019-11-22, and we are likely supporting an active install base of around 5000 machines.
+We know that Glimpse Image Editor has been downloaded at least 12506 times across all platforms and download sources since it was first released on 2019-11-22, and we estimate that we are supporting an install base of around 5000 machines.
 
 If these figures are accurate then this would be a good start for us, and it would mean we have [almost doubled the number of downloads](/posts/progress-on-our-first-errata-release/) since 2020-01-31. It is also worth remembering that Glimpse Image Editor has only been available to download for a little over three months, we are working with very limited resources, and this project had quite a mixed response from the wider free software community when we first started.
 
