@@ -53,7 +53,7 @@ We know that Glimpse Image Editor has been downloaded at least 12506 times acros
 
 If these figures are accurate then this would be a good start for us, and it would mean we have [almost doubled the number of downloads](/posts/progress-on-our-first-errata-release/) since 2020-01-31. It is also worth remembering that Glimpse Image Editor has only been available to download for a little over three months, we are working with very limited resources, and this project had quite a mixed response from the wider free software community when we first started.
 
-Planned improvements such as providing a Linux AppImage, packaging the Windows port for the Microsoft Store and porting the application to macOS will boost these numbers further over the course of 2020. We also anticipate our active user base will grow as the number of third party download sources increases.
+Planned improvements such as providing a Linux AppImage, packaging the Windows port for the Microsoft Store and porting the application to macOS will boost these numbers further over the course of 2020. We also anticipate our install base will grow significantly as the number of third party download sources increases.
 
 ### GNU/Linux
 Glimpse Image Editor has been downloaded 5229 (+2559) times from Flathub since it was first released, and there have been 4501 requests for updates. [Source](https://gitlab.com/ahayzen/flathub-api-stats-generator)
