@@ -58,7 +58,7 @@ Planned improvements such as providing a Linux AppImage, packaging the Windows p
 ### GNU/Linux
 Glimpse Image Editor has been downloaded 5229 times from Flathub since it was first released, and there have been 4501 requests for updates. [Source](https://gitlab.com/ahayzen/flathub-api-stats-generator)
 
-Heather Ellsworth reports that there are 1623 active users that have installed Glimpse Image Editor through Snapcraft.
+Heather Ellsworth reports that there are 1623 active users that have installed Glimpse Image Editor through Snapcraft. [Source](/static/glimpse-snap-2020-03-14.png)
 
 The distribution tarballs we provided on Github for Glimpse Image Editor 0.1.2 have been downloaded 50 times, suggesting that there is some early interest from Linux distro maintainers about hosting our software natively in their repositories. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
 
