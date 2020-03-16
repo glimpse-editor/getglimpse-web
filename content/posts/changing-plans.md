@@ -51,7 +51,7 @@ All figures were correct on the day this blog post was published. Sources have b
 
 We estimate that Glimpse Image Editor has been downloaded at least 12441 times across all platforms and download sources since it was first released on 2019-11-22, and we are likely supporting an active install base of around 8500 machines. These figures are [almost double the ones we reported](/posts/progress-on-our-first-errata-release/) on 2020-01-31.
 
-If these figures are accurate then this would be a good early result for us. It is worth remembering that Glimpse Image Editor has only been available to download for just over three months, the idea of our project even existing in the first place has received a mixed response from the wider free software community, and we produce releases with only a tiny fraction of the resources that the upstream GNU Image Manipulation Program developers have at their disposal.
+If these figures are accurate then this would be a good early result for us. It is worth remembering that Glimpse Image Editor has only been available to download for just over three months, we have had a mixed response from the wider free software community, and we produce releases with only a tiny fraction of the resources that the upstream GNU Image Manipulation Program developers have at their disposal.
 
 Planned improvements such as providing a Linux AppImage, packaging the Windows port for the Microsoft Store and porting the application to macOS will boost these numbers further over the course of 2020. We also anticipate our active user base will grow as the number of third party download sources increases.
 
