@@ -1,6 +1,6 @@
 ---
 title: "Changing Plans"
-date: 2020-03-17T07:20:00+00:00
+date: 2020-03-17T07:54:00+00:00
 draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
