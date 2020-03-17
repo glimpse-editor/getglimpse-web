@@ -26,7 +26,7 @@ Finally, we would like to ask all our users to be patient with us over the comin
 ## Updated release schedule and priorities
 We have decided to create a 0.1.4 release on the same GNU Image Manipulation 2.10.12 base instead of creating a new 0.2.0 release based on 2.10.18.
 
-The reason for this is we want to spend more time fixing bugs and packaging problems. We also expect to have reduced capacity for changes over the next six months, so we have to make adjustments to allow for that.
+The reason for this is we want to spend more time fixing bugs and packaging our software for a wider audience. We also expect to have reduced capacity for changes over the next six months, so completely re-basing our hard fork would prevent us from working on more meaningful changes.
 
 We will focus on new release packaging first. We expect to provide Linux AppImages for 0.1.2 before the end of March 2020, and an MSIX file for those using Windows 10 on their workplace machines in April 2020.
 
