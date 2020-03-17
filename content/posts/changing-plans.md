@@ -36,7 +36,7 @@ The other big change coming for Glimpse Image Editor 0.1.4 is we intend to fix t
 
 Chaomodus will also be working on Jenkins build infrastructure. They will also be evaluating how we can better manage and improve our non-English translations.
 
-We are aiming to release Glimpse Image Editor 0.1.4 in May 2020, but that may be delayed if the COVID-19 outbreak impacts our contributors badly. After 0.1.4 is released we will immediately start work on the macOS port.
+We are aiming to release Glimpse Image Editor 0.1.4 in May 2020, but that is subject to change based on how well we progress. After 0.1.4 is released we will immediately start work on the macOS port.
 
 You can see a provisional list of all the planned features and fixes here: https://github.com/glimpse-editor/Glimpse/milestone/12
 
