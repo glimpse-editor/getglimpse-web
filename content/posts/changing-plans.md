@@ -45,7 +45,7 @@ All figures were correct on the day this blog post was published. Sources have b
 
 We know that Glimpse Image Editor has been downloaded at least 12528 (+5668) times across all platforms and download sources since it was first released on 2019-11-22. A detailed breakdown is provided below.
 
-### GNU/Linux
+### Linux
 Glimpse Image Editor has been downloaded 5274 (+1084) times from Flathub since it was first released. [Source](https://gitlab.com/ahayzen/flathub-api-stats-generator)
 
 Heather Ellsworth reports that there are 1623 (-7) active users that have installed Glimpse Image Editor through Snapcraft. [Source](/glimpse-snap-2020-03-14.png)
