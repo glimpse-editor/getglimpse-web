@@ -23,8 +23,6 @@ Finally, we would like to ask all our users to be patient with us if there is a 
 * Bolster our funding reserves on Open Collective: https://opencollective.com/glimpse
 * Help the GNU Image Manipulation Program too: https://www.gimp.org/donating/
 
-We would also like to remind everyone to wash your hands, take care of your neighbours, and follow the advice your government has provided you with.
-
 ## Updated release schedule and priorities
 We have decided to create a 0.1.4 release on the same GNU Image Manipulation 2.10.12 base instead of creating a new 0.2.0 release based on 2.10.18.
 
