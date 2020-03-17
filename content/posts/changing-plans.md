@@ -24,19 +24,19 @@ Finally, we would like to ask all our users to be patient with us over the comin
 * Help the GNU Image Manipulation Program too: https://www.gimp.org/donating/
 
 ## Updated release schedule and priorities
-We have decided to create a 0.1.4 release on the same GNU Image Manipulation 2.10.12 base instead of creating a new 0.2.0 release based on 2.10.18.
+We have decided to create a 0.1.4 release and continue working on the same GNU Image Manipulation 2.10.12 base for the time being instead of creating a new 0.2.0 release based on 2.10.18.
 
-The reason for this is we want to spend more time fixing bugs and packaging our software for a wider audience. We also expect to have reduced capacity for changes over the next six months, so completely re-basing our hard fork would prevent us from working on more meaningful changes.
+The reason for that decision is we want to spend more time fixing bugs and packaging our software for a wider audience. We also expect to have reduced capacity for changes over the next six months, so completely re-basing our hard fork will likely prevent us from working on more meaningful changes.
 
-We will focus on new release packaging first. We expect to provide Linux AppImages for 0.1.2 before the end of March 2020, and an MSIX file for those using Windows 10 on their workplace machines in April 2020.
+However, you will not miss out on upstream fixes and improvements. We intend to package Glimpse Image Editor 0.1.4 with new versions of GEGL, BABL and other libraries. Also useful features such as the new high contrast themes and update checker will be backported. We also still plan to pre-bundle useful plugins such as G'MIC.
 
-The new high contrast GUI themes and icons that upstream developers introduced in the GNU Image Manipulation Program 2.10.18 will be backported for Glimpse Image Editor 0.1.4, as will a modified version of the new update checker. We will also uplift the versions for BABL and GEGL that we include in all of our own installers, and pre-bundle useful plug-ins like G'MIC.
+We will focus on new release packaging first, and aim to release Linux AppImages for 0.1.2 before the end of March 2020, and an MSIX file for those using Windows 10 on their workplace machines in April 2020.
 
-The other big change coming for Glimpse Image Editor 0.1.4 is we intend to fix the man pages (finally!) and refactor libgimp so that distribution maintainers can package our software without having to mark the GNU Image Manipulation Program as a conflict in their repositories.
+The other big changes coming for Glimpse Image Editor 0.1.4 are that we intend to fix the man pages (finally!) and refactor libgimp so that distribution maintainers can package our software without having to mark the GNU Image Manipulation Program as a conflict in their repositories.
 
 Chaomodus will also be working on Jenkins build infrastructure. They will also be evaluating how we can better manage and improve our non-English translations.
 
-We are aiming to release Glimpse Image Editor 0.1.4 in May 2020, but that is subject to change based on how well we progress. After 0.1.4 is released we will immediately start work on the macOS port.
+We aim to release Glimpse Image Editor 0.1.4 in May 2020, but that is subject to change based on how well we progress. After 0.1.4 is released we will immediately start work on the macOS port, but if we have spare capacity we will begin work on it sooner.
 
 You can see a provisional list of all the planned features and fixes here: https://github.com/glimpse-editor/Glimpse/milestone/12
 
