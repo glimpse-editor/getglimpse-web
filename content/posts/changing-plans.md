@@ -15,9 +15,7 @@ You can find out more here: https://snapcraft.io/glimpse-editor
 ## Adapting to the Coronavirus (COVID-19) pandemic
 We would like to reassure our end users, followers and supporters that we take this global crisis very seriously. The project is taking action to ensure that development does not cease entirely, and that you are not left without feature improvements and security updates.
 
-We have instructed our contributors not to attend any free software or Linux conferences in person on our behalf, and have been circulating this advice from the World Health Organization: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public
-
-Until further notice all planned "optional" spending has been cancelled, but money Open Collective is holding in trust for us will be kept there. These steps will ensure that if a global recession caused by the pandemic chokes off all our donations then we can continue to cover server and web hosting costs from our existing funds for up to a year before we are forced to scale back project resources.
+We have advised our contributors to avoid attending any free software or Linux conferences on our behalf, and have been circulating this advice from the World Health Organization: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public
 
 Our planned releases over the next six months have also been significantly changed to account for more intermittent contributions from our existing project members. This blog post goes into more detail about that in the "Updated release schedule and priorities" section.
 
