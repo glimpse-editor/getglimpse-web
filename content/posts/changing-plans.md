@@ -17,7 +17,7 @@ We would like to reassure our end users, followers and supporters that we take t
 
 We have advised our contributors to avoid attending any free software or Linux conferences on our behalf, and our planned releases over the next six months have also been changed to account for more intermittent contributions from our existing project members. This blog post goes into more detail about that in the "Updated release schedule and priorities" section.
 
-Finally, we would like to ask all our users to be patient with us in coming months if there is a delayed response to bug tickets, feature requests, merge approvals, and questions on social media. Our contributors and their families are just as susceptible to COVID-19 as you are, but we will do our best to keep the project progressing.
+Finally, we would like to ask all our users to be patient with us over the coming months if there is a delayed response to bug tickets, feature requests, merge approvals, and questions on social media. Our contributors and their families are just as susceptible to COVID-19 as you are, but we will do our best to keep the project progressing.
 
 * Find out how to help our project progress: https://glimpse-editor.org/contribute/
 * Bolster our funding reserves on Open Collective: https://opencollective.com/glimpse
