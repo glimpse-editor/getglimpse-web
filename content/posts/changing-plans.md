@@ -13,13 +13,13 @@ Bobby Moss also worked with Heather Ellsworth to ensure that the “edge” and 
 You can find out more here: https://snapcraft.io/glimpse-editor
 
 ## Adapting to the Coronavirus (COVID-19) pandemic
-We would like to reassure our end users, followers and supporters that we take this global crisis very seriously. The project is taking action to ensure that development does not cease entirely, and that you are not left without feature improvements and security updates.
+We would like to reassure our end users, followers and supporters that we take this global crisis very seriously. The project is taking action to ensure that development continues for as long as possible, and that you are not left without feature improvements and security updates.
 
 We have advised our contributors to avoid attending any free software or Linux conferences on our behalf, and have been circulating this advice from the World Health Organization: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public
 
 Our planned releases over the next six months have also been changed to account for more intermittent contributions from our existing project members. This blog post goes into more detail about that in the "Updated release schedule and priorities" section.
 
-Finally, we would like to ask all our users to be patient with us if there is a delayed response to bug tickets, feature requests, merge approvals, and questions on social media. Our contributors and their families are just as susceptible to COVID-19 as you are, but we will be doing our best to maintain normal service for as long as possible.
+Finally, we would like to ask all our users to be patient with us if there is a delayed response to bug tickets, feature requests, merge approvals, and questions on social media. Our contributors and their families are just as susceptible to COVID-19 as you are, but we will be doing our best to keep the project progressing.
 
 * Find out how to help our project progress: https://glimpse-editor.org/contribute/
 * Bolster our funding reserves on Open Collective: https://opencollective.com/glimpse
