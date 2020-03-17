@@ -1,6 +1,6 @@
 ---
 title: "Changing Plans"
-date: 2020-03-17T07:54:00+00:00
+date: 2020-03-17T21:28:00+00:00
 draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
@@ -43,7 +43,7 @@ You can see a provisional list of all the planned features and fixes here: https
 ## Download figures update
 All figures were correct on the day this blog post was published and sources have been provided so that you can verify our claims. If the figures are accurate then we would consider this to be a good start for our project, and can confirm that the number of downloads has ramped up significantly since 2020-01-31. [Source](/posts/progress-on-our-first-errata-release/)
 
-We know that Glimpse Image Editor has been downloaded at least 12528 (+5668) times across all platforms and download sources since it was first released on 2019-11-22. A detailed breakdown is provided below.
+We know that Glimpse Image Editor has been downloaded at least 12544 (+5684) times across all platforms and download sources since it was first released on 2019-11-22. A detailed breakdown is provided below.
 
 ### Linux
 Glimpse Image Editor has been downloaded 5274 (+1084) times from Flathub since it was first released. [Source](https://gitlab.com/ahayzen/flathub-api-stats-generator)
@@ -55,7 +55,7 @@ The distribution tarballs we provided on Github for Glimpse Image Editor 0.1.2 h
 We do not have the figures for other community-supported Linux download sources.
 
 ### Windows
-The new Glimpse Image Editor 0.1.2 installer has been downloaded 536 times from Github since its release on 2020-03-02. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
+The new Glimpse Image Editor 0.1.2 installer has been downloaded 552 times from Github since its release on 2020-03-02. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
 
 To date there have been 4951 (+761) direct downloads of Glimpse Image Editor 0.1.0 for Windows from Github. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
 
