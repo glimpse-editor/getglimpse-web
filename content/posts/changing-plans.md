@@ -13,7 +13,7 @@ Bobby Moss also worked with Heather Ellsworth to ensure that the “edge” and 
 You can find out more here: https://snapcraft.io/glimpse-editor
 
 ## Adapting to the Coronavirus (COVID-19) pandemic
-We would like to reassure our end users, followers and supporters that we take this global crisis very seriously. The project is taking action to ensure that development continues for as long as possible, and that you are not left without feature improvements and security updates.
+We would like to reassure our end users, followers and supporters that we take this public health crisis very seriously. The project is taking action to ensure that development continues for as long as possible, and that you are not left without feature improvements and security updates.
 
 We have advised our contributors to avoid attending any free software or Linux conferences on our behalf, and our planned releases over the next six months have also been changed to account for more intermittent contributions from our existing project members. This blog post goes into more detail about that in the "Updated release schedule and priorities" section.
 
