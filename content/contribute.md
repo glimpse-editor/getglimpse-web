@@ -4,6 +4,9 @@ date: 2020-01-05T12:00:00+00:00
 draft: false
 menu: "main"
 ---
+## Contributor's Guide
+ * [How to contribute to Glimpse](https://wiki.glimpse-editor.org/index.php?title=How_to_contribute_to_Glimpse)
+
 ## Code, Bug Reports, etc
  * [Bug Reports](https://github.com/glimpse-editor/Glimpse/issues)
  * [Development Road Map](https://github.com/glimpse-editor/Glimpse/milestones)
@@ -24,6 +27,7 @@ menu: "main"
 
 ## Donate
  * [Open Collective](https://opencollective.com/glimpse)
+ * [GitHub Sponsors](https://github.com/sponsors/glimpse-editor)
 
  We also recommend donating to [GNU Image Manipulation Program](https://www.gimp.org/donating/), the upstream project on which this fork relies.
 
