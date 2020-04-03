@@ -19,8 +19,9 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 
 ### Technical Questions
 - [Which operating systems do you support?](#which-operating-systems-do-you-support)
+- [Who signs the Windows installer?](#who-signs-the-windows-installer)
 - [Can I install Glimpse and GNU Image Manipulation Program on the same machine?](#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine)
-- [Are you going to publish this for my favorite Linux distribution?] (#are-you-going-to-publish-this-for-my-favorite-linux-distribution)
+- [Are you going to publish this for my favorite Linux distribution?](#are-you-going-to-publish-this-for-my-favorite-linux-distribution)
 - [Will you support BSD, Haiku, Solaris or other UNIX platforms?](#will-you-support-bsd-haiku-solaris-or-other-unix-platforms)
 - [Will you contribute changes back upstream?](#will-you-contribute-changes-back-upstream)
 - [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
@@ -113,6 +114,17 @@ There are early plans to write a new image editor with more modern technologies 
 We support systems running Windows 7 or newer, and modern variants of GNU/Linux.
 
 Unfortunately we are not able to support MacOS at this time, but that is planned for the future. For the time being, we recommend using [Seashore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos) as an alternative.
+
+[Return to top](#contents)
+
+## Who signs the Windows installer? {#who-signs-the-windows-installer}
+[Cynthia Revström](https://cynthia.re/), a renowned security researcher. She signs our Windows installers with an Extended Validation (EV) code signing certificate belonging to a registered company called [Qs.nu](https://qs.nu/).
+
+If we do not sign our MSI installer then potential users can run into a number of problems. Certain web browsers block the download of "untrusted" files, Windows SmartScreen creates error screens that non-technical people find difficult to override, and anti-virus programs incorrectly flagging Glimpse Image Editor as "malware" can interfere with the installation process and normal operation of the program.
+
+We initially tried a self-signed certificate, but that did not resolve the problem. The Glimpse project is not a registered company and cannot afford to reimburse individuals for certificate authority notarization requirements, so we cannot provide our own code signing certificate. As a result we rely on a trusted individual to voluntarily sign each MSI installer we release on our behalf.
+
+There are plans to also package the software as an MSIX file and [submit it to the Microsoft Store](https://github.com/glimpse-editor/Glimpse/issues/180). We believe that the ability to run Glimpse Image Editor in a secure sandbox that has been audited/signed by Microsoft themselves and downloaded from a trusted source will satisfy the Windows security requirements for most organizations.
 
 [Return to top](#contents)
 
