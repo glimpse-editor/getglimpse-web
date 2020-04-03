@@ -6,9 +6,9 @@ features:
   - header: 'Show Off Your Imagination'
     summary: 'Use a complete set of professional photography tools to turn your snapshots into works of art. Adjust, crop,
     remove objects, retouch, and repair old photos. Play with color, effects, and more to turn the ordinary into something extraordinary.'
-    image: 'amy-shamblen-koYklSUjAXc-unsplash.jpg'
+    image: 'flatpak/0.1/dark-theme1.jpg'
     alt: 'A picture of multiple flowers on a yellow background'
   - header: 'For Any Blemish'
-    summary: 'Fix common imperfections like red eye, lens distortion, and more with the powerful corrective tools Glimpse provides.'
-    image: 'architecture-binoculars-buildings-3043593.jpg'
+    summary: 'Fix common imperfections like red eye, lens distortion, and more with the powerful filters and corrective tools Glimpse provides. You can even animate your photos too!'
+    image: 'flatpak/0.1/light-theme2.jpg'
     alt: 'A picture showing an image before and after correcting lens distortion'
