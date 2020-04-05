@@ -28,6 +28,7 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [Why are you using Github instead of Gitlab?](#why-are-you-using-github-instead-of-gitlab)
 - [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 - [When are you going to implement the bug-fix or feature I asked for?](#when-are-you-going-to-implement-the-feature-i-asked-for)
+- [Can you make Glimpse look like Adobe Photoshop?](#can-you-make-glimpse-look-like-adobe-photoshop)
 
 ### Project Governance
 - [Where is the Glimpse code of conduct?](#where-is-the-glimpse-code-of-conduct)
@@ -190,6 +191,15 @@ We aim to tag each bug and feature request to a [release milestone](https://gith
 If the functionality you want is not listed, the next place to check is [the roadmap page](https://wiki.gimp.org/wiki/Roadmap) for the GNU Image Manipulation Program. Because that project has more contributors and resources than we do as a downstream fork, we are normally a release or two behind them. If they are implementing a fix or change though, then we will eventually inherit it.
 
 Finally, if the change you want isn't requested in either place then feel free to raise it as a bug or a feature request! Alternatively you can contact us by using the links on our [Contribute](/contribute/) page.
+
+[Return to top](#contents)
+
+## Can you make Glimpse look like Adobe Photoshop? {#can-you-make-glimpse-look-like-adobe-photoshop}
+Technically yes, but we are not going to do that.
+
+We understand why it is important for Glimpse Image Editor to feel familiar to users of existing image editing applications, but we also think it's important for us to do our own thing. Not only will that lead to more new and interesting ideas, it should also avoid any potential legal problems.
+
+The developers of the GNU Image Manipulation Program have the same stance on this, and they go into much more detail on [their FAQ page](https://www.gimp.org/docs/userfaq.html#i-dont-like-gimps-user-interface-why-cant-you-just-copy-adobe-photoshop).
 
 [Return to top](#contents)
 
