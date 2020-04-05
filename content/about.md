@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-02-16T10:56:00+00:00
+date: 2020-04-05T15:00:00+01:00
 draft: false
 menu: "main"
 ---
@@ -18,14 +18,13 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
 
 ### Technical Questions
+- [How does your release numbering work?](#how-does-your-release-numbering-work)
 - [Which operating systems do you support?](#which-operating-systems-do-you-support)
 - [Who signs the Windows installer?](#who-signs-the-windows-installer)
 - [Can I install Glimpse and GNU Image Manipulation Program on the same machine?](#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine)
 - [Are you going to publish this for my favorite Linux distribution?](#are-you-going-to-publish-this-for-my-favorite-linux-distribution)
 - [Will you support BSD, Haiku, Solaris or other UNIX platforms?](#will-you-support-bsd-haiku-solaris-or-other-unix-platforms)
 - [Will you contribute changes back upstream?](#will-you-contribute-changes-back-upstream)
-- [This project is big! Will it take a long time to rebrand?](#this-project-is-big-will-it-take-a-long-time-to-rebrand)
-- [How does your release numbering work?](#how-does-your-release-numbering-work)
 - [Why are you using Github instead of Gitlab?](#why-are-you-using-github-instead-of-gitlab)
 - [Could you just run "find and replace" to fix the name?](#could-you-just-run-find-and-replace-to-fix-the-name)
 - [When are you going to implement the bug-fix or feature I asked for?](#when-are-you-going-to-implement-the-feature-i-asked-for)
@@ -110,6 +109,21 @@ There are early plans to write a new image editor with more modern technologies 
 
 [Return to top](#contents)
 
+## How does your release numbering work? {#how-does-your-release-numbering-work}
+Glimpse Image Editor 0.1.0 is based on the GNU Image Manipulation Program 2.10.12. All 0.1.x releases add our changes, backport useful upstream functionality and update key dependencies on the same 2.10.12 base.
+
+Glimpse Image Editor 0.2.0 will be rebased on whichever release of the GNU Image Manipulation Program is current and stable on 2020-07-05, and we intend to release it before September 2020.
+
+Whenever we produce a 0.x.0 release, we will continue adding features to it every few months until July the following year. We then intend to provide "maintenance updates" providing patches and updated dependencies for up to a year afterwards if any severe bugs or security issues are reported to us.
+
+"Beta test" and "Stable" release versions always end in an even number. Odd numbered versions are "Unstable" builds created from our development branch.
+
+Glimpse Image Editor 1.0.0 will be a complete re-fork based on the GNU Image Manipulation Program 3.x. We feel this is necessary because of the major changes that will be included in that upstream release.
+
+Glimpse Image Editor 2.0.0 will either be another fork of the GNU Image Manipulation Program, or we may switch to an entirely new image editing application that we wrote ourselves.
+
+[Return to top](#contents)
+
 ## Which operating systems do you support? {#which-operating-systems-do-you-support}
 We support systems running Windows 7 or newer, and modern variants of GNU/Linux.
 
@@ -165,30 +179,6 @@ However, we will accept code fixes that enhance UNIX compatibility and will assi
 Absolutely! We intend to be good free software citizens, and as soon as we have made changes that the upstream project want to include in their codebase we will be willing to assist them however we can. We have also periodically donated a portion of the donations we have received to the GNU Image Manipulation Program developers.
 
 While both projects may not agree on some things, it is clear to us that an adversarial attitude will not help either of us. If we work together then the whole free software community can benefit from this fork that attracts new contributors, breathes new life into an ageing codebase and shares free software with a whole new audience.
-
-[Return to top](#contents)
-
-## This project is big! Will it take a long time to rebrand? {#this-project-is-big-will-it-take-a-long-time-to-rebrand}
-The 0.x releases fork the GNU Image Manipulation Program v2.10.x. These initial versions focus on re-branding, tweaking the existing UI, fixing upstream bugs and improving Windows support.
-
-The 1.x releases will fork from GNU Manipulation Program v3.0.x.
-
-The 2.x releases will use a brand new GUI we have written from scratch while still relying on the underlying GEGL and BABL libraries that GNU Image Manipulation Program does. That effort will take a number of years, so this will be worked on in parallel while we continue with the 1.x releases.
-
-We have been pleased by the positive feedback we have received from our userbase so far, and our contributors' dedication continues to help us progress the project faster than anticipated.
-
-[Return to top](#contents)
-
-## How does your release numbering work? {#how-does-your-release-numbering-work}
-Odd number versions (eg. 0.1.1 or 0.1.3) are "in development" and even-number versions (eg. 0.1.0 and 0.1.2) are stable releases we take the time to beta test.
-
-We follow a "tick-tock" release cycle. 0.n.0 "tick" releases re-base on the latest upstream version, and 0.n.2 "tock" releases refine it.
-
-That means for example that Glimpse Image Editor 0.1.0 and 0.1.2 are based on the GNU Image Manipulation Program 2.10.12, but Glimpse Image Editor 0.2.0 and 0.2.2 would both be based on the GNU Image Manipulation Program 2.10.18.
-
-The benefit of this approach is that we know when someone reports a bug to us if they are running a stable or unstable release of our software. We also have the the option to add more than one "tock" release for the same "tick" if we think that would be beneficial (eg. Glimpse Image Editor 0.1.4)
-
-The downside is that we might sometimes be a release or two behind upstream, but we believe that is worthwhile because we can still backport non-breaking changes and it gives us time to make our own downstream fixes. Also it ensures that versions of the GNU Image Manipulation Program we base on have already been tested in the real world before we start using them.
 
 [Return to top](#contents)
 
