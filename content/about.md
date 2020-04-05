@@ -68,9 +68,9 @@ Many of us have real world experience advocating free software as a serious choi
 ## Why are you forking? {#why-are-you-forking}
 We do not believe that [upstream's suggestion](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) to "expand the acronym" to fix their software's name adequately addresses the problem, and after 13+ years of users repeatedly asking we think the most constructive path forward is to fork the project.
 
-In addition, the [dedicated UI design team](https://gui.gimp.org/index.php?title=Former_GUI_team) for GNU Image Manipulation Program stopped meeting in 2012. While development work on the GUI and installers still continued, we felt as end users that usability improvements were not receiving the same priority as niche power user tasks and code restructuring, so that is the area we want to focus on.
+In addition, the [dedicated UI design team](https://gui.gimp.org/index.php?title=Former_GUI_team) for GNU Image Manipulation Program stopped meeting in 2012. While development work on the GUI and installers still continues today, we felt as end users that a higher priority had been given to more specialized functionality and code restructuring. We want to focus solely on improving the overall user experience and packaging the application for a new audience that may not have heard about [free software](https://www.gnu.org/philosophy/free-sw.en.html) yet.
 
-Finally there was a historic decision to remove the [third party plug-in registry](https://www.gimp.org/registry/) and in-built mechanism that supported it. While we lack the resources to reinstate that system, we plan to pre-bundle a selection of useful third party plug-ins that are difficult to find as an additional install option.
+Finally there was a historic decision to remove the [third party plug-in registry](https://www.gimp.org/registry/) and in-built mechanism that supported it. While we lack the resources to reinstate that system, we do plan to provide additional install options that pre-bundle a selection of useful third party plug-ins.
 
 [Return to top](#contents)
 
