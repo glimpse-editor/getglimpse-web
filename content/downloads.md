@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2020-03-02T17:30:00+00:00
+date: 2020-04-10T14:00:00+01:00
 draft: false
 menu: "main"
 ---
@@ -33,6 +33,18 @@ Alternatively you can install it manually at the command line:
 $ flatpak install flathub org.glimpse_editor.Glimpse
 ```
 
+#### Snapcraft
+If Snapcraft is not already installed on your machine, follow these instructions: https://snapcraft.io/docs/getting-started
+
+Once setup is complete you can find Glimpse Image Editor by searching in your distribution's software center, or you can click on this button:
+
+<iframe src="https://snapcraft.io/glimpse-editor/embedded?button=black" frameborder="0" width="100%" height="250px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe>
+
+Alternatively you can install it manually at the command line:
+```
+$ sudo snap install glimpse-editor
+```
+
 #### Source tarball
 **glimpse-0.1.2.tar.bz2** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.bz2) | *Sha256: f9845f7a5ce1aece5c0c808b2fa7ba91ce657b942d6e777bbab5c0abb6f2499a*
 
@@ -43,13 +55,13 @@ Please note that we are still in the process of refactoring certain subcomponent
 #### Community-supported sources
 These packages are provided by third parties in the wider Glimpse community. We sometimes merge changes to the codebase they provide us with but they are not directly supported by the Glimpse project.
 
-* [Glimpse](https://snapcraft.io/glimpse-editor) on Snapcraft
 * [`glimpse-editor-git`](https://aur.archlinux.org/packages/glimpse-editor-git/) in the AUR
+* [`glimpse:IBBboard`](https://software.opensuse.org//download.html?project=home%3AIBBoard%3Adesktop&package=glimpse) on the OpenSUSE Open Build Service
 
 ### MacOS
 The Glimpse project does not currently support the MacOS platform, but we are actively working on it.
 
-As a temporary work-around, we recommend using the [Seashore](https://en.wikipedia.org/wiki/Seashore_%28software%29) variant of the GNU Image Manipulation Program instead.
+As a temporary workaround, we recommend either sticking with [the GNU Image Manipulation Program](https://www.gimp.org/downloads/) or using [Seashore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos) as an alternative.
 
 ### Build our code
 We have provided instructions for building and packaging the Glimpse Image Editor source code on our project wiki: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
