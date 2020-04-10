@@ -140,9 +140,9 @@ There are plans to also package the software as an MSIX file and [submit it to t
 ## Can I install Glimpse and GNU Image Manipulation Program on the same machine? {#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine}
 On Windows, you can safely install and run both applications at the same time.
 
-On Linux, the Flatpak build that we support and maintain is fully self-contained and should not interfere with any installed versions of the GNU Image Manipulation Program. If you discover that is not the case on your system, please [report it as a bug](https://github.com/glimpse-editor/Glimpse/issues).
+On Linux, the Flatpak and Snapcraft builds that we support and maintain are fully self-contained and should not interfere with any installed versions of the GNU Image Manipulation Program. If you discover that is not the case on your system, please [report it as a bug](https://github.com/glimpse-editor/Glimpse/issues).
 
-If you are using a Linux build from a third party source that we do not directly support (such as Snapcraft, AUR or your distribution's package repositories) then it is unlikely because there may be package and file name conflicts. You should ask the people responsible for maintaining those packages for confirmation and any help you might need.
+If you are using a Linux build from a third party source that we do not directly support (such as AUR or your distribution's package repositories) then it is unlikely because there may be package and file name conflicts. You should ask the people responsible for maintaining those packages for confirmation and any help you might need.
 
 [Return to top](#contents)
 
