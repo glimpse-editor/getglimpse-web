@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2020-04-10T14:00:00+01:00
+date: 2020-04-10T21:00:00+01:00
 draft: false
 menu: "main"
 ---
@@ -17,7 +17,7 @@ If you are having problems with this installer, we also provide an [unsigned ver
 You can download previous versions for Windows [from Github](https://github.com/glimpse-editor/Glimpse/releases/).
 
 ### Linux
-We distribute Glimpse Image Editor 0.1.2 on Flathub for end users. We also provide a source tarball for Linux distribution maintainers. A Linux AppImage will be published before the end of March 2020.
+We distribute Glimpse Image Editor 0.1.2 on Flathub and Snapcraft for end users. We also provide a source tarball for Linux distribution maintainers. A Linux AppImage will be published before the end of March 2020.
 
 #### Flatpak
 If Flatpak is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
@@ -50,10 +50,10 @@ $ sudo snap install glimpse-editor
 
 **glimpse-0.1.2.tar.xz** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.xz) | *Sha256: b1086b7effd9a3f4a9b4577bb4c3bf69d86f8c60a3c4fe9966aeefb7150deb0d*
 
-Please note that we are still in the process of refactoring certain subcomponents, so distribution maintainers will need to mark `libgimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
+Please note that we are still in the process of refactoring certain subcomponents, so distribution maintainers need to mark `libgimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
 
 #### Community-supported sources
-These packages are provided by third parties in the wider Glimpse community. We sometimes merge changes to the codebase they provide us with but they are not directly supported by the Glimpse project.
+These builds are provided by third parties in the wider Linux community. We do not create, package or directly support these sources, so if you raise any bugs for them that would not apply to most Linux users, we may direct you elsewhere to get the issue fixed.
 
 * [`glimpse-editor-git`](https://aur.archlinux.org/packages/glimpse-editor-git/) in the AUR
 * [`glimpse:IBBboard`](https://software.opensuse.org//download.html?project=home%3AIBBoard%3Adesktop&package=glimpse) on the OpenSUSE Open Build Service
