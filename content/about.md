@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-04-05T15:00:00+01:00
+date: 2020-04-10T13:00:00+01:00
 draft: false
 menu: "main"
 ---
@@ -10,12 +10,11 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 ### Introduction
 - [What is the correct name for your project?](#what-is-the-correct-name-for-your-project)
 - [Did you know that name is used elsewhere?](#did-you-know-that-name-is-used-elsewhere)
+- [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
 - [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
 - [Why are you forking?](#why-are-you-forking)
-- [Are you just forking because of the name?](#are-you-just-forking-because-of-the-name)
-- [What if I find the word "Glimpse" offensive?](#what-if-i-find-the-word-glimpse-offensive)
-- [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
+- [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
 
 ### Technical Questions
 - [How does your release numbering work?](#how-does-your-release-numbering-work)
@@ -56,33 +55,6 @@ See ["How does your project govern itself?"](#how-does-this-project-govern-itsel
 
 [Return to top](#contents)
 
-## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
-It was originally chosen by Spencer Kimball and Peter Mattis as a joke name that refers to a questionable scene in an 18 certificate movie called "Pulp Fiction". Within Linux enthusiast and hobbyist communities that whimsical '90s era "gross out" humor may still be appreciated by some people. However, like all "comedy", there is a time and a place for it.
-
-We also believe that the casual ableism of the name is unwelcome, and it hinders efforts to expand participation and diversity within the free software community. That means the project could be missing out on new ideas, contributors and resources that would improve things for everyone.
-
-Many of us have real world experience advocating free software as a serious choice in educational or workplace environments, and we believe that a joke name some find offensive and distracting presents an unnecessary obstacle to wider adoption.
-
-[Return to top](#contents)
-
-## Why are you forking? {#why-are-you-forking}
-We do not believe that [upstream's suggestion](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) to "expand the acronym" to fix their software's name adequately addresses the problem, and after 13+ years of users repeatedly asking we think the most constructive path forward is to fork the project.
-
-In addition, the [dedicated UI design team](https://gui.gimp.org/index.php?title=Former_GUI_team) for GNU Image Manipulation Program stopped meeting in 2012. While development work on the GUI and installers still continues today, we felt as end users that a higher priority had been given to more specialized functionality and code restructuring. We want to focus solely on improving the overall user experience and packaging the application for a new audience that may not have heard about [free software](https://www.gnu.org/philosophy/free-sw.en.html) yet.
-
-Finally there was a historic decision to remove the [third party plug-in registry](https://www.gimp.org/registry/) and in-built mechanism that supported it. While we lack the resources to reinstate that system, we do plan to provide additional install options that pre-bundle a selection of useful third party plug-ins.
-
-[Return to top](#contents)
-
-## Are you just forking because of the name? {#are-you-just-forking-because-of-the-name}
-No, but it did provide the motivation for many of us to fork the project in the first place.
-
-Our contributors have used GNU Image Manipulation Program for a long time, but the upstream project only has finite resources and so has to prioritise some changes over others. Decisions may have also been made historically for sound reasons that need to be revisited but cannot for the same reason. This can mean that good user interface improvements and functional changes that the community suggests can go unaddressed for years.
-
-What this project aims to do is inject some new ideas, energy, contributions and money into a tool that most of us take for granted. We also want to expand the adoption of a great piece of free software.
-
-[Return to top](#contents)
-
 ## What if I find the word "Glimpse" offensive? {#what-if-i-find-the-word-glimpse-offensive}
 That seems unlikely given we checked its meaning in every known language, but if you have a legitimate concern then let us know.
 
@@ -90,23 +62,45 @@ If you are offended by the fact we renamed the project, we suggest you continue 
 
 [Return to top](#contents)
 
+## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
+It was originally chosen by Spencer Kimball and Peter Mattis as a joke reference to a questionable scene in an 18 certificate movie called "Pulp Fiction". The word "gimp" also has [other meanings](https://www.merriam-webster.com/dictionary/gimp) that may be considered ableist.
+
+While we cannot provide a solution that resolves the wider societal discussion about what is considered appropriate and "politically correct" in every situation, we can provide an alternative option that helps people who are offended or made uncomfortable by the name, and assist free software advocates that encounter barriers when they recommend the GNU Image Manipulation Program to friends, family, coworkers and employers.
+
+Our project also offers a more constructive path forward to people that have become frustrated by the GNU Image Manipulation Program developers' [long-standing decision](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) to not change the name of their software. That means fewer people yelling at each other on social media, and more people working on the code.
+
+[Return to top](#contents)
+
+## Why are you forking? {#why-are-you-forking}
+Our contributors have used the GNU Image Manipulation Program for a long time, but like any free software project it has finite resources and has to prioritise some changes over others. That can mean good usability improvements and functional changes the community suggests go unaddressed because other changes take priority.
+
+What the Glimpse project aims to do is inject some new ideas, energy, contributions and money into a free software program that most enthusiasts and power users take for granted. We also want to expand the adoption of this great piece of free software, and offer a valid alternative for end users that have become disgruntled with the GNU Image Manipulation Program and are tempted to switch back to using proprietary software.
+
+The very first thing we focused on with 0.1.0 was our own rebrand. We chose a new name and commissioned a professional logo, and our efforts to replace the existing "gimp" branding throughout the software and its dependencies is something we continue to make excellent progress on today.
+
+However, we want to go further, and we will do that by focusing on usability changes, UI themes, icon packs, and better installation mechanisms. We believe that by making changes and improvements in those areas, that will create a better overall user experience that broadens the appeal of the application and introduces more people to the world of free software.
+
+Finally, we also want to make it easier for power users to find and install third party plug-ins. Initially that will take the form of an optional installer containing a selection of plug-ins included, but that is an area we can hopefully develop more over time.
+
+[Return to top](#contents)
+
+## Is forking the project a duplication of effort? {#is-forking-the-project-a-duplication-of-effort}
+No, because we are focusing specifically on the user experience and marketing, not on the underlying functionality of the software itself. That is why we intend to periodically rebase on tagged versions of the GNU Image Manipulation Program, and then port our changes to it each time. 
+
+From our point of view we are simply exercising [our software freedoms](https://www.gnu.org/philosophy/free-sw.html) by forking the project and redistributing a modified version for others to benefit from. This is fully in accordance with the spirit and requirements of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) and [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.en.html) as they both apply to this project.
+
+There are some early plans to write an entirely new image editor with more modern technologies in parallel to our current efforts, but that is still in the very early design stages and will take a number of years to produce. In the meantime, that effort may still generate new ideas that we can use with the forked code.
+
+[Return to top](#contents)
+
 ## Do you intend to replace the GNU Image Manipulation Program? {#do-you-intend-to-replace-the-gnu-image-manipulation-program}
-No, this project does not intend to supplant the GNU Image Manipulation Program. You may have noticed we already link to [their donations page](https://www.gimp.org/donating/) throughout our documentation and we periodically donate a portion of our own funds to the upstream project.
+No, this project does not intend to replace the GNU Image Manipulation Program. You may have noticed we already link to [their donations page](https://www.gimp.org/donating/) throughout our documentation and we periodically donate a portion of our own funds to the upstream project.
 
 The Glimpse project is also run entirely by passionate enthusiasts. Development on the GNU Image Manipulation Program will continue as normal with same core group of developers and be entirely unhindered by this project.
 
 We anticipate in the coming months and years that Glimpse will be a place where people can experiment with fixes that upstream may not have had the resources to work on and new ideas that upstream may have felt unable or unwilling to try for legacy reasons.
 
 If we come up with some popular improvements that really enhance the user experience or fix bugs that impact both projects, then we would assist with contributing them back upstream so the wider community can benefit.
-
-[Return to top](#contents)
-
-## Is forking the project a duplication of effort? {#is-forking-the-project-a-duplication-of-effort}
-No, because there are [at least three well-articulated problems](#why-are-you-forking) that justify our fork existing.
-
-From our point of view we are simply exercising [our software freedoms](https://www.gnu.org/philosophy/free-sw.html) by forking the project and redistributing a modified version for others to benefit from. This is fully in accordance with the spirit and requirements of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) and [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.en.html) as they both apply to this project.
-
-There are early plans to write a new image editor with more modern technologies in parallel to our current efforts, but that will take a number of years to produce.
 
 [Return to top](#contents)
 
@@ -121,14 +115,14 @@ Whenever we produce a 0.x.0 release, we will continue adding features to it ever
 
 Glimpse Image Editor 1.0.0 will be a complete re-fork based on the GNU Image Manipulation Program 3.x. We feel this is necessary because of the major changes that will be included in that upstream release.
 
-Glimpse Image Editor 2.0.0 will either be another fork of the GNU Image Manipulation Program, or we may switch to an entirely new image editing application that we wrote ourselves.
+Glimpse Image Editor 2.0.0 could be another fork of the GNU Image Manipulation Program, or we may switch to an entirely new image editing application that we wrote ourselves.
 
 [Return to top](#contents)
 
 ## Which operating systems do you support? {#which-operating-systems-do-you-support}
 We support systems running Windows 7 or newer, and modern variants of GNU/Linux.
 
-Unfortunately we are not able to support MacOS at this time, but that is planned for the future. For the time being, we recommend using [Seashore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos) as an alternative.
+Unfortunately we are not able to support MacOS at this time, but that is planned for the future. For the time being, we recommend either sticking with [the GNU Image Manipulation Program](https://www.gimp.org/downloads/) or using [Seashore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos) as an alternative.
 
 [Return to top](#contents)
 
@@ -155,15 +149,13 @@ If you are using a Linux build from a third party source that we do not directly
 ## Are you going to publish this for my favorite Linux distribution? {#are-you-going-to-publish-this-for-my-favorite-linux-distribution}
 You can see all the Linux installation methods we are aware of for Glimpse Image Editor on [our downloads page](/downloads/).
 
-We directly support a [Flatpak on Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse), and we plan to publish our own AppImage very soon. 
+We intend to provide our own directly-supported AppImage builds very soon. You can track the progress here: [#108](https://github.com/glimpse-editor/Glimpse/issues/108).
 
-The Glimpse project does not endorse or "prefer" any specific packaging format or distribution. We have limited resources, so have chosen a primary format (Flatpak) and a fallback format (AppImage) as they are straightforward for us to maintain over a sustained period and will have wide compatibility within the Linux ecosystem over the next few years.
+We also publish builds on [Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) and [Snapcraft](https://snapcraft.io/glimpse-editor).
 
-However, we support and encourage third party packagers wherever we can, and code changes that facilitate their work are accepted. An excellent example of that policy in action is the Snapcraft package, which is managed and maintained by [Heather Ellsworth](https://blogs.gnome.org/hellsworth/).
+All other installation mechanisms for Linux are considered "community supported". That means we do not have any say about how they are built, packaged or maintained. We link to them, but if you raise bug tickets with us we may direct you back to those sources instead.
 
-An alternative example is an individual that has not been in direct contact with our project at all maintaining [a community package on AUR](https://aur.archlinux.org/packages/glimpse-editor-git/) for Arch Linux users. Unlike our official releases it is built from our development branch instead of formal release tags, so we do not accept any bug reports from users that have chosen to install Glimpse Image Editor using that method.
-
-At the request of package maintainers, we plan to provide a source tarball we have run `make dist` against from Glimpse Image Editor 0.1.2 onwards.
+At the request of package maintainers, we we have run `make dist` against source tarballs from Glimpse Image Editor 0.1.2 onwards.
 
 [Return to top](#contents)
 
