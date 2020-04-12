@@ -80,7 +80,7 @@ The very first thing we focused on with 0.1.0 was our own rebrand. We chose a ne
 
 However, we want to go further, and we will do that by focusing on usability changes, UI themes, icon packs, and better installation mechanisms. We believe that by making changes and improvements in those areas, that will create a better overall user experience that broadens the appeal of the application and introduces more people to the world of free software.
 
-Finally, we also want to make it easier for power users to find and install third party plug-ins. Initially that will take the form of an optional installer containing a selection of plug-ins included, but that is an area we can hopefully develop more over time.
+Finally, we also want to make it easier for power users to find and install third party plug-ins. Initially that will take the form of an optional installer containing a selection of plug-ins already, but that is an area we can hopefully develop more over time.
 
 [Return to top](#contents)
 
@@ -155,7 +155,7 @@ We also publish builds on [Flathub](https://flathub.org/apps/details/org.glimpse
 
 All other installation mechanisms for Linux are considered "community supported". That means we do not have any say about how they are built, packaged or maintained. We link to them, but if you raise bug tickets with us we may direct you back to those sources instead.
 
-At the request of package maintainers, we we have run `make dist` against source tarballs from Glimpse Image Editor 0.1.2 onwards.
+At the request of package maintainers, we have run `make dist` against source tarballs from Glimpse Image Editor 0.1.2 onwards.
 
 [Return to top](#contents)
 
