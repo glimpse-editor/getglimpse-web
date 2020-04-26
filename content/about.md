@@ -122,7 +122,7 @@ Glimpse Image Editor 2.0.0 could be another fork of the GNU Image Manipulation P
 ## Which operating systems do you support? {#which-operating-systems-do-you-support}
 We support systems running Windows 7 or newer, and modern variants of GNU/Linux.
 
-Unfortunately we are not able to support MacOS at this time, but that is planned for the future. For the time being, we recommend either sticking with [the GNU Image Manipulation Program](https://www.gimp.org/downloads/) or using [Seashore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos) as an alternative.
+Unfortunately we are not able to support MacOS. You can run the Windows version in a virtualized environment, stick with [the GNU Image Manipulation Program](https://www.gimp.org/downloads/), or try [Seashore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos).
 
 [Return to top](#contents)
 
@@ -160,8 +160,6 @@ At the request of package maintainers, we have run `make dist` against source ta
 [Return to top](#contents)
 
 ## Will you support BSD, Haiku, Solaris or other UNIX platforms? {#will-you-support-bsd-haiku-solaris-or-other-unix-platforms}
-The only UNIX operating system we currently have plans to directly support is macOS.
-
 Other UNIX systems are treated the same way as any individual Linux distribution. We do not directly support the individual packaging formats and publishing platforms for each variant of UNIX because we don't have the knowledge or resources to support and maintain them all.
 
 However, we will accept code fixes that enhance UNIX compatibility and will assist any third party package maintainers that want to port Glimpse Image Editor to operating systems like BSD, Haiku, Solaris and other UNIX variants.
@@ -169,9 +167,11 @@ However, we will accept code fixes that enhance UNIX compatibility and will assi
 [Return to top](#contents)
 
 ## Will you contribute changes back upstream? {#will-you-contribute-changes-back-upstream}
-Absolutely! We intend to be good free software citizens, and as soon as we have made changes that the upstream project want to include in their codebase we will be willing to assist them however we can. We have also periodically donated a portion of the donations we have received to the GNU Image Manipulation Program developers.
+We are already working with the GNU Image Manipulation Program developers to the best of our ability. We have passed $150 USD of our own donations to them, we report bugs and brief their developers on changes that might interest them, and we have updated our online materials so they are less combative. Bobby Moss also currently acts as our representative on their IRC channel so we can deal with any problems they decide to raise with us.
 
-While both projects may not agree on some things, it is clear to us that an adversarial attitude will not help either of us. If we work together then the whole free software community can benefit from this fork that attracts new contributors, introduces more new ideas for a well-established codebase and shares free software with a whole new audience.
+The Glimpse project governance team agrees that maintaining a positive relationship with the GNU Image Manipulation Program developers is in the best interests of both projects and the wider free software community.
+
+We recognize that it will take time to build trust, particularly given this fork was started because of a long-standing disagreement. If contributors from both projects can conduct themselves well and act as an example for their users, then we can all have a more pleasant time making free software.
 
 [Return to top](#contents)
 
