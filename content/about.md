@@ -122,7 +122,9 @@ Glimpse Image Editor 2.0.0 could be another fork of the GNU Image Manipulation P
 ## Which operating systems do you support? {#which-operating-systems-do-you-support}
 We support systems running Windows 7 or newer, and modern variants of GNU/Linux.
 
-Unfortunately we are not able to support MacOS. You can run the Windows version in a virtualized environment, stick with [the GNU Image Manipulation Program](https://www.gimp.org/downloads/), or try [Seashore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos).
+Unfortunately Glimpse Image Editor is not supported on MacOS. We recommend either running the Windows version in a virtualized environment or sticking with [the GNU Image Manipulation Program](https://www.gimp.org/downloads/). 
+
+You may also be interested in trying [Seashore](https://apps.apple.com/us/app/seashore/id1448648921?mt=12), an older fork of the GNU Image Manipulation Program designed specifically for MacOS. While it does have fewer features, it may still be suitable for your intended use case.
 
 [Return to top](#contents)
 
@@ -167,7 +169,7 @@ However, we will accept code fixes that enhance UNIX compatibility and will assi
 [Return to top](#contents)
 
 ## Will you contribute changes back upstream? {#will-you-contribute-changes-back-upstream}
-We are already working with the GNU Image Manipulation Program developers to the best of our ability. We have passed $150 USD of our own donations to them, we report bugs and brief their developers on changes that might interest them, and we have updated our online materials so they are less combative. Bobby Moss also currently acts as our representative on their IRC channel so we can deal with any problems they decide to raise with us.
+We are already working with the GNU Image Manipulation Program developers to the best of our ability. We have passed $150 USD of our own donations to them, we report bugs and brief their developers on changes that might interest them, and we have updated our online materials so they are less combative. Bobby Moss also currently acts as our representative on their IRC channel so we can deal with any problems they raise with us.
 
 The Glimpse project governance team agrees that maintaining a positive relationship with the GNU Image Manipulation Program developers is in the best interests of both projects and the wider free software community.
 

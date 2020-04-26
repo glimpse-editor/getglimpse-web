@@ -59,9 +59,9 @@ These builds are provided by third parties in the wider Linux community. We do n
 * [`glimpse:IBBboard`](https://software.opensuse.org//download.html?project=home%3AIBBoard%3Adesktop&package=glimpse) on the OpenSUSE Open Build Service
 
 ### MacOS
-The Glimpse project does not currently support the MacOS platform, but we are actively working on it.
+Unfortunately Glimpse Image Editor is not supported on MacOS. We recommend either running the Windows version in a virtualized environment or sticking with [the GNU Image Manipulation Program](https://www.gimp.org/downloads/). 
 
-As a temporary workaround, we recommend either sticking with [the GNU Image Manipulation Program](https://www.gimp.org/downloads/) or using [Seashore](http://libregraphicsworld.org/blog/entry/meet-seashore-free-image-editor-for-macos) as an alternative.
+You may also be interested in trying [Seashore](https://apps.apple.com/us/app/seashore/id1448648921?mt=12), an older fork of the GNU Image Manipulation Program designed specifically for MacOS. While it does have fewer features, it may still be suitable for your intended use case.
 
 ### Build our code
 We have provided instructions for building and packaging the Glimpse Image Editor source code on our project wiki: https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse
