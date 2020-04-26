@@ -171,7 +171,7 @@ However, we will accept code fixes that enhance UNIX compatibility and will assi
 ## Will you contribute changes back upstream? {#will-you-contribute-changes-back-upstream}
 Absolutely! We intend to be good free software citizens, and as soon as we have made changes that the upstream project want to include in their codebase we will be willing to assist them however we can. We have also periodically donated a portion of the donations we have received to the GNU Image Manipulation Program developers.
 
-While both projects may not agree on some things, it is clear to us that an adversarial attitude will not help either of us. If we work together then the whole free software community can benefit from this fork that attracts new contributors, breathes new life into an ageing codebase and shares free software with a whole new audience.
+While both projects may not agree on some things, it is clear to us that an adversarial attitude will not help either of us. If we work together then the whole free software community can benefit from this fork that attracts new contributors, introduces more new ideas for a well-established codebase and shares free software with a whole new audience.
 
 [Return to top](#contents)
 
