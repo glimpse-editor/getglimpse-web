@@ -169,11 +169,11 @@ However, we will accept code fixes that enhance UNIX compatibility and will assi
 [Return to top](#contents)
 
 ## Will you contribute changes back upstream? {#will-you-contribute-changes-back-upstream}
-We are already working with the GNU Image Manipulation Program developers to the best of our ability. We have passed $150 USD of our own donations to them, we report bugs and brief their developers on changes that might interest them, and we have updated our online materials so they are less combative. Bobby Moss also currently acts as our representative on their IRC channel so we can deal with any problems they raise with us.
+We are already working with the GNU Image Manipulation Program developers to the best of our ability. We have passed $150 USD of our own donations to them, we report bugs and brief their developers on changes that might interest them, and we have updated our online materials so they are less combative towards upstream. Bobby Moss also currently acts as our representative on their IRC channel so we can deal with any problems they raise with us.
 
 The Glimpse project governance team agrees that maintaining a positive relationship with the GNU Image Manipulation Program developers is in the best interests of both projects and the wider free software community.
 
-We recognize that it will take time to build trust, particularly given this fork was started because of a long-standing disagreement. If contributors from both projects can conduct themselves well and act as an example for their users, then we can all have a more pleasant time making free software.
+We recognize that it will take time to build trust, particularly given this fork was started because of a long-standing disagreement. If contributors from both projects can conduct themselves well and act as an example for their users, then we can all have a more pleasant time making, using and sharing free software.
 
 [Return to top](#contents)
 
