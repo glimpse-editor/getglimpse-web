@@ -43,12 +43,12 @@ The GNU Image Manipulation Program developers will be the biggest recipient, as 
 [Open Collective](https://opencollective.com/) will also receive a share of the remaining funds as our way of saying thank you for [hosting us](https://opencollective.com/glimpse). That charity does brilliant work providing legal and financial services for hundreds of free software projects, and we wish them the best of luck for the future.
 
 ## The future of our fork
-[Bobby Moss](http://trechnex.freeshell.org/) has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until July 2021.
+[Bobby Moss](http://trechnex.freeshell.org/) has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until at least July 2021.
 
-We would like to thank him for lending us his experience, thousands of unpaid volunteer hours, and the $100 USD donation that helped us get this project started. We would particularly like to thank him for the time he spent [trying to port](https://github.com/glimpse-editor/Glimpse/issues/227#issuecomment-620214794) Glimpse Image Editor to MacOS and continuing to be our contact with the GNU Image Manipulation Program developers.
+We would like to thank him for lending us his experience, thousands of unpaid volunteer hours, and the $100 USD donation that helped us get this project started. We would particularly like to thank him for being our contact with the GNU Image Manipulation Program developers, and for the time he spent [trying to port](https://github.com/glimpse-editor/Glimpse/issues/227#issuecomment-620214794) Glimpse Image Editor to MacOS.
 
 ### Over to you
-Within the next year or two, the GNU Image Manipulation Program developers will release version 3.0 of the application. That will use the meson build system, migrate to GTK3 and Python 3, support plug-ins written in Lua and JavaScript, and include sought-after features like CMYK colorspace support and non-destructive editing.
+Within the next year or two, the GNU Image Manipulation Program developers will release version 3.0 of their application. That will use the meson build system, migrate to GTK3 and Python 3, support plug-ins written in Lua and JavaScript, and include sought-after features like CMYK colorspace support and non-destructive editing.
 
 We are looking for volunteers that would be willing to help us create an exciting new fork based on the upstream master branch so we are ready when 3.0 is stable. If you would like to get involved, check out our [contribute page](/contribute/).
 
