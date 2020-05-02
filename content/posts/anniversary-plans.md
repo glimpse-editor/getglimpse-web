@@ -38,7 +38,7 @@ We will continue to [accept donations on Open Collective](https://opencollective
 
 Because we are a not-for-profit project and the costs for maintaining the forked code will effectively become $0 USD, we intend to uphold our previous pledge to pass all remaining money after costs to the GNU Image Manipulation Program. This will happen in June 2020, when we have completed our infrastructure migration.
 
-From July 2020, all new donations we receive will be specifically earmarked for producing a new image editing application with a completely new user interface. We will clearly communicate what is happening to existing backers via email, and publicly announce all of this on our online channels.
+From July 2020, all new donations we receive will be specifically earmarked for producing a new image editing application with a completely new user interface. We will clearly communicate that change to existing backers via email, and publicly announce all of this on our online channels.
 
 ## The future of our fork
 [Bobby Moss](http://trechnex.freeshell.org/) has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until at least July 2021.
