@@ -43,7 +43,7 @@ The GNU Image Manipulation Program developers will be the biggest recipient, as 
 [Open Collective](https://opencollective.com/) will also receive a share of the remaining funds as our way of saying thank you for [hosting us](https://opencollective.com/glimpse). That charity does brilliant work providing legal and financial services for hundreds of free software projects, and we wish them the best of luck for the future.
 
 ## The future of our fork
-[Bobby Moss](http://trechnex.freeshell.org/) has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until July 2021.
+[Bobby Moss](http://trechnex.freeshell.org/) has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until at least July 2021.
 
 We would like to thank him for lending us his experience, thousands of unpaid volunteer hours, and the $100 USD donation that helped us get this project started. We would particularly like to thank him for the time he spent [trying to port](https://github.com/glimpse-editor/Glimpse/issues/227#issuecomment-620214794) Glimpse Image Editor to MacOS and continuing to be our contact with the GNU Image Manipulation Program developers.
 
