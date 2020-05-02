@@ -23,13 +23,13 @@ To that end, we have ended our plans to run our own self-hosted Jenkins and Gite
 
 Similarly we intend to move our wiki to our Github repository instead of running MediaWiki on its own server, and we are also evaluating potential free hosts for our website.
 
-We believe that because 0.2.0 will include all the initial functionality we promised, so our main cost from now on would be  related to collaboration tools. Because we now know roughly how many contributors we need to provide services for and how large our user base is likely to be, we have determined that free tier services should be sufficient for our project's needs.
+We believe that 0.2.0 will include all the initial functionality we promised, so our main costs from now on would be related to collaboration tools. Because we now know roughly how many contributors we need to provide services for and how large our user base is likely to be, we have determined that free tier services should be sufficient for our project's needs.
 
 Currently Bobby Moss is the solo developer of the forked code, with up to a dozen other people providing assistance with packaging, design, testing, moderation and governance.
 
 Luna also runs a separate team composed of herself, Chaomodus and several designers that are working on a complete UI rewrite.
 
-We estimate that Glimpse Image Editor has a user base of around 10000 users across Windows and GNU/Linux ecosystems.
+We estimate that Glimpse Image Editor has a user base of <=10000 users across Windows and GNU/Linux ecosystems.
 
 ## We're closing down our donation portals
 It logically follows that if we are a not-for-profit project and intend to drive down our costs to "almost zero", then we no longer need to ask for donations.
@@ -40,16 +40,16 @@ In June 2020 we will stop accepting donations, and pass along all the money that
 
 The GNU Image Manipulation Program developers will be the biggest recipient, as we promised we would pass back our donations to them if we ever decided to end fundraising for our project. That would be *in addition* to the $150 USD we have [already donated](https://opencollective.com/glimpse/expenses/categories/donation).
 
-[Open Collective](https://opencollective.com/) will also receive a share of the remaining funds as our way of thank you for [hosting us](https://opencollective.com/glimpse). That charity does brilliant work providing legal and financial services for hundreds of free software projects, and we wish them the best of luck for the future.
+[Open Collective](https://opencollective.com/) will also receive a share of the remaining funds as our way of saying thank you for [hosting us](https://opencollective.com/glimpse). That charity does brilliant work providing legal and financial services for hundreds of free software projects, and we wish them the best of luck for the future.
 
 ## The future of our fork
-Bobby Moss has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until July 2021.
+[Bobby Moss](http://trechnex.freeshell.org/) has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until July 2021.
 
 We would like to thank him for lending us his experience, thousands of unpaid volunteer hours, and the $100 USD donation that helped us get this project started. We would particularly like to thank him for the time he spent [trying to port](https://github.com/glimpse-editor/Glimpse/issues/227#issuecomment-620214794) Glimpse Image Editor to MacOS and continuing to be our contact with the GNU Image Manipulation Program developers.
 
-Within the next year or two, the GNU Image Manipulation Program developers will release version 3.0 of the application. That will use the meson build system, migrate to GTK3 and Python 3, support plug-ins written in Lua and JavaScript, and include sought-after features like CMYK color support and non-destructive editing.
+Within the next year or two, the GNU Image Manipulation Program developers will release version 3.0 of the application. That will use the meson build system, migrate to GTK3 and Python 3, support plug-ins written in Lua and JavaScript, and include sought-after features like CMYK colorspace support and non-destructive editing.
 
-We are looking for volunteers that would be willing to help us create an exciting new fork based on the upstream master branch. If you would like to get involved, check out our [contribute page](/contribute/).
+We are looking for volunteers that would be willing to help us create an exciting new fork based on the upstream master branch so we are ready when 3.0 is stable. If you would like to get involved, check out our [contribute page](/contribute/).
 
 ## Download figures update
 All figures were correct on the day this blog post was published and sources have been provided so that you can verify our claims. If the figures are accurate then we would consider this to be a good start for our project, and can confirm that the number of downloads has increased since 2020-03-17. [Source](/posts/changing-plans/)
