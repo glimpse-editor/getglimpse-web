@@ -23,7 +23,7 @@ To that end, we have ended our plans to run our own self-hosted Jenkins and Gite
 
 Similarly we intend to move our wiki to our Github repository instead of running MediaWiki on its own server, and we are also evaluating potential free hosts for our website.
 
-We believe that 0.2.0 will include all the initial functionality we promised, so our main costs from now on would be related to collaboration tools. Because we now know roughly how many contributors we need to provide services for and how large our user base is likely to be, we have determined that free tier services should be sufficient for our project's needs.
+We believe that 0.2.0 will include all the initial functionality we promised, so our main costs from now on would be related to collaboration tools. Because we now know roughly how many contributors we need to provide services for and how large our user base is likely to be, we have determined that these services should be sufficient for our project's needs.
 
 Currently Bobby Moss is the solo developer of the forked code, with up to a dozen other people providing assistance with packaging, design, testing, moderation and governance.
 
