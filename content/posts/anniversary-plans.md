@@ -27,9 +27,18 @@ We believe that 0.2.0 will include all the initial functionality we promised, so
 
 Currently Bobby Moss is the solo developer of the forked code, with up to a dozen other people providing assistance with packaging, design, testing, moderation and governance.
 
-Luna also runs a separate team composed of herself, Chaomodus and several designers that are working on a complete UI rewrite.
+Luna also runs a separate team composed of herself, Chaomodus and several designers that are working on a complete UI rewrite. We will provide more details about this in future blog posts.
 
 We estimate that Glimpse Image Editor has a user base of <=10000 users across Windows and GNU/Linux ecosystems.
+
+## How does this impact donations?
+We will be closing our Github Sponsors account with immediate effect, as we unfortunately saw very little interest in that platform anyway. 
+
+We will continue to [accept donations on Open Collective](https://opencollective.com/glimpse), just as we do now.
+
+Because we are a not-for-profit project and the costs for maintaining the forked code will effectively become $0 USD, we intend to uphold our previous pledge to pass all remaining money after costs to the GNU Image Manipulation Program. This will happen in June 2020, when we have completed our infrastructure migration.
+
+From July 2020, all new donations we receive will be specifically earmarked for producing a new image editing application with a completely new user interface. We will clearly communicate what is happening to existing backers via email, and publicly announce all of this on our online channels.
 
 ## The future of our fork
 [Bobby Moss](http://trechnex.freeshell.org/) has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until at least July 2021.
