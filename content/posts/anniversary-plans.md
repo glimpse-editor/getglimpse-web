@@ -31,17 +31,6 @@ Luna also runs a separate team composed of herself, Chaomodus and several design
 
 We estimate that Glimpse Image Editor has a user base of <=10000 users across Windows and GNU/Linux ecosystems.
 
-## We're closing down our donation portals
-It logically follows that if we are a not-for-profit project and intend to drive down our costs to "almost zero", then we no longer need to ask for donations.
-
-Our Github Sponsors account will be closed immediately, and May 2020 will be the last month in which we will [accept donations on Open Collective](https://opencollective.com/glimpse). That will ensure everyone has due warning and we can still cover the costs of server hosting while we migrate to our new solutions.
-
-In June 2020 we will stop accepting donations, and pass along all the money that Open Collective currently holds for us to a number of good causes.
-
-The GNU Image Manipulation Program developers will be the biggest recipient, as we promised we would pass back our donations to them if we ever decided to end fundraising for our project. That would be *in addition* to the $150 USD we have [already donated](https://opencollective.com/glimpse/expenses/categories/donation).
-
-[Open Collective](https://opencollective.com/) will also receive a share of the remaining funds as our way of saying thank you for [hosting us](https://opencollective.com/glimpse). That charity does brilliant work providing legal and financial services for hundreds of free software projects, and we wish them the best of luck for the future.
-
 ## The future of our fork
 [Bobby Moss](http://trechnex.freeshell.org/) has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until at least July 2021.
 
