@@ -51,7 +51,7 @@ Within the next year or two, the GNU Image Manipulation Program developers will 
 If you would like to see us fork it, we are looking for volunteers that would be willing to help us build on the upstream master branch so we are ready when 3.0 is stable. If you would like to get involved, check out our [contribute page](/contribute/).
 
 ## Download figures update
-All figures were correct on the day this blog post was published and sources have been provided so that you can verify our claims. If the figures are accurate then we would consider this to be a good start for our project, and can confirm that the number of downloads has increased since 2020-03-17. [Source](/posts/changing-plans/)
+All figures were correct on the day this blog post was published and sources have been provided so that you can verify our claims. If the figures are accurate then we would consider this to mean that Glimpse Image Editor 0.1.2 has been positively-received by users. We can confirm that the number of downloads has increased since 2020-03-17. [Source](/posts/changing-plans/)
 
 We know that Glimpse Image Editor has been downloaded at least NNNNN (+NNNN) times across all platforms and download sources since it was first released on 2019-11-22. A detailed breakdown is provided below.
 
