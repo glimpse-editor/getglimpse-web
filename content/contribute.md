@@ -1,31 +1,40 @@
 ---
 title: "Contribute"
-date: 2020-04-05T14:00:00+01:00
+date: 2020-05-03T16:00:00+01:00
 draft: false
 menu: "main"
 ---
+Please note that we are developing Glimpse Image Editor in two parallel streams.
+
+The "fork" stream aims to rebrand the GNU Image Manipulation Program so that those who are made uncomfortable/offended by the name or experience barriers advocating the solution in schools, universities and workplaces have an alternative option. This stream has also recently branched out to focus on minor UI changes and optional downloads.
+
+The "rewrite" stream aims to create a completely new image editing program with a completely new user interface and cross-platform graphical toolkit.
+
+We have highlighted which stream each link belongs to. If there is no named stream, the link applies to both.
+
 ## Code, Bug Reports, etc
- * [Bug Reports](https://github.com/glimpse-editor/Glimpse/issues)
- * [Development Road Map](https://github.com/glimpse-editor/Glimpse/milestones)
- * [Source Code](https://github.com/glimpse-editor/Glimpse)
+ * [Bug Reports](https://github.com/glimpse-editor/Glimpse/issues) (fork)
+ * [Development Road Map](https://github.com/glimpse-editor/Glimpse/milestones) (fork)
+ * [Source Code](https://github.com/glimpse-editor/Glimpse) (fork)
 
 ## Art, mockups, etc.
  * [Branding](https://github.com/glimpse-editor/branding)
  * [Wiki](https://wiki.glimpse-editor.org/)
 
 ## Discussion
- * [Matrix](https://matrix.to/#/#glimpse:matrix.org)
+ * [Matrix](https://matrix.to/#/#glimpse:matrix.org) (fork)
+ * [Discord](https://discord.gg/hZhRceq) (rewrite)
 
 ## News
- * [Facebook](https://fb.me/glimpse.editor)
+ * [Facebook](https://fb.me/glimpse.editor) (fork)
  * [Mastodon](https://mastodon.art/@glimpse)
  * [RSS](../posts/index.xml)
  * [Twitter](https://twitter.com/glimpse_editor)
 
 ## Donate
- * [Open Collective](https://opencollective.com/glimpse) (Ending soon)
+ * [Open Collective](https://opencollective.com/glimpse)
 
- We also recommend donating to [GNU Image Manipulation Program](https://www.gimp.org/donating/), the upstream project on which this fork relies.
+ We also recommend donating to [GNU Image Manipulation Program](https://www.gimp.org/donating/), the upstream project on which the fork relies.
 
 ## Community Supported Channels
 We welcome members of our community starting their own unofficial support forums and communication channels.
