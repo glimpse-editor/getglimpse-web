@@ -41,7 +41,7 @@ Because we are a not-for-profit project and the costs for maintaining the forked
 From July 2020, all new donations we receive will be specifically earmarked for producing a new image editing application with a completely new user interface. We will clearly communicate that change to existing backers via email, and publicly announce all of this on our online channels.
 
 ## The future of our fork
-[Bobby Moss](http://trechnex.freeshell.org/) has indicated that 0.2.0 based on the GNU Image Manipulation Program 2.10.18 is the last feature release he intends to develop for the "fork" stream. He will continue to produce 0.2.x maintenance releases periodically to ensure the program is stable and continues to work until the UI rewrite is ready.
+[Bobby Moss](http://trechnex.freeshell.org/) has indicated that 0.2.0 (based on the GNU Image Manipulation Program 2.10.18) is the last feature release he intends to develop for the "fork" stream. He will continue to produce 0.2.x maintenance releases periodically to ensure the program is stable and continues to work until the UI rewrite is ready.
 
 We would like to thank him for lending us his experience, thousands of unpaid volunteer hours, and the $100 USD donation that helped us get this project started. We would particularly like to thank him for being our contact with the GNU Image Manipulation Program developers, and for the time he spent [trying to port](https://github.com/glimpse-editor/Glimpse/issues/227#issuecomment-620214794) Glimpse Image Editor to MacOS.
 
