@@ -14,7 +14,7 @@ Glimpse Image Editor 0.2.0 will be based on the GNU Image Manipulation Program 2
 
 In addition to uplifting the base versions, Glimpse Image Editor 0.2.0 will include changes to icon packs, more features in our Windows installer, a Linux AppImage, and an optional Linux AppImage download that contains extra third party plug-ins. You can track our progress in the [0.2.0 milestone](https://github.com/glimpse-editor/Glimpse/milestone/12) on Github.
 
-We have also moved a number of feature suggestions into a [0.2.x candidate](https://github.com/glimpse-editor/Glimpse/milestone/5) milestone on Github, and some of these features will be picked up either as part of the 0.2.0 release or a future 0.2.2 release scheduled for "early 2021".
+We have also moved a number of feature suggestions into a [0.2.x candidate](https://github.com/glimpse-editor/Glimpse/milestone/5) milestone on Github, and some of these features will be picked up either as part of Glimpse Image Editor 0.2.0 or a future maintenance release.
 
 ## Planning for the longer term
 We have been reviewing how our project has been progressing every few months, but now we are approaching the end of our first year we are starting to think about how we can support our application in the long term.
