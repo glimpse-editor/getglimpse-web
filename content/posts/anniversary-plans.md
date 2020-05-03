@@ -1,6 +1,6 @@
 ---
 title: "Anniversary Plans"
-date: 2020-05-02T11:00:00+01:00
+date: 2020-05-03T16:00:00+01:00
 draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
@@ -25,11 +25,11 @@ Similarly we intend to move our wiki to our Github repository instead of running
 
 We believe that 0.2.0 will include all the initial functionality we promised, so our main costs from now on would be related to collaboration tools. Because we now know roughly how many contributors we need to provide services for and how large our user base is likely to be, we have determined that these services should be sufficient for our project's needs.
 
-Currently Bobby Moss is the solo developer of the forked code, with up to a dozen other people providing assistance with packaging, design, testing, moderation and governance.
+Currently Bobby Moss is the solo developer of the forked code, with up to a dozen other people providing assistance with packaging, design, testing, moderation and governance. You can use the links on the [Contribute](/contribute/) page to follow their progress.
 
-Luna also runs a separate team composed of herself, Chaomodus and several designers that are working on a complete UI rewrite. We will provide more details about this in future blog posts.
+Luna also runs a separate team composed of herself and several designers that are working on a complete UI rewrite. We will provide more details about this in future blog posts, but in the meantime you can follow their progress [on Discord](https://discord.gg/hZhRceq).
 
-We estimate that Glimpse Image Editor has a user base of <=10000 users across Windows and GNU/Linux ecosystems.
+We estimate that Glimpse Image Editor has a user base of at least 10000 machines across Windows and GNU/Linux ecosystems, and we expect the download numbers to stabilise around that figure for each release over the next year or so.
 
 ## How does this impact donations?
 We will be closing our Github Sponsors account with immediate effect, as we unfortunately saw very little interest in that platform anyway. 
@@ -41,14 +41,18 @@ Because we are a not-for-profit project and the costs for maintaining the forked
 From July 2020, all new donations we receive will be specifically earmarked for producing a new image editing application with a completely new user interface. We will clearly communicate that change to existing backers via email, and publicly announce all of this on our online channels.
 
 ## The future of our fork
-[Bobby Moss](http://trechnex.freeshell.org/) has indicated that the 0.2.x releases based on the GNU Image Manipulation Program 2.10.18 are the last ones he intends to develop. He will continue to help us maintain the 0.2.x releases until at least July 2021.
+[Bobby Moss](http://trechnex.freeshell.org/) has indicated that 0.2.0 based on the GNU Image Manipulation Program 2.10.18 is the last feature release he intends to develop for the "fork" stream. He will continue to produce 0.2.x maintenance releases periodically to ensure the program is stable and continues to work until the UI rewrite is ready.
 
 We would like to thank him for lending us his experience, thousands of unpaid volunteer hours, and the $100 USD donation that helped us get this project started. We would particularly like to thank him for being our contact with the GNU Image Manipulation Program developers, and for the time he spent [trying to port](https://github.com/glimpse-editor/Glimpse/issues/227#issuecomment-620214794) Glimpse Image Editor to MacOS.
+
+Glimpse Image Editor is already fulfilling its intended function  as a workable solution for people who dislike the name of the upstream project, and people that are encountering barriers when they advocate the GNU Image Manipulation Program in schools, universities and workplaces because of the "gimp" name.
+
+Glimpse Image Editor 0.2.0 will finally complete the rebranding effort, finish improving the installation experience on Windows, and include a number of minor features and UI fixes that users have requested.
 
 ### Over to you
 Within the next year or two, the GNU Image Manipulation Program developers will release version 3.0 of their application. That will use the meson build system, migrate to GTK3 and Python 3, support plug-ins written in Lua and JavaScript, and include sought-after features like CMYK colorspace support and non-destructive editing.
 
-We are looking for volunteers that would be willing to help us create an exciting new fork based on the upstream master branch so we are ready when 3.0 is stable. If you would like to get involved, check out our [contribute page](/contribute/).
+If you would like to see us fork it, we are looking for volunteers that would be willing to help us build on the upstream master branch so we are ready when 3.0 is stable. If you would like to get involved, check out our [contribute page](/contribute/).
 
 ## Download figures update
 All figures were correct on the day this blog post was published and sources have been provided so that you can verify our claims. If the figures are accurate then we would consider this to be a good start for our project, and can confirm that the number of downloads has increased since 2020-03-17. [Source](/posts/changing-plans/)
