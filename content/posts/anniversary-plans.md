@@ -45,8 +45,6 @@ From July 2020, all new donations we receive will be specifically earmarked for 
 
 We would like to thank him for lending us his experience, thousands of unpaid volunteer hours, and the $100 USD donation that helped us get this project started. We would particularly like to thank him for being our contact with the GNU Image Manipulation Program developers, and for the time he spent [trying to port](https://github.com/glimpse-editor/Glimpse/issues/227#issuecomment-620214794) Glimpse Image Editor to MacOS.
 
-Glimpse Image Editor is already providing a workable solution for people who dislike the name of the upstream project or encounter barriers when they advocate the GNU Image Manipulation Program in schools, universities and workplaces because of the word "gimp".
-
 Glimpse Image Editor 0.2.0 will finally complete the rebranding effort, finish improving the installation experience on Windows, and include a number of minor features and UI fixes that users have requested.
 
 ### Over to you
