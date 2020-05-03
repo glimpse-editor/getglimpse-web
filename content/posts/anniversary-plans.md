@@ -29,8 +29,6 @@ Currently Bobby Moss is the solo developer of the forked code, with up to a doze
 
 Luna also runs a separate team composed of herself and several designers that are working on a complete UI rewrite. We will provide more details about this in future blog posts, but in the meantime you can follow their progress [on Discord](https://discord.gg/hZhRceq).
 
-We estimate that Glimpse Image Editor has a user base of at least 10000 machines across Windows and GNU/Linux ecosystems, and we expect the download numbers to stabilise around that figure for each release over the next year or so.
-
 ## How does this impact donations?
 We will be closing our Github Sponsors account with immediate effect, as we unfortunately saw very little interest in that platform anyway. 
 
