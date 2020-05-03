@@ -12,7 +12,7 @@ The original intention behind 0.1.4 was to provide fixes for a show-stopping cra
 
 Glimpse Image Editor 0.2.0 will be based on the GNU Image Manipulation Program 2.10.18 and use newer versions of BABL, GEGL and MyPaint. We expect to release it in July 2020, which will mean that our third release coincides with this project's first anniversary celebrations.
 
-In addition to uplifting the base versions, Glimpse Image Editor 0.2.0 will include changes to icon packs, more features in our Windows installer, Python plug-in support on Windows, a Linux AppImage, and an optional Linux AppImage download that contains extra third party plug-ins. You can track our progress in the [0.2.0 milestone](https://github.com/glimpse-editor/Glimpse/milestone/12) on Github.
+In addition to uplifting the base versions, Glimpse Image Editor 0.2.0 will include changes to icon packs, more features in our Windows installer, a Linux AppImage, and an optional Linux AppImage download that contains extra third party plug-ins. You can track our progress in the [0.2.0 milestone](https://github.com/glimpse-editor/Glimpse/milestone/12) on Github.
 
 We have also moved a number of feature suggestions into a [0.2.x candidate](https://github.com/glimpse-editor/Glimpse/milestone/5) milestone on Github, and some of these features will be picked up either as part of the 0.2.0 release or a future 0.2.2 release scheduled for "early 2021".
 
