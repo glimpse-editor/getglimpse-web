@@ -3,34 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://glimpse-editor.org/</loc>
+    <lastmod>2020-05-04T19:51:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://glimpse-editor.org/about/</loc>
+    <lastmod>2020-05-04T19:51:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://glimpse-editor.org/posts/anniversary-plans/</loc>
+    <lastmod>2020-05-04T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://glimpse-editor.org/posts/</loc>
+    <lastmod>2020-05-04T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://glimpse-editor.org/contribute/</loc>
+    <lastmod>2020-05-03T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://glimpse-editor.org/posts/a-month-of-many-patches/</loc>
     <lastmod>2020-04-12T09:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://glimpse-editor.org/posts/</loc>
-    <lastmod>2020-04-12T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://glimpse-editor.org/</loc>
-    <lastmod>2020-04-10T21:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://glimpse-editor.org/downloads/</loc>
     <lastmod>2020-04-10T21:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://glimpse-editor.org/about/</loc>
-    <lastmod>2020-04-10T13:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://glimpse-editor.org/contribute/</loc>
-    <lastmod>2020-04-05T14:00:00+01:00</lastmod>
   </url>
   
   <url>

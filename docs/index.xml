@@ -6,70 +6,15 @@
     <description>Recent content on Glimpse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2020 21:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 19:51:00 +0100</lastBuildDate>
     
         <atom:link href="https://glimpse-editor.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Posts</title>
-      <link>https://glimpse-editor.org/posts/</link>
-      <pubDate>Sun, 12 Apr 2020 09:00:00 +0100</pubDate>
-      
-      <guid>https://glimpse-editor.org/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Downloads</title>
-      <link>https://glimpse-editor.org/downloads/</link>
-      <pubDate>Fri, 10 Apr 2020 21:00:00 +0100</pubDate>
-      
-      <guid>https://glimpse-editor.org/downloads/</guid>
-      <description>&lt;p&gt;The latest release is Glimpse Image Editor 0.1.2, and it is provided under the terms of the GNU General Public License v3. &lt;a href=&#34;https://glimpse-editor.org/posts/glimpse-0-1-2-release-notes/&#34;&gt;Release Notes&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;windows&#34;&gt;Windows&lt;/h3&gt;
-&lt;p&gt;Glimpse Image Editor 0.1.2 is supported on 32-bit and 64-bit systems running Windows 7 or later.&lt;/p&gt;
-&lt;h4 id=&#34;glimpse-image-editor-012-installer&#34;&gt;Glimpse Image Editor 0.1.2 installer&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;glimpse-0.1.2.msi&lt;/strong&gt; | &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi&#34;&gt;Direct download&lt;/a&gt; | &lt;em&gt;Sha256: 99C3DF2884310CB74C39A15FB63E93FBF2112F581DC5325B37123467618D89E8&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;If you are having problems with this installer, we also provide an &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2-unsigned.msi&#34;&gt;unsigned version&lt;/a&gt; for troubleshooting purposes. Please note that the unsigned installer will trigger security warnings from Windows and your installed anti-virus program.&lt;/p&gt;
-&lt;p&gt;You can download previous versions for Windows &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/&#34;&gt;from Github&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;linux&#34;&gt;Linux&lt;/h3&gt;
-&lt;p&gt;We distribute Glimpse Image Editor 0.1.2 on Flathub and Snapcraft for end users. We also provide a source tarball for Linux distribution maintainers. A Linux AppImage will be published before the end of March 2020.&lt;/p&gt;
-&lt;h4 id=&#34;flatpak&#34;&gt;Flatpak&lt;/h4&gt;
-&lt;p&gt;If Flatpak is not already installed on your machine, follow these instructions: &lt;a href=&#34;https://flatpak.org/setup/&#34;&gt;https://flatpak.org/setup/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Once setup is complete you can find Glimpse by searching in your distribution&amp;rsquo;s software center, or you can click on this button:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Alternatively you can install it manually at the command line:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ flatpak install flathub org.glimpse_editor.Glimpse
-&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;snapcraft&#34;&gt;Snapcraft&lt;/h4&gt;
-&lt;p&gt;If Snapcraft is not already installed on your machine, follow these instructions: &lt;a href=&#34;https://snapcraft.io/docs/getting-started&#34;&gt;https://snapcraft.io/docs/getting-started&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Once setup is complete you can find Glimpse Image Editor by searching in your distribution&amp;rsquo;s software center, or you can click on this button:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Alternatively you can install it manually at the command line:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ sudo snap install glimpse-editor
-&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;source-tarball&#34;&gt;Source tarball&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;glimpse-0.1.2.tar.bz2&lt;/strong&gt; | &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.bz2&#34;&gt;Direct download&lt;/a&gt; | &lt;em&gt;Sha256: f9845f7a5ce1aece5c0c808b2fa7ba91ce657b942d6e777bbab5c0abb6f2499a&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;glimpse-0.1.2.tar.xz&lt;/strong&gt; | &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.xz&#34;&gt;Direct download&lt;/a&gt; | &lt;em&gt;Sha256: b1086b7effd9a3f4a9b4577bb4c3bf69d86f8c60a3c4fe9966aeefb7150deb0d&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Please note that we are still in the process of refactoring certain subcomponents, so distribution maintainers need to mark &lt;code&gt;libgimp&lt;/code&gt; as a conflicting package. &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/issues/7&#34;&gt;More details&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;community-supported-sources&#34;&gt;Community-supported sources&lt;/h4&gt;
-&lt;p&gt;These builds are provided by third parties in the wider Linux community. We do not create, package or directly support these sources, so if you raise any bugs for them that would not apply to most Linux users, we may direct you elsewhere to get the issue fixed.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://aur.archlinux.org/packages/glimpse-editor-git/&#34;&gt;&lt;code&gt;glimpse-editor-git&lt;/code&gt;&lt;/a&gt; in the AUR&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://software.opensuse.org//download.html?project=home%3AIBBoard%3Adesktop&amp;amp;package=glimpse&#34;&gt;&lt;code&gt;glimpse:IBBboard&lt;/code&gt;&lt;/a&gt; on the OpenSUSE Open Build Service&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;macos&#34;&gt;MacOS&lt;/h3&gt;
-&lt;p&gt;Unfortunately Glimpse Image Editor is not supported on MacOS. We recommend either running the Windows version in a virtualized environment or sticking with &lt;a href=&#34;https://www.gimp.org/downloads/&#34;&gt;the GNU Image Manipulation Program&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You may also be interested in trying &lt;a href=&#34;https://apps.apple.com/us/app/seashore/id1448648921?mt=12&#34;&gt;Seashore&lt;/a&gt;, an older fork of the GNU Image Manipulation Program designed specifically for MacOS. While it does have fewer features, it may still be suitable for your intended use case.&lt;/p&gt;
-&lt;h3 id=&#34;build-our-code&#34;&gt;Build our code&lt;/h3&gt;
-&lt;p&gt;We have provided instructions for building and packaging the Glimpse Image Editor source code on our project wiki: &lt;a href=&#34;https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse&#34;&gt;https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;You can also test out our own beta and development releases by following these instructions: &lt;a href=&#34;https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse&#34;&gt;https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>About (FAQs)</title>
       <link>https://glimpse-editor.org/about/</link>
-      <pubDate>Fri, 10 Apr 2020 13:00:00 +0100</pubDate>
+      <pubDate>Mon, 04 May 2020 19:51:00 +0100</pubDate>
       
       <guid>https://glimpse-editor.org/about/</guid>
       <description>&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
@@ -146,11 +91,11 @@
 &lt;p&gt;&lt;a href=&#34;#contents&#34;&gt;Return to top&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;how-does-your-release-numbering-work&#34;&gt;How does your release numbering work?&lt;/h2&gt;
 &lt;p&gt;Glimpse Image Editor 0.1.0 is based on the GNU Image Manipulation Program 2.10.12. All 0.1.x releases add our changes, backport useful upstream functionality and update key dependencies on the same 2.10.12 base.&lt;/p&gt;
-&lt;p&gt;Glimpse Image Editor 0.2.0 will be rebased on whichever release of the GNU Image Manipulation Program is current and stable on 2020-07-05, and we intend to release it before September 2020.&lt;/p&gt;
-&lt;p&gt;Whenever we produce a 0.x.0 release, we will continue adding features to it every few months until July the following year. We then intend to provide &amp;ldquo;maintenance updates&amp;rdquo; providing patches and updated dependencies for up to a year afterwards if any severe bugs or security issues are reported to us.&lt;/p&gt;
+&lt;p&gt;Glimpse Image Editor 0.2.0 will be rebased on the GNU Image Manipulation Program 2.10.18, and we intend to release it in July 2020. All 0.2.x releases will add our changes, back port useful functionality and update key dependencies on the same 2.10.18 base.&lt;/p&gt;
+&lt;p&gt;We intend to continue providing &amp;ldquo;maintenance updates&amp;rdquo; with patches and updated dependencies for at least a year after each 0.x.0 release.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Beta test&amp;rdquo; and &amp;ldquo;Stable&amp;rdquo; release versions always end in an even number. Odd numbered versions are &amp;ldquo;Unstable&amp;rdquo; builds created from our development branch.&lt;/p&gt;
-&lt;p&gt;Glimpse Image Editor 1.0.0 will be a complete re-fork based on the GNU Image Manipulation Program 3.x. We feel this is necessary because of the major changes that will be included in that upstream release.&lt;/p&gt;
-&lt;p&gt;Glimpse Image Editor 2.0.0 could be another fork of the GNU Image Manipulation Program, or we may switch to an entirely new image editing application that we wrote ourselves.&lt;/p&gt;
+&lt;p&gt;Glimpse Image Editor 1.0.0 is currently reserved in case we decide to fork the GNU Image Manipulation Program 3.x.&lt;/p&gt;
+&lt;p&gt;1.0.0 or 2.0.0 may be used by the &amp;ldquo;rewrite&amp;rdquo; stream, which aims to create a completely new image editing program with a different user interface and cross-platform graphical toolkit. That will not be based on the GNU Image Manipulation Program.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;#contents&#34;&gt;Return to top&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;which-operating-systems-do-you-support&#34;&gt;Which operating systems do you support?&lt;/h2&gt;
 &lt;p&gt;We support systems running Windows 7 or newer, and modern variants of GNU/Linux.&lt;/p&gt;
@@ -230,10 +175,10 @@
 &lt;li&gt;&lt;strong&gt;#glimpse&lt;/strong&gt;: &amp;ldquo;Glimpse Community&amp;rdquo; channel that anyone can join so long as they keep discussion on topic, support the project and comply with our code of conduct&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;#glimpse-offtopic&lt;/strong&gt;: Off-topic chatter between well-known members of our community in a safe, welcoming environment&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;#glimpse-github&lt;/strong&gt;: Matrix alternative to receiving Github notifications by email&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;#glimpse-2x&lt;/strong&gt;: Focussed discussion for the Glimpse 2.x &amp;ldquo;UI rewrite&amp;rdquo; working group&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;#glimpse-contributors&lt;/strong&gt;: &amp;ldquo;Glimpse Contributors&amp;rdquo; channel for core contributors. Only people listed in our &lt;code&gt;AUTHORS&lt;/code&gt; file are eligible to join.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;#glimpse-admin&lt;/strong&gt;: &amp;ldquo;Glimpse Admin&amp;rdquo; channel for our moderators to support each other. This is a private channel used by members of the governance team.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;There is also a &lt;a href=&#34;https://discord.gg/hZhRceq&#34;&gt;separate Discord server&lt;/a&gt; for the &amp;ldquo;rewrite&amp;rdquo; development stream.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;#contents&#34;&gt;Return to top&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;why-do-you-need-monetary-donations&#34;&gt;Why do you need monetary donations?&lt;/h2&gt;
 &lt;p&gt;Just like many other free software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand, market our software, and eventually help our contributors represent us at conferences.&lt;/p&gt;
@@ -252,16 +197,29 @@
     </item>
     
     <item>
+      <title>Posts</title>
+      <link>https://glimpse-editor.org/posts/</link>
+      <pubDate>Mon, 04 May 2020 19:00:00 +0100</pubDate>
+      
+      <guid>https://glimpse-editor.org/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contribute</title>
       <link>https://glimpse-editor.org/contribute/</link>
-      <pubDate>Sun, 05 Apr 2020 14:00:00 +0100</pubDate>
+      <pubDate>Sun, 03 May 2020 16:00:00 +0100</pubDate>
       
       <guid>https://glimpse-editor.org/contribute/</guid>
-      <description>&lt;h2 id=&#34;code-bug-reports-etc&#34;&gt;Code, Bug Reports, etc&lt;/h2&gt;
+      <description>&lt;p&gt;Please note that we are developing Glimpse Image Editor in two parallel streams.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;fork&amp;rdquo; stream is already providing a workable solution for people who dislike the &amp;ldquo;gimp&amp;rdquo; name or encounter barriers when they advocate the GNU Image Manipulation Program in schools, universities and workplaces.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;rewrite&amp;rdquo; stream aims to create a completely new image editing program with a different user interface and cross-platform graphical toolkit. That will not be based on the GNU Image Manipulation Program.&lt;/p&gt;
+&lt;p&gt;We have highlighted which stream each link belongs to. If there is no named stream, the link applies to both.&lt;/p&gt;
+&lt;h2 id=&#34;code-bug-reports-etc&#34;&gt;Code, Bug Reports, etc&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/issues&#34;&gt;Bug Reports&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/milestones&#34;&gt;Development Road Map&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/glimpse-editor/Glimpse&#34;&gt;Source Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/issues&#34;&gt;Bug Reports&lt;/a&gt; (fork)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/milestones&#34;&gt;Development Road Map&lt;/a&gt; (fork)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/glimpse-editor/Glimpse&#34;&gt;Source Code&lt;/a&gt; (fork)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;art-mockups-etc&#34;&gt;Art, mockups, etc.&lt;/h2&gt;
 &lt;ul&gt;
@@ -270,24 +228,71 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;discussion&#34;&gt;Discussion&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://matrix.to/#/#glimpse:matrix.org&#34;&gt;Matrix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://matrix.to/#/#glimpse:matrix.org&#34;&gt;Matrix&lt;/a&gt; (fork)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/hZhRceq&#34;&gt;Discord&lt;/a&gt; (rewrite)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://fb.me/glimpse.editor&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fb.me/glimpse.editor&#34;&gt;Facebook&lt;/a&gt; (fork)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://mastodon.art/@glimpse&#34;&gt;Mastodon&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../posts/index.xml&#34;&gt;RSS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/glimpse_editor&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;donate&#34;&gt;Donate&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sponsors/glimpse-editor&#34;&gt;Github Sponsors&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://opencollective.com/glimpse&#34;&gt;Open Collective&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sponsors/glimpse-editor&#34;&gt;GitHub Sponsors&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;We also recommend donating to &lt;a href=&#34;https://www.gimp.org/donating/&#34;&gt;GNU Image Manipulation Program&lt;/a&gt;, the upstream project on which this fork relies.&lt;/p&gt;
+&lt;p&gt;We also recommend donating to &lt;a href=&#34;https://www.gimp.org/donating/&#34;&gt;GNU Image Manipulation Program&lt;/a&gt;, the upstream project on which the fork relies.&lt;/p&gt;
 &lt;h2 id=&#34;community-supported-channels&#34;&gt;Community Supported Channels&lt;/h2&gt;
 &lt;p&gt;We welcome members of our community starting their own unofficial support forums and communication channels.
 Please note that we do not monitor or moderate those platforms, and cannot guarantee they are a safe and welcoming environment for everyone. &lt;strong&gt;If you choose to use them, you do so at your own risk.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://glimpse-editor.org/downloads/</link>
+      <pubDate>Fri, 10 Apr 2020 21:00:00 +0100</pubDate>
+      
+      <guid>https://glimpse-editor.org/downloads/</guid>
+      <description>&lt;p&gt;The latest release is Glimpse Image Editor 0.1.2, and it is provided under the terms of the GNU General Public License v3. &lt;a href=&#34;https://glimpse-editor.org/posts/glimpse-0-1-2-release-notes/&#34;&gt;Release Notes&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows&#34;&gt;Windows&lt;/h3&gt;
+&lt;p&gt;Glimpse Image Editor 0.1.2 is supported on 32-bit and 64-bit systems running Windows 7 or later.&lt;/p&gt;
+&lt;h4 id=&#34;glimpse-image-editor-012-installer&#34;&gt;Glimpse Image Editor 0.1.2 installer&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;glimpse-0.1.2.msi&lt;/strong&gt; | &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi&#34;&gt;Direct download&lt;/a&gt; | &lt;em&gt;Sha256: 99C3DF2884310CB74C39A15FB63E93FBF2112F581DC5325B37123467618D89E8&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If you are having problems with this installer, we also provide an &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2-unsigned.msi&#34;&gt;unsigned version&lt;/a&gt; for troubleshooting purposes. Please note that the unsigned installer will trigger security warnings from Windows and your installed anti-virus program.&lt;/p&gt;
+&lt;p&gt;You can download previous versions for Windows &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/&#34;&gt;from Github&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;linux&#34;&gt;Linux&lt;/h3&gt;
+&lt;p&gt;We distribute Glimpse Image Editor 0.1.2 on Flathub and Snapcraft for end users. We also provide a source tarball for Linux distribution maintainers. A Linux AppImage will be published for the next release.&lt;/p&gt;
+&lt;h4 id=&#34;flatpak&#34;&gt;Flatpak&lt;/h4&gt;
+&lt;p&gt;If Flatpak is not already installed on your machine, follow these instructions: &lt;a href=&#34;https://flatpak.org/setup/&#34;&gt;https://flatpak.org/setup/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once setup is complete you can find Glimpse by searching in your distribution&amp;rsquo;s software center, or you can click on this button:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Alternatively you can install it manually at the command line:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ flatpak install flathub org.glimpse_editor.Glimpse
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;snapcraft&#34;&gt;Snapcraft&lt;/h4&gt;
+&lt;p&gt;If Snapcraft is not already installed on your machine, follow these instructions: &lt;a href=&#34;https://snapcraft.io/docs/getting-started&#34;&gt;https://snapcraft.io/docs/getting-started&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once setup is complete you can find Glimpse Image Editor by searching in your distribution&amp;rsquo;s software center, or you can click on this button:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Alternatively you can install it manually at the command line:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ sudo snap install glimpse-editor
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;source-tarball&#34;&gt;Source tarball&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;glimpse-0.1.2.tar.bz2&lt;/strong&gt; | &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.bz2&#34;&gt;Direct download&lt;/a&gt; | &lt;em&gt;Sha256: f9845f7a5ce1aece5c0c808b2fa7ba91ce657b942d6e777bbab5c0abb6f2499a&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;glimpse-0.1.2.tar.xz&lt;/strong&gt; | &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.tar.xz&#34;&gt;Direct download&lt;/a&gt; | &lt;em&gt;Sha256: b1086b7effd9a3f4a9b4577bb4c3bf69d86f8c60a3c4fe9966aeefb7150deb0d&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Please note that we are still in the process of refactoring certain subcomponents, so distribution maintainers need to mark &lt;code&gt;libgimp&lt;/code&gt; as a conflicting package. &lt;a href=&#34;https://github.com/glimpse-editor/Glimpse/issues/7&#34;&gt;More details&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;community-supported-sources&#34;&gt;Community-supported sources&lt;/h4&gt;
+&lt;p&gt;These builds are provided by third parties in the wider Linux community. We do not create, package or directly support these sources, so if you raise any bugs for them that would not apply to most Linux users, we may direct you elsewhere to get the issue fixed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aur.archlinux.org/packages/glimpse-editor-git/&#34;&gt;&lt;code&gt;glimpse-editor-git&lt;/code&gt;&lt;/a&gt; in the AUR&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://software.opensuse.org//download.html?project=home%3AIBBoard%3Adesktop&amp;amp;package=glimpse&#34;&gt;&lt;code&gt;glimpse:IBBboard&lt;/code&gt;&lt;/a&gt; on the OpenSUSE Open Build Service&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;macos&#34;&gt;MacOS&lt;/h3&gt;
+&lt;p&gt;Unfortunately Glimpse Image Editor is not supported on MacOS. We recommend either running the Windows version in a virtualized environment or sticking with &lt;a href=&#34;https://www.gimp.org/downloads/&#34;&gt;the GNU Image Manipulation Program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You may also be interested in trying &lt;a href=&#34;https://apps.apple.com/us/app/seashore/id1448648921?mt=12&#34;&gt;Seashore&lt;/a&gt;, an older fork of the GNU Image Manipulation Program designed specifically for MacOS. While it does have fewer features, it may still be suitable for your intended use case.&lt;/p&gt;
+&lt;h3 id=&#34;build-our-code&#34;&gt;Build our code&lt;/h3&gt;
+&lt;p&gt;We have provided instructions for building and packaging the Glimpse Image Editor source code on our project wiki: &lt;a href=&#34;https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse&#34;&gt;https://wiki.glimpse-editor.org/index.php?title=Building_Glimpse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also test out our own beta and development releases by following these instructions: &lt;a href=&#34;https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse&#34;&gt;https://wiki.glimpse-editor.org/index.php?title=Testing_Glimpse&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

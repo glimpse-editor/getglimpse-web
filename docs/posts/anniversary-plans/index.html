@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    
+    <link rel="shortcut icon" href="/favicon-32x32.png" type="image/x-icon" />
+    
+
+    
+    
+    <link rel="stylesheet" href="https://glimpse-editor.org/css/style.css">
+
+    
+    <title>Anniversary Plans | Glimpse</title>
+    
+</head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #000000">
+    <a class="navbar-brand" href="/">
+        <img src="/logo_hex_full_invert.svg" alt="Glimpse" height="60">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+        
+        
+            <li class="navbar-item ">
+                <a class="nav-link" href="/about/" title="About (FAQs)">About (FAQs)</a>
+            </li>
+        
+            <li class="navbar-item ">
+                <a class="nav-link" href="/code-of-conduct/" title="Code of Conduct">Code of Conduct</a>
+            </li>
+        
+            <li class="navbar-item ">
+                <a class="nav-link" href="/contribute/" title="Contribute">Contribute</a>
+            </li>
+        
+            <li class="navbar-item ">
+                <a class="nav-link" href="/downloads/" title="Downloads">Downloads</a>
+            </li>
+        
+            <li class="navbar-item  active">
+                <a class="nav-link" href="/posts/" title="Posts">Posts</a>
+            </li>
+        
+        </ul>
+    </div>
+</nav>
+        <main>
+        
+    <div class="container my-5">
+        <h5>Posts</h5>
+        <h1 class="mb-3 page-header">Anniversary Plans</h1>
+        <p>Monday, May 4, 2020</p>
+        <hr />
+        <p>Check out our <a href="/contribute/">Contribute</a> page for social media and news links to follow our progress.</p>
+<h2 id="revamped-release-schedule">Revamped release schedule</h2>
+<p>We no longer intend to produce an interim Glimpse Image Editor 0.1.4 release, although much of the work for it has been done.</p>
+<p>The original intention behind 0.1.4 was to provide fixes for a show-stopping crash on some Linux distributions quickly, while also including changes Windows users would find useful. However, as re-releasing 0.1.2 on Linux solved the problem that is no longer necessary.</p>
+<p>Glimpse Image Editor 0.2.0 will be based on the GNU Image Manipulation Program 2.10.18 and use newer versions of BABL, GEGL and MyPaint. We expect to release it in July 2020, which will mean that our third release coincides with this project&rsquo;s first anniversary celebrations.</p>
+<p>In addition to uplifting the base versions, Glimpse Image Editor 0.2.0 will include changes to icon packs, more features in our Windows installer, a Linux AppImage, and an optional Linux AppImage download that contains extra third party plug-ins. You can track our progress in the <a href="https://github.com/glimpse-editor/Glimpse/milestone/12">0.2.0 milestone</a> on Github.</p>
+<p>We have also moved a number of feature suggestions into a <a href="https://github.com/glimpse-editor/Glimpse/milestone/5">0.2.x candidate</a> milestone on Github, and some of these features will be picked up either as part of Glimpse Image Editor 0.2.0 or a future maintenance release.</p>
+<h2 id="planning-for-the-longer-term">Planning for the longer term</h2>
+<p>We have been reviewing how our project has been progressing every few months, but now we are approaching the end of our first year we are starting to think about how we can support our application in the long term.</p>
+<p>To that end, we have ended our plans to run our own self-hosted Jenkins and Gitea servers because of the required monetary and time cost of doing so. Instead we will make use of <a href="https://github.com/features/actions">Github Actions</a> to automate the building and packaging of our applications. It is a zero-cost solution that is future-proofed and easily portable to other platforms such as Gitlab CI.</p>
+<p>Similarly we intend to move our wiki to our Github repository instead of running MediaWiki on its own server, and due to <a href="https://github.com/glimpse-editor/Glimpse/issues/395">an outage we experienced</a> earlier today we have already migrated our website to Github Pages.</p>
+<p>We believe that 0.2.0 will include all the initial functionality we promised, so our main costs from now on would be related to collaboration tools. Because we now know roughly how many contributors we need to provide services for and how large our user base is likely to be, we have determined that these services should be sufficient for our project&rsquo;s needs.</p>
+<p>Currently Bobby Moss is the solo developer of the forked code, with up to a dozen other people providing assistance with packaging, design, testing, moderation and governance. You can use the links on the <a href="/contribute/">Contribute</a> page to follow their progress.</p>
+<p>Luna also runs a separate team composed of herself and several designers that are working on a complete UI rewrite. We will provide more details about this in future blog posts, but in the meantime you can follow their progress <a href="https://discord.gg/hZhRceq">on Discord</a>.</p>
+<h2 id="how-does-this-impact-donations">How does this impact donations?</h2>
+<p>We will continue to accept donations on <a href="https://opencollective.com/glimpse">Open Collective</a> and <a href="https://github.com/sponsors/glimpse-editor">Github Sponsors</a>, just as we do now.</p>
+<p>Because we are a not-for-profit project and the costs for maintaining the forked code will effectively become $0 USD, we intend to uphold our previous pledge to pass all remaining money after costs to the GNU Image Manipulation Program. This will happen towards the end of July 2020, when we have completed our infrastructure migration, released Glimpse Image Editor 0.2.0 and received our first disbursement from Github Sponsors.</p>
+<p>From July 2020, all new donations we receive from our backers will be specifically earmarked for producing a new image editing application with a completely different user interface that is <strong>not</strong> based on the GNU Image Manipulation Program.</p>
+<p>We will clearly communicate that change to our backers so we continue to ensure they make informed choices about how they can best support our project.</p>
+<h2 id="the-future-of-our-fork">The future of our fork</h2>
+<p><a href="http://trechnex.freeshell.org/">Bobby Moss</a> has indicated that 0.2.0 (based on the GNU Image Manipulation Program 2.10.18) is the last feature release he intends to develop for the &ldquo;fork&rdquo; stream. He will continue to produce 0.2.x maintenance releases periodically to ensure the program is stable and continues to work until the UI rewrite is ready.</p>
+<p>We would like to thank him for lending us his experience, thousands of unpaid volunteer hours, and the $100 USD donation that helped us get this project started. We would particularly like to thank him for being our contact with the GNU Image Manipulation Program developers, and for the time he spent <a href="https://github.com/glimpse-editor/Glimpse/issues/227#issuecomment-620214794">trying to port</a> Glimpse Image Editor to MacOS.</p>
+<p>Glimpse Image Editor 0.2.0 will complete the rebranding effort, finish improving the installation experience on Windows, and include a number of minor features and UI fixes that users have requested.</p>
+<h2 id="download-figures-update">Download figures update</h2>
+<p>All figures were correct on the day this blog post was published and sources have been provided so that you can verify our claims. If the figures are accurate then we would consider this to mean that Glimpse Image Editor 0.1.2 has been positively-received by users. We can confirm that the number of downloads has increased since 2020-03-17. <a href="/posts/changing-plans/">Source</a></p>
+<p>We know that Glimpse Image Editor has been downloaded at least 45608 (+33064) times across all platforms, versions and download sources since it was first released on 2019-11-22. A detailed breakdown is provided below.</p>
+<h3 id="linux">Linux</h3>
+<p>Heather Ellsworth reports that there have been 16901 (+15278) active users over the last month that have installed Glimpse Image Editor through Snapcraft. This outlier is likely due to us being a featured application on the Ubuntu Software Center for a a short period in March 2020. <a href="/glimpse-snap-2020-05-04.png">Source</a></p>
+<p>Glimpse Image Editor has been downloaded 13225 (+7951) times from Flathub across all versions since it was first released on 2019-11-22. <a href="https://gitlab.com/ahayzen/flathub-api-stats-generator">Source</a></p>
+<p>The distribution tarballs we provided on Github for Glimpse Image Editor 0.1.2 have been downloaded 356 (+303) times. <a href="https://somsubhra.com/github-release-stats/?username=glimpse-editor&amp;repository=Glimpse">Source</a></p>
+<p>We do not have the figures for other community-supported Linux download sources.</p>
+<h3 id="windows">Windows</h3>
+<p>Glimpse Image Editor 0.1.2 has been downloaded 9920 (+4650) times from Github since its release on 2020-03-02. <a href="https://somsubhra.com/github-release-stats/?username=glimpse-editor&amp;repository=Glimpse">Source</a></p>
+<p>To date there have been 5021 (+70) direct downloads of Glimpse Image Editor 0.1.0 for Windows from Github since its release on 2019-11-22. <a href="https://somsubhra.com/github-release-stats/?username=glimpse-editor&amp;repository=Glimpse">Source</a></p>
+<p>There are two new unofficial third-party download sources for Windows users that provide download statistics:</p>
+<ul>
+<li>97 (+25) downloads from <a href="https://www.softpedia.com/dyn-search.php?search_term=glimpse">Softpedia</a></li>
+<li>88 (+59) downloads from <a href="https://sourceforge.net/projects/glimpse-image-editor/">SourceForge</a></li>
+</ul>
+
+    </div>
+
+        </main>
+        <footer style="background-color: #000000" class="footer" role="contentinfo">
+  <div class="container footer">
+    <span class="text-white"><a href="/">&copy; Glimpse Image Editor</a> | <a href="/privacy/">Privacy Policy</a> | <a href="https://github.com/glimpse-editor/Glimpse" target="_blank">Source Code</a></span>
+  </div>
+</footer>
+    </body>
+</html>
