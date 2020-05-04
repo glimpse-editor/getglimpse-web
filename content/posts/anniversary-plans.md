@@ -30,7 +30,7 @@ Currently Bobby Moss is the solo developer of the forked code, with up to a doze
 Luna also runs a separate team composed of herself and several designers that are working on a complete UI rewrite. We will provide more details about this in future blog posts, but in the meantime you can follow their progress [on Discord](https://discord.gg/hZhRceq).
 
 ## How does this impact donations?
-We will continue to [accept donations on Open Collective](https://opencollective.com/glimpse) and [Github Sponsors](https://github.com/sponsors/glimpse-editor), just as we do now.
+We will continue to accept donations on [Open Collective](https://opencollective.com/glimpse) and [Github Sponsors](https://github.com/sponsors/glimpse-editor), just as we do now.
 
 Because we are a not-for-profit project and the costs for maintaining the forked code will effectively become $0 USD, we intend to uphold our previous pledge to pass all remaining money after costs to the GNU Image Manipulation Program. This will happen in June 2020, when we have completed our infrastructure migration.
 
