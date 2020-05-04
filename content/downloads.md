@@ -17,7 +17,7 @@ If you are having problems with this installer, we also provide an [unsigned ver
 You can download previous versions for Windows [from Github](https://github.com/glimpse-editor/Glimpse/releases/).
 
 ### Linux
-We distribute Glimpse Image Editor 0.1.2 on Flathub and Snapcraft for end users. We also provide a source tarball for Linux distribution maintainers. A Linux AppImage will be published before the end of March 2020.
+We distribute Glimpse Image Editor 0.1.2 on Flathub and Snapcraft for end users. We also provide a source tarball for Linux distribution maintainers. A Linux AppImage will be published for the next release.
 
 #### Flatpak
 If Flatpak is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
