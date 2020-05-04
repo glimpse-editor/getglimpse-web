@@ -36,7 +36,7 @@ Because we are a not-for-profit project and the costs for maintaining the forked
 
 From July 2020, all new donations we receive from our backers will be specifically earmarked for producing a new image editing application with a completely different user interface that is **not** based on the GNU Image Manipulation Program.
 
-We will clearly communicate that change to our backers so we can continue to ensure they make an informed decision about whether or not to donate to our project.
+We will clearly communicate that change to our backers so we can continue to ensure they can make an informed decision about supporting our project.
 
 ## The future of our fork
 [Bobby Moss](http://trechnex.freeshell.org/) has indicated that 0.2.0 (based on the GNU Image Manipulation Program 2.10.18) is the last feature release he intends to develop for the "fork" stream. He will continue to produce 0.2.x maintenance releases periodically to ensure the program is stable and continues to work until the UI rewrite is ready.
