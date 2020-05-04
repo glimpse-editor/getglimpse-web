@@ -109,7 +109,7 @@ Glimpse Image Editor 0.1.0 is based on the GNU Image Manipulation Program 2.10.1
 
 Glimpse Image Editor 0.2.0 will be rebased on the GNU Image Manipulation Program 2.10.18, and we intend to release it in July 2020. All 0.2.x releases will add our changes, back port useful functionality and update key dependencies on the same 2.10.18 base.
 
-Whenever we produce a 0.x.0 release, we will continue adding features to it every few months until July the following year. We then intend to provide "maintenance updates" providing patches and updated dependencies for up to a year afterwards if any severe bugs or security issues are reported to us.
+We intend to continue providing "maintenance updates" with patches and updated dependencies for at least a year after each 0.x.0 release.
 
 "Beta test" and "Stable" release versions always end in an even number. Odd numbered versions are "Unstable" builds created from our development branch.
 
