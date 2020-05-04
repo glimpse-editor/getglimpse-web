@@ -34,7 +34,9 @@ We will continue to accept donations on [Open Collective](https://opencollective
 
 Because we are a not-for-profit project and the costs for maintaining the forked code will effectively become $0 USD, we intend to uphold our previous pledge to pass all remaining money after costs to the GNU Image Manipulation Program. This will happen towards the end of July 2020, when we have completed our infrastructure migration, released Glimpse Image Editor 0.2.0 and received our first disbursement from Github Sponsors.
 
-From July 2020, all new donations we receive will be specifically earmarked for producing a new image editing application with a completely new user interface. We will clearly communicate that change to existing backers, and publicly announce all of this on our online channels.
+From July 2020, all new donations we receive will be specifically earmarked for producing a new image editing application with a completely new user interface that is *not* based on the GNU Image Manipulation Program. 
+
+We will clearly communicate that change to existing backers, and publicly announce all of this on our online channels.
 
 ## The future of our fork
 [Bobby Moss](http://trechnex.freeshell.org/) has indicated that 0.2.0 (based on the GNU Image Manipulation Program 2.10.18) is the last feature release he intends to develop for the "fork" stream. He will continue to produce 0.2.x maintenance releases periodically to ensure the program is stable and continues to work until the UI rewrite is ready.
