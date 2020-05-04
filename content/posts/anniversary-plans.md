@@ -1,6 +1,6 @@
 ---
 title: "Anniversary Plans"
-date: 2020-05-03T16:00:00+01:00
+date: 2020-05-04T19:00:00+01:00
 draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
@@ -21,7 +21,7 @@ We have been reviewing how our project has been progressing every few months, bu
 
 To that end, we have ended our plans to run our own self-hosted Jenkins and Gitea servers because of the required monetary and time cost of doing so. Instead we will make use of [Github Actions](https://github.com/features/actions) to automate the building and packaging of our applications. It is a zero-cost solution that is future-proofed and easily portable to other platforms such as Gitlab CI.
 
-Similarly we intend to move our wiki to our Github repository instead of running MediaWiki on its own server, and we are also evaluating potential free hosts for our website.
+Similarly we intend to move our wiki to our Github repository instead of running MediaWiki on its own server, and due to [an outage we experienced](https://github.com/glimpse-editor/Glimpse/issues/395) earlier today we have already migrated our website to Github Pages.
 
 We believe that 0.2.0 will include all the initial functionality we promised, so our main costs from now on would be related to collaboration tools. Because we now know roughly how many contributors we need to provide services for and how large our user base is likely to be, we have determined that these services should be sufficient for our project's needs.
 
@@ -43,28 +43,28 @@ We will clearly communicate that change to our backers so we continue to ensure 
 
 We would like to thank him for lending us his experience, thousands of unpaid volunteer hours, and the $100 USD donation that helped us get this project started. We would particularly like to thank him for being our contact with the GNU Image Manipulation Program developers, and for the time he spent [trying to port](https://github.com/glimpse-editor/Glimpse/issues/227#issuecomment-620214794) Glimpse Image Editor to MacOS.
 
-Glimpse Image Editor 0.2.0 will finally complete the rebranding effort, finish improving the installation experience on Windows, and include a number of minor features and UI fixes that users have requested.
+Glimpse Image Editor 0.2.0 will complete the rebranding effort, finish improving the installation experience on Windows, and include a number of minor features and UI fixes that users have requested.
 
 ## Download figures update
 All figures were correct on the day this blog post was published and sources have been provided so that you can verify our claims. If the figures are accurate then we would consider this to mean that Glimpse Image Editor 0.1.2 has been positively-received by users. We can confirm that the number of downloads has increased since 2020-03-17. [Source](/posts/changing-plans/)
 
-We know that Glimpse Image Editor has been downloaded at least NNNNN (+NNNN) times across all platforms and download sources since it was first released on 2019-11-22. A detailed breakdown is provided below.
+We know that Glimpse Image Editor has been downloaded at least 45608 (+33064) times across all platforms, versions and download sources since it was first released on 2019-11-22. A detailed breakdown is provided below.
 
 ### Linux
-Glimpse Image Editor has been downloaded NNNN (+NNNN) times from Flathub since it was first released. [Source](https://gitlab.com/ahayzen/flathub-api-stats-generator)
+Heather Ellsworth reports that there have been 16901 (+15278) active users over the last month that have installed Glimpse Image Editor through Snapcraft. This outlier is likely due to us being a featured application on the Ubuntu Software Center for a a short period in April 2020. [Source](/glimpse-snap-2020-05-04.png)
 
-Heather Ellsworth reports that there are NNNN (+NNNN) active users that have installed Glimpse Image Editor through Snapcraft. [Source](/glimpse-snap-2020-03-14.png)
+Glimpse Image Editor has been downloaded 13225 (+7951) times from Flathub across all versions since it was first released on 2019-11-22. [Source](https://gitlab.com/ahayzen/flathub-api-stats-generator)
 
-The distribution tarballs we provided on Github for Glimpse Image Editor 0.1.2 have been downloaded 354 (+301) times. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
+The distribution tarballs we provided on Github for Glimpse Image Editor 0.1.2 have been downloaded 356 (+303) times. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
 
 We do not have the figures for other community-supported Linux download sources.
 
 ### Windows
-Glimpse Image Editor 0.1.2 has been downloaded 9806 (+4532) times from Github since its release on 2020-03-02. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
+Glimpse Image Editor 0.1.2 has been downloaded 9920 (+4650) times from Github since its release on 2020-03-02. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
 
 To date there have been 5021 (+70) direct downloads of Glimpse Image Editor 0.1.0 for Windows from Github since its release on 2019-11-22. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
 
 There are two new unofficial third-party download sources for Windows users that provide download statistics:
 
-* 95 (+23) downloads from [Softpedia](https://www.softpedia.com/dyn-search.php?search_term=glimpse)
-* 85 (+56) downloads from [SourceForge](https://sourceforge.net/projects/glimpse-image-editor/)
+* 97 (+25) downloads from [Softpedia](https://www.softpedia.com/dyn-search.php?search_term=glimpse)
+* 88 (+59) downloads from [SourceForge](https://sourceforge.net/projects/glimpse-image-editor/)
