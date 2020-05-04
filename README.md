@@ -13,7 +13,7 @@ To add a new article with auto-generated timestamp (will be marked as a draft by
 $ hugo new posts/a-new-post-title.md
 ```
 
-Run this to build the result and output to the `public/` folder.
+Run this to build the result and output to the `docs/` folder.
 ```
 $ hugo
 ```
