@@ -43,11 +43,6 @@ We would like to thank him for lending us his experience, thousands of unpaid vo
 
 Glimpse Image Editor 0.2.0 will finally complete the rebranding effort, finish improving the installation experience on Windows, and include a number of minor features and UI fixes that users have requested.
 
-### Over to you
-Within the next year or two, the GNU Image Manipulation Program developers will release version 3.0 of their application. That will use the meson build system, migrate to GTK3 and Python 3, support plug-ins written in Lua and JavaScript, and include sought-after features like CMYK colorspace support and non-destructive editing.
-
-If you would like to see us fork it, we are looking for volunteers that would be willing to help us build on the upstream master branch so we are ready when 3.0 is stable. If you would like to get involved, check out our [contribute page](/contribute/).
-
 ## Download figures update
 All figures were correct on the day this blog post was published and sources have been provided so that you can verify our claims. If the figures are accurate then we would consider this to mean that Glimpse Image Editor 0.1.2 has been positively-received by users. We can confirm that the number of downloads has increased since 2020-03-17. [Source](/posts/changing-plans/)
 
