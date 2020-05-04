@@ -32,6 +32,7 @@ We have highlighted which stream each link belongs to. If there is no named stre
  * [Twitter](https://twitter.com/glimpse_editor)
 
 ## Donate
+ * [Github Sponsors](https://github.com/sponsors/glimpse-editor)
  * [Open Collective](https://opencollective.com/glimpse)
 
  We also recommend donating to [GNU Image Manipulation Program](https://www.gimp.org/donating/), the upstream project on which the fork relies.
