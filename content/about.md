@@ -113,9 +113,9 @@ Whenever we produce a 0.x.0 release, we will continue adding features to it ever
 
 "Beta test" and "Stable" release versions always end in an even number. Odd numbered versions are "Unstable" builds created from our development branch.
 
-Glimpse Image Editor 1.0.0 would be a complete re-fork based on the GNU Image Manipulation Program 3.x. We feel that is likely to be necessary because of the major changes that will be included in that upstream release.
+Glimpse Image Editor 1.0.0 is currently reserved in case we decide to fork the GNU Image Manipulation Program 3.x. 
 
-Glimpse Image Editor 2.0.0 could be another fork of the GNU Image Manipulation Program, or we may switch to an entirely new image editing application that we wrote ourselves.
+1.0.0 or 2.0.0 may be used by the "rewrite" stream, which aims to create a completely new image editing program with a different user interface and cross-platform graphical toolkit. That will not be based on the GNU Image Manipulation Program.
 
 [Return to top](#contents)
 
