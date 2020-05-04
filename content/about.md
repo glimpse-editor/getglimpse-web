@@ -259,9 +259,10 @@ All of our channels are on matrix.org. You can get access to the invite-only cha
 - **#glimpse**: "Glimpse Community" channel that anyone can join so long as they keep discussion on topic, support the project and comply with our code of conduct
 - **#glimpse-offtopic**: Off-topic chatter between well-known members of our community in a safe, welcoming environment
 - **#glimpse-github**: Matrix alternative to receiving Github notifications by email
-- **#glimpse-2x**: Focussed discussion for the Glimpse 2.x "UI rewrite" working group
 - **#glimpse-contributors**: "Glimpse Contributors" channel for core contributors. Only people listed in our `AUTHORS` file are eligible to join.
 - **#glimpse-admin**: "Glimpse Admin" channel for our moderators to support each other. This is a private channel used by members of the governance team.
+
+There is also a [separate Discord server](https://discord.gg/hZhRceq) for the "rewrite" development stream.
 
 [Return to top](#contents)
 
