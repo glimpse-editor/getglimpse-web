@@ -8,7 +8,7 @@ Please note that we are developing Glimpse Image Editor in two parallel streams.
 
 The "fork" stream is already providing a workable solution for people who dislike the "gimp" name or encounter barriers when they advocate the GNU Image Manipulation Program in schools, universities and workplaces.
 
-The "rewrite" stream aims to create a completely new image editing program with a different user interface and cross-platform graphical toolkit.
+The "rewrite" stream aims to create a completely new image editing program with a different user interface and cross-platform graphical toolkit. It will not be based on the GNU Image Manipulation Program.
 
 We have highlighted which stream each link belongs to. If there is no named stream, the link applies to both.
 
