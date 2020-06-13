@@ -1,6 +1,6 @@
 ---
 title: "Glimpse Image Editor 0.2.0 On Schedule"
-date: 2020-06-12T22:30:00+01:00
+date: 2020-06-13T22:00:00+01:00
 draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
@@ -41,6 +41,11 @@ There will no longer be a development repository for Flatpaks, but we intend to 
 Github Actions will also be used to create automated builds for Windows using the "crossroad" tool that the GNU Image Manipulation Program contributors currently rely on. It is likely that for the 0.2.0 release the MSI packaging we have created with WiX Toolset will still be run manually, but we intend to fully automate that for future releases too.
 
 Our website has also been migrated to Github Pages, but we still host our own "nanode" VPS with an NGINX proxy server to redirect existing in-app links to the correct places within our project. We anticipate that the glimpse-editor.org and glimpse-editor.com domains will be renewed in August 2020, and that will ensure that users still running the 0.1.x releases will continue to be supported for a reasonable time period.
+
+## Chaomodus Stepped Down From The Governance Team
+We would like to thank chaomodus for helping us shape and moderate the project over the last five months. Their expertise as an experienced sysadmin was also invaluable when we were working on self-hosted infrastructure proofs of concept.
+
+They will continue to be a part of the Glimpse project as a contributor, and we look forward to working with them in the future.
 
 ## Pre-emptive Action Taken on Social Media
 As some of you may have noticed, we send out a message across our social media channels on 2020-05-29 that we were temporarily restricting access to our Github repositories and Matrix channel. We reversed those restrictions on 2020-06-03 as promised.
