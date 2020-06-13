@@ -8,11 +8,21 @@ Check out our [Contribute](/contribute/) page for social media and news links to
 ## Our Statement on Equality
 FOSS projects do not exist in a vacuum isolated from the rest of society. Historically our movement has not engaged well with people from diverse backgrounds, meaning we have missed out on valuable ideas and contributions, and we have all been the poorer for it.
 
-The Glimpse project was founded and continues to be governed by a black man, a transgender woman and a gay man. We continue to rely on the contributions and feedback from our atypically diverse community of contributors to shape our project's structures and processes.
+The Glimpse project was founded and continues to be governed by a trio of individuals from marginalized communities ([Christopher Davis](https://twitter.com/brain_blasted_), [Luna](https://twitter.com/Clipsey5) and [Bobby Moss](https://twitter.com/trechnex)). We continue to rely on the contributions and feedback from our atypically diverse community of contributors to shape our project's structures and processes.
 
 We are all shocked and appalled by the ongoing injustices perpetrated against people around the world based on their race, gender and sexuality. Our project and contributors confirm that we all stand in solidarity with the Black Lives Matter movement and support Pride Month.
 
 If we collectively want the free software and open source movements to succeed and stay relevant to as many people as possible, we all need to work together to create a safe, welcoming community where everyone feels respected and able to express their true selves without hurting others. That will take a lot of work and "trial and error", but we can succeed if we take the time to listen to each other and learn from past mistakes.
+
+For more information and ways to help:
+
+* [Black Lives Matter](https://blacklivesmatter.com)
+* [List of Organizations from 'Reclaim The Block'](https://docs.google.com/document/d/1yLWGTQIe3967hdc9RSxBq5s6KKZHe-3_mWp5oemd7OA/preview?pru=AAABcpUiX3k%2AY6Q4I6UBtkH3lLz9GVLg0A)
+* [Transgender Law Center](https://transgenderlawcenter.org/donate)
+* [Mermaids](https://mermaidsuk.org.uk)
+* [The Trevor Project](https://www.thetrevorproject.org)
+* [Stonewall](https://www.stonewall.org.uk)
+* [Asexual Visibility and Education Network (AVEN)](https://www.asexuality.org)
 
 ## Glimpse Image Editor 0.2.0 Progress
 As previously stated, we intend to release Glimpse Image Editor 0.2.0 in July 2020. We anticipate that beta testing will start before the end of June 2020.
