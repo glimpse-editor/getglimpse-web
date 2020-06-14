@@ -1,11 +1,11 @@
 ---
 title: "Glimpse Image Editor 0.2.0 On Schedule"
-date: 2020-06-13T22:00:00+01:00
+date: 2020-06-14T20:45:00+01:00
 draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
 
-## Our Statement on Equality
+## Our Statement on Equality {#our-statement-on-equality}
 FOSS projects do not exist in a vacuum isolated from the rest of society. Historically our movement has not engaged well with people from diverse backgrounds, meaning we have missed out on valuable ideas and contributions, and we have all been the poorer for it.
 
 The Glimpse project was founded and continues to be governed by a trio of individuals from marginalized communities ([Christopher Davis](https://twitter.com/brain_blasted_), [Luna](https://twitter.com/Clipsey5) and [Bobby Moss](https://twitter.com/trechnex)). We continue to rely on the contributions and feedback from our atypically diverse community of contributors to shape our project's structures and processes.
@@ -13,6 +13,8 @@ The Glimpse project was founded and continues to be governed by a trio of indivi
 We are all shocked and appalled by the ongoing injustices perpetrated against people around the world based on their race, gender and sexuality. Our project and contributors confirm that we all stand in solidarity with the Black Lives Matter movement and support Pride Month.
 
 If we collectively want the free software and open source movements to succeed and stay relevant to as many people as possible, we all need to work together to create a safe, welcoming community where everyone feels respected and able to express their true selves without hurting others. That will take a lot of work and "trial and error", but we can succeed if we take the time to listen to each other and learn from past mistakes.
+
+[Permanent Link](#our-statement-on-equality)
 
 For more information and ways to help:
 
@@ -67,14 +69,3 @@ During that time our contributors received considerable personal abuse for their
 We chose to take action because our contributors expressed concern that a Linux influencer who has previously posted misleading information about our project was set to make a video we expected to go viral. We did not know if the project would be mentioned by name, or if the same incorrect information would be repeated, or if the video would trigger the same trolls into action. Measures were taken to protect our contributors and limit the disruption that such an event would cause.
 
 Fortunately the video our contributors were concerned about did not go viral, so this was a "false alarm". We do not regret the decision we took however, because we value the safety of our contributors and the integrity of our project above all other considerations.
-
-### A Message to Our Critics
-The stated intention of this project is to address the fear, uncertainty and doubt reasons that prevent the GNU Image Manipulation Program from being used, advocated and deployed more widely in English-speaking countries. Our concerns about the name comprise only a small part of that mandate, and we have stated clearly on our FAQs page since August 2019 that it is not our intention to replace or supplant the GNU Image Manipulation Program. 
-
-We would also like to make it very clear that we are not backed or influenced by any specific company, and there is no larger partisan political movement to which we all belong. Glimpse Image Editor is a not-for-profit project that is developed and maintained by enthusiastic amateurs who are volunteering their spare time to fix a well-articulated problem.
-
-Since starting the project we have co-operated fully with the upstream contributors' collective requests to amend our FAQs page, publicly apologized for any past mistakes, conducted ourselves positively on social media and issued corrections when requested, provided a contact on the upstream IRC channel to resolve potential conflicts, and have passed along $150 USD of our own donations so far. We have also not retaliated against any negative actions that have been taken against us by misguided individuals that feel it necessary to attack our project and contributors "to protect the GNU Image Manipulation Program".
-
-Our fork does not negatively impact the popularity of the upstream project or the work their contributors do. The same core contributors that were working on the GNU Image Manipulation Program before are still working on the GNU Image Manipulation Program today. Our project is also in full compliance with the wording of and spirit behind the GNU General Public License version 3.
-
-It is time for those of you who were angered by the way our fork emerged to put down your torches and pitchforks, and remember that our success does not detract from the GNU Image Manipulation Program's success. If both programs can be successful, that means fewer people yelling at each other on social media, and more people contributing constructively to the advancement of the free software movement.
