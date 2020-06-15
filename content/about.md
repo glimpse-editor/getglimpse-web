@@ -99,7 +99,7 @@ No, this project does not intend to replace the GNU Image Manipulation Program. 
 
 The Glimpse project is also run entirely by passionate enthusiasts. Development on the GNU Image Manipulation Program will continue as normal with same core group of developers and be entirely unhindered by this project.
 
-We anticipate in the coming months and years that Glimpse will be a place where people can experiment with fixes that upstream may not have had the resources to work on and new ideas that upstream may have felt unable or unwilling to try for legacy reasons.
+We anticipate in the coming months and years that Glimpse will be a place where people can experiment with fixes that upstream may not have had the resources to work on and new ideas that upstream may have felt unable or unwilling to try for legacy reasons. You can read more about our [development priorities](https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities) on the project wiki.
 
 If we come up with some popular improvements that really enhance the user experience or fix bugs that impact both projects, then we would assist with contributing them back upstream so the wider community can benefit.
 

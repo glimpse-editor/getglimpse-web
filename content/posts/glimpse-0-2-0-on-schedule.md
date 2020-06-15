@@ -5,7 +5,7 @@ draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
 
-## Our Statement on Equality {#our-statement-on-equality}
+## Our Statement on Equality
 FOSS projects do not exist in a vacuum isolated from the rest of society. Historically our movement has not engaged well with people from diverse backgrounds, meaning we have missed out on valuable ideas and contributions, and we have all been the poorer for it.
 
 The Glimpse project was founded and continues to be governed by a trio of individuals from marginalized communities ([Christopher Davis](https://twitter.com/brain_blasted_), [Luna](https://twitter.com/Clipsey5) and [Bobby Moss](https://twitter.com/trechnex)). We continue to rely on the contributions and feedback from our atypically diverse community of contributors to shape our project's structures and processes.
@@ -13,8 +13,6 @@ The Glimpse project was founded and continues to be governed by a trio of indivi
 We are all shocked and appalled by the ongoing injustices perpetrated against people around the world based on their race, gender and sexuality. Our project and contributors confirm that we all stand in solidarity with the Black Lives Matter movement and support Pride Month.
 
 If we collectively want the free software and open source movements to succeed and stay relevant to as many people as possible, we all need to work together to create a safe, welcoming community where everyone feels respected and able to express their true selves without hurting others. That will take a lot of work and "trial and error", but we can succeed if we take the time to listen to each other and learn from past mistakes.
-
-[Permanent Link](#our-statement-on-equality)
 
 For more information and ways to help:
 
@@ -62,10 +60,12 @@ They will continue to be a part of the Glimpse project as a contributor, and we 
 ## Pre-emptive Action Taken on Social Media
 As some of you may have noticed, we send out a message across our social media channels on 2020-05-29 that we were temporarily restricting access to our Github repositories and Matrix channel. We reversed those restrictions on 2020-06-03 as promised.
 
-For background, between August 2019 and November 2019 there was a sustained troll campaign targeted at our project. This was organized and carried out by "free speech extremists" who believed that our intention was to "tear down the GNU Image Manipulation Program" and replace it with a "politically correct" alternative.
+For background, between August 2019 and November 2019 there was a sustained troll campaign targeted at our project. This was organized and carried out by "free speech extremists" who incorrectly claimed that our intention was to "tear down" the GNU Image Manipulation Program and replace it with "a politically correct alternative".
 
-During that time our contributors received considerable personal abuse for their race, gender and sexuality. Our creator was also briefly forced off the public Internet, and still has not reinstated all of his online accounts. There were also YouTube videos and blog posts published with the intent of spreading false accusations and misleading information about our project to sabotage our reputation, and we still receive negative reviews through application distribution channels and social media platforms for that reason.
+During that time our contributors received a lot of personal abuse for their race, gender and sexuality. Our creator was also briefly forced off the public Internet, and still has not reinstated all of his online accounts. There were also YouTube videos and blog posts published with the intent of spreading false accusations and misleading information about our project to sabotage our reputation, and we still receive negative reviews through application distribution channels and social media platforms for that reason.
 
 We chose to take action because our contributors expressed concern that a Linux influencer who has previously posted misleading information about our project was set to make a video we expected to go viral. We did not know if the project would be mentioned by name, or if the same incorrect information would be repeated, or if the video would trigger the same trolls into action. Measures were taken to protect our contributors and limit the disruption that such an event would cause.
 
 Fortunately the video our contributors were concerned about did not go viral, so this was a "false alarm". We do not regret the decision we took however, because we value the safety of our contributors and the integrity of our project above all other considerations.
+
+If you would like to better understand our project's aims and objectives, you can read more about them on [our FAQs page](/about/#do-you-intend-to-replace-the-gnu-image-manipulation-program) and [the project wiki](https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities).
