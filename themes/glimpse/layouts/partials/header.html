@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #000000">
+<nav class="navbar navbar-expand-lg navbar-dark">
     <a class="navbar-brand" href="{{ "/" | relURL}}">
         <img src="/{{ $.Site.Params.logo }}" alt="{{ $.Site.Title }}" height="60">
     </a>
@@ -6,14 +6,20 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="collapse navbar-collapse align-items-center" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
+        {{ if eq .URL "/downloads/" }}
+            {{ else }}
             <li class="navbar-item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
                 <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
             </li>
+            {{ end }}
         {{ end }}
+        <li class="navbar-item">
+            <a href="/downloads" class="nav-link "><span class="btn-sm bg-white text-body font-weight-bold">Download</span></a>
+        </li>
         </ul>
     </div>
 </nav>

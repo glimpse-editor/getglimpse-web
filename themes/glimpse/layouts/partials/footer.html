@@ -1,5 +1,19 @@
-<footer style="background-color: #000000" class="footer" role="contentinfo">
-  <div class="container footer">
-    <span class="text-white"><a href="/">&copy; {{ $.Site.Params.projectName }}</a> | <a href="/privacy/">Privacy Policy</a> | <a href="https://github.com/glimpse-editor/Glimpse" target="_blank">Source Code</a></span>
+<footer class="footer" role="contentinfo">
+  <div class="container">
+    <div class="row row-cols-2">
+      <div class="col">
+        <span class="mr-3"
+          >&copy; Copyright
+          <a href="/">{{ $.Site.Params.projectName }}</a></span
+        >
+      </div>
+      <div class="col text-right">
+        <a href="/privacy/" class="mr-3">Privacy Policy</a>
+        <a href="/code-of-conduct/" class="mr-3">Code of Conduct</a>
+        <a href="https://github.com/glimpse-editor/Glimpse" target="_blank"
+          >Source Code</a
+        >
+      </div>
+    </div>
   </div>
 </footer>

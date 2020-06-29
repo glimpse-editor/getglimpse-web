@@ -1,0 +1,41 @@
+$background: #000000;
+
+/* gradient colors */
+$red1: #f458ba;
+$red2: #ee767a;
+$red3: #fad58a;
+
+$red_gradient: linear-gradient(to left, $red1, $red2, $red3);
+
+.gradient-red {
+  background-color: $red2; /* fall back color */
+  background-image: $red_gradient;
+}
+
+$green1: #5ee2e7;
+$green2: #99e7c4;
+$green3: #e6ed43;
+
+$green_gradient: linear-gradient(to left, $green1, $green2, $green3);
+
+.gradient-green {
+  background-color: $green2; /* fall back color */
+  background-image: $green_gradient;
+}
+
+$blue1: #7e56f7;
+$blue2: #677cf6;
+$blue3: #3db0f0;
+
+$blue_gradient: linear-gradient(to left, $blue1, $blue2, $blue3);
+
+.text-branding-blue {
+  color: $blue2;
+}
+.text-branding-blue:hover {
+  color: $blue1;
+}
+.gradient-blue {
+  background-color: $blue2; /* fall back color */
+  background-image: $blue_gradient;
+}

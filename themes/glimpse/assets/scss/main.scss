@@ -1,4 +1,49 @@
-// Main entrypoint for the Glimpse theme
+/*
+
+  Main entry point for the Glimpse theme
+
+*/
+
+html {
+  min-height: 100%;
+  min-height: -webkit-fill-available;
+}
+
+@import "./branding.scss";
+@import "./fonts/manrope.scss";
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+}
+
+a {
+  color: $blue2;
+  &:hover {
+    color: $blue1;
+  }
+}
+
+.dots-background {
+  position: relative;
+  z-index: 10;
+
+  &::after {
+    display: block;
+    width: 100%;
+    height: 100%;
+    left: 100px;
+    top: 100px;
+    z-index: 9;
+    content: " ";
+    // background-image: radial-gradient(currentColor 1.5px, transparent 1.5px);
+    // background-size: calc(10 * 1.5px) calc(10 * 1.5px);
+    background: #000;
+  }
+}
 
 // Components
+@import "./partials/nav.scss";
 @import "./partials/footer.scss";
+@import "./partials/pagination.scss";
