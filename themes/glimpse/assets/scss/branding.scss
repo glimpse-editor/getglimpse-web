@@ -1,4 +1,9 @@
-$background: #000000;
+$background: #000012;
+$document: #ffffff;
+
+.document-background {
+  background-color: $document;
+}
 
 /* gradient colors */
 $red1: #f458ba;
@@ -38,4 +43,8 @@ $blue_gradient: linear-gradient(to left, $blue1, $blue2, $blue3);
 .gradient-blue {
   background-color: $blue2; /* fall back color */
   background-image: $blue_gradient;
+}
+
+.background-solid {
+  background-color: $background;
 }

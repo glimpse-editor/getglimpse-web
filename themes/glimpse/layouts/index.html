@@ -1,5 +1,5 @@
 {{ define "main" }}
-      <div class="jumbotron bg-cover rounded-0 text-white gradient-blue mb-0">
+      <div class="jumbotron bg-cover rounded-0 text-white mb-0 background-solid">
           <div class="container">
             <div class="row">
                 <div class="col-md">
@@ -7,7 +7,7 @@
                     <p>{{ .Content }}</p>
                     {{ if .GetPage "/downloads" }}
                     <p class="lead">
-                        <a class="btn btn-light btn-lg my-2 font-weight-bold" href="/downloads/" role="button">Download &rarr;</a>
+                        <a class="btn btn-light btn-lg my-2 font-weight-bold" href="/downloads/" role="button" style="padding:0;border:0;"><span style="display:inline-block;padding:0.35em 0.60em 0.5em 0.75em;">Download</span><span style="display:inline-block;padding:0em 0.75em 0em 0em;transform:translate(0,-0.03em);">{{ partial "download-icon.html" }}</span></a>
                     </p>
                     {{ else }}
                     <p class="lead">Downloads coming soon for Windows and Linux</p>
