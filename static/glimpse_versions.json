@@ -1,0 +1,51 @@
+{
+    "STABLE": [
+        {
+            "version": "0.1.2",
+            "date": "2020-03-02",
+            "source": [
+                {
+                    "filename": "glimpse-0.1.2.tar.bz2",
+                    "sha512": "a65a15997d38947428ede6fe90df68a7f5244bff281dec9128dcb4901f5911cb569911ff95cb2a81645de2d6f8eb24f68df891b864270d4dc99667fba73704d7",
+                    "sha256": "f9845f7a5ce1aece5c0c808b2fa7ba91ce657b942d6e777bbab5c0abb6f2499a"
+                }
+            ],
+            "windows": [
+                {
+                    "date": "2020-03-02",
+                    "filename": "glimpse-0.1.2.msi",
+                    "sha512": "8c1775028e1c6f233c0821a47e4df6dd98ff86c34414c74f63d471451d8ab07d87dfdefafcf6e286ba58df36f857ff76395a5b7063c80de24a7297d3bccd9b0d",
+                    "sha256": "99c3df2884310cb74c39a15fb63e93fbf2112f581dc5325b37123467618d89e8",
+                    "min-support": "Windows 7"
+                }
+            ]
+        },
+        {
+            "version": "0.1.0",
+            "date": "2019-11-22",
+            "source": [
+                {
+                    "filename": "v0.1.0.zip",
+                    "sha512": "73051de6ab19e8fbc077665f3a590196c3b7ece81c733cf15b131f4eb57e26a65eb176906dba34275a0acd60a274c65d946331e01efd13934a87c74b245f9772",
+                    "sha256": "3a84d1068fe0dd0211e14b89668b9da5215dda9e0016a5cd38efe851d8dd84ef"
+                }
+            ],
+            "windows": [
+                {
+                    "date": "2020-11-29",
+                    "filename": "glimpse-0.1.0.msi",
+                    "sha512": "4c135660a1378f1c3259bf5feed07bcb656b83314390b10ee2ad5a19ccb4d067c52bb9a1cf109d057efd5420a324e761cc9837cc77f8373d1fad7f12973f2cf9",
+                    "sha256": "f1efb22791ac02e3db399f986cabdc80f2559099a254269429f8a4a43d7483b4",
+                    "min-support": "Windows 7"
+                },
+                {
+                    "date": "2020-11-22",
+                    "filename": "glimpse-0.1.0-unsigned.msi",
+                    "sha512": "1c0ab87a874d6becc8da8e1266570d376ae4a70283c4c4efd1cc5c1c7a9ee9a47b557210ef2932c2814b26f368b46cadc38d65d33f896cb1c8a21970ec94688a",
+                    "sha256": "7737fdaf1975c2d1b63c23775afe70f5277f9db764535e1172de290cf82670ff",
+                    "min-support": "Windows 7"
+                }
+            ]
+        }
+    ]
+}

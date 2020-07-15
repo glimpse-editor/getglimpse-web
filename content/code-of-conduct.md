@@ -1,6 +1,6 @@
 ---
 title: "Code of Conduct"
-date: 2020-01-29T22:42:00+00:00
+date: 2020-07-06T19:47:00+01:00
 draft: false
 menu: "main"
 ---
@@ -60,7 +60,7 @@ a project may be further defined and clarified by project maintainers.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting any member of the project leadership (sometimes called
-"the governing team") by [email](mailto:glimpse.editor@icloud.com) and on Matrix: [TrechNex](https://matrix.to/#/@treacherousnexus:matrix.org), [BrainBlasted](https://matrix.to/#/@brainblasted:gnome.org) and [Luna](https://matrix.to/#/@clipsey:pixie.town).
+"the governing team") by [email](mailto:glimpse.editor@icloud.com).
 
 All complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project leadership

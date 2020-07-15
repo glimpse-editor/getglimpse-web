@@ -1,11 +1,15 @@
 ---
 title: "About (FAQs)"
-date: 2020-05-29T05:57:00+01:00
+date: 2020-07-07T01:00:00+01:00
 draft: false
 menu: "main"
 ---
 ## Contents {#contents}
-Glimpse is an open source image editor based on the GNU Image Manipulation Program. The goal is to experiment with new ideas and expand the use of free software.
+Glimpse Image Editor is an open source image editing program based on the GNU Image Manipulation Program 2.10.12.
+
+Glimpse NX is a completely new open source image editing program that is still in the early stages of development.
+
+The goal of both projects is to experiment with new ideas and expand the use of free software.
 
 ### Introduction
 - [What is the correct name for your project?](#what-is-the-correct-name-for-your-project)
@@ -18,7 +22,6 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 
 ### Technical Questions
 - [How does your release numbering work?](#how-does-your-release-numbering-work)
-- [When does my software go "end of life"?](#when-does-my-software-go-end-of-life)
 - [Which operating systems do you support?](#which-operating-systems-do-you-support)
 - [Who signs the Windows installer?](#who-signs-the-windows-installer)
 - [Can I install Glimpse and GNU Image Manipulation Program on the same machine?](#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine)
@@ -42,6 +45,8 @@ Glimpse is an open source image editor based on the GNU Image Manipulation Progr
 
 ## What is the correct name for your project? {#what-is-the-correct-name-for-your-project}
 The free software we produce is called "Glimpse Image Editor", but we sometimes shorten that to just "Glimpse". We refer to our governance structure, core contributors and participants on our public Matrix channel as "the Glimpse project". We often call our social media followers, donors and end users "the Glimpse Community".
+
+"Glimpse NX" is the name of an entirely new image editing program we are developing. You may sometimes see it referred to as "the rewrite". We will provide more information about that project in coming weeks and months.
 
 If you are a blogger or a member of the technology industry press, we do not yet have branding guidelines in place. However we have provided screenshots, our branding assets and instructions for their basic usage here: https://github.com/glimpse-editor/branding. You may also contact us directly [by email](mailto:glimpse.editor@icloud.com) for further information about the project.
 
@@ -116,24 +121,7 @@ We intend to continue providing "maintenance updates" with patches and updated d
 
 Glimpse Image Editor 1.0.0 is currently reserved in case we decide to fork the GNU Image Manipulation Program 3.x. 
 
-1.0.0 or 2.0.0 may be used by the "rewrite" stream, which aims to create a completely new image editing program with a different user interface and cross-platform graphical toolkit. That will not be based on the GNU Image Manipulation Program.
-
-[Return to top](#contents)
-
-## When does my software go "end of life"? {#when-does-my-software-go-end-of-life}
-This is our intended lifecycle for every "new base" (0.x) release:
-
-* Six month window for new feature releases
-* Six month window for maintenance releases
-* Six month window where we will only issue a release to patch a showstopping bug or security vulnerability
-
-For example, Glimpse Image Editor 0.1.0 (based on GNU Image Manipulation Program 2.10.12) was released on 2020-11-22. We published new feature releases (0.1.2 and 0.1.2r2) before 2020-05-22. At least one maintenance release (0.1.4) will be published before 2020-11-22. Any further releases after that would only be considered until 2021-05-22, when the 0.1 base would be "end of life"
-
-In future we plan to release "new base" releases in July as that ensures we coincide with normal IT maintenance schedules and the academic year in most countries.
-
-The would mean if Glimpse Image Editor 0.2.0 (based on GNU Image Manipulation Program 2.10.18) is released in July 2020 as planned, it could receive new feature releases until January 2021, maintenance releases until July 2021, and then finally the 0.2 base would be "end of life" in January 2022.
-
-Our expectation is that most people will stick to a 0.x base for around a year. The extra six months is provided as an extra grace period for larger deployments and users who need to upgrade their computer to support the latest base.
+1.0.0 or 2.0.0 may be used by Glimpse NX, a completely new image editing program with a different user interface and cross-platform graphical toolkit. That will not be based on the GNU Image Manipulation Program.
 
 [Return to top](#contents)
 
@@ -255,15 +243,17 @@ The way we govern ourselves is something that evolves over time based on feedbac
 
 [Github Issues](https://github.com/glimpse-editor/Glimpse/issues) are used to track bug reports, suggestions and questions from the wider community, and items we have agreed as a project need action. Action items are allocated to a milestone to give an indication of their priority and likely timeline, but these are always provisional until the work is done.
 
-Most day-to-day discussion happens in the **#glimpse:matrix.org** (or "Glimpse Community") Matrix channel. Anyone can join so long as they comply with our code of conduct, support the basic premise behind this project existing and don't spam the channel with off-topic chatter or shameless self-promotion. This is where most of the actual decision-making happens, and our community has the opportunity to voice their opinions or share their domain-specific knowledge there.
+Most day-to-day discussion for the forked code happens in the **#glimpse:matrix.org** (or "Glimpse Community") Matrix channel. Anyone can join so long as they comply with our [code of conduct](/code-of-conduct/) and [follow the rules](https://github.com/glimpse-editor/Glimpse/wiki/Good-Practices#membership-of-the-matrix-channel-is-a-privilege-not-a-right). This is where most of the decision-making happens, and our community has the opportunity to voice their opinions or share their domain-specific knowledge there.
 
-Anyone named in the `AUTHORS` file are eligible to join the **#glimpse-contributors:matrix.org** (or "Glimpse Contributors") Matrix channel. They make the low-level technical decisions necessary to deliver items that have already been agreed. It is also used as a fall-back communication channel between contributors when the "Glimpse Community" Matrix channel is busy with the decision-making process so that development work is not obstructed by it.
+Day-to-day discussion for Glimpse NX (sometimes called "the rewrite") happens on a separate [Discord server](https://discord.gg/hZhRceq). You can read their rules by following the links on the `#rules-and-info` channel.
+
+Anyone we have credited as a Glimpse project contributor can join the "Contributors" area on Discord. These people make the low-level technical decisions necessary to deliver items that have already been agreed, and provide extra input for future governance decisions.
 
 While they might make some time-sensitive moderation decisions as individuals, all other decisions are not considered "agreed" until they have been discussed on the "Glimpse Community" channel and a consensus has been achieved between all members of the "governance team". Initiatives originating from the governance team instead of the community are sometimes discussed on the "Glimpse Contributors" Matrix channel first.
 
 No decision is ever set in stone and can be revisited if new information comes to light or there is enough support within the project to do so. The governance team will generally only block the re-opening of an issue or delay a decision if the discussion is becoming too heated or obstructs the day-to-day running of the project.
 
-There are currently four people in our governance team: [Bobby Moss](https://mastodon.sdf.org/@trechnex) (started the fork), [Christopher Davis](https://social.libre.fi/users/brainblasted) (posted the renaming issue on upstream gitlab repository) and [Luna](https://social.pixie.town/@Clipsey) (started the "UI rewrite" planning).
+There are currently three people in our governance team: [Bobby Moss](https://mastodon.sdf.org/@trechnex) (started the fork), [Christopher Davis](https://social.libre.fi/users/brainblasted) (posted the renaming issue on upstream gitlab repository) and [Luna](https://social.pixie.town/@Clipsey) (started the "UI rewrite" planning).
 
 Finally, the project may from time to time run polls on social media to canvas opinion for specific issues if there is support for doing so. They are always non-binding and only intended to facilitate the existing decision-making process.
 
@@ -273,19 +263,16 @@ Finally, the project may from time to time run polls on social media to canvas o
 All of our channels are on matrix.org. You can get access to the invite-only channels by asking for it on the "Glimpse Community" channel.
 
 - **#glimpse**: "Glimpse Community" channel that anyone can join so long as they [follow the rules](https://github.com/glimpse-editor/Glimpse/wiki/Good-Practices#membership-of-the-matrix-channel-is-a-privilege-not-a-right) and comply with our [code of conduct](/code-of-conduct/)
-- **#glimpse-offtopic**: Off-topic chatter between well-known members of our community in a safe, welcoming environment
-- **#glimpse-github**: Matrix alternative to receiving Github notifications by email
-- **#glimpse-contributors**: "Glimpse Contributors" channel for core contributors. Only people listed in our `AUTHORS` file are eligible to join.
-- **#glimpse-admin**: "Glimpse Admin" channel for our moderators to support each other. This is a private channel used by members of the governance team.
+- **#glimpse-offtopic**: Off-topic chatter between well-known members of our community in a safe, welcoming environment.
 
-There is also a [separate Discord server](https://discord.gg/hZhRceq) for the "rewrite" development stream.
+There is also a separate [Discord server](https://discord.gg/hZhRceq) for our project moderation channels and the Glimpse NX "rewrite" development stream. You can read their rules by following the links on the `#rules-and-info` channel.
 
 [Return to top](#contents)
 
 ## Why do you need monetary donations? {#why-do-you-need-monetary-donations}
 Just like many other free software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand, market our software, and eventually help our contributors represent us at conferences.
 
-If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse).
+If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse). Our [Github Sponsors](https://github.com/sponsors/glimpse-editor) page is directly linked to our Open Collective profile. 
 
 We also encourage those who want to support the GNU Image Manipulation Program to use [their donation page](https://www.gimp.org/donating/) to do so.
 
@@ -294,7 +281,9 @@ We also encourage those who want to support the GNU Image Manipulation Program t
 ## How do I stay up-to-date with this project? {#how-do-i-stay-up-to-date-with-this-project}
 You can follow us on [the fediverse](https://mastodon.art/@glimpse) and [Twitter](https://twitter.com/glimpse_editor). This blog also has a full text [RSS feed](https://getglimpse.app/index.xml). We also recently setup a [Facebook page](fb.me/glimpse.editor).
 
-Our [Open Collective](https://opencollective.com/glimpse) backers also get regular updates about the project. Our more in-depth daily discussions can be viewed [on Matrix]([#glimpse:matrix.org](https://matrix.to/#/#glimpse:matrix.org)).
+Our [Open Collective](https://opencollective.com/glimpse) backers also get regular updates about the project. 
+
+Our Matrix and Discord channels are primarily intended for contributors and prospective contributors.
 
 [Return to top](#contents)
 

@@ -37,8 +37,6 @@ Don't worry, your Open Collective pledges will still continue as normal. We are 
 * Glimpse project Open Collective link: https://opencollective.com/glimpse
 * GNU Image Manipulation Program donation link: https://www.gimp.org/donating/
 
-[Bobby Moss](http://trechnex.freeshell.org/), our creator and main developer, has also started a personal Github Sponsors account. If you would like to thank him for the 1000+ unpaid hours he's spent working on this not-for-profit project so far, you can do so via this link: https://github.com/sponsors/TrechNex
-
 ## Assistance provided to the GNU Image Manipulation Program
 We are pleased to announce that on 2020-04-01 we donated $100 USD to the GNU Image Manipulation Program developers as part of our commitment to share the donations we receive with them. In total we have donated $150 USD since our project started, and we expect that amount to keep growing in coming months and years. [Source](https://opencollective.com/glimpse/expenses/categories/DONATION)
 
