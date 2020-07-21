@@ -252,39 +252,39 @@ We also encourage those who want to support the GNU Image Manipulation Program t
 [Return to top](#contents)
 
 ## Do you plan to sell Glimpse Image Editor? {#do-you-plan-to-sell-glimpse-image-editor}
-No. Glimpse Image Editor is an open source application, and we have no plans to sell copies of the software. The same applies to our the new image editing application we are developing called "Glimpse NX".
+No. Glimpse Image Editor is an open source application, and we have no plans to sell copies of the software. The same applies to the new image editing application we are developing called "Glimpse NX".
 
 If that policy ever changes, it will go through the usual governance channels for this project, and our community will be consulted about it first. In practice, there is little or no support within the Glimpse project to start charging for copies of the software, so it is extremely unlikely to ever happen.
 
-As for the project itself, we have not built a formal organization around it. We are simply a group of volunteers that share online infrastructure and follow mutually agreed procedures. Apart from our project's name and logo, there is nothing for any prospective company or charity to buy.
+As for the project itself, we have not built a formal organization or legal entity around it. We are a group of volunteers that share the same online infrastructure and follow mutually agreed procedures.
 
 [Return to top](#contents)
 
 ## How much do you earn from this project? {#how-much-do-you-earn-from-this-project}
 Nothing. This is a strictly not-for-profit venture. Any money that we do not use to cover our own costs is [eventually passed along](https://opencollective.com/glimpse/expenses?tag=donation) to the GNU Image Manipulation Program developers. 
 
-When we switch across to our new image editing program ("Glimpse NX") and stop forking the GNU Image Manipulation Program, any "surplus" money will continue to be held by Open Collective, and we will follow our usual governance process to determine how that money will be spent.
+When we switch across to our new image editing program ("Glimpse NX") and stop forking the GNU Image Manipulation Program, any "surplus" money will continue to be held by Open Collective, and we will follow our usual governance process to determine how that money will be spent or donated.
 
 [Return to top](#contents)
 
 ## Are you scamming me? {#are-you-scamming-me}
-No. There are people on the Internet who disagree with what we are doing for political reasons, and as a result unfortunately a small number of them try to smear the Glimpse project and our contributors with false accusations.
+No. There are people on the Internet who disagree with our project existing for political reasons, and unfortunately a small number of those individuals have been trying to smear the Glimpse project and our contributors with false accusations.
 
-To determine for yourself if we have delivered on the objectives we have set out, you can compare your current experience of the software against our [Development Priorities](https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities), the `NEWS` file provided with the source code, and the release notes we produce with every release on [our blog](/posts/).
+To determine for yourself if we have delivered on the objectives we have set out, you can compare your current experience of the software against our [Development Priorities](https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities), the `NEWS` file provided with [the source code](https://github.com/glimpse-editor/Glimpse), and the release notes we produce on [our blog](/posts/).
 
 You can also review how much we have received in donations and the ways we have spent that money on [our Open Collective profile](https://opencollective.com/glimpse). Open Collective is a 501(c) charity based in the United States, and they collect all donations on our behalf. We cannot access that money without raising an invoice for work or providing receipted evidence of an expense. Open Collective automatically publishes records of every donation we receive and expense claim we file publicly, and in real time.
 
-Our [Github Sponsors](https://github.com/sponsors/glimpse-editor) page is directly linked to our Open Collective profile, so all donations received via that channel are also recorded on Open Collective without our intervention.
+Our [Github Sponsors](https://github.com/sponsors/glimpse-editor) page is directly linked to our Open Collective profile, so all donations received via that channel are also collected and recorded by Open Collective without our intervention.
 
-It is also our policy to provide a link to the [GNU Image Manipulation Program donation page](https://www.gimp.org/donating/) whenever we provide links to our own donation page so that it is clear to prospective users that there are two separate projects. 
+It is also our policy to provide a link to the [GNU Image Manipulation Program donation page](https://www.gimp.org/donating/) whenever we provide links to our own donation page so that it is clear to prospective donors that there are two separate projects. 
 
 We also state wherever possible that Glimpse Image Editor is based on the GNU Image Manipulation Program, and clarify which version Glimpse Image Editor is based on. You can review the source code and compliance with applicable licenses on [our Github repository](https://github.com/glimpse-editor/Glimpse). We also display the names of upstream contributors in the **Help** > **About** > **Credits...** section of the software with a "(GNU I.M.P)" tag next to each applicable entry.
 
-Whenever we provide download figures, we always provide links to the tools and websites we used so that you can independently verify that the numbers we have published and our interpretation of them are correct.
+Whenever we provide download figures, we always provide links to the tools and websites we used so that (wherever possible) you can independently verify that the numbers we have published and our interpretation of them are correct.
 
 Finally, you can review all of our previous blog posts to understand how our project has evolved and changed since it first started. Our project's website is also [kept under version control](https://github.com/glimpse-editor/getglimpse-web), so you can also review any changes that we have made to specific pages and posts.
 
-While we doubt we will convince everyone, we hope that our commitment to transparency will help reassure those with an open mind that there is no sinister conspiracy, nefarious agenda, or evil plan.
+While we doubt we will convince everyone, we hope that our commitment to transparency will help reassure those with an open mind that there is no sinister conspiracy, nefarious agenda, or evil plan. We are just a group of well-meaning volunteers trying to solve a problem in our spare time.
 
 [Return to top](#contents)
 
