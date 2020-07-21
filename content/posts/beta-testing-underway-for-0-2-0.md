@@ -1,13 +1,15 @@
 ---
 title: "Beta Testing Underway For 0.2.0"
-date: 2020-07-21T07:20:00+01:00
+date: 2020-07-21T08:45:00+01:00
 draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
 
-We are still currently on track to release Glimpse Image Editor 0.2.0 before the end of July 2020. That is subject to change if we discover a major problem during beta testing, or if the new Windows installers need extra time to produce.
+We are still currently on track to release Glimpse Image Editor 0.2.0 before the end of July 2020. That is subject to change if we discover a major problem during beta testing, or if we need extra time to produce our new Windows installers.
 
 To commemorate our project's first anniversary and the upcoming release of Glimpse Image Editor 0.2.0, we intend to donate $350 USD to the GNU Image Manipulation Program developers. That will mean in our first year we will have contributed $500 USD of our donations in total back upstream.
+
+We also recently added some more answers to [our FAQs page](/about/), so we encourage our community to give that page another look.
 
 ## Linux beta testing begins
 On 2020-07-18 we published the latest 0.2.0 beta on Snapcraft. To try it out, follow the instructions on [this wiki page](https://github.com/glimpse-editor/Glimpse/wiki/Beta-Testing-with-Snapcraft-%28Linux%29)
@@ -19,7 +21,7 @@ We will continue to update those builds over the next couple of weeks as we disc
 Work is still ongoing with the Linux AppImage packaging. Unfortunately we seem to be running into some problems with this, so it is possible that may be delayed until after 0.2.0 is formally released. You can track progress on this Github Issue: [#108](https://github.com/glimpse-editor/Glimpse/issues/108)
 
 ## Windows beta testing coming soon
-We intend to improve our existing 32-bit MSI installer with the option to set a custom install location, continue reducing hard disk usage, and add "quality of life" improvements like better icons and a new application launcher. For the first time, we will also provide a 64-bit MSI installer.
+We intend to improve our existing 32-bit MSI installer with the option to set a custom install location. We will also continue reducing hard disk usage, and add "quality of life" improvements like better icons and a new application launcher. For the first time, we will also provide a 64-bit MSI installer.
 
 Our project would like to thank [the MSYS2 contributors](https://www.msys2.org/docs/ci/) for making it possible for us to build the Glimpse Image Editor source code automatically with our own [Github Actions](https://github.com/glimpse-editor/Glimpse/actions).
 
@@ -49,12 +51,14 @@ Our existing release timetable (i.e. one release every 3-4 months) does not perm
 We are also looking into new forms of packaging we can support. For example: [#322](https://github.com/glimpse-editor/Glimpse/issues/322), [#236](https://github.com/glimpse-editor/Glimpse/issues/236), [#402](https://github.com/glimpse-editor/Glimpse/issues/402)
 
 ## Download figures update
-All figures were correct on the day this blog post was published and sources have been provided so that you can verify our claims. If the figures are accurate then we would consider this to mean that Glimpse Image Editor 0.1.2 has continued to be positively-received by users. We can confirm that the number of downloads has increased since 2020-05-04. [Source](posts/anniversary-plans/)
+All figures were correct on the day this blog post was published and sources have been provided so that you can independently verify them. 
 
-We know that Glimpse Image Editor has been downloaded at least 58729 (+13121) times across all platforms, versions and download sources since it was first released on 2019-11-22. A detailed breakdown is provided below.
+If the figures are accurate then we believe that since 2020-05-04 we have had a noticeable increase in popularity with Windows users. Our userbase on Linux has remained approximately the same size, and we suspect some of our users may have switched from Snapcraft to Flathub. [Source](posts/anniversary-plans/)
+
+We know that Glimpse Image Editor has been downloaded at least 54025 (+8417) times across all platforms, versions and download sources since it was first released on 2019-11-22. A detailed breakdown is provided below.
 
 ### Linux
-**TODO: UPDATE** Heather Ellsworth reports that there have been 16901 (+????) active users over the last month that have installed Glimpse Image Editor through [Snapcraft](https://snapcraft.io/glimpse-editor/). [Source](/glimpse-snap-2020-05-04.png)
+Heather Ellsworth reports that there have been 12197 (-4704) active users over the last month that have installed Glimpse Image Editor through [Snapcraft](https://snapcraft.io/glimpse-editor/). These figures are only available through a private dashboard, so we have [provided a screenshot](/glimpse-snap-2020-07-21.png).
 
 Glimpse Image Editor has been downloaded 18028 (+4803) times from [Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) across all versions since it was first released on 2019-11-22, and there have been 11356 recent requests for updates.
 
