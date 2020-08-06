@@ -1,15 +1,15 @@
 ---
 title: "About (FAQs)"
-date: 2020-07-20T14:45:00+01:00
+date: 2020-08-06T21:00:00+01:00
 draft: false
 menu: "main"
 ---
 ## Contents {#contents}
-Glimpse Image Editor is an open source image editing program based on the GNU Image Manipulation Program 2.10.12. You can read more about our development priorities and our target userbase here: https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities
+Glimpse Image Editor is an open source image editing program based on the GNU Image Manipulation Program 2.10.18. You can read more about our development priorities and our target userbase here: https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities
 
 Glimpse NX is a completely new open source image editing program that is still in the early stages of development. We will provide more information about it in coming months.
 
-The goal of both projects is to experiment with new ideas and expand the use of free software.
+The goal of both projects is to experiment with new ideas and expand the use of open source software.
 
 ### Introduction
 - [What is the correct name for your project?](#what-is-the-correct-name-for-your-project)
@@ -50,7 +50,7 @@ The goal of both projects is to experiment with new ideas and expand the use of 
 ---
 
 ## What is the correct name for your project? {#what-is-the-correct-name-for-your-project}
-The free software we produce is called "Glimpse Image Editor", but we sometimes shorten that to just "Glimpse". We refer to our governance structure, core contributors and participants on our public Matrix channel as "the Glimpse project". We often call our social media followers, donors and end users "the Glimpse Community".
+The open source software we produce is called "Glimpse Image Editor", but we sometimes shorten that to just "Glimpse". We refer to our governance structure, core contributors and participants on our public Matrix channel as "the Glimpse project". We often call our social media followers, donors and end users "the Glimpse Community".
 
 "Glimpse NX" is the name of an entirely new image editing program we are developing. You may sometimes see it referred to as "the rewrite". We will provide more information about that project in coming weeks and months.
 
@@ -77,20 +77,20 @@ If you are offended by the fact we renamed the project, we suggest you continue 
 ## What is wrong with the "GIMP" name? {#what-is-wrong-with-the-gimp-name}
 It was originally chosen by Spencer Kimball and Peter Mattis as a joke reference to a questionable scene in an 18 certificate movie called "Pulp Fiction". The word "gimp" also has [other meanings](https://www.merriam-webster.com/dictionary/gimp) that may be considered ableist.
 
-While we cannot provide a solution that resolves the wider societal discussion about what is considered appropriate and "politically correct" in every situation, we can provide an alternative option that helps people who are offended or made uncomfortable by the name, and assist free software advocates that encounter barriers when they recommend the GNU Image Manipulation Program to friends, family, coworkers and employers.
+While we cannot provide a solution that resolves the wider societal discussion about what is considered appropriate and "politically correct" in every situation, we can provide an alternative option that helps people who are offended or made uncomfortable by the name, and assist open source advocates that encounter barriers when they recommend the GNU Image Manipulation Program to friends, family, coworkers and employers.
 
 Our project also offers a more constructive path forward to people that have become frustrated by the GNU Image Manipulation Program developers' [long-standing decision](https://www.gimp.org/docs/userfaq.html#i-dont-like-the-name-gimp-will-you-change-it) to not change the name of their software. That means fewer people yelling at each other on social media, and more people working on the code.
 
 [Return to top](#contents)
 
 ## Why are you forking? {#why-are-you-forking}
-Our contributors have used the GNU Image Manipulation Program for a long time, but like any free software project it has finite resources and has to prioritise some changes over others. That can mean good usability improvements and functional changes the community suggests go unaddressed because other changes take priority.
+Our contributors have used the GNU Image Manipulation Program for a long time, but like any open source project it has finite resources and has to prioritise some changes over others. That can mean good usability improvements and functional changes the community suggests go unaddressed because other changes take priority.
 
-What the Glimpse project aims to do is inject some new ideas, energy, contributions and money into a free software program that most enthusiasts and power users take for granted. We also want to expand the adoption of this great piece of free software, and offer a valid alternative for end users that have become disgruntled with the GNU Image Manipulation Program and are tempted to switch back to using proprietary software.
+What the Glimpse project aims to do is inject some new ideas, energy, contributions and money into an open source program that most enthusiasts and power users take for granted. We also want to expand the adoption of this great piece of open source software, and offer a valid alternative for end users that have become disgruntled with the GNU Image Manipulation Program and are tempted to switch back to using proprietary software.
 
 The very first thing we focused on with 0.1.0 was our own rebrand. We chose a new name and commissioned a professional logo, and our efforts to replace the existing "gimp" branding throughout the software and its dependencies is something we continue to make excellent progress on today.
 
-However, we want to go further, and we will do that by focusing on usability changes, UI themes, icon packs, and better installation mechanisms. We believe that by making changes and improvements in those areas, that will create a better overall user experience that broadens the appeal of the application and introduces more people to the world of free software.
+However, we want to go further, and we will do that by focusing on usability changes, UI themes, icon packs, and better installation mechanisms. We believe that by making changes and improvements in those areas, that will create a better overall user experience that broadens the appeal of the application and introduces more people to the open source community.
 
 Finally, we also want to make it easier for power users to find and install third party plug-ins. Initially that will take the form of an optional installer containing a selection of plug-ins already, but that is an area we can hopefully develop more over time.
 
@@ -121,11 +121,11 @@ You can read more about our development priorities and our target userbase here:
 [Return to top](#contents)
 
 ## How does your release numbering work? {#how-does-your-release-numbering-work}
-Glimpse Image Editor 0.1.0 is based on the GNU Image Manipulation Program 2.10.12. All 0.1.x releases add our changes, backport useful upstream functionality and update key dependencies on the same 2.10.12 base.
+Glimpse Image Editor 0.1.0 and 0.1.2 were based on the GNU Image Manipulation Program 2.10.12. These initial releases made minor cosmetic changes and helped us learn how to build and package the application.
 
-Glimpse Image Editor 0.2.0 will be rebased on the GNU Image Manipulation Program 2.10.18, and we intend to release it in July 2020. All 0.2.x releases will add our changes, back port useful functionality and update key dependencies on the same 2.10.18 base.
+Glimpse Image Editor 0.2.0 is based on the GNU Image Manipulation Program 2.10.18, and it introduces additional plugins and functional changes. All 0.2.x releases will add our changes, back port useful functionality and update key dependencies on the same 2.10.18 base.
 
-We intend to continue providing "maintenance updates" with patches and updated dependencies for at least a year after each 0.x.0 release.
+We intend to continue providing "maintenance updates" with patches and updated dependencies for at least a year after each 0.x.0 release. We aim to produce one major release every six months.
 
 "Beta test" and "Stable" release versions always end in an even number. Odd numbered versions are "Unstable" builds created from our development branch.
 
@@ -185,9 +185,9 @@ However, we will accept code fixes that enhance UNIX compatibility and will assi
 ## Will you contribute changes back upstream? {#will-you-contribute-changes-back-upstream}
 We are already working with the GNU Image Manipulation Program developers to the best of our ability. We have passed $150 USD of our own donations to them, we report bugs and brief their developers on changes that might interest them, and we have updated our online materials so they are less combative towards upstream. Bobby Moss also currently acts as our representative on their IRC channel so we can deal with any problems they raise with us.
 
-The Glimpse project governance team agrees that maintaining a positive relationship with the GNU Image Manipulation Program developers is in the best interests of both projects and the wider free software community.
+The Glimpse project governance team agrees that maintaining a positive relationship with the GNU Image Manipulation Program developers is in the best interests of both projects and the wider open source community.
 
-We recognize that it will take time to build trust, particularly given this fork was started because of a long-standing disagreement. If contributors from both projects can conduct themselves well and act as an example for their users, then we can all have a more pleasant time making, using and sharing free software.
+We recognize that it will take time to build trust, particularly given this fork was started because of a long-standing disagreement. If contributors from both projects can conduct themselves well and act as an example for their users, then we can all have a more pleasant time making, using and sharing open source software.
 
 [Return to top](#contents)
 
@@ -231,7 +231,7 @@ In addition to changing the name we also wanted to change the project logo. We c
 
 Finally, we also had to ensure that our changes were applied appropriately in the existing translation files and did not break the automated mechanisms in the build systems that keep them up-to-date.
 
-In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarly, the reason why this project is not just "one man and his Github repository" is because we do have other objectives and intend to create free software that other people actually want to use.
+In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarly, the reason why this project is not just "one man and his Github repository" is because we do have other objectives and intend to create open source software that other people actually want to use.
 
 [Return to top](#contents)
 
@@ -243,7 +243,7 @@ If there is a third party plugin you would like us to support better, feel free 
 [Return to top](#contents)
 
 ## Why do you need monetary donations? {#why-do-you-need-monetary-donations}
-Just like many other free software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand, market our software, and eventually help our contributors represent us at conferences.
+Just like many other open source software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand, market our software, and eventually help our contributors represent us at conferences.
 
 If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse). Our [Github Sponsors](https://github.com/sponsors/glimpse-editor) page is directly linked to our Open Collective profile. 
 

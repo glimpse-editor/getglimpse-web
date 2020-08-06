@@ -5,13 +5,13 @@ hero:
 features:
   - header: 'More Professional'
     summary: 'A new name and logo, a cleaner UI, and fewer "easter eggs" make an already amazing open source software package feel more enterprise-ready. 
-    For improved performance and security on mission-critical workstations, we only include Python 2 runtime components in securely-sandboxed GNU/Linux packages.'
+    For improved performance and security on mission-critical workstations, we only include Python 2 runtime components in securely-sandboxed Linux packages.'
     image: 'flatpak/0.1/dark-theme1.jpg'
     alt: 'A picture of Glimpse with dark theme applying filters and cropping to a photo of a city at night'
   - header: 'Easier To Deploy'
     summary: 'We provide regular maintenance releases on a predictable schedule so that you can more effectively deploy security updates and bug-fixes across machines on your network. 
     The new Windows MSI installer we created can be imported into existing centralized software management tools, and each installation of Glimpse Image Editor on Windows only uses ~500MB of hard drive space.
-    GNU/Linux users can also install Glimpse Image Editor from Flathub and Snapcraft.'
+    Linux users can also install Glimpse Image Editor from Flathub and Snapcraft.'
     image: 'glimpse-0-1-2-windows.JPG'
     alt: 'A picture Glimpse launching on Windows 10'
   - header: 'More Usable (Coming Soon)'

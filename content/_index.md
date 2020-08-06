@@ -1,1 +1,1 @@
-Glimpse is an open source image editor based on the GNU Image Manipulation Program 2.10.12. The goal is to experiment with new ideas and expand the use of free software.
+Glimpse is an open source image editor based on the GNU Image Manipulation Program 2.10.18. The goal is to experiment with new ideas and expand the use of open source software.
