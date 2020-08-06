@@ -136,7 +136,7 @@ Glimpse Image Editor 1.0.0 is currently reserved in case we decide to fork the G
 [Return to top](#contents)
 
 ## Which operating systems do you support? {#which-operating-systems-do-you-support}
-We support systems running Windows 7 or newer, and modern variants of GNU/Linux.
+We support systems running Windows 7 or newer, and modern variants of Linux.
 
 Unfortunately Glimpse Image Editor is not supported on MacOS. We recommend either running the Windows version in a virtualized environment or sticking with [the GNU Image Manipulation Program](https://www.gimp.org/downloads/). 
 

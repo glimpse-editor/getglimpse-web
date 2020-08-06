@@ -24,7 +24,7 @@ Bobby Moss (or "trechnex") removed [Wilber](https://www.gimp.org/about/ancient_h
 We also switched to using the "system" UI theme by default with "legacy" icons from GNU Image Manipulation Program 2.8 for the time being. The other stock themes from upstream have been removed because we intend to replace them with more visually appealing and accessible alternatives. Chaomodus has already started producing some of those replacements for us.
 
 ## Community Decisions
-The community discussed how we should package the GNU/Linux port of Glimpse. It was agreed that [Flatpak](https://flatpak.org/) would be the preferred distribution mechanism and an [AppImage](https://appimage.org/) provided as an alternative for those who are unable to use Flatpaks.
+The community discussed how we should package the Linux port of Glimpse. It was agreed that [Flatpak](https://flatpak.org/) would be the preferred distribution mechanism and an [AppImage](https://appimage.org/) provided as an alternative for those who are unable to use Flatpaks.
 
 A source tarball will also be provided for advanced users and distribution package maintainers for Linux, BSD and Solaris distributions.
 

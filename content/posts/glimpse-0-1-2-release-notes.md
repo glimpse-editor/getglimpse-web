@@ -10,7 +10,7 @@ This is also the first release where we have provided a source tarball for Linux
 We also took community feedback on board and reinstated the "Color" icon pack and "Grey" UI theme. Upstream contributors are also now credited in **Help** > **About** > **Credits**.
 
 ## Installation
-GNU/Linux users can install Glimpse Image Editor 0.1.2 as a Flatpak from the Flathub repository. There are also a number of additional installation options for Linux detailed on our [Downloads](/downloads/) page.
+Linux users can install Glimpse Image Editor 0.1.2 as a Flatpak from the Flathub repository. There are also a number of additional installation options for Linux detailed on our [Downloads](/downloads/) page.
 
 Windows users can use an MSI file to install Glimpse Image Editor 0.1.2 on 32-bit and 64-bit systems running Windows 7 or later. We chose that type of installer to assist businesses and schools using centralised software management systems. This can also be found on the [Downloads](/downloads/) page.
 
