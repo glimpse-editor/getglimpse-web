@@ -8,7 +8,7 @@ This release...
 ## Installation
 Linux users can install Glimpse Image Editor 0.2.0 as a Flatpak from the Flathub repository, and as a Snap from the Snap Store. There are also a number of additional installation options for Linux detailed on our [Downloads](/downloads/) page.
 
-Windows users can use an MSI file to install Glimpse Image Editor 0.2.0 on 32-bit and 64-bit systems running Windows 7 or later. We chose that type of installer to assist businesses and schools using centralised software management systems. This can also be found on the [Downloads](/downloads/) page.
+Windows users can use an MSI file to install Glimpse Image Editor 0.2.0 on 32-bit and 64-bit systems running Windows 7 or later. We chose that type of installer to assist businesses and schools using centralised software management systems. The two we have provided can also be found on the [Downloads](/downloads/) page.
 
 ## Known Issues
 * [Windows](https://github.com/glimpse-editor/Glimpse/wiki/Known-Issues-%28Windows%29)
@@ -54,9 +54,19 @@ We would like to thank everyone who contributed towards making Glimpse 0.2.0 a s
 * Zach Krall
 
 ### $20+ Tier Sponsor Contributors
-* 
+* Marc
 
 ### $5+ Tier Backers and One-off Donors
 We would like to say a special thank you to all of our financial backers on [Open Collective](https://opencollective.com/glimpse) regardless of whether they are listed below or not. Without your help this release would not have been possible, and your continued support is highly appreciated.
 
-* 
+* Chris Daley
+* Christopher Davis
+* Conner
+* Dave Kretz
+* narF
+* Nitrohorse
+* Richard Hendricks
+* Samuel Pickard
+* Stan Storochan
+* Tim Dehring
+* Transmutable
