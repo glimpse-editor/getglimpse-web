@@ -118,6 +118,7 @@ We would like to thank everyone who contributed towards making Glimpse 0.1.0 a s
 We would like to say a special thank you to all of our financial backers on [Open Collective](https://opencollective.com/glimpse) and Patreon regardless of whether they are listed below or not. Without your help this release would not have been possible, and your continued support is highly appreciated.
 
 * Aalap Mogre
+* Bobby Moss
 * Brandon 'Spanky' Mills
 * G Cowell
 * Gino H

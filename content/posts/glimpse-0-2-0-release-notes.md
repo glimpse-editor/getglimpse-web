@@ -86,6 +86,7 @@ We would like to thank everyone who contributed towards making Glimpse 0.2.0 a s
 ### $5+ Tier Backers and One-off Donors
 We would like to say a special thank you to all of our financial backers on [Open Collective](https://opencollective.com/glimpse) regardless of whether they are listed below or not. Without your help this release would not have been possible, and your continued support is highly appreciated.
 
+* Bobby Moss
 * Chris Daley
 * Christopher Davis
 * Conner
