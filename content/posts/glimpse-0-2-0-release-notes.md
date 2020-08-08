@@ -84,8 +84,9 @@ We would like to thank everyone who contributed towards making Glimpse 0.2.0 a s
 * Marc
 
 ### $5+ Tier Backers and One-off Donors
-We would like to say a special thank you to all of our financial backers on [Open Collective](https://opencollective.com/glimpse) regardless of whether they are listed below or not. Without your help this release would not have been possible, and your continued support is highly appreciated.
+We would like to say a special thank you to all of our financial backers on [Open Collective](https://opencollective.com/glimpse) and [Github Sponsors](https://github.com/sponsors/glimpse-editor) regardless of whether they are listed below or not. Without your help this release would not have been possible, and your continued support is highly appreciated.
 
+* AwesamLinux
 * Bobby Moss
 * Chris Daley
 * Christopher Davis
@@ -95,6 +96,7 @@ We would like to say a special thank you to all of our financial backers on [Ope
 * Nitrohorse
 * Richard Hendricks
 * Samuel Pickard
+* Sekia
 * Stan Storochan
 * Tim Dehring
 * Transmutable
