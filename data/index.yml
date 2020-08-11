@@ -13,7 +13,7 @@ features:
     image: 'glimpse-0-2-0-windows-installer.JPG'
     alt: 'A picture Glimpse launching on Windows 10'
   - header: 'More Usable'
-    summary: 'We have added keyboard shortcuts and configuration settings from PhotoGIMP to make your transition from expensive commercial image editing software easier. We have also started including additional third-party plugins to enhance the user experience, and future versions of Glimpse Image Editor will add new accessibility tools.'
+    summary: 'We have added keyboard shortcuts and configuration settings from PhotoGIMP to make your transition from expensive commercial image editing software easier. Future versions of Glimpse Image Editor will add new accessibility tools and third-party plugins to enhance the user experience.'
     image: 'glimpse-0-2-0-windows-light.jpg'
     alt: 'A picture Glimpse with light theme applying an animation to a photo of houses'
   - header: 'Cooperating, Not Competing'
