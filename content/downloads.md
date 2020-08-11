@@ -1,30 +1,18 @@
 ---
 title: "Downloads"
-date: 2020-08-06T22:00:00+01:00
+date: 2020-08-11T22:00:00+01:00
 draft: false
 menu: "main"
 ---
 The latest release is Glimpse Image Editor 0.2.0. It is based on the [GNU Image Manipulation Program](https://www.gimp.org/) 2.10.18, and is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-2-0-release-notes/)
 
 ### Windows
-Glimpse Image Editor 0.2.0 is supported on 32-bit and 64-bit systems running Windows 7 or later.
+Glimpse Image Editor 0.1.2 Gold Edition is supported on 32-bit and 64-bit systems running Windows 7 or later.
 
-#### Glimpse Image Editor 0.2.0 x86 (32-bit) installer
-Download this installer if you are upgrading an existing Glimpse Image Editor 0.1.2 installation, or are unsure which CPU architecture you are using.
+#### Glimpse Image Editor 0.1.2 Gold Edition installer
+This installer adds many of the same improvements introduced in Glimpse Image Editor 0.2.0, but sticks to the same tried and tested GNU Image Manipulation Program 2.10.12 base.
 
-**glimpse-0.2.0-i686.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-i686.msi) | *Sha256:*
-
-#### Glimpse Image Editor 0.2.0 x64 (64-bit) installer
-Download this installer if you do not need to upgrade an existing installation, know your CPU supports 64-bit instructions, and want [G'MIC](https://gmic.eu/) preinstalled.
-
-**glimpse-0.2.0-x64.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-x64.msi) | *Sha256:*
-
-**Please note**: We are still working on backwards-compatibility with third-party plugins compiled for 32-bit Windows in this version. If you need that functionality, we recommend you select the 32-bit Windows version of Glimpse Image Editor 0.2.0 instead. [#444](https://github.com/glimpse-editor/Glimpse/issues/444) 
-
-#### Other Windows install options
-To assist Windows users that encounter problems due to external software interfering with the normal operation of Glimpse Image Editor, we are currently investigating the possibility of distributing a sandboxed version of Glimpse Image Editor for free through the Microsoft Store. [#322](https://github.com/glimpse-editor/Glimpse/issues/322)
-
-For power users, we are also investigating the possibility of distributing Glimpse Image Editor through systems like [Scoop](https://scoop.sh/) and [Chocolatey](https://chocolatey.org/), which function as third-party package managers for Windows. [#65](https://github.com/glimpse-editor/Glimpse/issues/65)
+**glimpse-0.1.2-gold.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.1.2-gold.msi) | *Sha256:*
 
 You can download previous versions of Glimpse Image Editor for Windows [from Github](https://github.com/glimpse-editor/Glimpse/releases/).
 

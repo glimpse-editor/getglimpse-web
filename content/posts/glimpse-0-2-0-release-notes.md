@@ -1,18 +1,18 @@
 ---
 title: "Glimpse 0.2.0 Release Notes"
-date: 2020-08-08T18:45:00+01:00
+date: 2020-08-11T22:00:00+01:00
 draft: false
 ---
-This release rebases Glimpse Image Editor on the GNU Image Manipulation Program 2.10.18, introduces helpful configuration settings from [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP), and adds native 64-bit support on Windows.
+This release rebases Glimpse Image Editor on the GNU Image Manipulation Program 2.10.18 and introduces helpful configuration settings from [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
-We have completely rewritten our Windows installers from scratch, providing users with the option to install in custom locations, and finally deprecating support for Python 2 components on that platform. We have also pre-bundled [G'MIC](https://gmic.eu/) with our 64-bit Windows installer.
+Unfortunately we were not able to release a full Windows port of 0.2.0 due to [a bug in the build system we use](https://github.com/glimpse-editor/Glimpse/issues/449). Instead we re-released [Glimpse 0.1.2](/posts/glimpse-0-1-2-release-notes/) as a "Gold Edition" that backports many of the same changes for the same executable and addresses several long-standing limitations with a completely new MSI installer.
 
-Key underlying dependencies and changes have also been backported to provide a more stable and secure experience for all Glimpse Image Editor users across Windows and Linux.
+Key underlying dependencies and changes have also been backported on both platforms to provide a more stable and secure experience for all Glimpse Image Editor users across Windows and Linux.
 
 ## Installation
 Linux users can install Glimpse Image Editor 0.2.0 as a Flatpak from the Flathub repository, and as a Snap from the Snap Store. There are also a number of additional installation options for Linux detailed on our [Downloads](/downloads/) page.
 
-Windows users can use an MSI file to install Glimpse Image Editor 0.2.0 on 32-bit and 64-bit systems running Windows 7 or later. We chose that type of installer to assist businesses and schools using centralised software management systems. The two we have provided can also be found on the [Downloads](/downloads/) page.
+Windows users can use an MSI file to install Glimpse Image Editor 0.1.2 Gold Edition on 32-bit and 64-bit systems running Windows 7 or later. We chose that type of installer to assist businesses and schools using centralised software management systems. This can also be found on the [Downloads](/downloads/) page.
 
 ## Known Issues
 * [Windows](https://github.com/glimpse-editor/Glimpse/wiki/Known-Issues-%28Windows%29)
@@ -26,6 +26,8 @@ Glimpse 0.2.0 is based on [GNU Image Manipulation Program 2.10.18](https://www.g
 * [LibMyPaint](http://mypaint.org/) 1.5.1
 * [MyPaint-Brushes](http://mypaint.org/) 1.3.1 
 
+Glimpse 0.1.2 Gold Edition uses MyPaint 1.3.0 and is still based on [GNU Image Manipulation Program 2.10.12](https://www.gimp.org/news/2019/06/12/gimp-2-10-12-released/).
+
 ### UI Improvements
 * Added PhotoGIMP keyboard shortcuts and some custom configuration settings
 * Replaced Glimpse logo with high resolution version with "sticker" white border
@@ -36,7 +38,7 @@ Glimpse 0.2.0 is based on [GNU Image Manipulation Program 2.10.18](https://www.g
 
 ### Windows Improvements
 * Replaced WiX manifest files with more efficient replacements
-* Added a new 64-bit Windows installer with G'MIC prebundled
+* Beta tested a new 64-bit Windows installer with G'MIC prebundled (release blocked)
 * Added an RTF version of the GNU GPLv3 to both installers
 * Added support for custom install locations
 * Fixed missing "Open With..." option for Glimpse Image Editor
