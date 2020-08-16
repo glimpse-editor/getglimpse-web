@@ -31,6 +31,15 @@ Alternatively you can install it manually at the command line:
 $ flatpak install flathub org.glimpse_editor.Glimpse
 ```
 
+If you would prefer to use your own third party repository for dependency resolution instead of Flathub, we also provide a [single-file bundle](https://docs.flatpak.org/en/latest/single-file-bundles.html):
+
+**glimpse-0.2.0.flatpak** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.flatpak) | *Sha256:*
+
+To install the single-file bundle at the command line:
+```
+$ flatpak install glimpse-0.2.0.flatpak
+```
+
 #### Snap
 If `snapd` is not already installed on your machine, follow these instructions: https://snapcraft.io/docs/getting-started
 
