@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-08-16T05:30:00+01:00
+date: 2020-08-16T06:15:00+01:00
 draft: false
 menu: "main"
 ---
@@ -48,6 +48,7 @@ The goal of both projects is to experiment with new ideas and expand the use of 
 - [What are all the Matrix channels for?](#what-are-all-the-matrix-channels-for)
 - [How do I stay up-to-date with this project?](#how-do-i-stay-up-to-date-with-this-project)
 - [How do I contribute to this project?](#how-do-i-contribute-to-this-project)
+- [What is your policy on pre-emptive bans?](#what-is-your-policy-on-pre-emptive-bans)
 
 ---
 
@@ -363,5 +364,14 @@ Our Matrix and Discord channels are primarily intended for contributors and pros
 All of our contribution links are available on our [Contribute](/contribute/) page.
 
 Please ensure that you read our [code of conduct](/code-of-conduct/) before you join our community. Regardless of your past experience and the usefulness of your contributions you are expected to comply with it.
+
+[Return to top](#contents)
+
+## What is your policy on pre-emptive bans? {#what-is-your-policy-on-pre-emptive-bans}
+To safeguard our contributors on the public Matrix channel, we sometimes block "known bad" Matrix nameservers. We may also pre-emptively ban Matrix and Github user accounts that we know have acted badly in other online communities and have reason to believe may approach our project or contributors.
+
+We have been periodically taking these actions since September 2019. The aim is to prevent [brigading](https://en.wikipedia.org/wiki/Vote_brigading) from other online communities, and to avoid [missing stairs](https://en.m.wikipedia.org/wiki/Missing_stair) joining our project.
+
+To preserve the privacy of the people we have taken action against, we do not publish the full list of blocked Matrix name servers and Matrix/Github users. Our pre-emptive bans are periodically reviewed by governance team to ensure there are no "false positives".
 
 [Return to top](#contents)
