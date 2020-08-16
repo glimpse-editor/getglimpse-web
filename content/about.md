@@ -26,6 +26,7 @@ The goal of both projects is to experiment with new ideas and expand the use of 
 - [How does your release numbering work?](#how-does-your-release-numbering-work)
 - [Which operating systems do you support?](#which-operating-systems-do-you-support)
 - [Who signs the Windows installer?](#who-signs-the-windows-installer)
+- [Why did you re-release Glimpse Image Editor 0.1.2 on Windows?](#why-did-you-re-release-glimpse-image-editor-0-1-2)
 - [Can I install Glimpse and GNU Image Manipulation Program on the same machine?](#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine)
 - [Are you going to publish this for my favorite Linux distribution?](#are-you-going-to-publish-this-for-my-favorite-linux-distribution)
 - [Will you support BSD, Haiku, Solaris or other UNIX platforms?](#will-you-support-bsd-haiku-solaris-or-other-unix-platforms)
@@ -133,7 +134,7 @@ We are also technically a [free software](https://www.gnu.org/philosophy/free-sw
 [Return to top](#contents)
 
 ## Are there any disabled people involved with the project? {#are-there-any-disabled-people-involved-with-the-project}
-Yes! In fact, the Glimpse project was actually founded by disabled people. Not all of our contributors publicly disclose their cognitive and/or physical impairments because that is private medical information.
+Yes! In fact, the Glimpse project was actually founded by disabled people. Not all of our disabled contributors publicly disclose their cognitive and/or physical impairments because that is private medical information.
 
 For those that are still using our project as a political football, we would like to point out that it should not matter whether this project was started by disabled people or not. The biggest problems in a disabled persons' life do not always stem from their impairments, it can often be the time and energy they are forced to expend overcoming daily barriers society imposes on them for literally no reason. That means we actually need *more* able-bodied people of all political stripes to care about accessibility and ableism, and *fewer* excuses that leave disabled people having to fix problems themselves.
 
@@ -171,6 +172,22 @@ If we do not sign our MSI installer then potential users can run into a number o
 We initially tried a self-signed certificate, but that did not resolve the problem. The Glimpse project is not a registered company and cannot afford to reimburse individuals for certificate authority notarization requirements, so we cannot provide our own code signing certificate. As a result we rely on a trusted individual to voluntarily sign each MSI installer we release on our behalf.
 
 [Return to top](#contents)
+
+## Why did you re-release Glimpse Image Editor 0.1.2 on Windows? {#why-did-you-re-release-glimpse-image-editor-0-1-2}
+We discovered during the beta testing phase for Glimpse Image Editor 0.2.0 that there was a bug in the build system we use for our local and automated Windows builds, [MSYS2](https://www.msys2.org/).
+
+We have had problems with that system before, such as not being able to compile Glimpse Image Editor with support for Python plugins and filters. That was breakage we accepted because [Python 2 is now end of life](https://www.python.org/doc/sunset-python-2/), and end user feedback about the performance improvement was positive. [#178](https://github.com/glimpse-editor/Glimpse/issues/178)
+
+Unfortunately the new problem we discovered means that our Windows port cannot currently detect external fonts. That currently means that if we compile the code for Windows, the text tool and any functionality that requires fonts will not work correctly on that operating system. We believe that this level of breakage is not acceptable in a production environment, and we will not release Glimpse Image Editor 0.2.0 on Windows in that state. [#449](https://github.com/glimpse-editor/Glimpse/issues/449)
+
+Fortunately some of the new features and fixes we were planning to introduce for the Windows port of Glimpse Image Editor 0.2.0 (such as reduced hard disk usage, custom install locations, correct file associations, and new [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) configuration settings) were actually features added in our new Windows installers. There were also no critical security vulnerabilities in the code or DLL dependencies for Glimpse Image Editor 0.1.2 on Windows, so in August 2020 we confirmed that we did not need to rebuild the existing Windows executable that was previously released in March 2020.
+
+We felt that under the circumstances a good temporary workaround would be to re-release Glimpse Image Editor 0.1.2 on Windows with some packaging improvements. We aim to eventually release Glimpse Image Editor 0.2.0 on Windows once we have resolved build problems for that operating system.
+
+Unfortunately we cannot provide a timeline on when we will release Glimpse Image Editor 0.2.0 on Windows, because the bug is not in a system we develop or maintain. If we subsequently discover that the bug is unlikely to be fixed in the near future, then we will explore other options.
+
+[Return to top](#contents)
+
 
 ## Can I install Glimpse and GNU Image Manipulation Program on the same machine? {#can-i-install-glimpse-and-gnu-image-manipulation-program-on-the-same-machine}
 On Windows, you can safely install and run both applications at the same time.
