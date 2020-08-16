@@ -5,7 +5,7 @@ draft: false
 menu: "main"
 ---
 ## Contents {#contents}
-Glimpse Image Editor is an open source image editing program based on the GNU Image Manipulation Program 2.10.18. You can read more about our development priorities and our target userbase here: https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities
+Glimpse Image Editor 0.2.0 is an open source image editing program based on the GNU Image Manipulation Program 2.10.18. You can read more about our development priorities and our target userbase here: https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities
 
 Glimpse NX is a completely new open source image editing program that is still in the early stages of development. We will provide more information about it in coming months.
 
