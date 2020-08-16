@@ -129,14 +129,12 @@ Glimpse Image Editor is licensed under the [GNU General Public License version 3
 
 You can read the full definition for what "open source" means and how that impacts your rights as a user here: https://opensource.org/docs/osd
 
-We are also technically a [free software](https://www.gnu.org/philosophy/free-sw.html) project, but we do not use that term in our documentation. Unfortunately, ongoing toxic behavior from a vocal minority of that community continues to damage the external perception of both the Glimpse project and the wider "free software" movement. We have been forced to take a number of steps to protect our contributors' professional reputations and the amazing volunteer work they do, and you can read more about them in the answer for ["Are you scamming me?"](#are-you-scamming-me)
-
 [Return to top](#contents)
 
 ## Are there any disabled people involved with the project? {#are-there-any-disabled-people-involved-with-the-project}
-Yes! In fact, the Glimpse project was actually founded by disabled people. Not all of our disabled contributors publicly disclose their cognitive and/or physical impairments because that is private medical information.
+Yes. However, none of our contributors are under any obligation to disclose their status as a disabled person or the nature of their impairment(s) to you because that is private medical information.
 
-For those that are still using our project as a political football, we would like to point out that it should not matter whether this project was started by disabled people or not. The biggest problems in a disabled persons' life do not always stem from their impairments, it can often be the time and energy they are forced to expend overcoming daily barriers society imposes on them for literally no reason. That means we actually need *more* able-bodied people of all political stripes to care about accessibility and ableism, and *fewer* excuses that leave disabled people having to fix problems themselves.
+The biggest challenges disabled people often face are the arbitrary barriers imposed on them by a neglectful society that doesn't take their needs into account or prioritize their problems, and it takes a lot of time and energy to overcome those barriers. We encourage open source developers of all political stripes to focus more on fixing accessibility and usability problems, because seemingly small changes can make a big difference.
 
 [Return to top](#contents)
 
