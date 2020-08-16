@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-08-06T21:00:00+01:00
+date: 2020-08-16T04:30:00+01:00
 draft: false
 menu: "main"
 ---
@@ -19,6 +19,7 @@ The goal of both projects is to experiment with new ideas and expand the use of 
 - [Why are you forking?](#why-are-you-forking)
 - [Is forking the project a duplication of effort?](#is-forking-the-project-a-duplication-of-effort)
 - [Do you intend to replace the GNU Image Manipulation Program?](#do-you-intend-to-replace-the-gnu-image-manipulation-program)
+- [Why do you call yourself "open source"?](#why-do-you-call-yourself-open-source)
 
 ### Technical Questions
 - [How does your release numbering work?](#how-does-your-release-numbering-work)
@@ -117,6 +118,15 @@ We anticipate in the coming months and years that Glimpse will be a place where 
 If we come up with some popular improvements that really enhance the user experience or fix bugs that impact both projects, then we would assist with contributing them back upstream so the wider community can benefit.
 
 You can read more about our development priorities and our target userbase here: https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities
+
+[Return to top](#contents)
+
+## Why do you call yourself "open source"? {#why-do-you-call-yourself-open-source}
+Glimpse Image Editor is licensed under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html), and Glimpse NX will be licensed under the [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause). Both of these are [OSI](https://opensource.org/) approved "open source" licenses.
+
+You can read the full definition for what "open source" means and how that impacts your rights as a user here: https://opensource.org/docs/osd
+
+We are also technically a [free software](https://www.gnu.org/philosophy/free-sw.html) project, but we do not use that term in our documentation. Unfortunately, ongoing toxic behavior from a vocal minority of that community continues to damage the external perception of both the Glimpse project and the wider "free software" movement. We have been forced to take a number of steps to protect our contributors' professional reputations and the amazing volunteer work they do, and you can read more about them in the answer for ["Are you scamming me?"](#are-you-scamming-me)
 
 [Return to top](#contents)
 
