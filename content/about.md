@@ -374,4 +374,6 @@ We have been periodically taking these actions since September 2019. The aim is 
 
 To preserve the privacy of the people we have taken action against, we do not publish the full list of blocked Matrix name servers and Matrix/Github users. Our pre-emptive bans are periodically reviewed by governance team to ensure there are no "false positives".
 
+For more information about how we moderate our public Matrix channel, read the [channel rules](https://github.com/glimpse-editor/Glimpse/wiki/Good-Practices#membership-of-the-matrix-channel-is-a-privilege-not-a-right).
+
 [Return to top](#contents)
