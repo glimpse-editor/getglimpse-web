@@ -1,6 +1,6 @@
 ---
 title: "Contribute"
-date: 2020-07-18T01:00:00+01:00
+date: 2020-08-22T03:00:00+01:00
 draft: false
 menu: "main"
 ---
@@ -8,27 +8,25 @@ Please note that we are developing Glimpse Image Editor in two parallel streams.
 
 The "fork" stream is already providing a workable solution for people who dislike the "gimp" name or encounter barriers when they advocate the GNU Image Manipulation Program in schools, universities and workplaces. You can read more about our development priorities and our target userbase here: https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities
 
-The "rewrite" stream (also known as "Glimpse NX") aims to create a completely new image editing program with a different user interface and cross-platform graphical toolkit. That will not be based on the GNU Image Manipulation Program. We will provide more details about this in coming months.
+The "rewrite" stream (also known as "Glimpse NX") aims to create a lightweight new interface for pre-existing GNU Image Manipulation Program libraries and frameworks. We will provide more details about that project in coming months.
 
-We have highlighted which stream each link belongs to. If there is no named stream, the link applies to both.
-
-## Code, Bug Reports, etc
- * [Bug Reports](https://github.com/glimpse-editor/Glimpse/issues) (fork)
- * [Development Road Map](https://github.com/glimpse-editor/Glimpse/milestones) (fork)
- * [Source Code](https://github.com/glimpse-editor/Glimpse) (fork)
+## Code, Bug Reports, etc for Glimpse Image Editor
+ * [Bug Reports](https://github.com/glimpse-editor/Glimpse/issues)
+ * [Development Road Map](https://github.com/glimpse-editor/Glimpse/milestones)
+ * [Source Code](https://github.com/glimpse-editor/Glimpse)
 
 ## Art, mockups, etc.
  * [Branding](https://github.com/glimpse-editor/branding)
  * [Wiki](https://wiki.glimpse-editor.org/)
 
-## Discussion
- * [Matrix](https://matrix.to/#/#glimpse:matrix.org) (fork)
- * [Discord](https://discord.gg/hZhRceq) (rewrite)
+## Discussion and Technical Support
+ * [Matrix](https://matrix.to/#/#glimpse:matrix.org)
+ * [Discord](https://discord.gg/hZhRceq)
 
   **Warning**: Before joining our public Matrix channel, we strongly encourage you to read [the rules you are expected to follow](https://github.com/glimpse-editor/Glimpse/wiki/Good-Practices#membership-of-the-matrix-channel-is-a-privilege-not-a-right).
 
 ## News
- * [Facebook](https://fb.me/glimpse.editor) (fork)
+ * [Facebook](https://fb.me/glimpse.editor)
  * [Mastodon](https://mastodon.art/@glimpse)
  * [RSS](../posts/index.xml)
  * [Twitter](https://twitter.com/glimpse_editor)
