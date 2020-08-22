@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-08-22T05:45:00+01:00
+date: 2020-08-22T06:35:00+01:00
 draft: false
 menu: "main"
 ---
@@ -284,13 +284,13 @@ Nothing. This is a strictly not-for-profit venture. Any money that we do not use
 [Return to top](#contents)
 
 ## Are you scamming me? {#are-you-scamming-me}
-No. Unfortunately there are people on the Internet who disagree with our project existing for political reasons, and in the absence of any sensible arguments against what we are doing, some of them have been tried to smear the Glimpse project and our contributors with false accusations.
+No. Unfortunately there are people on the Internet who disagree with our project existing for political reasons, and in the absence of any reasonable arguments against what we are doing, some of them have tried to smear the Glimpse project and our contributors with false accusations.
 
 To determine for yourself if we have delivered on the objectives we have set out, you can compare your current experience of the software against our [Development Priorities](https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities), the `NEWS` file provided with [the source code](https://github.com/glimpse-editor/Glimpse), and the release notes we produce on [our blog](/posts/).
 
 You can also review how much we have received in donations and the ways we have spent that money on [our Open Collective profile](https://opencollective.com/glimpse). Open Collective is a 501(c) charity based in the United States, and they collect all donations on our behalf. We cannot access that money without raising an invoice for work or providing receipted evidence of an expense. Open Collective automatically publishes records of every donation we receive and expense claim we file publicly, and in real time. 
 
-Our [Github Sponsors](https://github.com/sponsors/glimpse-editor) page is directly linked to our Open Collective profile, so all donations received via that channel are also collected and recorded by Open Collective without our intervention.
+Our [Github Sponsors](https://github.com/sponsors/glimpse-editor) page is directly linked to our Open Collective profile via [Stripe](https://stripe.com/), so all donations received from that channel are also collected and recorded by Open Collective without our intervention.
 
 **The Glimpse project is strictly not-for-profit, and we periodically donate surplus funds to the GNU Image Manipulation Program developers**. You can review those donations here: https://opencollective.com/glimpse/expenses?tag=donation
 
