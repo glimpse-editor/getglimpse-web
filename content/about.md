@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-08-16T06:15:00+01:00
+date: 2020-08-22T02:30:00+01:00
 draft: false
 menu: "main"
 ---
@@ -9,7 +9,7 @@ Glimpse Image Editor 0.2.0 is an open source image editing program based on the 
 
 Glimpse NX is a completely new open source image editing program that is still in the early stages of development. We will provide more information about it in coming months.
 
-The goal of both projects is to experiment with new ideas and expand the use of open source software.
+The goal of both projects is to experiment with new ideas and expand the use of free/libre and open source software.
 
 ### Introduction
 - [What is the correct name for your project?](#what-is-the-correct-name-for-your-project)
@@ -90,7 +90,7 @@ Our project also offers a more constructive path forward to people that have bec
 ## Why are you forking? {#why-are-you-forking}
 Our contributors have used the GNU Image Manipulation Program for a long time, but like any open source project it has finite resources and has to prioritise some changes over others. That can mean good usability improvements and functional changes the community suggests go unaddressed because other changes take priority.
 
-What the Glimpse project aims to do is inject some new ideas, energy, contributions and money into an open source program that most enthusiasts and power users take for granted. We also want to expand the adoption of this great piece of open source software, and offer a valid alternative for end users that have become disgruntled with the GNU Image Manipulation Program and are tempted to switch back to using proprietary software.
+What the Glimpse project aims to do is inject some new ideas, energy, contributions and money into an open source program that most enthusiasts and power users take for granted. We also want to expand the adoption of this great piece of free/libre software, and offer a valid alternative for end users that have become disgruntled with the GNU Image Manipulation Program and are tempted to switch back to using proprietary software.
 
 The very first thing we focused on with 0.1.0 was our own rebrand. We chose a new name and commissioned a professional logo, and our efforts to replace the existing "gimp" branding throughout the software and its dependencies is something we continue to make excellent progress on today.
 
@@ -125,9 +125,11 @@ You can read more about our development priorities and our target userbase here:
 [Return to top](#contents)
 
 ## Why do you call yourself "open source"? {#why-do-you-call-yourself-open-source}
-Glimpse Image Editor is licensed under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html), and Glimpse NX will be licensed under the [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause). Both of these are [OSI](https://opensource.org/) approved "open source" licenses.
+Glimpse Image Editor is licensed under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html), and that is an [Open Source Initiative](https://opensource.org/) approved "open source" license.
 
 You can read the full definition for what "open source" means and how that impacts your rights as a user here: https://opensource.org/docs/osd
+
+You can also review the GNU definition of "free software" here: https://www.gnu.org/philosophy/free-sw.html
 
 [Return to top](#contents)
 
@@ -219,7 +221,7 @@ However, we will accept code fixes that enhance UNIX compatibility and will assi
 ## Will you contribute changes back upstream? {#will-you-contribute-changes-back-upstream}
 We are already working with the GNU Image Manipulation Program developers to the best of our ability. We have passed $150 USD of our own donations to them, we report bugs and brief their developers on changes that might interest them, and we have updated our online materials so they are less combative towards upstream. Bobby Moss also currently acts as our representative on their IRC channel so we can deal with any problems they raise with us.
 
-The Glimpse project governance team agrees that maintaining a positive relationship with the GNU Image Manipulation Program developers is in the best interests of both projects and the wider open source community.
+The Glimpse project governance team agrees that maintaining a positive relationship with the GNU Image Manipulation Program developers is in the best interests of both projects and the wider free/libre and open source software community.
 
 We recognize that it will take time to build trust, particularly given this fork was started because of a long-standing disagreement. If contributors from both projects can conduct themselves well and act as an example for their users, then we can all have a more pleasant time making, using and sharing open source software.
 
@@ -265,7 +267,7 @@ In addition to changing the name we also wanted to change the project logo. We c
 
 Finally, we also had to ensure that our changes were applied appropriately in the existing translation files and did not break the automated mechanisms in the build systems that keep them up-to-date.
 
-In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarly, the reason why this project is not just "one man and his Github repository" is because we do have other objectives and intend to create open source software that other people actually want to use.
+In short, it is not easy to rebrand the GNU Image Manipulation Program. Similarly, the reason why this project is not just "one man and his Github repository" is because we do have other objectives and intend to create software that other people actually want to use.
 
 [Return to top](#contents)
 
@@ -277,7 +279,7 @@ If there is a third party plugin you would like us to support better, feel free 
 [Return to top](#contents)
 
 ## Why do you need monetary donations? {#why-do-you-need-monetary-donations}
-Just like many other open source software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand, market our software, and eventually help our contributors represent us at conferences.
+Just like many other free/libre and open source software projects we need to host the collaboration tools we use to develop and share the project. We have to purchase domain names, cloud servers, code signing certificates and subscriptions from service providers to make this project a success. In addition we also intend to pay the artists we commission for the re-brand, market our software, and eventually help our contributors represent us at conferences.
 
 If you would like to donate some money to Glimpse project, you can do so by donating on [Open Collective](https://opencollective.com/glimpse). Our [Github Sponsors](https://github.com/sponsors/glimpse-editor) page is directly linked to our Open Collective profile. 
 
@@ -286,7 +288,7 @@ We also encourage those who want to support the GNU Image Manipulation Program t
 [Return to top](#contents)
 
 ## Do you plan to sell Glimpse Image Editor? {#do-you-plan-to-sell-glimpse-image-editor}
-No. Glimpse Image Editor is an open source application, and we have no plans to sell copies of the software. The same applies to the new image editing application we are developing called "Glimpse NX".
+No. Glimpse Image Editor is an open source application, and we have no plans to sell copies of the software. The same will also apply to the new image editing application we are developing called "Glimpse NX".
 
 If that policy ever changes, it will go through the usual governance channels for this project, and our community will be consulted about it first. In practice, there is little or no support within the Glimpse project to start charging for copies of the software, so it is extremely unlikely to ever happen.
 
