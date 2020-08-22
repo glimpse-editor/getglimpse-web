@@ -1,20 +1,29 @@
 ---
 title: "Downloads"
-date: 2020-08-11T22:00:00+01:00
+date: 2020-08-22T06:45:00+01:00
 draft: false
 menu: "main"
 ---
 The latest release is Glimpse Image Editor 0.2.0. It is based on the [GNU Image Manipulation Program](https://www.gimp.org/) 2.10.18, and is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-2-0-release-notes/)
 
 ### Windows
-Glimpse Image Editor 0.1.2 Gold Edition is supported on 32-bit and 64-bit systems running Windows 7 or later.
+Glimpse Image Editor 0.2.0 is supported on 32-bit and 64-bit systems running Windows 7 or later. If you experience problems during installation, you should review the [Known Issues](https://github.com/glimpse-editor/Glimpse/wiki/Known-Issues-%28Windows%29) page before reporting a bug.
 
-#### Glimpse Image Editor 0.1.2 Gold Edition installer
-This installer adds many of the same improvements introduced in Glimpse Image Editor 0.2.0, but sticks to the same tried and tested GNU Image Manipulation Program 2.10.12 base.
+If you do not know which installer to download we recommend that you choose the 32-bit one, as it is compatible with the widest range of systems.
 
-**glimpse-0.1.2-gold.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.1.2-gold.msi) | *Sha256:*
+#### Glimpse Image Editor 0.2.0 Installer
+This installs a 32-bit version of Glimpse Image Editor 0.2.0. You should choose this option if you are upgrading an existing Glimpse Image Editor 0.1.2 installation and/or need compatibility with existing third-party plugins.
+
+**glimpse-0.2.0-i686.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-i686.msi) | *Sha256:*
 
 You can download previous versions of Glimpse Image Editor for Windows [from Github](https://github.com/glimpse-editor/Glimpse/releases/).
+
+#### Glimpse Image Editor 0.2.0 (64-bit) Installer
+This installs a native 64-bit version of Glimpse Image Editor 0.2.0 with [G'MIC](https://gmic.eu/). You should choose this option if you know you are running a 64-bit version of Windows and do not need to upgrade an existing Glimpse Image Editor 0.1.2 installation.
+
+**glimpse-0.2.0-x64.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-x64.msi) | *Sha256:*
+
+Support for legacy 32-bit plugins is still experimental with the 64-bit Windows installer. You should [review our wiki](https://github.com/glimpse-editor/Glimpse/wiki#third-party-plugin-installation-guides) before reporting any bugs.
 
 ### Linux
 We distribute Glimpse Image Editor 0.2.0 on Flathub and Snapcraft for end users. We also provide a source tarball for Linux distribution maintainers.
