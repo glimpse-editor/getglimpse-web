@@ -14,21 +14,21 @@ If you do not know which installer to download we recommend that you choose the 
 #### Glimpse Image Editor 0.2.0 Installer
 This installs a 32-bit version of Glimpse Image Editor 0.2.0. You should choose this option if you are upgrading an existing Glimpse Image Editor 0.1.2 installation and/or need compatibility with existing third-party plugins.
 
-**glimpse-0.2.0-i686.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-i686.msi) | *Sha256:*
+**glimpse-0.2.0-i686.msi** (189 MB) | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-i686.msi) | *Sha256:*
 
 You can download previous versions of Glimpse Image Editor for Windows [from Github](https://github.com/glimpse-editor/Glimpse/releases/).
 
 #### Glimpse Image Editor 0.2.0 (64-bit) Installer
 This installs a native 64-bit version of Glimpse Image Editor 0.2.0 with [G'MIC](https://gmic.eu/). You should choose this option if you know you are running a 64-bit version of Windows and do not need to upgrade an existing Glimpse Image Editor 0.1.2 installation.
 
-**glimpse-0.2.0-x64.msi** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-x64.msi) | *Sha256:*
+**glimpse-0.2.0-x64.msi** (304 MB) | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-x64.msi) | *Sha256:*
 
 Support for legacy 32-bit plugins is still experimental with the 64-bit Windows installer. You should [review our wiki](https://github.com/glimpse-editor/Glimpse/wiki#third-party-plugin-installation-guides) before reporting any bugs.
 
 ### Linux
 We distribute Glimpse Image Editor 0.2.0 on Flathub and Snapcraft for end users. We also provide a source tarball for Linux distribution maintainers.
 
-To assist users of some Linux distributions, and AppImage is also planned. [#108](https://github.com/glimpse-editor/Glimpse/issues/108)
+To assist users of some Linux distributions, an AppImage is also planned. [#108](https://github.com/glimpse-editor/Glimpse/issues/108)
 
 #### Flatpak
 If `flatpak` is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
@@ -42,7 +42,7 @@ $ flatpak install flathub org.glimpse_editor.Glimpse
 
 If you would prefer to use your own third party repository for dependency resolution instead of Flathub, we also provide a [single-file bundle](https://docs.flatpak.org/en/latest/single-file-bundles.html):
 
-**glimpse-0.2.0.flatpak** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.flatpak) | *Sha256:*
+**glimpse-0.2.0.flatpak** (52 MB) | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.flatpak) | *Sha256:*
 
 To install the single-file bundle at the command line:
 ```
@@ -60,9 +60,9 @@ $ sudo snap install glimpse-editor
 ```
 
 #### Source tarball
-**glimpse-0.2.0.tar.bz2** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.tar.bz2) | *Sha256:*
+**glimpse-0.2.0.tar.bz2** ( MB) | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.tar.bz2) | *Sha256:*
 
-**glimpse-0.2.0.tar.xz** | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.tar.xz) | *Sha256:*
+**glimpse-0.2.0.tar.xz** ( MB) | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.tar.xz) | *Sha256:*
 
 Please note that we are still in the process of refactoring certain subcomponents, so distribution maintainers need to mark `libgimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
 
