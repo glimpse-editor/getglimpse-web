@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2020-08-25T12:00:00+01:00
+date: 2020-08-25T14:00:00+01:00
 draft: false
 menu: "main"
 ---
@@ -58,13 +58,6 @@ Alternatively you can install it manually at the command line:
 ```
 $ sudo snap install glimpse-editor
 ```
-
-#### Source tarball
-**glimpse-0.2.0.tar.bz2** ( MB) | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.tar.bz2) | *Sha256:*
-
-**glimpse-0.2.0.tar.xz** ( MB) | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.tar.xz) | *Sha256:*
-
-Please note that we are still in the process of refactoring certain subcomponents, so distribution maintainers need to mark `libgimp` as a conflicting package. [More details](https://github.com/glimpse-editor/Glimpse/issues/7)
 
 #### Community-supported sources
 These builds are provided by third parties in the wider Linux community. We do not create, package or directly support these sources, so if you raise any bugs for them that would not apply to most Linux users, we may direct you elsewhere to get the issue fixed.
