@@ -1,6 +1,6 @@
 ---
 title: "Glimpse 0.2.0 Release Notes"
-date: 2020-08-22T07:00:00+01:00
+date: 2020-08-25T14:45:00+01:00
 draft: false
 ---
 This release rebases Glimpse Image Editor on the GNU Image Manipulation Program 2.10.18, introduces helpful configuration settings from [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP), and adds 64-bit support on Windows.
