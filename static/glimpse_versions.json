@@ -1,6 +1,26 @@
 {
     "STABLE": [
         {
+            "version": "0.2.0",
+            "date": "2020-08-25",
+            "source": [
+                {
+                    "filename": "Glimpse-0.2.0.tar.gz",
+                    "sha512": "87809a84baefcac53e5c07247b40401cd1217b33242945da425ec36165e30de74f062de186d1f7c11f633c0170f747ce67899c96a79fa62bb05dd5e85ca48149",
+                    "sha256": "d04444865cc4e300c8901345bbe909c0d5604e489c8ef8ceb81b5a9fde405ae8"
+                }
+            ],
+            "windows": [
+                {
+                    "date": "2020-08-25",
+                    "filename": "glimpse-0.2.0-i686.msi",
+                    "sha512": "76a6c9c25ccd6b4eaba486b1193fadaa44dff72d36a606ffc615e6f21ce8ad214a73ecf97a9c00baa4752698f67e79d140978c624d4a49a7f55fa8c6ac092f88",
+                    "sha256": "2163403ca13d27be399b7fc1348719b2a9a4ddc4bc8c4b00aa8edd608bacfdbd",
+                    "min-support": "Windows 7"
+                }
+            ]
+        },
+        {
             "version": "0.1.2",
             "date": "2020-03-02",
             "source": [
