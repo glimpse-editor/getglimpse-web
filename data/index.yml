@@ -5,27 +5,22 @@ hero:
 features:
   - header: 'More Professional'
     summary: 'A new name and logo, a cleaner UI, and fewer "easter eggs" make an already amazing open source software package feel more enterprise-ready. 
-    For improved performance and security on mission-critical workstations, we only include Python 2 runtime components in securely-sandboxed GNU/Linux packages.'
-    image: 'flatpak/0.1/dark-theme1.jpg'
+    For improved performance and security on mission-critical workstations, we only include Python 2 runtime components in securely-sandboxed Linux packages.'
+    image: 'glimpse-0-2-0-windows-dark.jpg'
     alt: 'A picture of Glimpse with dark theme applying filters and cropping to a photo of a city at night'
   - header: 'Easier To Deploy'
-    summary: 'We provide regular maintenance releases on a predictable schedule so that you can more effectively deploy security updates and bug-fixes across machines on your network. 
-    The new Windows MSI installer we created can be imported into existing centralized software management tools, and each installation of Glimpse Image Editor on Windows only uses ~500MB of hard drive space.
-    GNU/Linux users can also install Glimpse Image Editor from Flathub and Snapcraft.'
-    image: 'glimpse-0-1-2-windows.JPG'
+    summary: 'Our lightweight Windows installers can be easily imported into existing centralized software management tools. We also manage our own Linux packaging and updates on Flathub and the Snap Store, so you always get our latest security updates and bug fixes.'
+    image: 'glimpse-0-2-0-windows-installer.JPG'
     alt: 'A picture Glimpse launching on Windows 10'
-  - header: 'More Usable (Coming Soon)'
-    summary: 'Now that we have a solid base to work from, and the right developer documentation and tooling in place, we aim to start including new usability fixes and improvements in future releases.'
-    image: 'flatpak/0.1/light-theme2.jpg'
+  - header: 'More Usable'
+    summary: 'We have added keyboard shortcuts and configuration settings from PhotoGIMP to make your transition from expensive commercial image editing software easier. Future versions of Glimpse Image Editor will bundle additional third-party plugins, and make further tweaks to improve accessibility.'
+    image: 'glimpse-0-2-0-windows-light.jpg'
     alt: 'A picture Glimpse with light theme applying an animation to a photo of houses'
   - header: 'Cooperating, Not Competing'
-    summary: 'We have ensured that Glimpse Image Editor and the GNU Image Manipulation Program can be installed and run on the same machine so that users can make an informed choice.
-    We also pass along a portion of our donations to the GNU Image Manipulation Program contributors, provide appropriate credit through our UI, and work closely with them so we can share our improvements 
-    and resolve any problems they raise with us. '
+    summary: 'We pass along a portion of our donations to the GNU Image Manipulation Program contributors, provide appropriate credit through our UI, and work closely with that project to share our improvements and resolve problems. Our objective is to expand their userbase, not replace it.'
     image: 'cytonn-photography-n95VMLxqM2I-unsplash.jpg'
     alt: 'A picture of two hands shaking in a gesture of friendship'
   - header: 'Planning For The Future'
-    summary: '"Glimpse NX" is a completely new permissively-licensed image editing program that is being written from the ground up with the D programming language and a bespoke cross-platform UI toolkit. 
-    We will provide more details about that exciting new project as it develops.'
+    summary: '"Glimpse NX" will provide a lightweight newcomer-friendly image editing experience with accessibility as its primary focus. We will provide more details about that exciting new free/libre software project as it develops.'
     image: 'glimpse-nx-placeholder.jpg'
     alt: 'A placeholder Glimpse NX logo on a black background'
