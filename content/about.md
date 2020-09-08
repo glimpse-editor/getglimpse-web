@@ -15,6 +15,7 @@ The goal of both projects is to experiment with new ideas and expand the use of 
 - [What is the correct name for your project?](#what-is-the-correct-name-for-your-project)
 - [What is Glimpse Image Editor?](#what-is-glimpse-image-editor)
 - [What is Glimpse NX?](#what-is-glimpse-nx)
+- [What is Glimpse Redux?](#what-is-glimpse-redux)
 - [What is wrong with the "GIMP" name?](#what-is-wrong-with-the-gimp-name)
 - [Are there any disabled people involved with the project?](#are-there-any-disabled-people-involved-with-the-project)
 - [Why are you forking?](#why-are-you-forking)
@@ -79,7 +80,22 @@ We are still deciding which programming language to use, but [Rust](https://www.
 
 Further information for this exciting new spin-off project will be provided in coming months.
 
-As stated in previous blog posts, we did originally consider the possibility of creating a new bespoke cross-platform user interface toolkit and then writing an entirely new BSD-licensed program based on it with the more estoteric [D](https://dlang.org/) programming language. A group of contributors investigated that solution, but after six months we collectively agreed that such an ambitious project cannot be delivered within a reasonable timeframe.
+As stated in previous blog posts, we did originally consider the possibility of creating a new bespoke cross-platform user interface toolkit and then writing an entirely new BSD-licensed program based on it with the more estoteric [D](https://dlang.org/) programming language. A group of contributors investigated that solution, but after six months of incubation we collectively agreed that such an ambitious project cannot be delivered in a two year timeframe with the resources we have available.
+
+[Return to top](#contents)
+
+## What is Glimpse Redux? {#what-is-glimpse-redux}
+"Glimpse Redux" is the codename we are using for the preparation work we are doing for an eventual re-fork on the (still to be released) GNU Image Manipulation Program 3.0.
+
+Currently Glimpse Image Editor is based on GNU Image Manipulation Program 2.10.18, and our stable releases will continue to be based on upstream 2.10.x releases for as long as the upstream project continues to produce releases on the same code base.
+
+The reason why we need to work on this effort separately is because the GNU Image Manipulation Program 3.0 uses a different technology stack and has a slightly different featureset. It is also highly likely that 3.0 will deprecate most existing plugins and break many of the features we have already implemented.
+
+So that our own users do not have to wait 12+ months for us to catch up after the GNU Image Manipulation Program 3.0 is released, we intend to create a new Github repository that follows the correct upstream branch so that we can gradually reimplement our customizations on that code ahead of time. When the GNU Image Manipulation 3.0 is eventually released, we will plan and schedule a smooth transition from the existing Glimpse Image Editor code to the Glimpse Redux code.
+
+Initially the Github repository for Glimpse Redux will only be visible to our core contributors. Once we have produced the appropriate developer documentation and working reproducible builds, we will make the repository visible to the public so that we can open up this effort to third-party plugin developers and community software packagers.
+
+To confirm, we will not be renaming Glimpse Image Editor. "Glimpse Redux" is a temporary codename we are using for the preparation work described above.
 
 [Return to top](#contents)
 
