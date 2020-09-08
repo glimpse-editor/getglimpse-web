@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-09-08T08:30:00+01:00
+date: 2020-09-08T08:45:00+01:00
 draft: false
 menu: "main"
 ---
@@ -74,9 +74,9 @@ While there was some controversy surrounding our project in the months after we 
 [Return to top](#contents)
 
 ## What is Glimpse NX? {#what-is-glimpse-nx}
-Glimpse NX will be a free/libre software [GNOME](https://www.gnome.org/) application that provides a more lightweight and accessible user interface for the same underlying components that the GNU Image Manipulation Program uses. It will also be ported to Windows and MacOS.
+Glimpse NX will be a free/libre software application using [GNOME](https://www.gnome.org/) technologies that provides a more lightweight and accessible user interface for the same underlying components that the GNU Image Manipulation Program uses. It will also be ported to Windows and MacOS.
 
-We are still deciding which programming language to use, but [Rust](https://www.rust-lang.org/) is probably the most likely choice. As we will be using components that are licensed under the [GNU LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.html), we expect the project itself will be provided under the GNU General Public License v3 or a similar compatible license.
+We are still deciding which programming language to use, but [Rust](https://www.rust-lang.org/) is the most likely candidate. As we will be using components that are licensed under the [GNU LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.html), we expect the project itself will be provided under the GNU General Public License v3 or a similar compatible license.
 
 Further information for this exciting new spin-off project will be provided in coming months.
 
