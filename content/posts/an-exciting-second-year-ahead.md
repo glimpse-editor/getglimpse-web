@@ -25,7 +25,7 @@ Detailed below are remaining items of work for Glimpse Image Editor 0.2.0, and o
 ### Glimpse Image Editor 0.3.0 (aiming for July/August 2021)
 * Rebase on a newer Glimpse Image Editor 2.10.x release
 * Refactor libgimp* and manual pages to fix Linux repository packaging conflicts
-* Provide our own DEB and RPM packages to assist Linux distro maintainers
+* Document how to build DEB and RPM packages to assist Linux distro maintainers
 * Support offline help pages provided by the GNU Image Manipulation Program
 
 ## Introducing Glimpse Redux
