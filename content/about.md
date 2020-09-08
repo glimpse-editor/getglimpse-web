@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-08-31T02:00:00+01:00
+date: 2020-09-08T08:30:00+01:00
 draft: false
 menu: "main"
 ---
