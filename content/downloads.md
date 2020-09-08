@@ -37,7 +37,7 @@ These servers are not directly supported by us, and are maintained by third part
 ### Linux
 We distribute Glimpse Image Editor 0.2.0 on Flathub for end users. We also partially support Canonical's [Snap Store](https://snapcraft.io/glimpse-editor/).
 
-To assist users of some Linux distributions, an AppImage is being developed. [#108](https://github.com/glimpse-editor/Glimpse/issues/108). 
+To assist users of some Linux distributions, an AppImage is being developed. [#108](https://github.com/glimpse-editor/Glimpse/issues/108)
 
 #### Flatpak
 If `flatpak` is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
