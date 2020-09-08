@@ -12,21 +12,21 @@ Detailed below are remaining items of work for Glimpse Image Editor 0.2.0, and o
 
 ### Glimpse Image Editor 0.2.0
 * Update the Snap store
-* Complete the Linux AppImage
-* Distribute our Windows installer through Choco
-* Port to macOS and distribute through Homebrew
+* Complete the Linux AppImage [#108](https://github.com/glimpse-editor/Glimpse/issues/108)
+* Distribute our Windows installer through Scoop [#65](https://github.com/glimpse-editor/Glimpse/issues/65)
+* Port to macOS and distribute through Homebrew [#402](https://github.com/glimpse-editor/Glimpse/issues/402)
 
 ### Glimpse Image Editor 0.2.2 (aiming for January/February 2021)
 * Include most of PhotoGIMP (we cannot use assets with licenses that prohibit commercial/academic use)
 * Include G'MIC by default across all first party packaging and distribution methods
 * Port other useful third-party plugins (such as BIMP, Liquid Rescale and Resynthesizer)
-* Add polish to the new Windows MSI installers we introduced in 0.2.0
+* Add polish to the new Windows MSI installers we introduced in 0.2.0 [#459](https://github.com/glimpse-editor/Glimpse/issues/459)
 
 ### Glimpse Image Editor 0.3.0 (aiming for July/August 2021)
 * Rebase on a newer Glimpse Image Editor 2.10.x release
-* Refactor libgimp* and manual pages to fix Linux repository packaging conflicts
+* Refactor libgimp* and manual pages to fix Linux repository packaging conflicts [#7](https://github.com/glimpse-editor/Glimpse/issues/7)
 * Document how to build DEB and RPM packages to assist Linux distro maintainers
-* Support offline help pages provided by the GNU Image Manipulation Program
+* Support offline help pages provided by the GNU Image Manipulation Program [#331](https://github.com/glimpse-editor/Glimpse/issues/331)
 
 ## Introducing Glimpse Redux
 "Glimpse Redux" is the codename we are using for the preparation work we plan to start soon for an eventual re-fork on the (still to be released) GNU Image Manipulation Program 3.0.
