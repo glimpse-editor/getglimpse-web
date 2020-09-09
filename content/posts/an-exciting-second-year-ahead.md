@@ -42,7 +42,7 @@ Initially the Github repository for Glimpse Redux will only be visible to our co
 To confirm, we will not be renaming Glimpse Image Editor. "Glimpse Redux" is a temporary codename we are using for the preparation work described above.
 
 ## Introducing Glimpse NX
-<img src="https://glimpse-editor.github.io/glimpse-nx-placeholder.jpg" alt="Glimpse NX placeholder image" title="Glimpse NX placeholder image" width="100%"/>
+<img src="https://glimpse-editor.github.io/glimpse-nx-placeholder.jpg" alt="Glimpse NX placeholder image" title="Glimpse NX placeholder image" class="img-fluid mx-auto d-block my-4 w-75"/>
 
 Glimpse NX will be a free/libre software application using [GNOME](https://www.gnome.org/) technologies that provides a more lightweight and accessible user interface for the same underlying components that the GNU Image Manipulation Program uses. It will also be ported to Windows and MacOS.
 
