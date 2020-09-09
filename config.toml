@@ -13,3 +13,6 @@ publishDir = "glimpse-editor.github.io"
   projectName = "Glimpse Image Editor"
   logo = "logo_hex_full_invert.svg"
   tagline = "A Photo Editor For Everyone"
+
+[markup.goldmark.renderer]
+unsafe= true
