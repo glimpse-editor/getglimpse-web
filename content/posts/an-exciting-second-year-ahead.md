@@ -17,15 +17,15 @@ Detailed below are remaining items of work for Glimpse Image Editor 0.2.0, and o
 * Port to macOS and distribute through Homebrew [#402](https://github.com/glimpse-editor/Glimpse/issues/402)
 
 ### Glimpse Image Editor 0.2.2 (aiming for January/February 2021)
-* Include most of PhotoGIMP (we cannot use assets with licenses that prohibit commercial/academic use)
-* Include G'MIC by default across all first party packaging and distribution methods
-* Port other useful third-party plugins (such as BIMP, Liquid Rescale and Resynthesizer)
+* Include most of PhotoGIMP (we cannot use assets with licenses that prohibit commercial/academic use) [#414](https://github.com/glimpse-editor/Glimpse/issues/414) 
+* Include G'MIC by default across all first party packaging and distribution methods [#465](https://github.com/glimpse-editor/Glimpse/issues/465)
+* Port other useful third-party plugins (such as BIMP, Liquid Rescale and Resynthesizer) [#441](https://github.com/glimpse-editor/Glimpse/issues/441) [#466](https://github.com/glimpse-editor/Glimpse/issues/466) [#467](https://github.com/glimpse-editor/Glimpse/issues/467)
 * Add polish to the new Windows MSI installers we introduced in 0.2.0 [#459](https://github.com/glimpse-editor/Glimpse/issues/459)
 
 ### Glimpse Image Editor 0.3.0 (aiming for July/August 2021)
 * Rebase on a newer Glimpse Image Editor 2.10.x release
 * Refactor libgimp* and manual pages to fix Linux repository packaging conflicts [#7](https://github.com/glimpse-editor/Glimpse/issues/7)
-* Document how to build DEB and RPM packages to assist Linux distro maintainers
+* Document how to build DEB and RPM packages to assist Linux distro maintainers [#468](https://github.com/glimpse-editor/Glimpse/issues/468) [#469](https://github.com/glimpse-editor/Glimpse/issues/469)
 * Support offline help pages provided by the GNU Image Manipulation Program [#331](https://github.com/glimpse-editor/Glimpse/issues/331)
 
 ## Introducing Glimpse Redux
