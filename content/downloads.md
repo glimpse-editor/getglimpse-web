@@ -42,13 +42,15 @@ To assist users of some Linux distributions, an AppImage is being developed. [#1
 #### Flatpak
 If `flatpak` is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
 
-Once setup is complete you can find Glimpse Image Editor by searching in your distribution's software center, or you can [click on this link](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) from Flathub.
+##### Installing from Flathub
+You can find Glimpse Image Editor by searching in your distribution's software center, or you can [click on this link](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) from Flathub.
 
 Alternatively you can install it manually at the command line:
 ```
 $ flatpak install flathub org.glimpse_editor.Glimpse
 ```
 
+##### Installing from other third-party Flatpak repositories
 If you would prefer to use your own third party repository for dependency resolution instead of Flathub, we also provide a [single-file bundle](https://docs.flatpak.org/en/latest/single-file-bundles.html):
 
 **glimpse-0.2.0.flatpak** (49.4 MB) | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.flatpak) | *Sha256: 9f53758d5d572ef0ff4159862cc70bd4a2b80e4201e93b7f35c9ca62541f16a8*
