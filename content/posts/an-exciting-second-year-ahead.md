@@ -31,7 +31,7 @@ Detailed below are remaining items of work for Glimpse Image Editor 0.2.0, and o
 ## Introducing Glimpse Redux
 "Glimpse Redux" is the codename we are using for the preparation work we plan to start soon for an eventual re-fork on the (still to be released) GNU Image Manipulation Program 3.0.
 
-Currently Glimpse Image Editor is based on GNU Image Manipulation Program 2.10.18, and our stable releases will continue to be based on upstream 2.10.x releases for as long as the upstream project continues to produce releases on the same code base. 
+Currently Glimpse Image Editor is based on GNU Image Manipulation Program 2.10.18, and our stable releases will continue to be based on upstream 2.10.x releases for as long as the upstream project continues to produce them. We will not produce formal releases for our fork of the GNU Image Manipulation Program 3.0 code base until after it has been released by the upstream developers first.
 
 The reason why we need to work on this effort separately is because the GNU Image Manipulation Program 3.0 uses a different technology stack and has a slightly different featureset. It is also highly likely that 3.0 will deprecate most existing plugins and break many of the features we have already implemented.
 
