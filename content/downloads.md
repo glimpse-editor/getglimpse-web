@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-date: 2020-09-04T12:00:00+01:00
+date: 2020-09-08T08:45:00+01:00
 draft: false
 menu: "main"
 ---
@@ -35,20 +35,22 @@ These servers are not directly supported by us, and are maintained by third part
 * Direct downloads: [Softpedia](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Editors/Glimpse-Image-Editor.shtml) | [SourceForge](https://sourceforge.net/projects/glimpse-image-editor/)
 
 ### Linux
-We distribute Glimpse Image Editor 0.2.0 on Flathub and the Snap Store for end users. We also provide a source tarball for Linux distribution maintainers.
+We distribute Glimpse Image Editor 0.2.0 on Flathub for end users. We also partially support Canonical's [Snap Store](https://snapcraft.io/glimpse-editor/).
 
-To assist users of some Linux distributions, an AppImage is also planned. [#108](https://github.com/glimpse-editor/Glimpse/issues/108)
+To assist users of some Linux distributions, an AppImage is being developed. [#108](https://github.com/glimpse-editor/Glimpse/issues/108)
 
 #### Flatpak
 If `flatpak` is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
 
-Once setup is complete you can find Glimpse Image Editor by searching in your distribution's software center, or you can [click on this link](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) from Flathub.
+##### Installing from Flathub
+You can find Glimpse Image Editor by searching in your distribution's software center, or you can [click on this link](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) from Flathub.
 
 Alternatively you can install it manually at the command line:
 ```
 $ flatpak install flathub org.glimpse_editor.Glimpse
 ```
 
+##### Installing from other third-party Flatpak repositories
 If you would prefer to use your own third party repository for dependency resolution instead of Flathub, we also provide a [single-file bundle](https://docs.flatpak.org/en/latest/single-file-bundles.html):
 
 **glimpse-0.2.0.flatpak** (49.4 MB) | [Direct download](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0.flatpak) | *Sha256: 9f53758d5d572ef0ff4159862cc70bd4a2b80e4201e93b7f35c9ca62541f16a8*
@@ -58,19 +60,10 @@ To install the single-file bundle at the command line:
 $ flatpak install glimpse-0.2.0.flatpak
 ```
 
-#### Snap
-If `snapd` is not already installed on your machine, follow these instructions: https://snapcraft.io/docs/getting-started
-
-Once setup is complete you can find Glimpse Image Editor by searching in your distribution's software center, or you can [click on this link](https://snapcraft.io/glimpse-editor/) from the Snap Store.
-
-Alternatively you can install it manually at the command line:
-```
-$ sudo snap install glimpse-editor
-```
-
 #### Community-supported sources
 These builds are provided by third parties in the wider Linux community. We do not create, package or directly support these sources, so if you raise any bugs for them that would not apply to most Linux users, we may direct you elsewhere to get the issue fixed.
 
+* [`glimpse-editor`](https://snapcraft.io/glimpse-editor/) @ Snap Store for [Ubuntu](https://ubuntu.com/) (and [others](https://snapcraft.io/about))
 * [`glimpse-editor-git`](https://aur.archlinux.org/packages/glimpse-editor-git/) @ AUR repository for [Arch](https://www.archlinux.org/) and [Manjaro](https://manjaro.org/)
 * [`media-gfx/glimpse`](https://gitweb.gentoo.org/repo/proj/guru.git/tree/media-gfx/glimpse) @ Guru repository for [Gentoo](https://www.gentoo.org/)
 * [`glimpse:IBboard`](https://software.opensuse.org//download.html?project=home%3AIBBoard%3Adesktop&package=glimpse) @ Open Build Service for [OpenSUSE](https://www.opensuse.org/)

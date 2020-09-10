@@ -1,6 +1,6 @@
 ---
 title: "Contribute"
-date: 2020-08-30T04:50:00+01:00
+date: 2020-09-10T21:00:00+01:00
 draft: false
 menu: "main"
 ---
@@ -35,8 +35,6 @@ The "rewrite" stream (also known as "Glimpse NX") aims to create a lightweight n
 To help cover our project's costs and enable us to plan for future spending, please donate via these links:
  * [Github Sponsors](https://github.com/sponsors/glimpse-editor)
  * [Open Collective](https://opencollective.com/glimpse)
-
- You can donate directly to [Bobby Moss](https://trechnex.github.io/donate/) (creator of the Glimpse project) if you would like to thank him individually for all the great work he does developing Glimpse Image Editor and collaborating with the governance team to keep our project running.
 
  If you can afford to do so we recommend donating to [GNU Image Manipulation Program](https://www.gimp.org/donating/), the upstream project on which our fork relies. We periodically [pass along a portion of our donations](https://opencollective.com/glimpse/expenses?tag=donation) to them as our way of thanking them for the amazing work they do.
 
