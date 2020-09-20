@@ -9,7 +9,7 @@ features:
     image: 'glimpse-0-2-0-windows-dark.jpg'
     alt: 'A picture of Glimpse with dark theme applying filters and cropping to a photo of a city at night'
   - header: 'Easier To Deploy'
-    summary: 'Our lightweight Windows installers can be easily imported into existing centralized software management tools. We also manage our own Linux packaging and updates on Flathub and the Snap Store, so you always get our latest security updates and bug fixes.'
+    summary: 'Our lightweight Windows installers can be easily imported into existing centralized software management tools. We also manage our own Linux packaging and updates on Flathub, so you always get our latest security updates and bug fixes.'
     image: 'glimpse-0-2-0-windows-installer.JPG'
     alt: 'A picture Glimpse launching on Windows 10'
   - header: 'More Usable'
