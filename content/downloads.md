@@ -1,13 +1,13 @@
 ---
 title: "Downloads"
-date: 2020-09-08T08:45:00+01:00
+date: 2020-09-20T12:00:00+01:00
 draft: false
 menu: "main"
 ---
 The latest release is Glimpse Image Editor 0.2.0. It is based on the [GNU Image Manipulation Program](https://www.gimp.org/) 2.10.18, and is provided under the terms of the GNU General Public License v3. [Release Notes](/posts/glimpse-0-2-0-release-notes/)
 
 #### Quick Download Links
-[Windows](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-i686.msi) (Recommended) | [Windows](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-x64.msi) (64-bit with G'MIC) | [Linux](https://www.flathub.org/repo/appstream/org.glimpse_editor.Glimpse.flatpakref) (Flatpak)
+[Windows](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-i686.msi) (Recommended) | [Windows](https://github.com/glimpse-editor/Glimpse/releases/download/v0.2.0/glimpse-0.2.0-x64.msi) (64-bit with G'MIC) | [Linux](https://www.flathub.org/repo/appstream/org.glimpse_editor.Glimpse.flatpakref) (Stable Flatpak) | [Linux](https://github.com/glimpse-editor/Glimpse/releases/tag/continuous) (In-Development AppImage)
 
 ### Windows
 Glimpse Image Editor 0.2.0 is supported on 32-bit and 64-bit systems running Windows 7 or later. If you experience problems during installation, you should review the [Known Issues](https://github.com/glimpse-editor/Glimpse/wiki/Known-Issues-%28Windows%29) page before reporting a bug.
@@ -35,9 +35,7 @@ These servers are not directly supported by us, and are maintained by third part
 * Direct downloads: [Softpedia](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Editors/Glimpse-Image-Editor.shtml) | [SourceForge](https://sourceforge.net/projects/glimpse-image-editor/)
 
 ### Linux
-We distribute Glimpse Image Editor 0.2.0 on Flathub for end users. We also partially support Canonical's [Snap Store](https://snapcraft.io/glimpse-editor/).
-
-To assist users of some Linux distributions, an AppImage is being developed. [#108](https://github.com/glimpse-editor/Glimpse/issues/108)
+We distribute Glimpse Image Editor 0.2.0 on Flathub for end users. We also provide a continuously-updating Linux AppImage that follows the tip of our development branch.
 
 #### Flatpak
 If `flatpak` is not already installed on your machine, follow these instructions: https://flatpak.org/setup/
@@ -59,6 +57,15 @@ To install the single-file bundle at the command line:
 ```
 $ flatpak install glimpse-0.2.0.flatpak
 ```
+
+#### AppImage
+AppImages for Linux behave much like a [Universal Binary](https://en.wikipedia.org/wiki/Universal_binary) does on macOS. You download a single file containing the application and its dependencies, set executable permissions, then run it. You can find more information and links to optional update tools at https://appimage.org/.
+
+We have configured a Github Action that builds and publishes a new AppImage every time we make changes to our development branch here: https://github.com/glimpse-editor/Glimpse/releases/tag/continuous
+
+You should only select this installation option on a production system if a stable version of Glimpse Image Editor has not been provided in your distribution repositories and you are unable to run our provided Flatpak on your system. You will also need to accept that you may have to deal with some bugs in exchange for receiving new features before everyone else does.
+
+**Please note**: We do not include support for Python 2 plug-ins with our AppImage. Python 2 [is now end of life](https://www.python.org/doc/sunset-python-2/), and as a result it is being phased out in many Linux distributions and package managers.
 
 #### Community-supported sources
 These builds are provided by third parties in the wider Linux community. We do not create, package or directly support these sources, so if you raise any bugs for them that would not apply to most Linux users, we may direct you elsewhere to get the issue fixed.
