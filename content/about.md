@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-09-23T02:30:00+01:00
+date: 2020-10-09T21:10:00+01:00
 draft: false
 menu: "main"
 ---
@@ -43,6 +43,7 @@ The goal of both projects is to experiment with new ideas and expand the use of 
 - [Do you plan to sell Glimpse Image Editor?](#do-you-plan-to-sell-glimpse-image-editor)
 - [How much do you earn from this project?](#how-much-do-you-earn-from-this-project)
 - [Are you scamming me?](#are-you-scamming-me)
+- [Will you adopt a cryptocurrency or blockchain reward system?](#will-you-adopt-a-cryptocurrency-or-blockchain-reward-system)
 
 ### Project Governance
 - [Where is the Glimpse code of conduct?](#where-is-the-glimpse-code-of-conduct)
@@ -327,6 +328,13 @@ While we doubt we will convince everyone, we hope that our commitment to transpa
 
 [Return to top](#contents)
 
+## Will you adopt a cryptocurrency or blockchain reward system? {#will-you-adopt-a-cryptocurrency-or-blockchain-reward-system}
+The current answer is "no", and we have no interest in our project being used as the experimental basis for such an initiative.
+
+If you would like to make the case for this idea, ensure you have read our [Matrix channel rules](https://github.com/glimpse-editor/Glimpse/wiki/Good-Practices#membership-of-the-matrix-channel-is-a-privilege-not-a-right) and the [Code of Conduct](/code-of-conduct/) before proceeding. You should also read ["How does your project govern itself?"](#how-does-this-project-govern-itself) so you understand why our moderators may limit debate on some topics.
+
+[Return to top](#contents)
+
 ## Where is the Glimpse code of conduct? {#where-is-the-glimpse-code-of-conduct}
 You will find it on [this page](/code-of-conduct/). Our code of conduct is based on [the contributor covenant](https://www.contributor-covenant.org/) and will be developed and amended over time as the need arises. As this project spawned from [the fediverse](https://joinmastodon.org/) our experiences in that online space are going to inform the project's future governance and direction.
 
@@ -349,7 +357,7 @@ We also host a separate [Discord server](https://discord.gg/hZhRceq) for Glimpse
 
 [Github Issues](https://github.com/glimpse-editor/Glimpse/issues) are used to track bug reports, suggestions and questions from the wider community, and items we have agreed as a project need action. Action items are allocated to a milestone to give an indication of their priority and likely timeline, but these are always provisional until the work is done.
 
-No decision is ever set in stone and can be revisited if new information comes to light or there is enough support within the project to do so. The governance team will generally only block the re-opening of an issue or delay a decision if the discussion is becoming too heated or obstructs the day-to-day running of the project.
+No decision is ever set in stone and can be revisited if new information comes to light or there is enough support within the project to do so. The governance team will generally only block the re-opening of an issue or delay a decision if the discussion is becoming too heated or obstructs the day-to-day running of the project. The governance team also reserves the right to end a discussion if, after giving an idea a fair hearing, there is clearly a lack of support within the Glimpse project in favor of it being worked on or developed any further.
 
 Finally, the project may from time to time run polls on social media to canvas opinion for specific issues if there is support for doing so. They are always non-binding and only intended to facilitate the existing decision-making process.
 
