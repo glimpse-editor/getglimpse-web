@@ -1,13 +1,14 @@
 ---
 title: "October 2020 Update"
-date: 2020-10-21T18:45:00+01:00
+date: 2020-10-21T20:15:00+01:00
 draft: false
 ---
 Check out our [Contribute](/contribute/) page for social media and news links to follow our progress.
 
 We have some cool milestones coming up, and would like to thank everyone that helped us to reach them:
-- 1 year since we released Glimpse Image Editor 0.1.0 (21st November 2020)
-- 18 months since we started the project (6th January 2020)
+
+* 1 year since we released Glimpse Image Editor 0.1.0 (21st November 2020)
+* 18 months since we started the project (6th January 2020)
 
 ## Windows support changes
 In response to end user feedback, we have now changed the "recommended" download to the x64 (64-bit) version of Glimpse Image Editor 0.2.0. You can see this change on our [downloads](https://glimpse-editor.github.io/downloads/) page.
