@@ -55,7 +55,12 @@ Bobby Moss has already created an initial private fork of the pre-release code f
 We believe this work will be crucial in guaranteeing the future of the Glimpse project, as the GNU Image Manipulation Program developers will eventually switch across to their future 3.0.0 technology stack and deprecate 2.10.x.
 
 ## Early investigation work starts on Glimpse NX
-Work has begun preparing the tech stack for Glimpse NX. Thanks to work from GNOME contributor [Bilal Elmoussaoui](https://github.com/bilelmoussaoui) and our own Christopher Davis, the GTK4-rs bindings have been receiving updates as the final GTK4 release approaches. As part of familiarizing himself with the new APIs and new technologies behind GTK4, Christopher has ported various third-party GNOME apps to GTK4.
+Work has begun preparing the tech stack for Glimpse NX. Thanks to work from GNOME contributor [Bilal Elmoussaoui](https://github.com/bilelmoussaoui) and our own Christopher Davis, the GTK4-rs bindings have been receiving updates as the final GTK4 release approaches. As part of familiarizing himself with the new APIs and new technologies behind GTK4, Christopher has ported various third-party GNOME apps to GTK4. While porting he uncovered different issues and gaps that the upstream GTK team are investigating:
+
+* [Notifications don't activate windows on wayland](https://gitlab.gnome.org/GNOME/gtk/-/issues/3261)
+* [Opening popover causes noticeable slowdown](https://gitlab.gnome.org/GNOME/gtk/-/issues/3264)
+* [Cannot open popovers with touch-only input](https://gitlab.gnome.org/GNOME/gtk/-/issues/3279)
+* [Provide a way to make custom popover menus matching MenuModel styling](https://gitlab.gnome.org/GNOME/gtk/-/issues/3260)
 
 In addition to the GTK4 bindings, Bilal was able to generate working [Babl and Gegl bindings](https://gitlab.gnome.org/bilelmoussaoui/gegl-rs). Bilal is an amazing developer, and his work on bindings is incredibly helpful.
 
