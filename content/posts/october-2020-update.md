@@ -16,7 +16,7 @@ The x86 (32-bit) version is now referred to as the "legacy" download, as we inte
 
 We have also reinstated the download link for Glimpse Image Editor 0.1.2. This reflects the ongoing popularity of that release with Windows users, and the much better binary compatibility for existing GNU Image Manipulation Program plugins that it provides. For future releases, we intend to rebuild and repackage the most popular plugins for Glimpse specifically to fix compatibility problems.
 
-CPU platform support for Linux remains unchanged. If you are using an x64 CPU then you have free choice of any installation method. We recommend you use [the Snap Store](https://snapcraft.io/glimpse-editor) for x86 CPUs, and [Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) for AARCH64 devices. Community-supported repositories may provide additional installation options for those CPU platforms.
+CPU platform support for Linux remains unchanged. If you are using an x64 CPU then you have free choice of any supported installation method. We recommend you use [the Snap Store](https://snapcraft.io/glimpse-editor) for x86 CPUs, and [Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) for AARCH64 devices. Community-supported repositories may provide additional installation options for those CPU platforms.
 
 ## Glimpse Image Editor 0.2.0 released on the Snap Store
 On 2020-09-28 we successfully published Glimpse Image Editor 0.2.0 to [the Snap Store](https://snapcraft.io/glimpse-editor). Our apologies for the delay, but there were some blockers behinds the scenes we needed to work through. We are grateful for the assistance we received from Canonical to resolve them.
@@ -31,7 +31,7 @@ You can see full details about how that progressed via this Github Issue: [#108]
 ## Progress on distributing our Windows port via Scoop
 As you will see on our downloads page, you can already download Glimpse Image Editor via [Chocolatey](https://chocolatey.org/packages/glimpse/) and [WinGet](https://winget.run/pkg/Glimpse/Glimpse). We understand that [bb010g](https://github.com/bb010g) is currently working on publishing our Windows installer for the automated [Scoop](https://scoop.sh/) package manager. 
 
-You can track progress on this work via this Github Issue: [#65](https://github.com/glimpse-editor/Glimpse/issues/65)
+You can track progress on that work via this Github Issue: [#65](https://github.com/glimpse-editor/Glimpse/issues/65)
 
 ## MacOS port progress has stalled
 Full details have been provided in a comment on this Github Issue: [#402 (comment)](https://github.com/glimpse-editor/Glimpse/issues/402#issuecomment-706778462)
