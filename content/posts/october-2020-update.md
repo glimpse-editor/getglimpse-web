@@ -55,4 +55,8 @@ Bobby Moss has already created an initial private fork of the pre-release code f
 We believe this work will be crucial in guaranteeing the future of the Glimpse project, as the GNU Image Manipulation Program developers will eventually switch across to their future 3.0.0 technology stack and deprecate 2.10.x.
 
 ## Early investigation work starts on Glimpse NX
-Christopher Davis has already started familiarising himself with the technology stack we plan to use for this project. There have also been some excellent ideas introduced by our community on the Glimpse Discord server. We encourage anyone that is interested in participating with this effort to consider [requesting to join the server](https://discord.gg/hZhRceq).
+Work has begun preparing the tech stack for Glimpse NX. Thanks to work from GNOME contributor [Bilal Elmoussaoui](https://github.com/bilelmoussaoui) and our own Christopher Davis, the GTK4-rs bindings have been receiving updates as the final GTK4 release approaches. As part of familiarizing himself with the new APIs and new technologies behind GTK4, Christopher has ported various third-party GNOME apps to GTK4.
+
+In addition to the GTK4 bindings, Bilal was able to generate working [Babl and Gegl bindings](https://gitlab.gnome.org/bilelmoussaoui/gegl-rs). Bilal is an amazing developer, and his work on bindings is incredibly helpful.
+
+Alongside the technological efforts, design work on the next version of Glimpse has begun in earnest on the [Glimpse NX design repository](https://github.com/glimpse-editor/glimpse-nx-design). If you wish to contribute to these discussions and have a part in shaping the future of Glimpse, please read our guidelines and [request to join the server](https://discord.gg/hZhRceq).
