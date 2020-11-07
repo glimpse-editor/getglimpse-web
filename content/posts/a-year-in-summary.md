@@ -57,7 +57,7 @@ There are also unofficial third-party download sources for Windows users that pr
 
 Unfortunately we cannot access download statisics from [WinGet](https://winget.run/pkg/Glimpse/Glimpse). Work is also still ongoing to bring Glimpse Image Editor to the [Scoop](https://scoop.sh/) package manager: [#65](https://github.com/glimpse-editor/Glimpse/issues/65)
 
-We are pleased with the download figures for Glimpse Image Editor 0.2.0 on Windows so far. Reaching almost 10000 downloads within three months suggests we now have a dedicated user base on the platform that is gradually migrating across from Glimpse Image Editor 0.1.2.
+We are pleased with the download figures for Glimpse Image Editor 0.2.0 on Windows so far. Reaching almost 10000 downloads within three months suggests we now have a dedicated user base on the platform that is gradually migrating across from Glimpse Image Editor 0.1.2. **TODO: UPDATE THIS**
 
 [Return to top](#contents)
 
