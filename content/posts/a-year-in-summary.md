@@ -39,7 +39,7 @@ We also have download statistics for standalone Linux builds we provided on Gith
 - Standalone bundle flatpaks we provided for Glimpse Image Editor 0.2.0 have been downloaded **539** times since they were released on 2020-08-25.
 - Distribution tarballs we provided for Glimpse Image Editor 0.1.2 have been downloaded **563** (+25) times since they were released on 2020-03-02.
 
-We have omitted statistics for the Linux AppImage, as that is pre-release software with a download counter that resets every time we make a change to the `dev-g210` branch. We also do not have the figures for other community-supported Linux download sources.
+We have omitted statistics for our [Linux AppImage](https://github.com/glimpse-editor/Glimpse/releases/tag/continuous), as that is pre-release software with a download counter that resets every time we make a change to the `dev-g210` branch. We also do not have the figures for other community-supported Linux download sources.
 
 ### Windows
 We have combined download figures for both signed and unsigned MSI installers downloaded from Github. We did not count pre-release versions of the software. [Source](https://somsubhra.com/github-release-stats/?username=glimpse-editor&repository=Glimpse)
