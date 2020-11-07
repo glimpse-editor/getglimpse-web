@@ -61,7 +61,7 @@ Unfortunately we cannot access download statisics from [WinGet](https://winget.r
 
 ## Project finances summary {#project-finances-summary}
 
-### Finances November 2019 to November 2020
+### Finances November 2019 to October 2020
 TODO. Information will come from [our Open Collective profile](https://opencollective.com/glimpse).
 
 ### Finances July 2019 to October 2019
