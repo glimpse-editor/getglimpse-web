@@ -27,7 +27,7 @@ There are currently **12236** (+39) active weekly devices that have installed Gl
 
 Glimpse Image Editor has been downloaded **34103** (+16075) times from [Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) across all versions since it was first released on 2019-11-22, and there have been **20209** (+8853) recent requests for updates. 
 
-We believe the true rise in active installations on Flathub is around half the stated change, because we released 0.2.0 twice; Once with GNOME Platform 3.36, and then a second time with GNOME Platform 3.38.
+We believe the true rise in active installations on Flathub is around half the stated change, because we released 0.2.0 twice; Once with GNOME Platform SDK 3.36, and then a second time with GNOME Platform SDK 3.38.
 
 We use [a third-party tool](https://gitlab.com/ahayzen/flathub-api-stats-generator) to get Flathub statistics, and this is the command we run: 
 ```
