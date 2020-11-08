@@ -18,18 +18,18 @@ All figures were correct on the day this blog post was published and sources hav
 
 If the figures are accurate then we believe that since 2020-07-21... **TBD Conclusion**.
 
-We know that Glimpse Image Editor has been downloaded at least **83622** (+29597) times across all platforms, versions and download sources since the software was first released on 2019-11-22. A detailed breakdown is provided below.
+We know that Glimpse Image Editor has been downloaded at least **83622** (+29597) times across all platforms, versions and download sources since the software was first released on 2019-11-22. A detailed breakdown is provided below, and the figures we have provided should be viewed as indicators only because we are relying on the accuracy of external tools.
 
 We have deliberately not provided any estimates about the total size of our active user base because there is no universally agreed methodology for extrapolating that figure from download statistics. However, we have made some educated guesses about any discrepencies we spotted to lend context that you might find useful.
 
 ### Linux
-There are currently **12236** (+39) active weekly devices that have installed Glimpse Image Editor through [the Snap Store](https://snapcraft.io/glimpse-editor/). These figures are only available through a private dashboard, so we have [provided a screenshot](/glimpse-snap-2020-07-21.png). **TODO: Update Screenshot**
+There have been **12236** (+39) active users over the past month that installed Glimpse Image Editor from the [the Snap Store](https://snapcraft.io/glimpse-editor/). These figures are only available through a private dashboard, so we have [provided a screenshot](/glimpse-snap-2020-07-21.png). **TODO: Update Screenshot**
 
 Glimpse Image Editor has been downloaded **34103** (+16075) times from [Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) across all versions since it was first released on 2019-11-22, and there have been **20209** (+8853) recent requests for updates. 
 
 We believe the true rise in active installations on Flathub is around half the stated change, because we released 0.2.0 twice; Once with GNOME Platform SDK 3.36, and then a second time with GNOME Platform SDK 3.38.
 
-We use [a third-party tool](https://gitlab.com/ahayzen/flathub-api-stats-generator) to get Flathub statistics, and this is the command we run: 
+We use [a third-party tool](https://gitlab.com/ahayzen/flathub-api-stats-generator) to get Flathub statistics, and this is the command we run:
 ```
 $ python3 main.py --report downloads_by_app --type data --output out.dat --report-args app-id=org.glimpse_editor.Glimpse
 ```
