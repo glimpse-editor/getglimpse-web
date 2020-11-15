@@ -36,7 +36,9 @@ Our conclusion is that the primary objectives have all been delivered, our secon
 - Include useful plug-ins (or similar functionality) that are hard to find or install by default **(Not Delivered, Planned for 0.2.2 & 0.3.0)**
 
 ### Clarifications
-We consider missing Python support on Windows a "Won't Fix" issue as [Python 2 is now end of life](https://www.python.org/doc/sunset-python-2/), and so only include the necessary components in sandboxed Linux applications. 
+We view our custom installer based on [WiX Toolset](https://wixtoolset.org) as a Windows experience improvement because it completes the installation faster and the end result uses less hard disk space when compared to the GNU Image Manipulation Program 2.10.18. We are aware that some may disagree as the GUI wizard we introduced in 0.2.0 still needs artwork and has not yet been translated to other languages.
+
+We consider missing Python support on Windows a "Won't Fix" issue as [Python 2 is now end of life](https://www.python.org/doc/sunset-python-2/) and not including it seems to improve the application startup time.
 
 We also inherited regressions that broke compatibility with [BIMP](https://github.com/glimpse-editor/Glimpse/wiki/How-to-Install-the-BIMP-Plugin) and [Liquid Rescale](https://github.com/glimpse-editor/Glimpse/wiki/How-to-Install-the-Liquid-Rescale-Plugin) when we re-based on GNU Image Manipulation Program 2.10.18 for Glimpse Image Editor 0.2.0, but we intend to backport patches from 2.10.20 to fix that in 0.2.2.
 
