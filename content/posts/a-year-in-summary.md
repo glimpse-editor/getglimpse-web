@@ -9,9 +9,38 @@ draft: false
 TODO: Intro section here that summarises our achievements through the year.
 
 ## Contents {#contents}
+- [Features delivered so far](#features-delivered-so-far)
 - [Download figures update](#download-figures-update)
-- [Project finances summary](#project-finances-summary)
-- [Contribution statistics](#contribution-statistics)
+
+## Features delivered so far {#features-delivered-so-far}
+Since August 2019 we have maintained a [Development Priorities](https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities) wiki page. As we have produced three releases in the past year, we felt it was a good time to review how many of our original objectives have actually been delivered.
+
+Our conclusion is that the primary objectives have all been delivered, most secondary objectives have been delivered as far as we can with the resources we have available, and we have made some initial progress on our tertiary objectives.
+
+We consider missing Python support on Windows a "Won't Fix" issue as [Python 2 is now end of life](https://www.python.org/doc/sunset-python-2/), and so only include the necessary components in sandboxed Linux applications. 
+
+We also inherited regressions that broke compatibility with [BIMP](https://github.com/glimpse-editor/Glimpse/wiki/How-to-Install-the-BIMP-Plugin) and [Liquid Rescale](https://github.com/glimpse-editor/Glimpse/wiki/How-to-Install-the-Liquid-Rescale-Plugin) when we re-based on GNU Image Manipulation Program 2.10.18 for Glimpse Image Editor 0.2.0, but we intend to backport patches from 2.10.20 to fix that in 0.2.2.
+
+At the present time we lack the capacity to [create a native macOS port](https://github.com/glimpse-editor/Glimpse/issues/402) or produce code changes that directly assist the GNU Image Manipulation Program developers. However, we are optimistic that [Glimpse NX](/about/#what-is-glimpse-nx) will deliver on those objectives instead because it is attracting more interest from potential contributors, and it will require us to port useful upstream components to [GTK4](https://gitlab.gnome.org/GNOME/gtk/-/milestones/1).
+
+### Primary Objectives
+- Fix the software's problematic "gimp" name **(Delivered)** [#9](https://github.com/glimpse-editor/Glimpse/issues/9) [#51](https://github.com/glimpse-editor/Glimpse/pull/51) [#71](https://github.com/glimpse-editor/Glimpse/pull/71) [#92](https://github.com/glimpse-editor/Glimpse/issues/92)
+- Replace the Wilber mascot with a professional logo **(Delivered)** [#1](https://github.com/glimpse-editor/Glimpse/issues/1) [#31](https://github.com/glimpse-editor/Glimpse/issues/31) [#47](https://github.com/glimpse-editor/Glimpse/issues/47) [#186](https://github.com/glimpse-editor/Glimpse/issues/186) ([Branding repo](https://github.com/glimpse-editor/branding))
+- Update the software's translations so the new name is used throughout the user interface **(Delivered)** [#210](https://github.com/glimpse-editor/Glimpse/issues/210) [#219](https://github.com/glimpse-editor/Glimpse/pull/219) [#279](https://github.com/glimpse-editor/Glimpse/pull/279) [#424](https://github.com/glimpse-editor/Glimpse/issues/424)
+
+### Secondary Objectives
+- Clean up the user interface so it looks more visually attractive and professional **(Partially Delivered)** [#51](https://github.com/glimpse-editor/Glimpse/pull/51) [#134](https://github.com/glimpse-editor/Glimpse/pull/134) [#286](https://github.com/glimpse-editor/Glimpse/pull/286)
+- Keep applying our changes to stable upstream releases on a predictable release schedule **(Delivered)** [#189](https://github.com/glimpse-editor/Glimpse/issues/189) [#329](https://github.com/glimpse-editor/Glimpse/issues/329) [#330](https://github.com/glimpse-editor/Glimpse/issues/330) [#341](https://github.com/glimpse-editor/Glimpse/issues/341) ([Milestones](https://github.com/glimpse-editor/Glimpse/milestones))
+- Preserve compatibility with existing plug-ins, themes and third-party components **(Mostly Delivered, Missing Python support on Windows, Inherited regression for third-party plugin compatibility in 0.2.0)** [#132](https://github.com/glimpse-editor/Glimpse/issues/132) [#232](https://github.com/glimpse-editor/Glimpse/issues/232) ([Plugin instructions on Developer Wiki](https://github.com/glimpse-editor/Glimpse/wiki#third-party-plugin-installation-guides)) 
+
+### Tertiary Objectives
+- Improve overall end user experience for Windows (and if possible macOS) users **(Partially Delivered on Windows, Not Delivered on macOS)** [#58](https://github.com/glimpse-editor/Glimpse/issues/58) [#119](https://github.com/glimpse-editor/Glimpse/issues/119) [#178](https://github.com/glimpse-editor/Glimpse/issues/178)
+- Fix usability and accessibility problems in the existing user interface **(Partially Delivered, More Planned for 0.2.2)** [#347](https://github.com/glimpse-editor/Glimpse/pull/347) [#412](https://github.com/glimpse-editor/Glimpse/issues/412)
+- Address longstanding code and documentation problems that upstream have been unable or unwilling to address **(Not Delivered on code, Partially Delivered on docs)** ([Windows & Linux packaging instructions on Developer Wiki](https://github.com/glimpse-editor/Glimpse/wiki)) 
+- Ensure upstream contributions are still appropriately acknowledged in the user interface **(Delivered)** [#291](https://github.com/glimpse-editor/Glimpse/pull/291) [#300](https://github.com/glimpse-editor/Glimpse/issues/300)
+- Include useful plug-ins (or similar functionality) that are hard to find or install by default **(Not Delivered, Planned for 0.2.2 & 0.3.0)**
+
+[Return to top](#contents)
 
 ## Download figures update {#download-figures-update}
 All figures were correct on the day this blog post was published and sources have been provided so that you can independently verify them. Any **+** or **-** change is calculated from the previous figures published on 2020-07-21. [Source](posts/beta-testing-underway-for-0-2-0/)
@@ -56,22 +85,5 @@ There are also unofficial third-party download sources for Windows users that pr
 * **245** (+140) downloads from [SourceForge](https://sourceforge.net/projects/glimpse-image-editor/files/stats/timeline)
 
 Unfortunately we cannot access download statisics from [WinGet](https://winget.run/pkg/Glimpse/Glimpse). Work is also still ongoing to bring Glimpse Image Editor to the [Scoop](https://scoop.sh/) package manager: [#65](https://github.com/glimpse-editor/Glimpse/issues/65)
-
-[Return to top](#contents)
-
-## Project finances summary {#project-finances-summary}
-
-### Finances November 2019 to October 2020
-TODO. Information will come from [our Open Collective profile](https://opencollective.com/glimpse).
-
-### Finances July 2019 to October 2019
-For completeness, we have also provided figures from the first four months our project existed.
-
-TODO.
-
-[Return to top](#contents)
-
-## Contribution statistics {#contribution-statistics}
-TODO. Information will likely come from Github stats, but would need to filter out upstream stats brought in due to imported commit history.
 
 [Return to top](#contents)
