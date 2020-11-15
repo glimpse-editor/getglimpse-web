@@ -40,7 +40,7 @@ We view our custom installer based on [WiX Toolset](https://wixtoolset.org) as a
 
 We consider missing Python support on Windows a "Won't Fix" issue as [Python 2 is now end of life](https://www.python.org/doc/sunset-python-2/) and not including it seems to improve the application startup time.
 
-We also inherited regressions that broke compatibility with [BIMP](https://github.com/glimpse-editor/Glimpse/wiki/How-to-Install-the-BIMP-Plugin) and [Liquid Rescale](https://github.com/glimpse-editor/Glimpse/wiki/How-to-Install-the-Liquid-Rescale-Plugin) when we re-based on GNU Image Manipulation Program 2.10.18 for Glimpse Image Editor 0.2.0, but we intend to backport patches from 2.10.20 to fix that in 0.2.2.
+We also inherited regressions that broke compatibility with [Liquid Rescale](https://github.com/glimpse-editor/Glimpse/wiki/How-to-Install-the-Liquid-Rescale-Plugin) when we re-based on GNU Image Manipulation Program 2.10.18 for Glimpse Image Editor 0.2.0, but we intend to backport patches from 2.10.20 to fix that in 0.2.2. [Source](https://gitlab.gnome.org/GNOME/gimp/-/issues/4496)
 
 At the present time we lack the capacity to [create a native macOS port](https://github.com/glimpse-editor/Glimpse/issues/402) or produce code changes that directly assist the GNU Image Manipulation Program developers. However, we are optimistic that [Glimpse NX](/about/#what-is-glimpse-nx) will deliver on those objectives instead because it is attracting more interest from potential contributors, and it will require us to port useful upstream components to [GTK4](https://gitlab.gnome.org/GNOME/gtk/-/milestones/1).
 
