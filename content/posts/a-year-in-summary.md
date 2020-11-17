@@ -8,6 +8,25 @@ draft: false
 
 TODO: Intro section here that summarises our achievements through the year.
 
+- All primary and secondary objectives have been achieved
+- At least 83000 downloads across three releases
+- $500 USD raised for the GNU Image Manipulation Program developers
+
+### Plans for 2021
+- Maintain primary/secondary objectives and deliver tertiary objectives in two new releases
+- Reach at least 120000 downloads for Glimpse Image Editor across all five releases
+- Raise another $500 USD for the GNU Image Manipulation Program developers (reaching $1000 USD in total since the project started)
+- Deliver the first alpha quality Glimpse NX release
+
+### Long term plans
+We understand that the GNU Image Manipulation Program developers  may stop developing 2.10.x in the summer of 2021, and could focus all their efforts on 3.0.x before the end of 2021. [Source](http://libregraphicsworld.org/blog/entry/gimp-2-99-2-vs-2-10-which-one-do-you-pick).
+
+After we have released Glimpse Image Editor 0.3.0, there will be no new feature updates. Instead we will provide smaller "micro" releases that provide bug-fixes, backports and security updates.
+
+In July 2022 we will release Glimpse Image Editor 0.4.0 as a "sunset" release that informs users they should switch to Glimpse NX or the GNU I.M.P 3.0.x.
+
+ We currently have no plans re-based Glimpse Image Editor on the GNU I.M.P 3.0.x because we do not know precisely when it will be released, and we also want to focus our attention and resources on delivering Glimpse NX instead.
+
 ## Contents {#contents}
 - [Features delivered so far](#features-delivered-so-far)
 - [Download figures update](#download-figures-update)
