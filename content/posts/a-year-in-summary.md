@@ -8,10 +8,13 @@ draft: false
 
 TODO: Intro section here that summarises our achievements through the year.
 
-These are our headline achievements, and you can review the full breakdown with cited sources further down in the blog post:
+We would like to thank everyone that has contributed to the Glimpse project and supported us. We know that the extreme negative reaction we received from some parts of the FLOSS community back in 2019 did not make that easy, and we are very grateful to those who still continue to put their faith in our project and encourage our contributors to deliver what users have asked for.
+
+These are our headline achievements, and you can review the full breakdown with cited sources in this blog post:
 - All primary objectives and most secondary objectives defined in August 2019 have been delivered as promised
 - There have been at least 83000 downloads across three releases
 - We have raised $500 USD for the GNU Image Manipulation Program developers
+- We also have some very cool plans for the future.
 
 ## Contents {#contents}
 - [Features delivered so far](#features-delivered-so-far)
