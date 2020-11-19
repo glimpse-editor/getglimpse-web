@@ -13,10 +13,21 @@ TODO: Intro section here that summarises our achievements through the year.
 - $500 USD raised for the GNU Image Manipulation Program developers
 
 ### Plans for 2021
+We have provided two great blog posts that lay out our plans for the coming year: [First Steps Towards the Future](/posts/first-steps-towards-the-future/) and [An Exciting Year Ahead](/posts/an-exciting-second-year-ahead/).
+
+In addition, these are our goals for 2021:
 - Maintain primary/secondary objectives and deliver tertiary objectives in two new releases
 - Reach at least 120000 downloads for Glimpse Image Editor across all five releases
 - Raise another $500 USD for the GNU Image Manipulation Program developers (reaching $1000 USD in total since the project started)
 - Deliver the first alpha quality Glimpse NX release
+
+We would also like to make it clear that Glimpse Image Editor 0.2.2 will be the final release where we produce Windows installers for both the x64 and x86 architectures. We plan to deprecate support for x86 versions of Windows in July 2021. [More information](https://github.com/glimpse-editor/Glimpse/wiki/Supported-Platform-Versions-%28Windows%29)
+
+Glimpse Image Editor 0.3.0 is likely to break binary compatibility with third-party plugins and existing packaging processes so we can resolve conflicts in Linux/BSD package managers. [#7](https://github.com/glimpse-editor/Glimpse/issues/7) 
+
+To mitigate that problem, we plan to start maintaining patched versions of third-party plugins in full compliance with their original licenses. The practical benefit for users should be fewer compatibility problems ongoing and more third-party plugins included with Glimpse Image Editor by default in future releases. [#414](https://github.com/glimpse-editor/Glimpse/issues/414) [#441](https://github.com/glimpse-editor/Glimpse/issues/441) [#465](https://github.com/glimpse-editor/Glimpse/issues/465) [#466](https://github.com/glimpse-editor/Glimpse/issues/466) [#467](https://github.com/glimpse-editor/Glimpse/issues/467)
+
+Finally, we have dropped the "Glimpse Redux" initiative. As laid out in the next section, we have chosen to focus our attention and resources on [Glimpse NX](/about/#what-is-glimpse-nx) instead of porting our changes to a potential future GNU Image Manipulation Program 3.0.0 release.
 
 ### Long term plans
 We understand that the GNU Image Manipulation Program developers  may stop developing 2.10.x in the summer of 2021, and could focus all their efforts on 3.0.x before the end of 2021. [Source](http://libregraphicsworld.org/blog/entry/gimp-2-99-2-vs-2-10-which-one-do-you-pick).
