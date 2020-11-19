@@ -122,7 +122,7 @@ Unfortunately we cannot access download statistics from [WinGet](https://winget.
 
 [Return to top](#contents)
 
-## Financial summary {#financial summary}
+## Financial summary {#financial-summary}
 
 **TODO**: Will collate figures from our Open Collective profile.
 
