@@ -8,9 +8,10 @@ draft: false
 
 TODO: Intro section here that summarises our achievements through the year.
 
-- All primary and secondary objectives have been achieved
-- At least 83000 downloads across three releases
-- $500 USD raised for the GNU Image Manipulation Program developers
+These are our headline achievements, and you can review the full breakdown with cited sources further down in the blog post:
+- All primary objectives and most secondary objectives defined in August 2019 have been delivered as promised
+- There have been at least 83000 downloads across three releases
+- We have raised $500 USD for the GNU Image Manipulation Program developers
 
 ## Contents {#contents}
 - [Features delivered so far](#features-delivered-so-far)
