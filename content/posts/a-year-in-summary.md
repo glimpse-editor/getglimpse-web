@@ -36,7 +36,7 @@ After we have released Glimpse Image Editor 0.3.0, there will be no new feature 
 
 In July 2022 we will release Glimpse Image Editor 0.4.0 as a "sunset" release that informs users they should switch to Glimpse NX or the GNU I.M.P 3.0.x.
 
- We currently have no plans to re-base Glimpse Image Editor on the GNU I.M.P 3.0.x because we do not know precisely when it will be released, and we also want to focus our attention and resources on delivering Glimpse NX instead.
+ We currently have no plans to re-base Glimpse Image Editor on the GNU I.M.P 3.0.x because we do not know precisely when it will be released, and we also want to focus our attention and resources on delivering [Glimpse NX](/about/#what-is-glimpse-nx) instead.
 
 ## Contents {#contents}
 - [Features delivered so far](#features-delivered-so-far)
