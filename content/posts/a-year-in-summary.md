@@ -130,12 +130,14 @@ Finally, we have dropped the "Glimpse Redux" initiative. As laid out in the next
 [Return to top](#contents)
 
 ## Long term plans {#long-term-plans}
-We understand that the GNU Image Manipulation Program developers  may stop developing 2.10.x in the summer of 2021, and could focus all their efforts on 3.0.x before the end of 2021. [Source](http://libregraphicsworld.org/blog/entry/gimp-2-99-2-vs-2-10-which-one-do-you-pick).
+As with all long term plans, anything we say in this section is subject to change based on what happens upstream, feedback we receive from our users, how good we are at attracting/retaining contributors and how far we progress with developing [Glimpse NX](/about/#what-is-glimpse-nx).
 
-After we have released Glimpse Image Editor 0.3.0, there will be no new feature updates. Instead we will provide smaller "micro" releases that provide bug-fixes, backports and security updates.
+We understand that the GNU Image Manipulation Program developers  could stop developing 2.10.x as soon as the middle of next year, and may then focus all of their efforts on 3.0.x before the end of 2021. [Source](http://libregraphicsworld.org/blog/entry/gimp-2-99-2-vs-2-10-which-one-do-you-pick).
 
-In July 2022 we will release Glimpse Image Editor 0.4.0 as a "sunset" release that informs users they should switch to Glimpse NX or the GNU I.M.P 3.0.x.
+We currently have no plans to re-base Glimpse Image Editor on the GNU I.M.P 3.0.x because we do not know precisely when it will be released. We also want to focus our attention and resources on delivering Glimpse NX instead because that project will deliver more of our objectives, is already attracting more contributor interest and should be more maintainable for us over the long term.
 
- We currently have no plans to re-base Glimpse Image Editor on the GNU I.M.P 3.0.x because we do not know precisely when it will be released, and we also want to focus our attention and resources on delivering [Glimpse NX](/about/#what-is-glimpse-nx) instead.
+As a result of those things, it is likely that we will eventually phase out Glimpse Image Editor in favour of [Glimpse NX](/about/#what-is-glimpse-nx), which will hopefully be ready with its first stable release and supplementary migration tools in 2022.
+
+We will provide more information about our switch from Glimpse Image Editor to Glimpse NX as we start to confirm our plans nearer the time.
  
  [Return to top](#contents)
