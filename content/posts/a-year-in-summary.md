@@ -12,7 +12,14 @@ TODO: Intro section here that summarises our achievements through the year.
 - At least 83000 downloads across three releases
 - $500 USD raised for the GNU Image Manipulation Program developers
 
-### Plans for 2021
+## Contents {#contents}
+- [Plans for 2021](#plans-for-2021)
+- [Long term plans](#long-term-plans)
+- [Features delivered so far](#features-delivered-so-far)
+- [Download figures update](#download-figures-update)
+- [Financial summary](#financial-summary)
+
+## Plans for 2021 {#plans-for-2021}
 We have provided two great blog posts that lay out our plans for the coming year: [First Steps Towards the Future](/posts/first-steps-towards-the-future/) and [An Exciting Year Ahead](/posts/an-exciting-second-year-ahead/).
 
 In addition, these are our goals for 2021:
@@ -29,7 +36,9 @@ To mitigate that problem, we plan to start maintaining patched versions of third
 
 Finally, we have dropped the "Glimpse Redux" initiative. As laid out in the next section, we have chosen to focus our attention and resources on [Glimpse NX](/about/#what-is-glimpse-nx) instead of porting our changes to a potential future GNU Image Manipulation Program 3.0.0 release.
 
-### Long term plans
+[Return to top](#contents)
+
+## Long term plans {#long-term-plans}
 We understand that the GNU Image Manipulation Program developers  may stop developing 2.10.x in the summer of 2021, and could focus all their efforts on 3.0.x before the end of 2021. [Source](http://libregraphicsworld.org/blog/entry/gimp-2-99-2-vs-2-10-which-one-do-you-pick).
 
 After we have released Glimpse Image Editor 0.3.0, there will be no new feature updates. Instead we will provide smaller "micro" releases that provide bug-fixes, backports and security updates.
@@ -37,11 +46,8 @@ After we have released Glimpse Image Editor 0.3.0, there will be no new feature 
 In July 2022 we will release Glimpse Image Editor 0.4.0 as a "sunset" release that informs users they should switch to Glimpse NX or the GNU I.M.P 3.0.x.
 
  We currently have no plans to re-base Glimpse Image Editor on the GNU I.M.P 3.0.x because we do not know precisely when it will be released, and we also want to focus our attention and resources on delivering [Glimpse NX](/about/#what-is-glimpse-nx) instead.
-
-## Contents {#contents}
-- [Features delivered so far](#features-delivered-so-far)
-- [Download figures update](#download-figures-update)
-- [Financial summary](#financial-summary)
+ 
+ [Return to top](#contents)
 
 ## Features delivered so far {#features-delivered-so-far}
 Since August 2019 we have maintained a [Development Priorities](https://github.com/glimpse-editor/Glimpse/wiki/Development-Priorities) wiki page. As we have produced three releases in the past year, we felt it was a good time to review how many of our original objectives have actually been delivered.
