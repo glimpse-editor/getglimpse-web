@@ -16,6 +16,8 @@ These are our headline achievements, and you can review the full breakdown with 
 - We have raised $500 USD for the GNU Image Manipulation Program developers
 - We also have some very cool plans for the future.
 
+Finally, this is your regular reminder that it has never been our goal to replace or supplant the GNU Image Manipulation Program. [More Information](/about/#do-you-intend-to-replace-the-gnu-image-manipulation-program)
+
 ## Contents {#contents}
 - [Features delivered so far](#features-delivered-so-far)
 - [Download figures update](#download-figures-update)
