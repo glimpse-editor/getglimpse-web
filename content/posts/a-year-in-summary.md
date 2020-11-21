@@ -3,9 +3,6 @@ title: "A Year In Summary"
 date: 2020-11-21T23:21:00+00:00
 draft: false
 ---
-**DO NOT PUBLISH. FIGURES WILL NEED TO UPDATED RIGHT UP UNTIL PUBLISH ON 2020-11-21**
-(Figures in current draft calculated on 2020-11-07)
-
 We released Glimpse Image Editor 0.1.0 on 2019-11-21, so to commemorate the anniversary of our first release we have chosen to make this month's blog post all about reviewing our progress, celebrating our achievements, and exploring our plans for the future.
 
 We would like to thank everyone that has contributed to the Glimpse project and supported us since we first started it on 2019-07-05. We know that the negative reactions we received from some parts of the [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community in the first six months  after our project started did not make that easy, and we are grateful to everyone that still continues to put their faith in us and encourage our contributors to deliver what our users have asked for.
