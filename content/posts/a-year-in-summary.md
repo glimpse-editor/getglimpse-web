@@ -9,7 +9,7 @@ We would like to thank everyone that has contributed to the Glimpse project and 
 
 These are our headline achievements, and you can review the full breakdown with cited sources in this blog post:
 - All primary objectives and most secondary objectives defined in August 2019 have been delivered as promised
-- There have been at least 83000 downloads across three releases
+- There have been at least 86000 downloads across three releases
 - We have raised $500 USD for the GNU Image Manipulation Program developers
 - We also have some very cool plans for the future.
 
@@ -104,7 +104,7 @@ At the time this blog was published, our balance [on Open Collective](https://op
 
 The governance team's current policy is to keep the Glimpse project's balance over $500 USD to ensure its ongoing financial security. That balance is held by a 501(c) charity called Open Collective, and our project is strictly not-for-profit. [More Information](https://glimpse-editor.github.io/about/#why-do-you-need-monetary-donations)
 
-Figures on the Open Collective website begin in September 2019, but for completeness we have provided additional information about the amount we received through Patreon and how much it cost us to migrate those funds to Open Collective. We did not start spending donated funds until September 2019, so all expense claims and invoiced spending has been published publicly.
+Figures on the Open Collective website begin in September 2019, but for completeness we have provided additional information about the amount we received through Patreon and how much it cost us to migrate those funds to Open Collective. All expense claims and invoiced spending has been published publicly.
 
 ### Income
 - Donations received via Open Collective: $1348.68 USD
@@ -127,7 +127,7 @@ Figures on the Open Collective website begin in September 2019, but for complete
 ### Clarifications
 We closed our Patreon account in December 2019 because of an online disinformation campaign organised by trolls to spread lies about our project and contributors for several months. 
 
-We chose to combat baseless accusations that we were abusing or embezzling funds by providing maximum transparency to our donors via [an Open Collective campaign](https://opencollective.com/glimpse) we started in September 2019. This in conjunction with an independently verifiable record of us delivering on our promises demonstrates that any claims made about our project being a scam are clearly false. [More Information](https://glimpse-editor.github.io/about/#are-you-scamming-me)
+We chose to combat the baseless accusations being made by providing maximum transparency to our donors via [an Open Collective campaign](https://opencollective.com/glimpse) we started in September 2019. We believe that this approach, together with an independently verifiable record of us delivering on our promises, provides a strong rebuttal and demonstrates our good faith. [More Information](https://glimpse-editor.github.io/about/#are-you-scamming-me)
 
 Figures related to the four transfers of funds from Patreon to Open Collective have been marked with an asterisk (*). On Open Collective it looks like a single incognito user has donated $514 USD, because you are viewing the figure **after** various Patreon and PayPal fees were charged but **before** Open Collective fees had been charged on the transferred amount.
 
@@ -144,7 +144,7 @@ We have provided two great blog posts that lay out our plans for the coming year
 
 In addition, these are our goals for 2021:
 - Maintain primary/secondary objectives and deliver tertiary objectives in two new releases
-- Reach at least 120000 downloads for Glimpse Image Editor across all five releases
+- Reach at least 130000 downloads for Glimpse Image Editor across all five releases
 - Raise another $500 USD for the GNU Image Manipulation Program developers (reaching $1000 USD in total since the project started)
 - Deliver the first alpha quality Glimpse NX release
 
