@@ -105,8 +105,42 @@ Unfortunately we cannot access download statistics from [WinGet](https://winget.
 [Return to top](#contents)
 
 ## Financial summary {#financial-summary}
+At the time this blog was published, our balance [on Open Collective](https://opencollective.com/glimpse) was $642.22 USD. If you subtract the total expenditure from the total income, you will arrive at that figure. 
 
-**TODO**: Will collate figures from our Open Collective profile.
+The governance team's current policy is to keep the Glimpse project's balance over $500 USD to ensure its ongoing financial security. That balance is held by a 501(c) charity called Open Collective, and our project is strictly not-for-profit. [More Information](https://glimpse-editor.github.io/about/#why-do-you-need-monetary-donations)
+
+Figures on the Open Collective website begin in September 2019, but for completeness we have provided additional information about the amount we received through Patreon and how much it cost us to migrate those funds to Open Collective. We did not start spending donated funds until September 2019, so all expense claims and invoiced spending has been published publicly.
+
+### Income
+- Donations received via Open Collective: $1348.68 USD
+- Donations received via Patreon: $627 USD*
+- Donations received via Github Sponsors: $156.95 USD
+
+**Total**: $2132.63 USD
+
+### Expenditure
+- Donations to the GNU Image Manipulation Program developers: $500 USD
+- Assorted fees charged by donation platforms & payment processors: $357.94 USD
+- Server hosting (Website, Wiki, Jenkins, Gitea, Proxy): $326.89 USD
+- Fees to disburse funds from Patreon & then donate as Incognito to Open Collective (via PayPal): $155.80 USD*
+- Donations to [Mastodon.art](https://mastodon.art/@glimpse) for hosting our fediverse account: $54 USD
+- Commissioned artist for Glimpse logo: $50 USD
+- Web domains (getglimpse.app): $45.78 USD
+
+**Total**: $1490.41 USD
+
+### Clarifications
+We closed our Patreon account in December 2019 because of an online disinformation campaign organised by trolls to spread lies about our project and contributors for several months. 
+
+We chose to combat baseless accusations that we were abusing or embezzling funds by providing maximum transparency to our donors via [an Open Collective campaign](https://opencollective.com/glimpse) we started in September 2019. This in conjunction with an independently verifiable record of us delivering on our promises demonstrates that any claims made about our project being a scam are clearly false. [More Information](https://glimpse-editor.github.io/about/#are-you-scamming-me)
+
+Figures related to the four transfers of funds from Patreon to Open Collective have been marked with an asterisk (*). On Open Collective it looks like a single incognito user has donated $514 USD, because you are viewing the figure **after** various Patreon and PayPal fees were charged but **before** Open Collective fees had been charged on the transferred amount.
+
+We created [a Github Sponsors campaign](https://github.com/sponsors/glimpse-editor) in April 2020 because it could be linked to Open Collective. The first automatic transfers via Stripe started arriving in July 2020.
+
+We do not track how many Glimpse Image Editor users donate directly to the GNU Image Manipulation Program via [their donation page](https://www.gimp.org/donating/), but we encourage them to do so whenever we can to support a project we still rely on as a downstream fork.
+
+The glimpse-editor.org and glimpse-editor.com web domains were bought for us by melody. We are also grateful to renowned security researcher Cynthia Revström for signing our Windows installers with her own EV certificate.
 
 [Return to top](#contents)
 
