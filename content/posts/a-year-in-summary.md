@@ -8,6 +8,7 @@ We released Glimpse Image Editor 0.1.0 on 2019-11-21, so to commemorate the anni
 We would like to thank everyone that has contributed to the Glimpse project and supported us since we first started it on 2019-07-05. We know that the negative reactions we received from some parts of the [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community in the first six months  after our project started did not make that easy, and we are grateful to everyone that still continues to put their faith in us and encourage our contributors to deliver what our users have asked for.
 
 These are our headline achievements, and you can review the full breakdown with cited sources in this blog post:
+
 - All primary objectives and most secondary objectives defined in August 2019 have been delivered as promised
 - There have been at least 86000 downloads across three releases
 - We have raised $500 USD for the GNU Image Manipulation Program developers
