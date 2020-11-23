@@ -149,7 +149,7 @@ In addition, these are our goals for 2021:
 - Raise another $500 USD for the GNU Image Manipulation Program developers (reaching $1000 USD in total since the project started)
 - Deliver the first alpha quality Glimpse NX release
 
-We would also like to make it clear that Glimpse Image Editor 0.2.x will be the final release where we produce Windows installers for both the x64 and x86 architectures. We plan to deprecate support for x86 versions of Windows in July 2021. [More information](https://github.com/glimpse-editor/Glimpse/wiki/Supported-Platform-Versions-%28Windows%29)
+We would also like to make it clear that Glimpse Image Editor 0.2.x releases (based on the GNU Image Manipulation Program 2.10.18) will be the last ones where we produce Windows installers for both the x64 and x86 architectures. We plan to deprecate support for x86 versions of Windows in July 2021, and from that point onwards will only support x64 versions of Windows. [More information](https://github.com/glimpse-editor/Glimpse/wiki/Supported-Platform-Versions-%28Windows%29)
 
 Glimpse Image Editor 0.3.0 is likely to break binary compatibility with third-party plugins and existing packaging processes so we can resolve conflicts in Linux/BSD package managers. [#7](https://github.com/glimpse-editor/Glimpse/issues/7) 
 
