@@ -34,16 +34,16 @@ Our conclusion is that the primary objectives have all been delivered, our secon
 - Update the software's translations so the new name is used throughout the user interface **(Delivered)** [#210](https://github.com/glimpse-editor/Glimpse/issues/210) [#219](https://github.com/glimpse-editor/Glimpse/pull/219) [#279](https://github.com/glimpse-editor/Glimpse/pull/279) [#424](https://github.com/glimpse-editor/Glimpse/issues/424)
 
 ### Secondary Objectives
-- Clean up the user interface so it looks more visually attractive and professional **(Partially Delivered)** [#51](https://github.com/glimpse-editor/Glimpse/pull/51) [#134](https://github.com/glimpse-editor/Glimpse/pull/134) [#286](https://github.com/glimpse-editor/Glimpse/pull/286)
+- Clean up the user interface so it looks more visually attractive and professional **(Partially Delivered on "professional", UX improvements deferred to Glimpse NX)** [#51](https://github.com/glimpse-editor/Glimpse/pull/51) [#134](https://github.com/glimpse-editor/Glimpse/pull/134) [#286](https://github.com/glimpse-editor/Glimpse/pull/286)
 - Keep applying our changes to stable upstream releases on a predictable release schedule **(Delivered)** [#189](https://github.com/glimpse-editor/Glimpse/issues/189) [#329](https://github.com/glimpse-editor/Glimpse/issues/329) [#330](https://github.com/glimpse-editor/Glimpse/issues/330) [#341](https://github.com/glimpse-editor/Glimpse/issues/341) ([Milestones](https://github.com/glimpse-editor/Glimpse/milestones))
 - Preserve compatibility with existing plug-ins, themes and third-party components **(Mostly Delivered, Missing Python support on Windows, Inherited regressions in 0.2.0)** [#132](https://github.com/glimpse-editor/Glimpse/issues/132) [#232](https://github.com/glimpse-editor/Glimpse/issues/232) ([Plugin instructions on Developer Wiki](https://github.com/glimpse-editor/Glimpse/wiki#third-party-plugin-installation-guides)) 
 
 ### Tertiary Objectives
 - Improve overall end user experience for Windows (and if possible macOS) users **(Partially Delivered on Windows, Not Delivered on macOS)** [#58](https://github.com/glimpse-editor/Glimpse/issues/58) [#119](https://github.com/glimpse-editor/Glimpse/issues/119) [#178](https://github.com/glimpse-editor/Glimpse/issues/178)
-- Fix usability and accessibility problems in the existing user interface **(Partially Delivered)** [#347](https://github.com/glimpse-editor/Glimpse/pull/347) [#412](https://github.com/glimpse-editor/Glimpse/issues/412)
+- Fix usability and accessibility problems in the existing user interface **(Not Delivered, Planned accessibility fixes for 0.3.0)**
 - Address longstanding code and documentation problems that upstream have been unable or unwilling to address **(Not Delivered on code, Partially Delivered on docs)** ([Windows & Linux packaging instructions on Developer Wiki](https://github.com/glimpse-editor/Glimpse/wiki)) 
 - Ensure upstream contributions are still appropriately acknowledged in the user interface **(Delivered)** [#291](https://github.com/glimpse-editor/Glimpse/pull/291) [#300](https://github.com/glimpse-editor/Glimpse/issues/300)
-- Include useful plug-ins (or similar functionality) that are hard to find or install by default **(Not Delivered, Planned for 0.3.0)**
+- Include useful plug-ins (or similar functionality) that are hard to find or install by default **(Partially Delivered, Planned for 0.3.0)** [#412](https://github.com/glimpse-editor/Glimpse/issues/412) & PhotoGIMP bundled with Windows (x64) installer
 
 ### Clarifications
 We view our custom installer based on [WiX Toolset](https://wixtoolset.org) as a Windows experience improvement because it completes the installation faster and the end result uses less hard disk space when compared to the GNU Image Manipulation Program 2.10.18. We are aware that some may disagree as the GUI wizard we introduced in 0.2.0 still needs artwork and has not yet been translated to other languages.
