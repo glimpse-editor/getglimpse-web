@@ -43,7 +43,7 @@ Our conclusion is that the primary objectives have all been delivered, our secon
 - Fix usability and accessibility problems in the existing user interface **(Not Delivered, Planned accessibility fixes for 0.3.0)**
 - Address longstanding code and documentation problems that upstream have been unable or unwilling to address **(Not Delivered on code, Partially Delivered on docs)** ([Windows & Linux packaging instructions on Developer Wiki](https://github.com/glimpse-editor/Glimpse/wiki)) 
 - Ensure upstream contributions are still appropriately acknowledged in the user interface **(Delivered)** [#291](https://github.com/glimpse-editor/Glimpse/pull/291) [#300](https://github.com/glimpse-editor/Glimpse/issues/300)
-- Include useful plug-ins (or similar functionality) that are hard to find or install by default **(Partially Delivered, Planned for 0.3.0)** [#412](https://github.com/glimpse-editor/Glimpse/issues/412) & PhotoGIMP bundled with Windows (x64) installer
+- Include useful plug-ins (or similar functionality) that are hard to find or install by default **(Partially Delivered, Planned for 0.3.0)** [#412](https://github.com/glimpse-editor/Glimpse/issues/412) & [G'MIC](https://gmic.eu) bundled with Windows (x64) installer
 
 ### Clarifications
 We view our custom installer based on [WiX Toolset](https://wixtoolset.org) as a Windows experience improvement because it completes the installation faster and the end result uses less hard disk space when compared to the GNU Image Manipulation Program 2.10.18. We are aware that some may disagree as the GUI wizard we introduced in 0.2.0 still needs artwork and has not yet been translated to other languages.
