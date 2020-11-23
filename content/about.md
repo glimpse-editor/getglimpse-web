@@ -1,6 +1,6 @@
 ---
 title: "About (FAQs)"
-date: 2020-11-04T21:00:00+00:00
+date: 2020-11-23T14:00:00+00:00
 draft: false
 menu: "main"
 ---
@@ -77,7 +77,7 @@ Glimpse NX will be a free/libre software application using [GNOME](https://www.g
 
 We are still deciding which programming language to use, but [Rust](https://www.rust-lang.org/) is the most likely candidate. As we will be using components that are licensed under the [GNU LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.html), we expect the project itself will be provided under the GNU General Public License v3 or a similar compatible license.
 
-Further information for this exciting new spin-off project will be provided in coming months.
+Further information for this exciting new spin-off project will be provided in coming months. You can also find out more in our [recent blog posts](/posts/) and the [Glimpse NX design repository](https://github.com/glimpse-editor/glimpse-nx-design).
 
 As stated in previous blog posts, we did originally consider the possibility of creating a new bespoke cross-platform user interface toolkit and then writing an entirely new BSD-licensed program based on it with the more estoteric [D](https://dlang.org/) programming language. A group of contributors investigated that solution, but after six months of incubation we collectively agreed that such an ambitious project cannot be delivered in a two year timeframe with the resources we have available.
 
