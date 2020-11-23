@@ -1,6 +1,6 @@
 ---
 title: "A Year In Summary"
-date: 2020-11-21T23:21:00+00:00
+date: 2020-11-21T23:25:00+00:00
 draft: false
 ---
 We released Glimpse Image Editor 0.1.0 on 2019-11-21, so to commemorate the anniversary of our first release we have chosen to make this month's blog post all about reviewing our progress, celebrating our achievements, and exploring our plans for the future.
@@ -57,7 +57,7 @@ At the present time we lack the capacity to [create a native macOS port](https:/
 [Return to top](#contents)
 
 ## Download figures update {#download-figures-update}
-All figures were correct on the day this blog post was published and sources have been provided so that you can independently verify them. Any **+** or **-** change is calculated from the previous figures published on 2020-07-21. [Source](posts/beta-testing-underway-for-0-2-0/)
+All figures were correct on the day this blog post was published and sources have been provided so that you can independently verify them. Any **+** or **-** change is calculated from the previous figures published on 2020-07-21. [Source](/posts/beta-testing-underway-for-0-2-0/)
 
 If the figures are accurate then we believe that since 2020-07-21 then there has been some modest growth in the number of Linux users running Glimpse Image Editor, and we are starting to develop a smaller dedicated following on Windows. We are also pleased to see the software distributed from more third party sources than ever before.
 
@@ -66,7 +66,7 @@ We know that Glimpse Image Editor has been downloaded at least **86159** (+32134
 We have deliberately not provided any estimates about the total size of our active user base because there is no universally agreed methodology for extrapolating that figure from download statistics.
 
 ### Linux
-There have been **11992** (-205) active users over the past month that have installed Glimpse Image Editor from the [the Snap Store](https://snapcraft.io/glimpse-editor/). These figures are only available through a private dashboard, so we have [provided a screenshot](/glimpse-snap-2020-07-21-updated.png).
+There have been **11992** (-205) active users over the past month that have installed Glimpse Image Editor from the [the Snap Store](https://snapcraft.io/glimpse-editor/). These figures are only available through a private dashboard, so we have [provided a screenshot](/glimpse-snap-2020-11-21-fixed.png).
 
 Glimpse Image Editor has been downloaded **35201** (+17173) times from [Flathub](https://flathub.org/apps/details/org.glimpse_editor.Glimpse) across all versions since it was first released on 2019-11-22, and there have been **20501** (+9145) recent requests for updates.
 
